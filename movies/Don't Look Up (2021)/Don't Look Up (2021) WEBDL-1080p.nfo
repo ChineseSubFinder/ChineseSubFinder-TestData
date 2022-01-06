@@ -1,0 +1,652 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[两名天文学家发现一颗具有毁灭性的彗星将与地球相撞。他们借助媒体来警告社会大众，不料大家并不在意。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-25 17:06:30</dateadded>
+  <title>不要抬头</title>
+  <originaltitle>Don't Look Up</originaltitle>
+  <actor>
+    <name>Leonardo DiCaprio</name>
+    <role>Dr. Randall Mindy</role>
+    <type>Actor</type>
+    <tmdbid>6193</tmdbid>
+    <imdbid>nm0000138</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lawrence</name>
+    <role>Kate Dibiasky</role>
+    <type>Actor</type>
+    <tmdbid>72129</tmdbid>
+    <imdbid>nm2225369</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/2445.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Jennifer Madingley - ジェニファー・マディングリー","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ジェニファー・マディングリー.jpg","Url":"https://xslist.org/zh/model/2445.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/2445.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Meryl Streep</name>
+    <role>President Janie Orlean</role>
+    <type>Actor</type>
+    <tmdbid>5064</tmdbid>
+    <imdbid>nm0000658</imdbid>
+  </actor>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Brie Evantee</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Morgan</name>
+    <role>Dr. Clayton 'Teddy' Oglethorpe</role>
+    <type>Actor</type>
+    <tmdbid>1281250</tmdbid>
+    <imdbid>nm1726032</imdbid>
+  </actor>
+  <actor>
+    <name>Jonah Hill</name>
+    <role>Jason Orlean</role>
+    <type>Actor</type>
+    <tmdbid>21007</tmdbid>
+    <imdbid>nm1706767</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Rylance</name>
+    <role>Peter Isherwell</role>
+    <type>Actor</type>
+    <tmdbid>40900</tmdbid>
+    <imdbid>nm0753314</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Perry</name>
+    <role>Jack Bremmer</role>
+    <type>Actor</type>
+    <tmdbid>80602</tmdbid>
+    <imdbid>nm1347153</imdbid>
+  </actor>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Yule</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Perlman</name>
+    <role>Benedict Drask</role>
+    <type>Actor</type>
+    <tmdbid>2372</tmdbid>
+    <imdbid>nm0000579</imdbid>
+  </actor>
+  <actor>
+    <name>Ariana Grande</name>
+    <role>Riley Bina</role>
+    <type>Actor</type>
+    <tmdbid>226001</tmdbid>
+    <imdbid>nm3812858</imdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>DJ Chello</role>
+    <type>Actor</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Himesh Patel</name>
+    <role>Phillip</role>
+    <type>Actor</type>
+    <tmdbid>1227717</tmdbid>
+    <imdbid>nm2797744</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Lynskey</name>
+    <role>June Mindy</role>
+    <type>Actor</type>
+    <tmdbid>15091</tmdbid>
+    <imdbid>nm0001491</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Chiklis</name>
+    <role>Dan Pawketty</role>
+    <type>Actor</type>
+    <tmdbid>19654</tmdbid>
+    <imdbid>nm0004821</imdbid>
+  </actor>
+  <actor>
+    <name>Tomer Sisley</name>
+    <role>Adul Grelio</role>
+    <type>Actor</type>
+    <tmdbid>25089</tmdbid>
+    <imdbid>nm0803037</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Guilfoyle</name>
+    <role>General Themes</role>
+    <type>Actor</type>
+    <tmdbid>925</tmdbid>
+    <imdbid>nm0002117</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Joy</name>
+    <role>Congressman Tenant</role>
+    <type>Actor</type>
+    <tmdbid>19976</tmdbid>
+    <imdbid>nm0431451</imdbid>
+  </actor>
+  <actor>
+    <name>Lance A. Williams</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1566993</tmdbid>
+    <imdbid>nm6670248</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/41869.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Blair Williams - ブレア・ウィリアムス","Url":"https://xslist.org/zh/model/41869.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/41869.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Shimali de Silva</name>
+    <role>Nisha</role>
+    <type>Actor</type>
+    <tmdbid>3081416</tmdbid>
+  </actor>
+  <actor>
+    <name>Hettienne Park</name>
+    <role>Dr. Calder</role>
+    <type>Actor</type>
+    <tmdbid>1218184</tmdbid>
+    <imdbid>nm1782292</imdbid>
+  </actor>
+  <actor>
+    <name>Lonnie Farmer</name>
+    <role>Old Aide #1</role>
+    <type>Actor</type>
+    <tmdbid>188049</tmdbid>
+    <imdbid>nm0267772</imdbid>
+  </actor>
+  <actor>
+    <name>Homa Sarabi Daunis</name>
+    <role>White House Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>3096579</tmdbid>
+  </actor>
+  <actor>
+    <name>Rena Maliszewski</name>
+    <role>Anchor Reporting On Colon</role>
+    <type>Actor</type>
+    <tmdbid>1956550</tmdbid>
+    <imdbid>nm2728453</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/61.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Rena Aoi - あおいれな","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/5-Premium/あおいれな.jpg","Url":"https://xslist.org/zh/model/61.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/61.jpg","https://m1.xslist.org/gallery/0/61/1626403191.jpg","https://m1.xslist.org/gallery/0/61/1614910916.jpg","https://m1.xslist.org/gallery/0/61/1607668437.jpg","https://m1.xslist.org/gallery/0/61/1604622062.jpg","https://m1.xslist.org/gallery/0/61/1581861737.jpg","https://m1.xslist.org/gallery/0/61/1581861554.jpg","https://m1.xslist.org/gallery/0/61/1626402224.jpg","https://m1.xslist.org/gallery/0/61/1625711828.jpg","https://m1.xslist.org/gallery/0/61/1625708505.jpg","https://m1.xslist.org/gallery/0/61/1625704412.jpg","https://m1.xslist.org/gallery/0/61/1625704089.jpg","https://m1.xslist.org/gallery/0/61/1616291875.jpg","https://m1.xslist.org/gallery/0/61/1614911602.jpg","https://m1.xslist.org/gallery/0/61/1614906600.jpg","https://m1.xslist.org/gallery/0/61/1614906276.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/61.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Erik Parillo</name>
+    <role>Sherriff Conlon</role>
+    <type>Actor</type>
+    <tmdbid>1232602</tmdbid>
+    <imdbid>nm0661504</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Hurst Radochia</name>
+    <role>Evan Mindy</role>
+    <type>Actor</type>
+    <tmdbid>3347891</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor Sweeney</name>
+    <role>Marshall Mindy</role>
+    <type>Actor</type>
+    <tmdbid>2690142</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross Partridge</name>
+    <role>Keith Ollens</role>
+    <type>Actor</type>
+    <tmdbid>45396</tmdbid>
+    <imdbid>nm0664061</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Donelly</name>
+    <role>Old Aide #2</role>
+    <type>Actor</type>
+    <tmdbid>1730738</tmdbid>
+    <imdbid>nm0232426</imdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Bash Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Samsara Yett</name>
+    <role>Isherwell Child Aide</role>
+    <type>Actor</type>
+    <tmdbid>2861577</tmdbid>
+  </actor>
+  <actor>
+    <name>Meara Mahoney-Gross</name>
+    <role>Isherwell Child Aide</role>
+    <type>Actor</type>
+    <tmdbid>2828491</tmdbid>
+  </actor>
+  <actor>
+    <name>Staci Roberts Steele</name>
+    <role>Linda Dicalio</role>
+    <type>Actor</type>
+    <tmdbid>3289563</tmdbid>
+  </actor>
+  <actor>
+    <name>Annette Miller</name>
+    <role>Mrs. Tanken</role>
+    <type>Actor</type>
+    <tmdbid>133964</tmdbid>
+    <imdbid>nm0587912</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/129233.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Annette Schwarz","Url":"https://xslist.org/zh/model/129233.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/129233.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Meghan Leathers</name>
+    <role>Media Quant</role>
+    <type>Actor</type>
+    <tmdbid>2803677</tmdbid>
+    <imdbid>nm4775000</imdbid>
+  </actor>
+  <actor>
+    <name>Ashleigh Banfield</name>
+    <role>Dalia Hensfield</role>
+    <type>Actor</type>
+    <tmdbid>1230050</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Silverman</name>
+    <role>Sarah Benterman</role>
+    <type>Actor</type>
+    <tmdbid>7404</tmdbid>
+    <imdbid>nm0798971</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Glaser</name>
+    <role>Meow Man</role>
+    <type>Actor</type>
+    <tmdbid>59842</tmdbid>
+    <imdbid>nm0321835</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Johnson</name>
+    <role>Don't Look Up'er #1</role>
+    <type>Actor</type>
+    <tmdbid>77246</tmdbid>
+    <imdbid>nm0426432</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Ridley</name>
+    <role>Flight Director Anderson</role>
+    <type>Actor</type>
+    <tmdbid>50589</tmdbid>
+    <imdbid>nm0725975</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/93587.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Frankie","Url":"https://xslist.org/zh/model/93587.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/93587.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Lance Norris</name>
+    <role>Loyal Supporter</role>
+    <type>Actor</type>
+    <tmdbid>1244097</tmdbid>
+    <imdbid>nm0635847</imdbid>
+  </actor>
+  <actor>
+    <name>Ishaan Khattar</name>
+    <role>Raghav Manavalan</role>
+    <type>Actor</type>
+    <tmdbid>930298</tmdbid>
+    <imdbid>nm2020109</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Devin Peters (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <director tmdbid="55710" imdbid="nm0570912">Adam McKay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RbIxYm3mKzI</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt11286314</imdbid>
+  <tmdbid>646380</tmdbid>
+  <premiered>2021-12-07</premiered>
+  <releasedate>2021-12-07</releasedate>
+  <runtime>143</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <studio>Hyperobject Industries</studio>
+  <uniqueid type="Tmdb">646380</uniqueid>
+  <uniqueid type="Imdb">tt11286314</uniqueid>
+  <id>tt11286314</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7689319</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8591</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chinese(简,shooter)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chinese(简,xunlei)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chinese(简英,shooter)</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chinese(简英,zimuku)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
