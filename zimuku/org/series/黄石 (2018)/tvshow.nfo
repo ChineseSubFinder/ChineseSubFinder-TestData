@@ -1,0 +1,81 @@
+<tvshow>
+  <title>Yellowstone (2018)</title>
+  <rating>9.0</rating>
+  <plot>Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>341164</id>
+  <uniqueid type="tvdb" default="true">341164</uniqueid>
+  <uniqueid type="imdb">tt4236770</uniqueid>
+  <genre>Drama</genre>
+  <genre>Western</genre>
+  <premiered>2018-06-20</premiered>
+  <studio>Paramount Network</studio>
+  <actor>
+    <name>Piper Perabo</name>
+    <role>Summer Higgins</role>
+  </actor>
+  <actor>
+    <name>Kevin Costner</name>
+    <role>John Dutton</role>
+  </actor>
+  <actor>
+    <name>Luke Grimes</name>
+    <role>Kayce Dutton</role>
+  </actor>
+  <actor>
+    <name>Kelly Reilly</name>
+    <role>Beth Dutton</role>
+  </actor>
+  <actor>
+    <name>Wes Bentley</name>
+    <role>Jamie Dutton</role>
+  </actor>
+  <actor>
+    <name>Cole Hauser</name>
+    <role>Rip Wheeler</role>
+  </actor>
+  <actor>
+    <name>Kelsey Asbille</name>
+    <role>Monica Dutton</role>
+  </actor>
+  <actor>
+    <name>Jefferson White</name>
+    <role>Jimmy Hurdstrom</role>
+  </actor>
+  <actor>
+    <name>Danny Huston</name>
+    <role>Dan Jenkins</role>
+  </actor>
+  <actor>
+    <name>Gil Birmingham</name>
+    <role>Thomas Rainwater</role>
+  </actor>
+  <actor>
+    <name>Josh Holloway</name>
+    <role>Roarke Carter </role>
+  </actor>
+  <actor>
+    <name>Ian Bohen</name>
+    <role>Ryan</role>
+  </actor>
+  <actor>
+    <name>Ryan Bingham</name>
+    <role>Walker</role>
+  </actor>
+  <actor>
+    <name>Dave Annable</name>
+    <role>Lee Dutton</role>
+  </actor>
+  <actor>
+    <name>Tanaya Beatty</name>
+    <role>Avery</role>
+  </actor>
+  <actor>
+    <name>Hassie Harrison</name>
+    <role>Laramie</role>
+  </actor>
+  <actor>
+    <name>Finn Little</name>
+    <role>Carter</role>
+  </actor>
+</tvshow>

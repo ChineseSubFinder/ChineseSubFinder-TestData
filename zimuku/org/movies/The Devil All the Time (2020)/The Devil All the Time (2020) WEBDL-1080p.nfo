@@ -1,0 +1,1013 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[该片是一部中西部哥特风电影，安东尼奥·坎帕斯(《克里斯汀》)执导，讲述俄亥俄州偏远之地Knockemstiff，男主角Willard Russell绝望地想拯救濒死的妻子，不惜屈服于牺牲，而他的儿子(霍兰德)正从一个在学校被虐待的孩子成长为知道何时出手的男人，角色包括一对连环杀手夫妇、一个考验人的信仰的传教士、一个腐败的当地警长(斯坦)。时间从二战末期到1960年代，地点从南俄亥俄州乡村到西维吉尼亚。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-30 19:06:54</dateadded>
+  <title>神弃之地</title>
+  <originaltitle>The Devil All the Time</originaltitle>
+  <actor>
+    <name>Tom Holland</name>
+    <role>Arvin Russell</role>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/37.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Hitomi - Hitomi","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/0-Hand-Storage/Hitomi.jpg","Url":"https://xslist.org/zh/model/37.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/37.jpg","https://m1.xslist.org/gallery/0/37/1626402779.jpg","https://m1.xslist.org/gallery/0/37/1610772450.jpg","https://m1.xslist.org/gallery/0/37/1600399404.jpg","https://m1.xslist.org/gallery/0/37/1587089160.jpg","https://m1.xslist.org/gallery/0/37/1568945003.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/37.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Bill Skarsgård</name>
+    <role>Willard Russell</role>
+    <type>Actor</type>
+    <tmdbid>137905</tmdbid>
+    <imdbid>nm0803889</imdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <role>Sandy Henderson</role>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Clarke</name>
+    <role>Carl Henderson</role>
+    <type>Actor</type>
+    <tmdbid>76512</tmdbid>
+    <imdbid>nm0164809</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Deputy Lee Bodecker</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+  </actor>
+  <actor>
+    <name>Haley Bennett</name>
+    <role>Charlotte Russell</role>
+    <type>Actor</type>
+    <tmdbid>58754</tmdbid>
+    <imdbid>nm2247245</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Pattinson</name>
+    <role>Reverend Preston Teagardin</role>
+    <type>Actor</type>
+    <tmdbid>11288</tmdbid>
+    <imdbid>nm1500155</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Roy Laferty</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <actor>
+    <name>Eliza Scanlen</name>
+    <role>Lenora Laferty</role>
+    <type>Actor</type>
+    <tmdbid>1669125</tmdbid>
+    <imdbid>nm7340546</imdbid>
+  </actor>
+  <actor>
+    <name>Mia Wasikowska</name>
+    <role>Helen Hatton</role>
+    <type>Actor</type>
+    <tmdbid>76070</tmdbid>
+    <imdbid>nm1985859</imdbid>
+  </actor>
+  <actor>
+    <name>Douglas Hodge</name>
+    <role>Leroy Brown</role>
+    <type>Actor</type>
+    <tmdbid>80149</tmdbid>
+    <imdbid>nm0388061</imdbid>
+  </actor>
+  <actor>
+    <name>Kristin Griffith</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>164343</tmdbid>
+    <imdbid>nm0341562</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/29733.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kristina Rose - クリスティナ・ローズ","Url":"https://xslist.org/zh/model/29733.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/29733.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Pokey LaFarge</name>
+    <role>Theodore</role>
+    <type>Actor</type>
+    <tmdbid>1759932</tmdbid>
+    <imdbid>nm5765616</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Ray Pollock</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1964392</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Banks Repeta</name>
+    <role>Arvin At 9</role>
+    <type>Actor</type>
+    <tmdbid>2253047</tmdbid>
+    <imdbid>nm8928696</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/9533.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Briana Banks - ブリアナ バンクス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ブリアナ バンクス.jpg","Url":"https://xslist.org/zh/model/9533.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/9533.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Emilio Subercaseaux Campos</name>
+    <role>Baby Arvin</role>
+    <type>Actor</type>
+    <tmdbid>2713240</tmdbid>
+    <imdbid>nm11709013</imdbid>
+  </actor>
+  <actor>
+    <name>David Atkinson</name>
+    <role>Earskell</role>
+    <type>Actor</type>
+    <tmdbid>115444</tmdbid>
+    <imdbid>nm0040695</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Vaughn</name>
+    <role>Poacher #1</role>
+    <type>Actor</type>
+    <tmdbid>2993399</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/132225.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Lexie Matthews","Url":"https://xslist.org/zh/model/132225.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/132225.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Billy Joe Bradshaw</name>
+    <role>Poacher #2</role>
+    <type>Actor</type>
+    <tmdbid>2782530</tmdbid>
+    <imdbid>nm11920757</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/90433.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Joe Britton","Url":"https://xslist.org/zh/model/90433.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/90433.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Gregory Kelly</name>
+    <role>BoBo McDaniels</role>
+    <type>Actor</type>
+    <tmdbid>1375035</tmdbid>
+    <imdbid>nm2552460</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/27812.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kelly Surfer - ケリー・サーファー","Url":"https://xslist.org/zh/model/27812.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/27812.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>David Maldonado</name>
+    <role>Henry Dunlap</role>
+    <type>Actor</type>
+    <tmdbid>1327175</tmdbid>
+    <imdbid>nm1296223</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Jeffrey Miller</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>1249175</tmdbid>
+    <imdbid>nm0007002</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/67061.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Melody Hina Marks - メロディー・雛・マークス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/0-Hand-Storage/メロディー・雛・マークス.jpg","Url":"https://xslist.org/zh/model/67061.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/67000/67061.jpg","https://m1.xslist.org/gallery/67000/67061/1603767938.jpg","https://m1.xslist.org/gallery/67000/67061/13245678987654.jpg","https://m1.xslist.org/gallery/67000/67061/1592273665.jpg","https://m1.xslist.org/gallery/67000/67061/1582444880.jpg","https://m1.xslist.org/gallery/67000/67061/1607670059.jpg","https://m1.xslist.org/gallery/67000/67061/1607668674.jpg","https://m1.xslist.org/gallery/67000/67061/1603767748.jpg","https://m1.xslist.org/gallery/67000/67061/1599269540.jpg","https://m1.xslist.org/gallery/67000/67061/1599269172.jpg","https://m1.xslist.org/gallery/67000/67061/1599267694.jpg","https://m1.xslist.org/gallery/67000/67061/1598057689.jpg","https://m1.xslist.org/gallery/67000/67061/1598057661.jpg","https://m1.xslist.org/gallery/67000/67061/1598057646.jpg","https://m1.xslist.org/gallery/67000/67061/1596419281.jpg","https://m1.xslist.org/gallery/67000/67061/1596418764.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/67061.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Ryan Anthony Williams</name>
+    <role>Marine #1</role>
+    <type>Actor</type>
+    <tmdbid>2299231</tmdbid>
+    <imdbid>nm7375471</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/41869.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Blair Williams - ブレア・ウィリアムス","Url":"https://xslist.org/zh/model/41869.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/41869.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Wes Robinson</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>86046</tmdbid>
+    <imdbid>nm1622768</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Barnett</name>
+    <role>Wooden Spoon Manager</role>
+    <type>Actor</type>
+    <tmdbid>1148254</tmdbid>
+    <imdbid>nm4341382</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harding</name>
+    <role>Reverend Albert Sykes</role>
+    <type>Actor</type>
+    <tmdbid>168679</tmdbid>
+    <imdbid>nm0362268</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/90014.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Diana Michaels","Url":"https://xslist.org/zh/model/90014.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/90014.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Lucy Faust</name>
+    <role>Cynthia Teagardin</role>
+    <type>Actor</type>
+    <tmdbid>555652</tmdbid>
+    <imdbid>nm2773295</imdbid>
+  </actor>
+  <actor>
+    <name>Abby Glover</name>
+    <role>Pamela Sue Reaster</role>
+    <type>Actor</type>
+    <tmdbid>2246432</tmdbid>
+    <imdbid>nm7696998</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/93581.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Abby Cross","Url":"https://xslist.org/zh/model/93581.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/93581.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Kelly Lind</name>
+    <role>Church Member #1</role>
+    <type>Actor</type>
+    <tmdbid>1393517</tmdbid>
+    <imdbid>nm1926982</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/27812.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kelly Surfer - ケリー・サーファー","Url":"https://xslist.org/zh/model/27812.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/27812.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Cotton Yancey</name>
+    <role>Church Member #2</role>
+    <type>Actor</type>
+    <tmdbid>1935580</tmdbid>
+    <imdbid>nm6855294</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Fristoe</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1287005</tmdbid>
+    <imdbid>nm3476561</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/7827.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Sunrise Adams - サンライズ アダムス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-サンライズ アダムス.jpg","Url":"https://xslist.org/zh/model/7827.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/7827.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Morganna Bridgers</name>
+    <role>Florence</role>
+    <type>Actor</type>
+    <tmdbid>1186841</tmdbid>
+    <imdbid>nm4882450</imdbid>
+  </actor>
+  <actor>
+    <name>Karson Kern</name>
+    <role>Social Worker</role>
+    <type>Actor</type>
+    <tmdbid>1916439</tmdbid>
+    <imdbid>nm5107674</imdbid>
+  </actor>
+  <actor>
+    <name>Ivan Hoey Jr.</name>
+    <role>Orville Buckman</role>
+    <type>Actor</type>
+    <tmdbid>2111992</tmdbid>
+    <imdbid>nm4526485</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/37890.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Ivana Sugar - イヴァナ・シュガー","Url":"https://xslist.org/zh/model/37890.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/37890.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Zack Shires</name>
+    <role>Gene Dinwoodie</role>
+    <type>Actor</type>
+    <tmdbid>1938245</tmdbid>
+    <imdbid>nm5466890</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Starkey</name>
+    <role>Tommy Matson</role>
+    <type>Actor</type>
+    <tmdbid>1939676</tmdbid>
+    <imdbid>nm6481846</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/52136.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Jessie Andrews","Url":"https://xslist.org/zh/model/52136.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/52136.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Caleb J. Thaggard</name>
+    <role>Butcher</role>
+    <type>Actor</type>
+    <tmdbid>1876698</tmdbid>
+    <imdbid>nm4837448</imdbid>
+  </actor>
+  <actor>
+    <name>Ever Eloise Landrum</name>
+    <role>Lenora At 7</role>
+    <type>Actor</type>
+    <tmdbid>2315581</tmdbid>
+    <imdbid>nm4960209</imdbid>
+  </actor>
+  <actor>
+    <name>Given Sharp</name>
+    <role>Susie Cox</role>
+    <type>Actor</type>
+    <tmdbid>2273930</tmdbid>
+    <imdbid>nm3287856</imdbid>
+  </actor>
+  <actor>
+    <name>Cory Scott Allen</name>
+    <role>Sheriff Thompson</role>
+    <type>Actor</type>
+    <tmdbid>1512182</tmdbid>
+    <imdbid>nm4556061</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/23745.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kristen Scott - クリステン・スコット","Url":"https://xslist.org/zh/model/23745.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/23745.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Emma Coulter</name>
+    <role>Juanita</role>
+    <type>Actor</type>
+    <tmdbid>2242622</tmdbid>
+    <imdbid>nm7221685</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1962.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Gemma - ジェマ","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ジェマ.jpg","Url":"https://xslist.org/zh/model/1962.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/1000/1962.jpg","https://m1.xslist.org/gallery/1000/1962/1550284298.jpg","https://m1.xslist.org/gallery/1000/1962/1550282618.jpg","https://m1.xslist.org/gallery/1000/1962/1550114003.jpg","https://m1.xslist.org/gallery/1000/1962/1550018874.jpg","https://m1.xslist.org/gallery/1000/1962/1550018247.jpg","https://m1.xslist.org/gallery/1000/1962/1549939611.jpg","https://m1.xslist.org/gallery/1000/1962/1549938641.jpg","https://m1.xslist.org/gallery/1000/1962/1548379642.jpg","https://m1.xslist.org/gallery/1000/1962/1547524913.jpg","https://m1.xslist.org/gallery/1000/1962/1547261919.jpg","https://m1.xslist.org/gallery/1000/1962/1546656733.jpg","https://m1.xslist.org/gallery/1000/1962/1546655616.jpg","https://m1.xslist.org/gallery/1000/1962/1546485560.jpg","https://m1.xslist.org/gallery/1000/1962/1546479059.jpg","https://m1.xslist.org/gallery/1000/1962/1546477412.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1962.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Cody Jones</name>
+    <role>Tecumseh Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>1761673</tmdbid>
+    <imdbid>nm11920758</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/134425.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Georgia Jones","Url":"https://xslist.org/zh/model/134425.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/134425.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Madelyn Wall</name>
+    <role>White Cow Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2782547</tmdbid>
+    <imdbid>nm7915548</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/39375.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Madelyn Marie - マデリン・マリー","Url":"https://xslist.org/zh/model/39375.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/39375.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Jason Collett</name>
+    <role>Gary Matthew Bryson</role>
+    <type>Actor</type>
+    <tmdbid>1104709</tmdbid>
+    <imdbid>nm3380318</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Mendenhall</name>
+    <role>Deputy Howser</role>
+    <type>Actor</type>
+    <tmdbid>1367344</tmdbid>
+    <imdbid>nm3373328</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/789.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Erica Kiyama - 喜山エリカ","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/5-Ebody/喜山エリカ.jpg","Url":"https://xslist.org/zh/model/789.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/789.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Teddy Cole</name>
+    <role>Hippie</role>
+    <type>Actor</type>
+    <tmdbid>1763920</tmdbid>
+    <imdbid>nm7109238</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/2315.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Nicole Ishihara - 石原ニコル","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/x-OPPAI/AI-Fix-石原ニコル.jpg","Url":"https://xslist.org/zh/model/2315.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/2315.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Michael H. Cole</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1158065</tmdbid>
+    <imdbid>nm2360398</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/2315.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Nicole Ishihara - 石原ニコル","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/x-OPPAI/AI-Fix-石原ニコル.jpg","Url":"https://xslist.org/zh/model/2315.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/2315.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Cort Chandler</name>
+    <role>Jim Lacey</role>
+    <type>Actor</type>
+    <tmdbid>2782556</tmdbid>
+    <imdbid>nm8424698</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/109501.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Chandler Steele","Url":"https://xslist.org/zh/model/109501.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/109501.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Bruce Cooper</name>
+    <role>Jasper Taps</role>
+    <type>Actor</type>
+    <tmdbid>2782560</tmdbid>
+    <imdbid>nm11920759</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/22806.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Daisy Cooper - デイジー・クーパー","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(步)/AI-Fix-デイジー・クーパー.jpg","Url":"https://xslist.org/zh/model/22806.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/22806.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Daniel James Vaughn</name>
+    <role>Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>2259820</tmdbid>
+    <imdbid>nm10528499</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1859.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Jenna Jameson - ジェナ ジェイムソン","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ジェナ ジェイムソン.jpg","Url":"https://xslist.org/zh/model/1859.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1859.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Edward Hall</name>
+    <role>Skinned Soldier</role>
+    <type>Actor</type>
+    <tmdbid>212000</tmdbid>
+    <imdbid>nm3428914</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/106048.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Halley Scott","Url":"https://xslist.org/zh/model/106048.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/106048.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Jeff McCarthy</name>
+    <role>Evangelist</role>
+    <type>Actor</type>
+    <tmdbid>171689</tmdbid>
+    <imdbid>nm0565159</imdbid>
+  </actor>
+  <actor>
+    <name>Santino Fontana</name>
+    <role>AM Radio DJ</role>
+    <type>Actor</type>
+    <tmdbid>1188241</tmdbid>
+    <imdbid>nm2949014</imdbid>
+  </actor>
+  <actor>
+    <name>John Rue</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>1000883</tmdbid>
+    <imdbid>nm1600051</imdbid>
+  </actor>
+  <actor>
+    <name>Phillip DeVona</name>
+    <role>Calvin Claytor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>61100</tmdbid>
+    <imdbid>nm0222883</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Waterman</name>
+    <role>Arresting Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1309903</tmdbid>
+    <imdbid>nm3165363</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hamff</name>
+    <role>Beth Ann Reaster (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2279170</tmdbid>
+    <imdbid>nm10583611</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1901.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Sara - SARAH","Url":"https://xslist.org/zh/model/1901.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1901.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Shannon Frye</name>
+    <role>Alma Reaster (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2285149</tmdbid>
+    <imdbid>nm10588223</imdbid>
+  </actor>
+  <actor>
+    <name>James H. Keating</name>
+    <role>Meat Processor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2265938</tmdbid>
+    <imdbid>nm10548716</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1859.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Jenna Jameson - ジェナ ジェイムソン","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ジェナ ジェイムソン.jpg","Url":"https://xslist.org/zh/model/1859.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1859.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Scott Rapp</name>
+    <role>Teacher (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2268476</tmdbid>
+    <imdbid>nm10405165</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/23745.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kristen Scott - クリステン・スコット","Url":"https://xslist.org/zh/model/23745.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/23745.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Lawrence Hinkle</name>
+    <role>Diner Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2090353</tmdbid>
+    <imdbid>nm8389728</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/107278.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Emma Lawrence - エマ・ローレンス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/8-Ideapocket/エマ・ローレンス.jpg","Url":"https://xslist.org/zh/model/107278.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/107000/107278.jpg","https://m1.xslist.org/gallery/107000/107278/1600247896.jpg","https://m1.xslist.org/gallery/107000/107278/1608168927.jpg","https://m1.xslist.org/gallery/107000/107278/1608168657.jpg","https://m1.xslist.org/gallery/107000/107278/1602464619.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/107278.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Kyle Sawyer</name>
+    <role>Shop Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2270489</tmdbid>
+    <imdbid>nm6435086</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/106041.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kylee Reese","Url":"https://xslist.org/zh/model/106041.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/106041.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Emily Towles</name>
+    <role>1965 High School Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2268467</tmdbid>
+    <imdbid>nm10188983</imdbid>
+  </actor>
+  <actor>
+    <name>Meagan Bown</name>
+    <role>1966 High School Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2271219</tmdbid>
+    <imdbid>nm10564597</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Bailey</name>
+    <role>Necking Guy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2274574</tmdbid>
+    <imdbid>nm9933520</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/54.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Miku Abeno - 阿部乃みく","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/6-Nanairo/阿部乃みく.jpg","Url":"https://xslist.org/zh/model/54.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/54.jpg","https://m1.xslist.org/gallery/0/54/1610761959.jpg","https://m1.xslist.org/gallery/0/54/1620012910.jpg","https://m1.xslist.org/gallery/0/54/1611450393.jpg","https://m1.xslist.org/gallery/0/54/1611280211.jpg","https://m1.xslist.org/gallery/0/54/1611279096.jpg","https://m1.xslist.org/gallery/0/54/1611274856.jpg","https://m1.xslist.org/gallery/0/54/1610771917.jpg","https://m1.xslist.org/gallery/0/54/1610763391.jpg","https://m1.xslist.org/gallery/0/54/1610763280.jpg","https://m1.xslist.org/gallery/0/54/1610763038.jpg","https://m1.xslist.org/gallery/0/54/1610762949.jpg","https://m1.xslist.org/gallery/0/54/1610762159.jpg","https://m1.xslist.org/gallery/0/54/1610761923.jpg","https://m1.xslist.org/gallery/0/54/1607670182.jpg","https://m1.xslist.org/gallery/0/54/1606726033.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/54.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Beth Scott</name>
+    <role>1945 Diner Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2274579</tmdbid>
+    <imdbid>nm10567343</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/23745.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kristen Scott - クリステン・スコット","Url":"https://xslist.org/zh/model/23745.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/23745.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Kacey Hayes</name>
+    <role>1945 Diner Patron / Church Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2275678</tmdbid>
+    <imdbid>nm10574534</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/29735.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kacey Jordan - ケイシー・ジョーダン","Url":"https://xslist.org/zh/model/29735.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/29735.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Myles Phillips</name>
+    <role>Church Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2279169</tmdbid>
+    <imdbid>nm10233622</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Douglas</name>
+    <role>Necking Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2279171</tmdbid>
+    <imdbid>nm10586657</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/31789.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Rebecca Ballon - レベッカ・ブルーン","Url":"https://xslist.org/zh/model/31789.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/31789.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Leslie Sides</name>
+    <role>Church Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1992208</tmdbid>
+    <imdbid>nm9463698</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Flaherty</name>
+    <role>1965 Cheerleader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2279956</tmdbid>
+    <imdbid>nm10574735</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/3182.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Katie Rose - ケイティー ローズ","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-ケイティー ローズ.jpg","Url":"https://xslist.org/zh/model/3182.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/3182.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Matt Powell</name>
+    <role>1965 Vietnam Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2283164</tmdbid>
+    <imdbid>nm10588290</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/132225.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Lexie Matthews","Url":"https://xslist.org/zh/model/132225.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/132225.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Morgan Monroe</name>
+    <role>Diner Patron / Church Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2283167</tmdbid>
+    <imdbid>nm10593317</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/31798.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Mellanie Monroe - メラニー・モンロー","Url":"https://xslist.org/zh/model/31798.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/31798.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Jeff McKinney</name>
+    <role>Bull Pen Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2285153</tmdbid>
+    <imdbid>nm10269959</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Charles Hill</name>
+    <role>Local Pool Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1815386</tmdbid>
+    <imdbid>nm4783331</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/31315.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Hillary Scott","Url":"https://xslist.org/zh/model/31315.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/31315.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Andrew Young</name>
+    <role>Cody Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>2788601</tmdbid>
+    <imdbid>nm11215012</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/37889.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Britney Young - ブリトニー・ヤング","Url":"https://xslist.org/zh/model/37889.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/37889.html</javscraper-actress-urlid>
+  </actor>
+  <director tmdbid="56369" imdbid="nm1290515">Antonio Campos</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EIzazUv2gtI</trailer>
+  <rating>7.1</rating>
+  <year>2020</year>
+  <mpaa>US:R / US:Rated R</mpaa>
+  <imdbid>tt7395114</imdbid>
+  <tmdbid>499932</tmdbid>
+  <premiered>2020-09-11</premiered>
+  <releasedate>2020-09-11</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>139</runtime>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Nine Stories Productions</studio>
+  <studio>BorderLine Films</studio>
+  <studio>Bronx Moving Co.</studio>
+  <uniqueid type="Imdb">tt7395114</uniqueid>
+  <uniqueid type="Tmdb">499932</uniqueid>
+  <uniqueid type="trakt">346736</uniqueid>
+  <traktid>346736</traktid>
+  <id>tt7395114</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8196662</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8332</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chinese(简,subhd)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chinese(简,zimuku)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chinese(简英,shooter)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chinese(简英,subhd)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chinese(简英,zimuku)</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <epbookmark />
+  <ratings>
+    <rating default="true" max="10" name="NFO">
+      <value>7.1</value>
+      <votes>0</votes>
+    </rating>
+  </ratings>
+  <top250>0</top250>
+  <certification>US:R / US:Rated R</certification>
+  <tmdbCollectionId />
+  <status />
+  <code />
+  <languages />
+  <source>WEB_DL</source>
+  <edition>NONE</edition>
+  <original_filename>The Devil All the Time (2020) WEBDL-1080p.mkv</original_filename>
+  <user_note />
+</movie>

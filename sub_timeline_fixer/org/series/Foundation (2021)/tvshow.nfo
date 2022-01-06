@@ -1,0 +1,48 @@
+<tvshow>
+  <title>Foundation (2021)</title>
+  <plot>Based on the award-winning novels by Isaac Asimov, “Foundation” chronicles a band of exiles on their monumental journey to save humanity and rebuild civilization amid the fall of the Galactic Empire.</plot>
+  <mpaa>TV-14</mpaa>
+  <id>366972</id>
+  <uniqueid type="tvdb" default="true">366972</uniqueid>
+  <uniqueid type="imdb">tt0804484</uniqueid>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <premiered>2021-09-24</premiered>
+  <studio>Apple TV+</studio>
+  <actor>
+    <name>Clarke Peters</name>
+    <role>Abbas</role>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Hari Seldon</role>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Hari Seldon</role>
+  </actor>
+  <actor>
+    <name>Lee Pace</name>
+    <role>Brother Day</role>
+  </actor>
+  <actor>
+    <name>Lou Llobell</name>
+    <role>Gaal</role>
+  </actor>
+  <actor>
+    <name>Leah Harvey</name>
+    <role>Salvor Hardin</role>
+  </actor>
+  <actor>
+    <name>Laura Birn</name>
+    <role>Demerzel</role>
+  </actor>
+  <actor>
+    <name>Cassian Bilton</name>
+    <role>Brother Dawn</role>
+  </actor>
+  <actor>
+    <name>Terrence Mann</name>
+    <role>Brother Dusk</role>
+  </actor>
+</tvshow>
