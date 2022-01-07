@@ -1,0 +1,275 @@
+[Script Info]
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: no
+ScriptType: v4.00+
+Synch Point: 1
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+Style: 译文字幕,方正黑体_GBK,20,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+Style: 原文字幕,微软雅黑,14,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0.00,1,2,1,2,5,5,15,1
+Style: 音乐,Microsoft YaHei,16,&H00FFFFFF,&HF0000000,&H00000000,&H32000000,0,0,0,0,100,100,0,0,1,2,1,7,5,5,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:48.55,0:00:53.00,Default,tag,0,0,0,,{\an8\c&H010059&\1a&H00&\2c&H04019B&\2a&H00&\bord2\b1\3c&H0B04A9&\3a&H00&\fs35\pos(192,70)}银 翼 杀 手
+Dialogue: 0,0:00:49.40,0:00:53.00,Default,tag,0,0,0,,{\an8\bord2\b1\c&HC0BECD&\1a&H00&\3c&H606178&\3a&H00&\fs16\pos(192,180)}\N黑   莲   花
+Dialogue: 0,0:01:07.00,0:01:11.00,Default,tag,0,0,0,,{\pos(192,40)\c&H3CA6E1&\1a&H00&\b1}{\fnSimHei\fs14\fad(500,500)}翻译  {\fn方正清刻本悦宋简体\c&HFFFFFF&\1a&H00&}Chenfan
+Dialogue: 0,0:01:11.00,0:01:15.00,Default,tag,0,0,0,,{\pos(192,40)\c&H3CA6E1&\1a&H00&\b1}{\fnSimHei\fs14\fad(500,500)}时间轴  {\fn方正清刻本悦宋简体\c&HFFFFFF&\1a&H00&}Chenfan
+Dialogue: 0,0:01:01.10,0:01:05.62,Default,tag,0,0,0,,{\an8\fs16}米德摄像机
+Dialogue: 0,0:16:30.46,0:16:35.46,Default,tag,0,0,0,,{\an8\fs16}《上帝之城》 圣奥古斯丁
+Dialogue: 0,0:00:02.34,0:00:06.48,音乐,,0,0,0,,《Feel You Now》 - Alessia Cara\N♪ 我找到的这线微光 ♪\N♪ This little light I've found ♪
+Dialogue: 0,0:00:08.69,0:00:12.74,音乐,,0,0,0,,♪ 吸进 呼出 ♪\N♪ Take it in, breathe it out ♪
+Dialogue: 0,0:00:14.90,0:00:18.95,音乐,,0,0,0,,♪ 鼓虽小 声却响 ♪\N♪ A little drum that's beating loud ♪
+Dialogue: 0,0:00:21.51,0:00:25.82,音乐,,0,0,0,,♪ 透过胸口 我听到了声响 ♪\N♪ In my chest, I hear the sound ♪
+Dialogue: 0,0:00:31.07,0:00:33.63,音乐,,0,0,0,,♪ 我能感觉到 ♪\N♪ I can feel ♪
+Dialogue: 0,0:00:33.67,0:00:35.85,音乐,,0,0,0,,♪ 感觉到你了 ♪\N♪ Feel you now ♪
+Dialogue: 0,0:00:35.89,0:00:38.81,音乐,,0,0,0,,♪我现在能感觉到你  ♪\N♪ I can feel you now ♪
+Dialogue: 0,0:00:38.85,0:00:41.67,音乐,,0,0,0,,♪ 我能感觉到 ♪\N♪ I can feel ♪
+Dialogue: 0,0:00:41.71,0:00:45.11,音乐,,0,0,0,,♪ 我现在能感觉到你 ♪\N♪ I can feel you now ♪
+Dialogue: 0,0:01:20.52,0:01:22.00,译文字幕,,0,0,0,,我在哪\N{\r原文字幕}Where am I?
+Dialogue: 0,0:01:47.85,0:01:50.54,译文字幕,,0,0,0,,你干嘛\N{\r原文字幕}Hey! What the hell?
+Dialogue: 0,0:01:50.59,0:01:52.46,译文字幕,,0,0,0,,你对我做了什么\N{\r原文字幕}What did you do to me?
+Dialogue: 0,0:01:52.50,0:01:53.85,译文字幕,,0,0,0,,救了你一命\N{\r原文字幕}Saved your life.
+Dialogue: 0,0:01:53.89,0:01:55.89,译文字幕,,0,0,0,,你用电枪电我\N{\r原文字幕}You shot me with a stun gun.
+Dialogue: 0,0:01:58.15,0:01:59.76,译文字幕,,0,0,0,,是你杀了班尼斯特 对吧\N{\r原文字幕}Killed Bannister, didn't you?
+Dialogue: 0,0:02:04.62,0:02:07.02,译文字幕,,0,0,0,,别担心 我不会出卖你的\N{\r原文字幕}Don't worry. I won't turn you in.
+Dialogue: 0,0:02:07.06,0:02:08.92,译文字幕,,0,0,0,,你当时失去了理智\N{\r原文字幕}You were out of control.
+Dialogue: 0,0:02:08.97,0:02:11.80,译文字幕,,0,0,0,,我不得不这么做\N{\r原文字幕}I did what I had to do.
+Dialogue: 0,0:02:13.84,0:02:15.14,译文字幕,,0,0,0,,我的设备\N{\r原文字幕}My device.
+Dialogue: 0,0:02:15.18,0:02:19.31,译文字幕,,0,0,0,,我说到做到\N{\r原文字幕}I always finish a job.
+Dialogue: 0,0:02:19.36,0:02:21.61,译文字幕,,0,0,0,,你怎么知道我在那\N{\r原文字幕}How did you know you'd find me there?
+Dialogue: 0,0:02:25.14,0:02:27.00,译文字幕,,0,0,0,,AS-08报告\N{\r原文字幕}AS-08 reporting.
+Dialogue: 0,0:02:27.04,0:02:28.83,译文字幕,,0,0,0,,返回现场 完毕\N{\r原文字幕}Returning to scene. Over.
+Dialogue: 0,0:02:28.87,0:02:30.70,译文字幕,,0,0,0,,收到\N{\r原文字幕}Roger that.
+Dialogue: 0,0:02:30.74,0:02:33.12,译文字幕,,0,0,0,,有人报警说在鹌鹑大厦附近有多声枪响\N{\r原文字幕}Report of multiple gunshots heard near the Quail building.
+Dialogue: 0,0:02:33.17,0:02:36.61,译文字幕,,0,0,0,,我调到警用频道\N{\r原文字幕}I was tuned into the police frequency.
+Dialogue: 0,0:02:36.65,0:02:39.00,译文字幕,,0,0,0,,得知班尼斯特参议员被人谋杀\N{\r原文字幕}Picked up chatter about Senator Bannister's murder.
+Dialogue: 0,0:02:40.73,0:02:44.73,译文字幕,,0,0,0,,我就猜是你\N{\r原文字幕}Just put two and two together.
+Dialogue: 0,0:02:44.78,0:02:48.25,译文字幕,,0,0,0,,那我真该感谢你\N{\r原文字幕}I guess I'm supposed to say thank you.
+Dialogue: 0,0:02:52.81,0:02:54.68,译文字幕,,0,0,0,,来 把它喝了\N{\r原文字幕}Here. Drink this.
+Dialogue: 0,0:02:58.81,0:03:00.50,译文字幕,,0,0,0,,不怪你\N{\r原文字幕}Don't blame you.
+Dialogue: 0,0:03:00.55,0:03:03.20,译文字幕,,0,0,0,,大断电后 酒的味道都不太纯正\N{\r原文字幕}It's never tasted right since the Blackout.
+Dialogue: 0,0:03:04.93,0:03:06.76,译文字幕,,0,0,0,,大断电\N{\r原文字幕}Blackout?
+Dialogue: 0,0:03:06.80,0:03:08.98,译文字幕,,0,0,0,,2022大停电\N{\r原文字幕}The Blackout of 2022.
+Dialogue: 0,0:03:09.02,0:03:11.76,译文字幕,,0,0,0,,你还真是什么都不记得\N{\r原文字幕}You really don't remember a thing.
+Dialogue: 0,0:03:11.80,0:03:13.80,译文字幕,,0,0,0,,那次断电彻底抹除了数据\N{\r原文字幕}It was a total data wipe.
+Dialogue: 0,0:03:13.84,0:03:15.54,译文字幕,,0,0,0,,改变了一切\N{\r原文字幕}Changed everything.
+Dialogue: 0,0:03:15.59,0:03:18.62,译文字幕,,0,0,0,,我说过我什么都不记得\N{\r原文字幕}I told you I can't remember anything.
+Dialogue: 0,0:03:18.67,0:03:22.23,译文字幕,,0,0,0,,但或许 我一开始就没有记忆\N{\r原文字幕}But maybe I never had any memories to begin with.
+Dialogue: 0,0:03:23.70,0:03:25.66,译文字幕,,0,0,0,,你为何会这么想\N{\r原文字幕}Why would you think that?
+Dialogue: 0,0:04:19.81,0:04:22.89,译文字幕,,0,0,0,,只有我们知道去哪找\N{\r原文字幕}We know where to find it. They don't.
+Dialogue: 0,0:04:22.93,0:04:26.54,译文字幕,,0,0,0,,那条小虫要是再现身\N{\r原文字幕}So if that little worm comes around again,
+Dialogue: 0,0:04:26.58,0:04:28.32,译文字幕,,0,0,0,,我们便杀了他\N{\r原文字幕}we slit his throat.
+Dialogue: 0,0:04:28.36,0:04:30.71,译文字幕,,0,0,0,,-发条消息给...  -卓夫\N{\r原文字幕}- That'll send a message to the  - Drove.
+Dialogue: 0,0:04:30.76,0:04:33.45,译文字幕,,0,0,0,,我想和你谈谈\N{\r原文字幕}Wanna talk with you.
+Dialogue: 0,0:04:35.27,0:04:37.36,译文字幕,,0,0,0,,你是在逗我吗\N{\r原文字幕}You gotta be kidding.
+Dialogue: 0,0:04:37.41,0:04:39.70,译文字幕,,0,0,0,,小猪猪 你想要啥 你又没我把柄\N{\r原文字幕}What do you want, little piggy? You ain't got nothing on me.
+Dialogue: 0,0:04:39.75,0:04:41.66,译文字幕,,0,0,0,,哇啊\N{\r原文字幕}Whoa--ow!
+Dialogue: 0,0:04:41.71,0:04:43.92,译文字幕,,0,0,0,,听说你和一个年轻女子有过冲突\N{\r原文字幕}Heard you had a run-in with a young woman.
+Dialogue: 0,0:04:43.97,0:04:46.70,译文字幕,,0,0,0,,她态度差 有黑莲花纹身\N{\r原文字幕}Bad attitude, tattoo of a black lotus.
+Dialogue: 0,0:04:46.74,0:04:49.31,译文字幕,,0,0,0,,我为啥要帮你这种人\N{\r原文字幕}Why would I help a pretty little piggy like you?
+Dialogue: 0,0:04:49.35,0:04:50.70,译文字幕,,0,0,0,,阿 哎呀\N{\r原文字幕}Ah! Geez!
+Dialogue: 0,0:04:50.75,0:04:52.74,译文字幕,,0,0,0,,行行行\N{\r原文字幕}Okay, okay! Ow!
+Dialogue: 0,0:04:56.79,0:05:00.91,译文字幕,,0,0,0,,也许我该把你切成片\N{\r原文字幕}Maybe I should slice myself off a piece.
+Dialogue: 0,0:05:07.78,0:05:09.56,译文字幕,,0,0,0,,混蛋\N{\r原文字幕}Son of a bitch!
+Dialogue: 0,0:05:32.72,0:05:34.90,译文字幕,,0,0,0,,警察事务 你们赶紧走吧\N{\r原文字幕}Police business. Now, move along.
+Dialogue: 0,0:05:34.94,0:05:37.93,译文字幕,,0,0,0,,不关我事\N{\r原文字幕}To hell with this.
+Dialogue: 0,0:05:40.67,0:05:43.71,译文字幕,,0,0,0,,总算清静些了\N{\r原文字幕}Just you and me now.
+Dialogue: 0,0:05:43.75,0:05:45.63,译文字幕,,0,0,0,,跟我说说那个女孩吧\N{\r原文字幕}Tell me about the girl.
+Dialogue: 0,0:05:47.15,0:05:49.45,译文字幕,,0,0,0,,你是想让我切下你的胳膊吗\N{\r原文字幕}You want me to slice your arm off?
+Dialogue: 0,0:05:49.49,0:05:50.88,译文字幕,,0,0,0,,另一只吗\N{\r原文字幕}The other one?
+Dialogue: 0,0:05:55.31,0:05:56.75,译文字幕,,0,0,0,,她完虐了我老大\N{\r原文字幕}She cut the boss up.
+Dialogue: 0,0:05:56.79,0:05:58.10,译文字幕,,0,0,0,,她太疯狂了\N{\r原文字幕}She's nuts.
+Dialogue: 0,0:05:58.14,0:06:00.40,译文字幕,,0,0,0,,持着一把武士刀\N{\r原文字幕}Carried a damn samurai sword.
+Dialogue: 0,0:06:09.22,0:06:11.00,译文字幕,,0,0,0,,你最好说详细些\N{\r原文字幕}You better give me more than that.
+Dialogue: 0,0:06:11.05,0:06:13.22,译文字幕,,0,0,0,,行 行\N{\r原文字幕}All right. All right.
+Dialogue: 0,0:06:13.26,0:06:14.65,译文字幕,,0,0,0,,算你厉害\N{\r原文字幕}You win.
+Dialogue: 0,0:06:14.69,0:06:17.22,译文字幕,,0,0,0,,她有一种科技\N{\r原文字幕}She had this...tech.
+Dialogue: 0,0:06:17.26,0:06:20.30,译文字幕,,0,0,0,,我们试图将其夺走 我们本来只是闹着玩\N{\r原文字幕}We tried to take it from her. We was just messing around.
+Dialogue: 0,0:06:20.34,0:06:22.08,译文字幕,,0,0,0,,之后 她主动找上门来\N{\r原文字幕}Then she comes back to kill us.
+Dialogue: 0,0:06:22.12,0:06:25.30,译文字幕,,0,0,0,,她脑子有问题\N{\r原文字幕}She's on bad neuro-stims or something.
+Dialogue: 0,0:06:26.94,0:06:29.82,译文字幕,,0,0,0,,你该对当地执法部门放尊重些\N{\r原文字幕}Might wanna show more respect for local law enforcement.
+Dialogue: 0,0:06:29.86,0:06:32.85,译文字幕,,0,0,0,,下次 我就不会这么客气了\N{\r原文字幕}Next time, I won't be so nice.
+Dialogue: 0,0:06:32.90,0:06:35.47,译文字幕,,0,0,0,,不会有下次了 小猪猪\N{\r原文字幕}Next time, you're gonna get it in the neck, piggy.
+Dialogue: 0,0:06:39.98,0:06:43.85,译文字幕,,0,0,0,,洛杉矶警察局调查人员拒绝评论\N{\r原文字幕}LAPD investigators have refused to comment on reports
+Dialogue: 0,0:06:43.90,0:06:47.85,译文字幕,,0,0,0,,班尼斯特参议员观看黑拳比赛时\N{\r原文字幕}that Senator Bannister was attending an unlicensed boxing match
+Dialogue: 0,0:06:47.89,0:06:50.63,译文字幕,,0,0,0,,惨遭不明凶手杀害一事\N{\r原文字幕}when he was killed by an unknown assailant.
+Dialogue: 0,0:06:50.68,0:06:55.46,译文字幕,,0,0,0,,班尼斯特在外星殖民地有着良好的声誉\N{\r原文字幕}Accolades for the senator came in from as far away as the Off-world colonies.
+Dialogue: 0,0:06:55.50,0:06:57.53,译文字幕,,0,0,0,,由于他长期的杰出工作\N{\r原文字幕}In a long and distinguished career,
+Dialogue: 0,0:06:57.58,0:06:59.19,译文字幕,,0,0,0,,他被视作\N{\r原文字幕}Senator Bannister was seen
+Dialogue: 0,0:06:59.23,0:07:01.93,译文字幕,,0,0,0,,无党派的基本人权捍卫者\N{\r原文字幕}as a non-partisan defender of basic human rights
+Dialogue: 0,0:07:01.97,0:07:04.05,译文字幕,,0,0,0,,被誉为真正的爱国者\N{\r原文字幕}and was hailed as a true patriot.
+Dialogue: 0,0:07:04.10,0:07:05.66,译文字幕,,0,0,0,,他就一狗屁玩意儿\N{\r原文字幕}He was a piece of shit.
+Dialogue: 0,0:07:08.27,0:07:10.48,译文字幕,,0,0,0,,弄清我设备里有什么了吗\N{\r原文字幕}Did you find out what's on my device?
+Dialogue: 0,0:07:13.01,0:07:14.53,译文字幕,,0,0,0,,还没\N{\r原文字幕}Not yet.
+Dialogue: 0,0:07:20.00,0:07:21.96,译文字幕,,0,0,0,,什么是复制人\N{\r原文字幕}What's a replicant?
+Dialogue: 0,0:07:26.26,0:07:27.48,译文字幕,,0,0,0,,复制人\N{\r原文字幕}A replicant?
+Dialogue: 0,0:07:27.52,0:07:31.04,译文字幕,,0,0,0,,是机器吗\N{\r原文字幕}A machine?
+Dialogue: 0,0:07:31.08,0:07:33.26,译文字幕,,0,0,0,,不完全是\N{\r原文字幕}Not exactly.
+Dialogue: 0,0:07:33.30,0:07:34.52,译文字幕,,0,0,0,,那是啥\N{\r原文字幕}Then what?
+Dialogue: 0,0:07:39.69,0:07:43.47,译文字幕,,0,0,0,,你为何关心这个\N{\r原文字幕}Why do you even care about this?
+Dialogue: 0,0:07:43.51,0:07:45.64,译文字幕,,0,0,0,,班尼斯特说\N{\r原文字幕}Bannister said so.
+Dialogue: 0,0:07:45.69,0:07:48.81,译文字幕,,0,0,0,,我是复制人\N{\r原文字幕}That I'm one of...them.
+Dialogue: 0,0:08:05.81,0:08:07.84,译文字幕,,0,0,0,,难道你信那个人渣的话吗\N{\r原文字幕}And you believe what that scum told you?
+Dialogue: 0,0:08:10.06,0:08:11.59,译文字幕,,0,0,0,,但假如...\N{\r原文字幕}But what if...
+Dialogue: 0,0:08:15.84,0:08:19.62,译文字幕,,0,0,0,,20年前 一家公司制造了人造人\N{\r原文字幕}20 years ago, a corporation made artificial people.
+Dialogue: 0,0:08:19.66,0:08:21.44,译文字幕,,0,0,0,,将其命名为复制人\N{\r原文字幕}Called them replicants.
+Dialogue: 0,0:08:21.49,0:08:22.79,译文字幕,,0,0,0,,期望他们干脏活累活时\N{\r原文字幕}Hoping they'd do all our heavy lifting
+Dialogue: 0,0:08:22.84,0:08:24.62,译文字幕,,0,0,0,,无半句怨言\N{\r原文字幕}without ever complaining.
+Dialogue: 0,0:08:32.48,0:08:34.44,译文字幕,,0,0,0,,别动\N{\r原文字幕}Hold still.
+Dialogue: 0,0:08:36.44,0:08:37.88,译文字幕,,0,0,0,,看着我\N{\r原文字幕}Look at me.
+Dialogue: 0,0:08:37.92,0:08:40.56,译文字幕,,0,0,0,,我来告诉你你是不是复制人\N{\r原文字幕}I'll tell you if you're a replicant.
+Dialogue: 0,0:08:43.48,0:08:45.39,译文字幕,,0,0,0,,向左上方看\N{\r原文字幕}Look up and to the left.
+Dialogue: 0,0:08:45.43,0:08:46.86,译文字幕,,0,0,0,,别眨眼\N{\r原文字幕}Don't blink.
+Dialogue: 0,0:09:01.82,0:09:03.68,译文字幕,,0,0,0,,你不是复制人\N{\r原文字幕}You're not a replicant.
+Dialogue: 0,0:09:03.72,0:09:06.59,译文字幕,,0,0,0,,假如你是Nexus8型 你会有一个序列号\N{\r原文字幕}If you were a Nexus 8, you'd have a serial number.
+Dialogue: 0,0:09:06.64,0:09:10.54,译文字幕,,0,0,0,,你要是6型 早就死了\N{\r原文字幕}6, you'd be long dead.
+Dialogue: 0,0:09:10.59,0:09:13.55,译文字幕,,0,0,0,,那我是怎么做到的\N{\r原文字幕}Then how did I do these things?
+Dialogue: 0,0:09:13.59,0:09:15.11,译文字幕,,0,0,0,,我是怎么\N{\r原文字幕}I can fight.
+Dialogue: 0,0:09:15.16,0:09:17.19,译文字幕,,0,0,0,,轻而易举打伤人的\N{\r原文字幕}I hurt a lot of people.
+Dialogue: 0,0:09:20.94,0:09:23.15,译文字幕,,0,0,0,,你要是还不放心\N{\r原文字幕}If you're still worried,
+Dialogue: 0,0:09:23.19,0:09:26.98,译文字幕,,0,0,0,,只有一种方法可以判定\N{\r原文字幕}there's only one way to tell for sure.
+Dialogue: 0,0:09:27.02,0:09:29.97,译文字幕,,0,0,0,,坐吧\N{\r原文字幕}Have a seat.
+Dialogue: 0,0:10:20.79,0:10:22.17,译文字幕,,0,0,0,,这叫Voight-Kampff测试\N{\r原文字幕}We call it Voight-Kampff.
+Dialogue: 0,0:10:22.79,0:10:25.40,译文字幕,,0,0,0,,能判断你是人类还是复制人\N{\r原文字幕}Tells if you're human or replicant.
+Dialogue: 0,0:10:26.24,0:10:28.08,译文字幕,,0,0,0,,复制人意志坚定\N{\r原文字幕}Replicants are tough as nails,
+Dialogue: 0,0:10:28.30,0:10:30.38,译文字幕,,0,0,0,,但他们外表与常人无异\N{\r原文字幕}but they look just like everybody else.
+Dialogue: 0,0:10:31.63,0:10:33.37,译文字幕,,0,0,0,,要怎么测试\N{\r原文字幕}What's it going to do to me?
+Dialogue: 0,0:10:34.83,0:10:35.57,译文字幕,,0,0,0,,别着急\N{\r原文字幕}Don't worry.
+Dialogue: 0,0:10:35.57,0:10:37.92,译文字幕,,0,0,0,,我只用问你几个问题\N{\r原文字幕}I'm just gonna ask you some questions.
+Dialogue: 0,0:10:39.82,0:10:41.32,译文字幕,,0,0,0,,可我记忆全无\N{\r原文字幕}I don't have any memories.
+Dialogue: 0,0:10:42.86,0:10:45.23,译文字幕,,0,0,0,,感觉可以回答的东西比记忆多\N{\r原文字幕}Feelings can tell more than memories.
+Dialogue: 0,0:10:45.59,0:10:47.11,译文字幕,,0,0,0,,感觉潜藏在更深处\N{\r原文字幕}They're deeper.
+Dialogue: 0,0:10:47.33,0:10:48.94,译文字幕,,0,0,0,,假如你是复制人\N{\r原文字幕}If you're a replicant,
+Dialogue: 0,0:10:48.94,0:10:51.71,译文字幕,,0,0,0,,你的情感会前后矛盾\N{\r原文字幕}your emotions will be marked by contradictions.
+Dialogue: 0,0:10:54.62,0:10:56.36,译文字幕,,0,0,0,,想象一下你的母亲\N{\r原文字幕}Picture your mother.
+Dialogue: 0,0:10:56.36,0:10:57.92,译文字幕,,0,0,0,,在你儿时的屋子里\N{\r原文字幕}In the house you grew up in.
+Dialogue: 0,0:11:00.85,0:11:03.24,译文字幕,,0,0,0,,她失望地看着你\N{\r原文字幕}She looks at you, disappointed,
+Dialogue: 0,0:11:03.28,0:11:05.94,译文字幕,,0,0,0,,说她不爱你\N{\r原文字幕}and tells you that she doesn't love you.
+Dialogue: 0,0:11:05.98,0:11:07.55,译文字幕,,0,0,0,,她从未爱过你\N{\r原文字幕}She's never loved you,
+Dialogue: 0,0:11:07.59,0:11:09.32,译文字幕,,0,0,0,,她后悔有了你\N{\r原文字幕}and she regrets ever having you.
+Dialogue: 0,0:11:09.36,0:11:11.63,译文字幕,,0,0,0,,为人母者不会说这种话的\N{\r原文字幕}A mother would never say that.
+Dialogue: 0,0:11:14.20,0:11:15.27,译文字幕,,0,0,0,,你正要去朋友公寓\N{\r原文字幕}You're passing a busy street corner
+Dialogue: 0,0:11:15.32,0:11:17.19,译文字幕,,0,0,0,,站在熙熙攘攘的大街上\N{\r原文字幕}on the way to a friend's apartment,
+Dialogue: 0,0:11:17.23,0:11:20.02,译文字幕,,0,0,0,,你看见垃圾箱旁有个小纸箱\N{\r原文字幕}and you see a small cardboard box next to a dumpster.
+Dialogue: 0,0:11:20.06,0:11:22.40,译文字幕,,0,0,0,,里面有一只虎纹小猫\N{\r原文字幕}Inside is a tabby cat, a kitten,
+Dialogue: 0,0:11:22.44,0:11:25.40,译文字幕,,0,0,0,,不是复制的 它有一双绿眼 鼻上有一个白点\N{\r原文字幕}a real one with green eyes and a white spot on her nose,
+Dialogue: 0,0:11:25.45,0:11:28.35,译文字幕,,0,0,0,,嗷嗷待哺\N{\r原文字幕}meowing for food.
+Dialogue: 0,0:11:28.40,0:11:31.23,译文字幕,,0,0,0,,我会带回家喂它\N{\r原文字幕}I'd take it home and feed it.
+Dialogue: 0,0:11:31.27,0:11:33.49,译文字幕,,0,0,0,,我爱猫\N{\r原文字幕}I like cats.
+Dialogue: 0,0:11:33.53,0:11:35.35,译文字幕,,0,0,0,,你为什么爱猫\N{\r原文字幕}Why do you like cats?
+Dialogue: 0,0:11:35.39,0:11:37.44,译文字幕,,0,0,0,,嗯\N{\r原文字幕}Hmm...
+Dialogue: 0,0:11:37.48,0:11:39.22,译文字幕,,0,0,0,,猫咪可爱 毛茸茸的\N{\r原文字幕}they're cute and fluffy.
+Dialogue: 0,0:11:51.82,0:11:54.25,译文字幕,,0,0,0,,你还记得恋爱的事吗\N{\r原文字幕}Can you remember being in love?
+Dialogue: 0,0:11:54.30,0:11:56.34,译文字幕,,0,0,0,,恋爱的感觉如何\N{\r原文字幕}How did it make you feel?
+Dialogue: 0,0:11:56.38,0:11:58.52,译文字幕,,0,0,0,,这个问题简单\N{\r原文字幕}That's easy.
+Dialogue: 0,0:11:58.56,0:12:00.99,译文字幕,,0,0,0,,他看我的眼神\N{\r原文字幕}The way he'd look at me...
+Dialogue: 0,0:12:01.03,0:12:04.38,译文字幕,,0,0,0,,我的心都快融化了\N{\r原文字幕}I thought my heart was going to burst.
+Dialogue: 0,0:12:04.43,0:12:08.33,译文字幕,,0,0,0,,那是一种美妙的感觉\N{\r原文字幕}It felt like... something wonderful.
+Dialogue: 0,0:12:13.33,0:12:16.55,译文字幕,,0,0,0,,纹好看点\N{\r原文字幕}Make it pretty.
+Dialogue: 0,0:12:16.59,0:12:20.33,译文字幕,,0,0,0,,别动\N{\r原文字幕}Stay still.
+Dialogue: 0,0:12:31.58,0:12:33.97,译文字幕,,0,0,0,,太棒了\N{\r原文字幕}That is so cool.
+Dialogue: 0,0:12:36.32,0:12:39.18,译文字幕,,0,0,0,,真好看\N{\r原文字幕}It's beautiful.
+Dialogue: 0,0:12:39.23,0:12:41.19,译文字幕,,0,0,0,,就当是\N{\r原文字幕}It's a gift.
+Dialogue: 0,0:12:41.23,0:12:44.31,译文字幕,,0,0,0,,纪念你崭新开始的礼物吧\N{\r原文字幕}To mark your new beginning.
+Dialogue: 0,0:12:44.35,0:12:48.18,译文字幕,,0,0,0,,你说的是我们的崭新开始吗\N{\r原文字幕}Don't you mean our new beginning?
+Dialogue: 0,0:12:56.21,0:12:59.48,译文字幕,,0,0,0,,别忘记我 艾尔\N{\r原文字幕}Don't forget me, Elle.
+Dialogue: 0,0:13:06.21,0:13:07.74,译文字幕,,0,0,0,,那时你几岁\N{\r原文字幕}How old were you?
+Dialogue: 0,0:13:07.78,0:13:09.51,译文字幕,,0,0,0,,记忆回来了\N{\r原文字幕}It's coming back.
+Dialogue: 0,0:13:09.56,0:13:12.65,译文字幕,,0,0,0,,那是我们第一次见面\N{\r原文字幕}That was when we first met.
+Dialogue: 0,0:13:12.69,0:13:13.95,译文字幕,,0,0,0,,他知道很多事\N{\r原文字幕}He knew so many things.
+Dialogue: 0,0:13:13.99,0:13:18.08,译文字幕,,0,0,0,,他告诉我 莲花代表纯洁\N{\r原文字幕}He told me that the lotus represents purity.
+Dialogue: 0,0:13:18.12,0:13:21.72,译文字幕,,0,0,0,,于是他就帮我纹了一个\N{\r原文字幕}So he gave me this tattoo.
+Dialogue: 0,0:13:21.76,0:13:25.20,译文字幕,,0,0,0,,但听说只有白莲花才代表纯洁\N{\r原文字幕}But only the white lotus is said to be pure.
+Dialogue: 0,0:13:25.25,0:13:27.46,译文字幕,,0,0,0,,错\N{\r原文字幕}No.
+Dialogue: 0,0:13:27.50,0:13:30.29,译文字幕,,0,0,0,,不同人有不同看法\N{\r原文字幕}That depends on perception.
+Dialogue: 0,0:14:06.52,0:14:08.13,译文字幕,,0,0,0,,你不必担心了\N{\r原文字幕}Don't worry.
+Dialogue: 0,0:14:08.18,0:14:11.40,译文字幕,,0,0,0,,你不是复制人\N{\r原文字幕}You're not a replicant.
+Dialogue: 0,0:14:11.43,0:14:15.26,译文字幕,,0,0,0,,你只不过是失忆了\N{\r原文字幕}You're just a girl with amnesia.
+Dialogue: 0,0:14:15.30,0:14:18.82,译文字幕,,0,0,0,,你的情感没有任何矛盾\N{\r原文字幕}Your emotions don't exhibit any contradictions.
+Dialogue: 0,0:14:20.65,0:14:23.48,译文字幕,,0,0,0,,休息会儿吧\N{\r原文字幕}Get some rest.
+Dialogue: 0,0:14:23.52,0:14:25.47,译文字幕,,0,0,0,,我出去喝一杯\N{\r原文字幕}I'm going out for a drink.
+Dialogue: 0,0:14:25.51,0:14:27.12,译文字幕,,0,0,0,,顺便给你带点吃的\N{\r原文字幕}I'll grab you some food.
+Dialogue: 0,0:14:56.32,0:15:00.24,译文字幕,,0,0,0,,加州在遭受了严重的气候变化后经济没有崩溃\N{\r原文字幕}Senator Bannister is the reason California still has an economy
+Dialogue: 0,0:15:00.28,0:15:02.97,译文字幕,,0,0,0,,这都是班尼斯特参议员的功劳\N{\r原文字幕}despite devastating climate change.
+Dialogue: 0,0:15:03.01,0:15:05.23,译文字幕,,0,0,0,,他是人民的英雄\N{\r原文字幕}A hero to the people.
+Dialogue: 0,0:15:05.27,0:15:08.44,译文字幕,,0,0,0,,英雄\N{\r原文字幕}A hero?
+Dialogue: 0,0:15:08.48,0:15:10.66,译文字幕,,0,0,0,,他毫无英雄气概\N{\r原文字幕}Wasn't a heroic bone in his body.
+Dialogue: 0,0:15:10.70,0:15:13.40,译文字幕,,0,0,0,,现在他死了 要撤销复制人禁令\N{\r原文字幕}Now that he's gone, it's going to be harder
+Dialogue: 0,0:15:13.45,0:15:16.18,译文字幕,,0,0,0,,难上加难\N{\r原文字幕}to remove the ban on replicants.
+Dialogue: 0,0:15:16.22,0:15:20.82,译文字幕,,0,0,0,,我还有不少能帮忙的朋友\N{\r原文字幕}I still have plenty of friends who can help me.
+Dialogue: 0,0:15:22.26,0:15:24.22,译文字幕,,0,0,0,,酒肉朋友吗\N{\r原文字幕}Friends made with money?
+Dialogue: 0,0:15:28.69,0:15:33.09,译文字幕,,0,0,0,,你是来羞辱我的吗\N{\r原文字幕}Is that why you came up here? To insult me?
+Dialogue: 0,0:15:33.13,0:15:37.21,译文字幕,,0,0,0,,还是来彰显你的自尊的\N{\r原文字幕}Or is this another talk about your pride?
+Dialogue: 0,0:15:38.91,0:15:40.21,译文字幕,,0,0,0,,我承认\N{\r原文字幕}I admit,
+Dialogue: 0,0:15:40.25,0:15:43.43,译文字幕,,0,0,0,,没有你 人们会挨饿\N{\r原文字幕}humanity would have starved without you.
+Dialogue: 0,0:15:43.47,0:15:46.24,译文字幕,,0,0,0,,你研究出了合成蛋白质\N{\r原文字幕}It was your research that led to synthetic proteins.
+Dialogue: 0,0:15:46.29,0:15:48.81,译文字幕,,0,0,0,,但要是没了钱和权的加持\N{\r原文字幕}But ideas mean nothing
+Dialogue: 0,0:15:48.86,0:15:52.89,译文字幕,,0,0,0,,你的想法便无从实现\N{\r原文字幕}without the money and power to actualize it.
+Dialogue: 0,0:15:55.24,0:16:00.72,译文字幕,,0,0,0,,既然上天不肯恩赐人们粮食 那么我给\N{\r原文字幕}I gave the people manna when heaven would not oblige.
+Dialogue: 0,0:16:00.76,0:16:06.28,译文字幕,,0,0,0,,要是谁有窃取丰功伟绩的能力\N{\r原文字幕}If a man is capable of stealing the credit for a feat of such enormity, I say,
+Dialogue: 0,0:16:06.32,0:16:09.24,译文字幕,,0,0,0,,那就给他时间\N{\r原文字幕}give him time.
+Dialogue: 0,0:16:09.28,0:16:13.06,译文字幕,,0,0,0,,再多的财富也无济于事\N{\r原文字幕}No amount of wealth can save him.
+Dialogue: 0,0:16:13.10,0:16:15.10,译文字幕,,0,0,0,,但你得借助我的财富\N{\r原文字幕}And you need my wealth
+Dialogue: 0,0:16:15.15,0:16:18.18,译文字幕,,0,0,0,,才能撤销复制人禁令\N{\r原文字幕}to remove the ban on those replicants.
+Dialogue: 0,0:16:18.23,0:16:21.53,译文字幕,,0,0,0,,这是大势所趋\N{\r原文字幕}Everything intended will happen.
+Dialogue: 0,0:16:21.58,0:16:24.18,译文字幕,,0,0,0,,也是上天的旨意\N{\r原文字幕}A god makes it so.
+Dialogue: 0,0:16:24.22,0:16:27.05,译文字幕,,0,0,0,,你自己听听\N{\r原文字幕}Listen to yourself.
+Dialogue: 0,0:16:27.10,0:16:29.84,译文字幕,,0,0,0,,你知道你现在说话像谁吗\N{\r原文字幕}Do you know who you're starting to sound like?
+Dialogue: 0,0:17:22.41,0:17:24.11,译文字幕,,0,0,0,,獾医生\N{\r原文字幕}Doc Badger.
+Dialogue: 0,0:17:24.15,0:17:26.75,译文字幕,,0,0,0,,洛杉矶警局的戴维斯警官\N{\r原文字幕}Officer Davis, LAPD.
+Dialogue: 0,0:17:26.79,0:17:30.01,译文字幕,,0,0,0,,问你几个问题\N{\r原文字幕}Have a few questions.
+Dialogue: 0,0:17:32.32,0:17:35.10,译文字幕,,0,0,0,,尽管问 我啥都没干\N{\r原文字幕}Whatever it is, I didn't do it.
+Dialogue: 0,0:17:35.14,0:17:38.74,译文字幕,,0,0,0,,你在附近见过一个纹着黑莲花的年轻女子吗\N{\r原文字幕}Young lady with a black lotus tattoo's been seen around here.
+Dialogue: 0,0:17:41.22,0:17:44.14,译文字幕,,0,0,0,,你觉得我整天都会\N{\r原文字幕}You think I spend all day looking?
+Dialogue: 0,0:17:44.18,0:17:46.78,译文字幕,,0,0,0,,注意别人的纹身吗\N{\r原文字幕}Looking at people's tattoos?
+Dialogue: 0,0:17:46.83,0:17:48.74,译文字幕,,0,0,0,,她带着数据器\N{\r原文字幕}Well, she was carrying a data drive
+Dialogue: 0,0:17:48.79,0:17:51.01,译文字幕,,0,0,0,,持着一把刀\N{\r原文字幕}and swinging around a sword.
+Dialogue: 0,0:17:51.05,0:17:53.43,译文字幕,,0,0,0,,一把武士刀\N{\r原文字幕}Samurai seef.
+Dialogue: 0,0:17:55.26,0:17:57.52,译文字幕,,0,0,0,,就在这附近\N{\r原文字幕}Right around here.
+Dialogue: 0,0:17:57.57,0:18:03.35,译文字幕,,0,0,0,,大家都说你是这片区会留意这种事的人\N{\r原文字幕}Everyone knows you're the man to see about these kinds of things in this part of town.
+Dialogue: 0,0:18:03.39,0:18:06.95,译文字幕,,0,0,0,,我要打烊了\N{\r原文字幕}It's time for me to close the store.
+Dialogue: 0,0:18:06.99,0:18:09.34,译文字幕,,0,0,0,,你要是不逮捕我的话\N{\r原文字幕}If you're not arresting me,
+Dialogue: 0,0:18:09.39,0:18:10.99,译文字幕,,0,0,0,,就去找别人吧\N{\r原文字幕}go bother other people.
+Dialogue: 0,0:18:15.16,0:18:17.29,译文字幕,,0,0,0,,回头联系你 医生\N{\r原文字幕}I'll be in touch, Doc.
+Dialogue: 0,0:19:48.28,0:19:50.02,译文字幕,,0,0,0,,什么\N{\r原文字幕}What?
+Dialogue: 0,0:19:58.53,0:20:00.93,译文字幕,,0,0,0,,起来 跑啊 你们这些劣质玩偶\N{\r原文字幕}Get off your asses and run, you two-bit dolls!
+Dialogue: 0,0:20:10.92,0:20:11.92,译文字幕,,0,0,0,,你在干嘛\N{\r原文字幕}What are you doing?
+Dialogue: 0,0:20:11.96,0:20:14.01,译文字幕,,0,0,0,,你懂规矩的\N{\r原文字幕}You know the rules.
+Dialogue: 0,0:20:14.05,0:20:16.56,译文字幕,,0,0,0,,我是个记者\N{\r原文字幕}Hey, I'm a journalist.
+Dialogue: 0,0:20:16.61,0:20:20.22,译文字幕,,0,0,0,,我既然来了 肯定得记录一下\N{\r原文字幕}If you don't document it, did it really happen?
+Dialogue: 0,0:20:22.13,0:20:24.00,译文字幕,,0,0,0,,结束了吗\N{\r原文字幕}Finished already?
+Dialogue: 0,0:20:24.04,0:20:25.39,译文字幕,,0,0,0,,这个距离打他们\N{\r原文字幕}There's no challenge
+Dialogue: 0,0:20:25.43,0:20:27.69,译文字幕,,0,0,0,,太没挑战难度了\N{\r原文字幕}just picking 'em off from this far.
+Dialogue: 0,0:20:27.74,0:20:29.69,译文字幕,,0,0,0,,要是他们再危险些\N{\r原文字幕}If they really are dangerous,
+Dialogue: 0,0:20:29.73,0:20:32.91,译文字幕,,0,0,0,,我们可以近距离猎杀\N{\r原文字幕}we could be hunting 'em up close.
+Dialogue: 0,0:20:32.95,0:20:35.73,译文字幕,,0,0,0,,听起来不错\N{\r原文字幕}Sounds like fun.
+Dialogue: 0,0:20:41.94,0:20:43.68,译文字幕,,0,0,0,,这些复制人生来就\N{\r原文字幕}These replicants are hardwired
+Dialogue: 0,0:20:43.72,0:20:46.03,译文字幕,,0,0,0,,对人类言听计从\N{\r原文字幕}to be fully submissive to humans.
+Dialogue: 0,0:20:47.64,0:20:50.03,译文字幕,,0,0,0,,快开枪啊\N{\r原文字幕}Come on. Just pull the trigger!
+Dialogue: 0,0:20:50.07,0:20:53.03,译文字幕,,0,0,0,,复制人\N{\r原文字幕}Replicants...
+Dialogue: 0,0:20:53.07,0:20:55.67,译文字幕,,0,0,0,,生来就\N{\r原文字幕}hard-wired...
+Dialogue: 0,0:20:55.72,0:20:58.46,译文字幕,,0,0,0,,对人类\N{\r原文字幕}to be fully...
+Dialogue: 0,0:20:58.50,0:21:01.02,译文字幕,,0,0,0,,言听计从\N{\r原文字幕}submissive?
+Dialogue: 0,0:21:09.88,0:21:12.63,译文字幕,,0,0,0,,这些东西完全不中用\N{\r原文字幕}Oh, these things are helpless.
+Dialogue: 0,0:21:12.67,0:21:15.62,译文字幕,,0,0,0,,我们想干嘛都行\N{\r原文字幕}Whatever we want, we do.
+Dialogue: 0,0:21:15.66,0:21:17.84,译文字幕,,0,0,0,,太过简单\N{\r原文字幕}It's too easy.
+Dialogue: 0,0:21:22.66,0:21:24.71,译文字幕,,0,0,0,,为什么\N{\r原文字幕}Why?
+Dialogue: 0,0:21:27.69,0:21:30.47,音乐,,0,0,0,,《Home》 - Walk off the Earth\N♪ 我已厌倦 再难忍受 ♪\N♪ I'm so tired, oh, so tired ♪\N
+Dialogue: 0,0:21:30.52,0:21:33.73,音乐,,0,0,0,,♪ 脑海里的那些声音 ♪\N♪ All these voices in my brain ♪
+Dialogue: 0,0:21:33.77,0:21:37.21,音乐,,0,0,0,,♪ 陪我度过无数日夜 ♪\N♪ Living through my normal, oh, so formal ♪
+Dialogue: 0,0:21:37.25,0:21:40.25,音乐,,0,0,0,,♪ 却使我精神错乱 ♪\N♪ I swear they're driving me insane ♪
+Dialogue: 0,0:21:40.29,0:21:44.50,音乐,,0,0,0,,♪ 实在难以分辨是谁在撒谎 ♪\N♪ Can't tell who's a liar come hell or high water ♪
+Dialogue: 0,0:21:44.55,0:21:48.24,音乐,,0,0,0,,♪ 我没在听 ♪\N♪ I'm not listening ♪
+Dialogue: 0,0:21:48.29,0:21:51.46,音乐,,0,0,0,,♪ 喔噢 ♪\N♪ Whoa ♪
+Dialogue: 0,0:21:51.50,0:21:54.41,音乐,,0,0,0,,♪ 我要逃离这儿 ♪\N♪ I'm getting out of here ♪
+Dialogue: 0,0:21:54.46,0:21:56.07,音乐,,0,0,0,,♪ 哦 不 ♪\N♪ Oh, no ♪
+Dialogue: 0,0:21:56.11,0:21:59.28,音乐,,0,0,0,,♪ 我不放手 直至你开口 ♪\N♪ I won't let go till you say so ♪
+Dialogue: 0,0:21:59.32,0:22:02.59,音乐,,0,0,0,,♪ 我已厌倦迷失 ♪\N♪ I'm tired of being lost ♪
+Dialogue: 0,0:22:02.63,0:22:05.28,音乐,,0,0,0,,♪ 告诉我该如何回家 ♪\N♪ Show me the way to get back ♪
+Dialogue: 0,0:22:05.32,0:22:10.49,音乐,,0,0,0,,♪ 回家 ♪\N♪ Home ♪
+Dialogue: 0,0:22:10.53,0:22:16.27,音乐,,0,0,0,,♪ 我要回家 ♪\N♪ To get back home ♪

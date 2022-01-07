@@ -1,0 +1,1990 @@
+1
+00:01:27,337 --> 00:01:32,050
+Ask a historian,
+"What was mankind's greatest invention?"
+
+2
+00:01:32,634 --> 00:01:35,470
+Fire? The wheel? The sword?
+
+3
+00:01:35,554 --> 00:01:37,848
+I would argue it's history itself.
+
+4
+00:01:37,931 --> 00:01:40,142
+History isn't fact.
+
+5
+00:01:40,225 --> 00:01:44,062
+It's narrative,
+one carefully curated and shaped.
+
+6
+00:01:44,521 --> 00:01:46,982
+Under the pen strokes of the right scribe,
+
+7
+00:01:47,065 --> 00:01:48,525
+a villain becomes a hero,
+
+8
+00:01:49,818 --> 00:01:52,154
+a lie becomes the truth.
+
+9
+00:01:54,198 --> 00:01:55,782
+-Daddy?
+-Yeah?
+
+10
+00:01:55,866 --> 00:01:58,452
+-Where did we come from?
+-Trantor.
+
+11
+00:01:59,036 --> 00:02:01,538
+No, before that.
+
+12
+00:02:01,622 --> 00:02:05,334
+Where did people come from
+in the beginning?
+
+13
+00:02:05,417 --> 00:02:07,377
+There are lots of different theories.
+
+14
+00:02:07,461 --> 00:02:12,549
+Most of them say that humans originally
+inhabited a single planetary system.
+
+15
+00:02:12,633 --> 00:02:13,800
+Only one?
+
+16
+00:02:14,426 --> 00:02:18,680
+And we don't even know which.
+Sirius, Alpha Centauri…
+
+17
+00:02:18,764 --> 00:02:21,350
+Some people think that we came
+from some place called Earth.
+
+18
+00:02:21,934 --> 00:02:23,310
+Come here. Come.
+
+19
+00:02:24,895 --> 00:02:26,897
+So, everyone we know about,
+
+20
+00:02:28,106 --> 00:02:31,902
+they also came from the same place?
+Anacreons and Thespins too?
+
+21
+00:02:32,486 --> 00:02:34,488
+Anacreons and Thespins too, yeah.
+
+22
+00:02:35,781 --> 00:02:37,282
+Then how can they hate us?
+
+23
+00:02:40,619 --> 00:02:44,081
+Being human is complicated, Sal.
+
+24
+00:02:45,207 --> 00:02:49,002
+We share a common origin
+and some of the same myths.
+
+25
+00:02:49,086 --> 00:02:51,922
+But we're governed by this.
+
+26
+00:02:52,464 --> 00:02:56,385
+In here is all the capacity
+for rational thinking,
+
+27
+00:02:57,135 --> 00:03:00,764
+but it's sharing skull space
+with our emotions.
+
+28
+00:03:01,974 --> 00:03:05,602
+And sometimes
+emotions shout louder than logic.
+
+29
+00:03:06,728 --> 00:03:12,109
+And somebody's emotions got real insistent
+that the Empire were doing them wrong.
+
+30
+00:03:12,192 --> 00:03:14,069
+So they blew up the Star Bridge.
+
+31
+00:03:15,112 --> 00:03:16,113
+Yeah.
+
+32
+00:03:18,156 --> 00:03:23,954
+Violence is the last refuge
+of the incompetent.
+
+33
+00:03:24,037 --> 00:03:27,583
+So, they're not like us
+at all then, right?
+
+34
+00:03:28,166 --> 00:03:30,669
+It gets loud up inside here too,
+doesn't it?
+
+35
+00:03:30,752 --> 00:03:32,087
+I guess it does.
+
+36
+00:03:33,213 --> 00:03:34,673
+Come here. Come here.
+
+37
+00:03:35,841 --> 00:03:37,426
+Here's the thing, Sal.
+
+38
+00:03:42,681 --> 00:03:48,270
+Millions of people died
+when that Star Bridge came down.
+
+39
+00:03:50,022 --> 00:03:56,236
+And the Empire killed many millions more
+on Anacreon and Thespis.
+
+40
+00:03:56,778 --> 00:03:57,988
+And who won?
+
+41
+00:03:58,071 --> 00:03:59,823
+-Nobody?
+-Nobody.
+
+42
+00:04:01,283 --> 00:04:04,828
+And that's how we know
+that the fall is bound to happen.
+
+43
+00:04:07,039 --> 00:04:11,752
+Past behavior is the best predictor
+of future performance.
+
+44
+00:04:13,170 --> 00:04:14,505
+Salvor Hardin…
+
+45
+00:04:21,345 --> 00:04:22,679
+We're jumping.
+
+46
+00:05:12,813 --> 00:05:13,814
+Lewis?
+
+47
+00:05:18,318 --> 00:05:19,695
+Lewis, where are you?
+
+48
+00:05:24,700 --> 00:05:25,742
+Terminus?
+
+49
+00:05:26,493 --> 00:05:27,744
+We're home.
+
+50
+00:05:30,330 --> 00:05:31,665
+We jumped back home.
+
+51
+00:05:35,169 --> 00:05:36,170
+Lewis?
+
+52
+00:05:51,810 --> 00:05:52,811
+Damn it.
+
+53
+00:05:57,191 --> 00:05:58,734
+You saved us.
+
+54
+00:06:00,235 --> 00:06:01,570
+You wished us home.
+
+55
+00:06:43,779 --> 00:06:45,155
+Thank you.
+
+56
+00:07:07,344 --> 00:07:11,431
+Terminus Control, this is Salvor Hardin,
+on board the imperial warship Invictus.
+
+57
+00:07:12,015 --> 00:07:13,100
+Do you read me?
+
+58
+00:07:14,768 --> 00:07:16,687
+Terminus Control, do you read me?
+
+59
+00:07:16,770 --> 00:07:18,313
+This is Salvor Hardin.
+
+60
+00:07:20,858 --> 00:07:22,109
+Can anybody hear me?
+
+61
+00:07:44,464 --> 00:07:47,593
+This is Salvor Hardin calling
+the Thespin lancers.
+
+62
+00:07:47,676 --> 00:07:52,097
+The Invictus jumped and we've dragged
+your ships into our quantum wake.
+
+63
+00:07:53,390 --> 00:07:55,184
+We're in orbit around Terminus.
+
+64
+00:07:57,936 --> 00:08:02,441
+If you can hear me, I have no idea
+how to stop this ship from jumping again.
+
+65
+00:08:03,984 --> 00:08:06,528
+It could be an hour from now.
+It could be days.
+
+66
+00:08:08,864 --> 00:08:10,699
+I figure I'm stuck here, unless…
+
+67
+00:08:35,097 --> 00:08:36,099
+The Beggar.
+
+68
+00:08:39,061 --> 00:08:40,479
+How do you get home?
+
+69
+00:08:42,563 --> 00:08:43,899
+Take me through your route.
+
+70
+00:08:47,277 --> 00:08:49,446
+Where does this corridor go?
+
+71
+00:08:50,072 --> 00:08:51,823
+The underground irrigation system.
+
+72
+00:08:51,907 --> 00:08:56,078
+But there's a path above it you could take
+through the old palace ruins.
+
+73
+00:08:56,161 --> 00:08:58,956
+You end up at the servants' exit,
+right next to the palace gates.
+
+74
+00:08:59,039 --> 00:09:00,249
+So, if I could exit here…
+
+75
+00:09:00,332 --> 00:09:02,584
+Hyperloop station's just there.
+
+76
+00:09:02,668 --> 00:09:04,920
+Gate security has DNA scanners.
+
+77
+00:09:06,296 --> 00:09:10,884
+I'll need the signal damper.
+For my nanobots. So they can't track me.
+
+78
+00:09:10,968 --> 00:09:12,386
+I think I can get you one.
+
+79
+00:09:15,055 --> 00:09:16,807
+I don't wanna die in this place.
+
+80
+00:09:18,809 --> 00:09:19,935
+You won't.
+
+81
+00:09:22,145 --> 00:09:24,064
+I can't promise it'll all go right.
+
+82
+00:09:24,857 --> 00:09:27,317
+All I can promise is
+I won't be the part that goes wrong.
+
+83
+00:09:29,695 --> 00:09:31,154
+I have to go. Brother Dusk is--
+
+84
+00:09:31,238 --> 00:09:32,281
+Cleon--
+
+85
+00:09:33,282 --> 00:09:36,577
+I wish you had another name.
+One that was just yours.
+
+86
+00:09:38,912 --> 00:09:40,372
+Tomorrow you can give me one.
+
+87
+00:09:49,089 --> 00:09:52,718
+Get me that signal damper,
+and I'll see you on the other side.
+
+88
+00:10:00,851 --> 00:10:02,728
+My apologies, Brother Dusk. I was--
+
+89
+00:10:02,811 --> 00:10:06,565
+I understand.
+Time flows differently when you're young.
+
+90
+00:10:08,025 --> 00:10:10,944
+I want to share something with you.
+
+91
+00:10:14,281 --> 00:10:17,492
+This is my workplace, as you know.
+
+92
+00:10:18,827 --> 00:10:24,541
+The signature task of Dusk
+is to record our visual history.
+
+93
+00:10:26,668 --> 00:10:28,504
+The end of the Robot Wars.
+
+94
+00:10:30,797 --> 00:10:32,799
+The Golden Horse Rebellion.
+
+95
+00:10:32,883 --> 00:10:37,346
+Each moment an inflection point
+for our dynasty,
+
+96
+00:10:37,429 --> 00:10:41,558
+when the fate of the galaxy
+seemed to be hanging in the balance.
+
+97
+00:10:45,521 --> 00:10:46,980
+As it did here…
+
+98
+00:10:52,778 --> 00:10:57,616
+when I chastened the barbarian worlds
+for their acts of savagery.
+
+99
+00:10:57,699 --> 00:10:59,284
+And even while I was painting it,
+
+100
+00:10:59,368 --> 00:11:05,624
+I was conscious of how we, as its authors,
+would be represented.
+
+101
+00:11:07,918 --> 00:11:12,339
+A clever artist provides commentary
+with his work.
+
+102
+00:11:13,966 --> 00:11:19,721
+Even something as simple
+as a choice of color
+
+103
+00:11:21,181 --> 00:11:23,058
+can convey a hidden meaning.
+
+104
+00:11:24,226 --> 00:11:27,771
+And sometimes the moment's not so obvious.
+
+105
+00:11:28,480 --> 00:11:30,649
+Sometimes it slips past us,
+
+106
+00:11:30,732 --> 00:11:33,527
+and you don't even realize it
+until it is past,
+
+107
+00:11:34,027 --> 00:11:38,323
+until your debut on the wall is upon you.
+
+108
+00:11:40,701 --> 00:11:43,579
+I've painted you into our legacy.
+
+109
+00:11:53,839 --> 00:11:54,923
+Our hunt.
+
+110
+00:11:57,050 --> 00:11:59,636
+Do you see
+the three ghillie raptors you shot?
+
+111
+00:12:03,432 --> 00:12:04,683
+Of course.
+
+112
+00:12:06,393 --> 00:12:08,687
+I've dreamed of one day doing something,
+
+113
+00:12:09,271 --> 00:12:11,899
+anything, worthy enough
+to be included in this mural.
+
+114
+00:12:13,817 --> 00:12:15,861
+I don't know why this small feat is…
+
+115
+00:12:19,406 --> 00:12:22,409
+I'm honored. Thank you.
+
+116
+00:12:26,413 --> 00:12:29,166
+I knew you had
+the greatness of Cleon I in you.
+
+117
+00:12:32,628 --> 00:12:34,171
+But during our hunt,
+
+118
+00:12:35,714 --> 00:12:41,386
+I realized there was something else
+inside you as well.
+
+119
+00:12:43,347 --> 00:12:47,309
+I'll leave you to reflect
+on your own glorious moment.
+
+120
+00:12:48,101 --> 00:12:49,520
+Take your time.
+
+121
+00:12:51,396 --> 00:12:53,273
+Appreciate the subtleties.
+
+122
+00:13:34,147 --> 00:13:37,651
+What we choose
+to tell our children and what we censor.
+
+123
+00:13:40,195 --> 00:13:43,073
+What we illuminate and what we gloss over.
+
+124
+00:13:46,994 --> 00:13:50,414
+History as an act
+of addition and subtraction.
+
+125
+00:14:27,451 --> 00:14:31,830
+Empire, you're needed
+in the Principium Tower.
+
+126
+00:14:33,415 --> 00:14:35,083
+I can't. I'm busy.
+
+127
+00:14:35,667 --> 00:14:37,085
+Brother Dusk insists.
+
+128
+00:14:37,711 --> 00:14:39,296
+I'm indisposed.
+
+129
+00:14:39,379 --> 00:14:42,341
+I need a minute alone,
+and I'll come along. One minute.
+
+130
+00:14:43,509 --> 00:14:44,843
+I am also Empire, you know.
+
+131
+00:14:45,427 --> 00:14:46,512
+Yes, Empire.
+
+132
+00:14:47,471 --> 00:14:48,972
+But we both serve.
+
+133
+00:15:03,237 --> 00:15:06,114
+I forgot something. I need to go back.
+
+134
+00:15:08,075 --> 00:15:09,076
+It can wait.
+
+135
+00:16:02,379 --> 00:16:03,797
+Lock down the entrance.
+
+136
+00:16:09,094 --> 00:16:10,888
+Don't let anyone in or out.
+
+137
+00:16:12,055 --> 00:16:14,349
+There's a path you can take
+through the palace ruins.
+
+138
+00:16:18,645 --> 00:16:21,899
+You end up at the servants' exit,
+right next to the palace gates.
+
+139
+00:16:25,652 --> 00:16:28,030
+This route takes you
+to the underground irrigation system.
+
+140
+00:16:29,656 --> 00:16:31,283
+Hyperloop station's just there.
+
+141
+00:16:31,366 --> 00:16:32,826
+Spread out.
+
+142
+00:17:05,275 --> 00:17:07,986
+Warning. Water cycling imminent.
+
+143
+00:17:08,904 --> 00:17:11,323
+Warning. Water cycling imminent.
+
+144
+00:17:50,153 --> 00:17:52,030
+Four moons, that's a long jump.
+
+145
+00:17:56,159 --> 00:17:57,578
+Go.
+
+146
+00:18:41,830 --> 00:18:43,081
+Beggar, wake the hell up.
+
+147
+00:18:43,624 --> 00:18:45,876
+Welcome aboard, Captain Hardin.
+
+148
+00:19:57,656 --> 00:19:58,657
+Excuse me?
+
+149
+00:20:09,293 --> 00:20:13,297
+It's an imperial aura. For your jacket?
+
+150
+00:20:31,190 --> 00:20:35,360
+Can you tell me how to get
+to the Desnian Sector on level 33?
+
+151
+00:20:35,444 --> 00:20:41,200
+Take the Cobalt Line down,
+then transfer to Ery Loop.
+
+152
+00:20:43,327 --> 00:20:45,120
+You wanna head inner core.
+
+153
+00:20:56,548 --> 00:20:58,634
+Beggar, open a channel
+to Terminus Control.
+
+154
+00:20:58,717 --> 00:21:00,427
+Communications channel open.
+
+155
+00:21:00,511 --> 00:21:02,638
+Terminus Control,
+this is Salvor Hardin. Come in.
+
+156
+00:21:05,557 --> 00:21:06,558
+Damn it.
+
+157
+00:21:07,935 --> 00:21:10,145
+Beggar, scan all frequencies.
+Find me anyone on comms.
+
+158
+00:21:10,229 --> 00:21:11,230
+Scanning.
+
+159
+00:21:14,441 --> 00:21:15,859
+No active comms detected
+
+160
+00:21:15,943 --> 00:21:17,486
+on the surface of Terminus.
+
+161
+00:21:24,952 --> 00:21:26,036
+You found someone?
+
+162
+00:21:26,119 --> 00:21:29,498
+Caution. Anomalous debris
+on potential intercept trajectory.
+
+163
+00:21:29,581 --> 00:21:30,874
+Threat level low.
+
+164
+00:21:34,127 --> 00:21:35,379
+What the hell is that?
+
+165
+00:21:35,462 --> 00:21:38,715
+Alert. Anomalous debris
+on confirmed intercept trajectory.
+
+166
+00:21:38,799 --> 00:21:39,800
+Threat level moderate.
+
+167
+00:21:40,384 --> 00:21:41,844
+I need guns. Where are the guns?
+
+168
+00:21:43,846 --> 00:21:44,888
+Beggar, show me the guns.
+
+169
+00:21:46,640 --> 00:21:49,643
+Warning. Anomalous debris
+object impact imminent.
+
+170
+00:21:49,726 --> 00:21:52,020
+Threat level severe. Warning.
+
+171
+00:21:52,104 --> 00:21:53,105
+Target locked.
+
+172
+00:21:54,022 --> 00:21:56,191
+Babe? Babe, are you there?
+
+173
+00:21:57,150 --> 00:21:58,652
+Hugo, is that you?
+
+174
+00:22:13,792 --> 00:22:15,085
+Our plan worked, Sal.
+
+175
+00:22:18,380 --> 00:22:19,882
+How'd you get here from the Belt?
+
+176
+00:22:20,716 --> 00:22:22,009
+Luck, mostly.
+
+177
+00:22:22,092 --> 00:22:26,096
+I made contact with Thespin Command.
+I rode shotgun on one of the lancers.
+
+178
+00:22:26,930 --> 00:22:30,184
+And then I could see
+the Invictus was about to jump,
+
+179
+00:22:30,267 --> 00:22:34,521
+so I grabbed a sedation stick
+and knocked myself out for the jump.
+
+180
+00:22:34,605 --> 00:22:36,899
+Warned the rest of my people
+to do the same.
+
+181
+00:22:40,402 --> 00:22:42,613
+And I woke up to the dulcet tones
+of your voice.
+
+182
+00:22:45,949 --> 00:22:48,285
+But I don't understand
+how you woke up so quickly.
+
+183
+00:22:48,368 --> 00:22:50,954
+I never went to sleep.
+It's like the Vault.
+
+184
+00:22:51,038 --> 00:22:53,999
+I can't explain how or why,
+but the jump just didn't affect me.
+
+185
+00:22:54,082 --> 00:22:55,834
+So you got us back to Terminus?
+
+186
+00:22:55,918 --> 00:22:59,129
+No, that was Lewis.
+He died to get us back.
+
+187
+00:22:59,213 --> 00:23:01,048
+And the Foundation's not responding?
+
+188
+00:23:02,799 --> 00:23:04,092
+No one is,
+
+189
+00:23:05,677 --> 00:23:07,763
+not even the Anacreons Phara left behind.
+
+190
+00:23:10,974 --> 00:23:12,559
+It's the null field.
+
+191
+00:23:12,643 --> 00:23:14,394
+I can feel it, Hugo.
+
+192
+00:23:16,271 --> 00:23:21,360
+It's… even bigger. It's… louder.
+
+193
+00:23:21,443 --> 00:23:23,695
+It's like it's enveloped the whole planet.
+
+194
+00:23:26,281 --> 00:23:27,533
+I have to stop it.
+
+195
+00:23:28,116 --> 00:23:29,159
+Are you crazy?
+
+196
+00:23:30,994 --> 00:23:32,746
+What if they're all dead down there?
+
+197
+00:23:33,997 --> 00:23:36,166
+What if we just left? Right now.
+
+198
+00:23:36,875 --> 00:23:38,210
+We'll make a run for the Red Corridor.
+
+199
+00:23:38,293 --> 00:23:40,128
+I'll show you Irina Four,
+I'll show you Hesperus--
+
+200
+00:23:40,212 --> 00:23:41,547
+I can't, Hugo.
+
+201
+00:23:41,630 --> 00:23:43,882
+What if there is no solution
+to this crisis?
+
+202
+00:23:45,217 --> 00:23:46,552
+What if Seldon got it wrong?
+
+203
+00:23:58,397 --> 00:24:01,233
+I have to see this through, Hugo.
+
+204
+00:24:05,195 --> 00:24:06,530
+I have to fix this.
+
+205
+00:24:13,996 --> 00:24:15,330
+What do you want me to do?
+
+206
+00:24:18,834 --> 00:24:23,130
+The Invictus is gonna jump again
+unless your people can disable its drives.
+
+207
+00:24:23,213 --> 00:24:25,674
+Then let it jump. Let it take Phara.
+It'll be out of our lives forever.
+
+208
+00:24:25,757 --> 00:24:26,758
+No.
+
+209
+00:24:27,259 --> 00:24:29,136
+The Foundation needs that ship.
+
+210
+00:24:31,513 --> 00:24:33,015
+It's the way we end the crisis.
+
+211
+00:24:34,683 --> 00:24:37,060
+-I can't tell you how…
+-I just have a feeling.
+
+212
+00:24:43,609 --> 00:24:47,279
+You said you have absolute faith in me.
+
+213
+00:24:50,490 --> 00:24:51,533
+You still believe that?
+
+214
+00:24:55,954 --> 00:24:58,874
+Be kind of a dick
+if I changed my mind now, wouldn't I?
+
+215
+00:25:12,971 --> 00:25:14,181
+I'll see you on the other side.
+
+216
+00:25:25,150 --> 00:25:26,401
+I love you.
+
+217
+00:25:27,444 --> 00:25:28,570
+Me too.
+
+218
+00:25:51,510 --> 00:25:54,638
+You've lived every moment
+of your life with people watching you.
+
+219
+00:25:55,848 --> 00:25:57,808
+The Scar's different.
+
+220
+00:25:58,475 --> 00:26:00,018
+You can lose yourself in it.
+
+221
+00:26:01,895 --> 00:26:04,273
+For Empire, the Scar represents a failure.
+
+222
+00:26:04,857 --> 00:26:07,943
+For the rest of Trantor,
+it represents an opportunity.
+
+223
+00:26:09,236 --> 00:26:10,821
+For the first time in centuries,
+
+224
+00:26:10,904 --> 00:26:15,158
+we can look up and see
+real clouds, real stars,
+
+225
+00:26:16,326 --> 00:26:19,663
+not a simulation run by servers
+designed to keep us complacent.
+
+226
+00:26:32,176 --> 00:26:36,221
+I live on level 33,
+in the Desnian Sector.
+
+227
+00:26:39,600 --> 00:26:42,102
+Old Tertia makes the best
+spiced malkas on the planet.
+
+228
+00:26:48,358 --> 00:26:50,152
+This is the corridor I take home.
+
+229
+00:26:53,947 --> 00:26:55,782
+It's nothing like your palace.
+
+230
+00:26:57,409 --> 00:26:59,119
+It's chaotic. It's crowded.
+
+231
+00:27:06,960 --> 00:27:08,462
+But it's alive.
+
+232
+00:27:12,174 --> 00:27:13,467
+And it's waiting for you.
+
+233
+00:27:35,364 --> 00:27:36,365
+I couldn't wait.
+
+234
+00:28:01,932 --> 00:28:03,433
+You're not wearing your aura.
+
+235
+00:28:05,185 --> 00:28:09,815
+I traded it for this,
+so I wouldn't be recognized.
+
+236
+00:28:12,234 --> 00:28:13,527
+The jacket's smart.
+
+237
+00:28:15,404 --> 00:28:16,446
+Now we can burn it.
+
+238
+00:28:30,002 --> 00:28:34,214
+We need to get my nanobots removed
+in case they're tracking me. I…
+
+239
+00:28:35,424 --> 00:28:37,676
+I probably shouldn't even stay here.
+
+240
+00:28:38,594 --> 00:28:40,846
+It's okay. I got the signal damper.
+
+241
+00:28:41,680 --> 00:28:43,682
+That'll cover you until we can arrange to…
+
+242
+00:28:48,312 --> 00:28:49,313
+Hey.
+
+243
+00:28:51,690 --> 00:28:53,150
+The hardest part's over.
+
+244
+00:28:59,114 --> 00:29:00,532
+You got away from them.
+
+245
+00:29:02,910 --> 00:29:03,911
+You're here.
+
+246
+00:29:11,043 --> 00:29:12,753
+But, truthfully…
+
+247
+00:29:14,004 --> 00:29:15,506
+you still smell terrible.
+
+248
+00:29:19,551 --> 00:29:21,053
+Why don't you shower?
+
+249
+00:29:50,082 --> 00:29:52,709
+Hey, I was thinking
+about a new name for me.
+
+250
+00:29:59,258 --> 00:30:00,259
+Azura?
+
+251
+00:30:11,937 --> 00:30:12,980
+What is that for?
+
+252
+00:31:19,004 --> 00:31:20,672
+According to Salvor,
+the engine room is that way.
+
+253
+00:31:24,551 --> 00:31:28,180
+We've got about thirty-three hours
+to disable the jumpdrives.
+
+254
+00:31:29,681 --> 00:31:32,768
+What happened here?
+
+255
+00:31:34,186 --> 00:31:38,190
+A long and terrible story
+that no one's alive to tell…
+
+256
+00:31:38,649 --> 00:31:39,858
+Anacreons, where?
+
+257
+00:31:40,651 --> 00:31:44,530
+The bridge.
+Salvor has them tied up in there.
+
+258
+00:31:45,572 --> 00:31:46,573
+All clear.
+
+259
+00:32:01,171 --> 00:32:03,006
+A wise man once said,
+
+260
+00:32:03,090 --> 00:32:06,134
+"A people without history
+is like a tree without roots."
+
+261
+00:32:10,055 --> 00:32:12,641
+What's missing
+from the wise man's history?
+
+262
+00:32:12,724 --> 00:32:14,560
+When did story replace record?
+
+263
+00:32:19,231 --> 00:32:22,192
+When all the facts
+fall short of believability,
+
+264
+00:32:22,860 --> 00:32:25,654
+fantasy feels reassuringly solid.
+
+265
+00:32:26,905 --> 00:32:29,074
+And since this is my history,
+
+266
+00:32:29,700 --> 00:32:32,327
+I get to decide
+which parts have been subtracted,
+
+267
+00:32:33,662 --> 00:32:34,997
+which have been added.
+
+268
+00:34:01,124 --> 00:34:02,125
+Jord?
+
+269
+00:35:09,902 --> 00:35:12,571
+Mom? Mom?
+
+270
+00:35:14,406 --> 00:35:17,242
+Mom. Mom, wake up, it's me.
+
+271
+00:35:19,578 --> 00:35:21,622
+Mom. Mom, wake up, it's me.
+
+272
+00:35:39,806 --> 00:35:41,016
+Can you make anything of it?
+
+273
+00:36:09,044 --> 00:36:11,797
+Fine. I'll figure it out myself.
+
+274
+00:36:35,821 --> 00:36:37,656
+Open your fists, Salvor.
+
+275
+00:36:39,950 --> 00:36:41,326
+Open your fists, Salvor.
+
+276
+00:36:41,994 --> 00:36:42,995
+Come on.
+
+277
+00:37:00,721 --> 00:37:01,972
+Can you make anything of it?
+
+278
+00:37:02,556 --> 00:37:05,184
+Salvor, if you were part of the Plan,
+
+279
+00:37:05,267 --> 00:37:07,853
+it would make it a lot easier
+for me to believe in all this.
+
+280
+00:37:23,035 --> 00:37:24,953
+How long did it take you…
+
+281
+00:37:25,871 --> 00:37:27,456
+to trigger the Prime Radiant?
+
+282
+00:37:27,998 --> 00:37:29,249
+Got it on the second try.
+
+283
+00:37:45,516 --> 00:37:50,103
+History is the ultimate weapon,
+because it harnesses time itself.
+
+284
+00:37:50,896 --> 00:37:54,858
+Used correctly,
+the past can alter the present.
+
+285
+00:37:56,276 --> 00:37:57,903
+What other invention can do that?
+
+286
+00:38:51,999 --> 00:38:53,292
+Salvor?
+
+287
+00:38:53,375 --> 00:38:54,376
+Mom?
+
+288
+00:39:01,925 --> 00:39:03,969
+-I thought I'd never see you again.
+-Me too.
+
+289
+00:39:14,396 --> 00:39:17,399
+The null field, it's stopped.
+
+290
+00:39:27,117 --> 00:39:28,202
+Did you do this?
+
+291
+00:39:37,961 --> 00:39:39,129
+Is that a door?
+
+292
+00:39:43,133 --> 00:39:44,593
+I think so.
+
+293
+00:39:44,676 --> 00:39:46,094
+So, what now?
+
+294
+00:39:48,639 --> 00:39:50,057
+Now is where it ends.
+
+295
+00:40:00,859 --> 00:40:02,528
+Did you find the Huntress?
+
+296
+00:40:02,945 --> 00:40:04,279
+We searched the entire ship.
+
+297
+00:40:04,655 --> 00:40:05,864
+No sign of her.
+
+298
+00:40:06,907 --> 00:40:08,742
+Except this.
+
+299
+00:40:10,244 --> 00:40:12,663
+Then we get down to Terminus
+as fast as possible.
+
+300
+00:40:13,747 --> 00:40:16,583
+Obsidian, open a channel
+to Arkose and Gneiss.
+
+301
+00:40:16,667 --> 00:40:19,127
+Communications channel open.
+
+302
+00:40:19,920 --> 00:40:21,672
+This is Thespin Command.
+
+303
+00:40:22,548 --> 00:40:26,426
+I want all lancers planet-side
+immediately.
+
+304
+00:40:27,719 --> 00:40:29,972
+Which one of you is this ship slave to?
+
+305
+00:40:36,186 --> 00:40:40,065
+Slave this ship to Phara Keaen,
+or you die too.
+
+306
+00:40:40,148 --> 00:40:44,903
+Arkose, invoke protocol.
+Ship transfer, Phara Keaen.
+
+307
+00:40:57,207 --> 00:40:58,709
+Heart rate's rising.
+
+308
+00:41:02,254 --> 00:41:05,799
+If it gets to 120,
+then the bots go into crisis mode.
+
+309
+00:41:07,467 --> 00:41:09,136
+I'll increase the inhibitors.
+
+310
+00:41:10,220 --> 00:41:11,305
+Pulse is stabilizing.
+
+311
+00:41:16,268 --> 00:41:17,978
+Start the transfer now.
+
+312
+00:41:55,098 --> 00:41:57,518
+We're transferring your nanobots
+into my blood.
+
+313
+00:41:58,560 --> 00:42:00,521
+That's what you wanted, isn't it?
+
+314
+00:42:01,688 --> 00:42:03,190
+To have them removed?
+
+315
+00:42:03,273 --> 00:42:04,399
+Who are you?
+
+316
+00:42:04,483 --> 00:42:07,528
+A Dawn clone, obviously.
+
+317
+00:42:07,611 --> 00:42:09,613
+Superficially identical to you.
+
+318
+00:42:11,532 --> 00:42:13,325
+But how are you…
+
+319
+00:42:13,408 --> 00:42:16,954
+Here? Instead of floating in an aquarium?
+
+320
+00:42:19,081 --> 00:42:22,501
+Our people managed to smuggle
+some of Cleon I's DNA out of the palace.
+
+321
+00:42:23,418 --> 00:42:25,337
+We've been working
+towards this day for decades.
+
+322
+00:42:25,420 --> 00:42:28,966
+You surprised us.
+We'd planned to have you escape tomorrow.
+
+323
+00:42:30,050 --> 00:42:31,343
+Where's Azura?
+
+324
+00:42:43,230 --> 00:42:44,565
+This was all a trap.
+
+325
+00:42:46,441 --> 00:42:47,985
+How could you do this to me?
+
+326
+00:42:49,194 --> 00:42:50,195
+You?
+
+327
+00:42:51,321 --> 00:42:52,948
+This is about the rest of the galaxy,
+
+328
+00:42:53,532 --> 00:42:56,660
+all the planets and people who've
+been crushed under the Empire's heel.
+
+329
+00:42:56,743 --> 00:42:57,870
+It's not his fault.
+
+330
+00:42:59,329 --> 00:43:00,706
+It's how he was raised.
+
+331
+00:43:02,291 --> 00:43:04,543
+He and his brothers have always been told
+
+332
+00:43:04,626 --> 00:43:08,463
+they are the light that never dims,
+an unbroken chain.
+
+333
+00:43:10,674 --> 00:43:13,719
+Reality just doesn't penetrate
+their little terrarium.
+
+334
+00:43:14,595 --> 00:43:16,763
+I don't know how you're gonna stomach it.
+
+335
+00:43:16,847 --> 00:43:17,848
+I'll be fine.
+
+336
+00:43:18,849 --> 00:43:20,851
+I've been practicing my role long enough,
+
+337
+00:43:21,935 --> 00:43:24,605
+the cloistered little tyrant
+in the making…
+
+338
+00:43:27,649 --> 00:43:32,821
+projecting that subtle air
+of self-pitying, arrogant indifference.
+
+339
+00:43:35,824 --> 00:43:39,828
+Practicing? What are you talking about?
+
+340
+00:43:40,370 --> 00:43:43,290
+"Practicing? What are you talking about?"
+
+341
+00:43:44,958 --> 00:43:46,793
+I'm your understudy, Dawn.
+
+342
+00:43:46,877 --> 00:43:49,379
+And now it's time
+for me to take center stage.
+
+343
+00:43:49,963 --> 00:43:51,924
+I'm going to go back to the palace,
+
+344
+00:43:53,258 --> 00:43:54,760
+and I'm gonna be you.
+
+345
+00:43:56,386 --> 00:43:59,181
+They'll just kill you then.
+They know I'm different.
+
+346
+00:43:59,264 --> 00:44:01,099
+Right, but…
+
+347
+00:44:02,518 --> 00:44:03,644
+I'm not.
+
+348
+00:44:04,394 --> 00:44:08,023
+I'm not color-blind. I'm not left-handed.
+
+349
+00:44:08,774 --> 00:44:11,902
+I'm genetically identical to Cleon I.
+
+350
+00:44:14,071 --> 00:44:15,072
+And I can prove it.
+
+351
+00:44:15,155 --> 00:44:17,407
+I don't understand.
+
+352
+00:44:18,534 --> 00:44:20,869
+How can you be identical to the first,
+and I'm not?
+
+353
+00:44:21,620 --> 00:44:24,998
+"Magnetic nanoparticle transfection"
+is the technical term.
+
+354
+00:44:25,582 --> 00:44:27,417
+It's all a little over my head,
+
+355
+00:44:27,501 --> 00:44:30,170
+but, basically, they altered your DNA
+after the fact.
+
+356
+00:44:30,254 --> 00:44:34,341
+Like I said, this has been planned since
+before you or I took our first breath.
+
+357
+00:44:34,842 --> 00:44:37,469
+Our people knew they had to get you
+out of the palace,
+
+358
+00:44:38,637 --> 00:44:40,222
+but they couldn't just take you.
+
+359
+00:44:40,931 --> 00:44:42,432
+That would've been too risky.
+
+360
+00:44:43,058 --> 00:44:45,936
+They had to make it
+so you'd choose to leave.
+
+361
+00:44:47,229 --> 00:44:51,358
+You needed a motive to run.
+And what better motive than survival?
+
+362
+00:44:54,194 --> 00:44:58,031
+We're the ones
+who made you different, Empire.
+
+363
+00:45:00,158 --> 00:45:02,244
+In a certain way, you're lucky too.
+
+364
+00:45:02,327 --> 00:45:05,581
+The Genetic Dynasty's
+an affront to humanity,
+
+365
+00:45:05,664 --> 00:45:06,832
+and you're no longer part of it.
+
+366
+00:45:08,750 --> 00:45:09,877
+You never really were.
+
+367
+00:45:11,670 --> 00:45:13,422
+The transfer's complete.
+
+368
+00:45:40,616 --> 00:45:42,451
+You had no choice in any of this…
+
+369
+00:45:44,161 --> 00:45:45,829
+but thank you just the same.
+
+370
+00:45:56,798 --> 00:45:58,258
+Get him up.
+
+371
+00:46:01,887 --> 00:46:03,555
+What are you gonna do to me?
+
+372
+00:46:03,639 --> 00:46:04,765
+What do you think, Cleon?
+
+373
+00:46:30,290 --> 00:46:31,792
+Azura. Azura, this way.
+
+374
+00:46:52,062 --> 00:46:53,063
+Empire.
+
+375
+00:46:55,440 --> 00:46:57,860
+Brother Dusk! I am so grateful.
+
+376
+00:47:01,738 --> 00:47:04,116
+I want a full memory audit
+of all the dead.
+
+377
+00:47:04,199 --> 00:47:05,242
+And the girl?
+
+378
+00:47:06,451 --> 00:47:08,912
+The girl. Yes.
+
+379
+00:47:13,250 --> 00:47:15,085
+Quite a performance.
+
+380
+00:47:16,003 --> 00:47:18,755
+It was a pleasure to observe it,
+
+381
+00:47:20,048 --> 00:47:23,760
+tailored though it was
+to the young and foolish.
+
+382
+00:47:33,687 --> 00:47:35,898
+You didn't really think
+we'd let this drone leave the palace
+
+383
+00:47:35,981 --> 00:47:37,900
+without alerting us, did you?
+
+384
+00:47:37,983 --> 00:47:42,946
+We followed your whole
+enticing travelogue home, my dear.
+
+385
+00:47:51,163 --> 00:47:53,290
+You let him get away
+so he would lead you to us.
+
+386
+00:47:54,124 --> 00:47:55,125
+Shroud her.
+
+387
+00:48:16,188 --> 00:48:17,731
+You got what you wanted then.
+
+388
+00:48:19,024 --> 00:48:21,693
+Never presume to understand what I want.
+
+389
+00:48:27,407 --> 00:48:31,245
+You are stupid, naive, gullible.
+
+390
+00:48:31,995 --> 00:48:33,288
+So was I at your age.
+
+391
+00:48:33,914 --> 00:48:35,582
+And these things are forgivable.
+
+392
+00:48:35,666 --> 00:48:39,586
+But the matter of your… difference,
+
+393
+00:48:41,129 --> 00:48:42,589
+that's rather more complicated.
+
+394
+00:48:42,673 --> 00:48:44,633
+But you must've heard them.
+
+395
+00:48:45,676 --> 00:48:48,345
+I'm a victim. We all are.
+
+396
+00:48:48,428 --> 00:48:49,805
+Yes.
+
+397
+00:48:49,888 --> 00:48:54,268
+And that makes you
+the embodiment of our vulnerability,
+
+398
+00:48:54,351 --> 00:48:56,979
+an ugly reminder of the knife-edge
+
+399
+00:48:57,062 --> 00:49:00,607
+upon which
+our Genetic Dynasty is balanced.
+
+400
+00:49:01,358 --> 00:49:06,738
+By what logic would we want
+to look on your face ever again?
+
+401
+00:49:08,198 --> 00:49:09,241
+My face?
+
+402
+00:49:12,077 --> 00:49:13,620
+My face is your face.
+
+403
+00:49:14,663 --> 00:49:18,625
+Forget logic. Try empathy.
+
+404
+00:49:27,467 --> 00:49:29,261
+Wait, wait, wait.
+
+405
+00:49:29,344 --> 00:49:32,514
+Surely it's not up to you. It's up to Day.
+
+406
+00:49:33,849 --> 00:49:34,850
+True.
+
+407
+00:49:35,475 --> 00:49:37,102
+Brother Day will be home soon.
+
+408
+00:49:37,895 --> 00:49:39,438
+You can plead your case to him.
+
+409
+00:49:40,689 --> 00:49:44,860
+I doubt his experience on the Maiden
+has made him serene.
+
+410
+00:49:55,037 --> 00:49:57,456
+Warden, you made it back!
+
+411
+00:49:57,539 --> 00:49:59,124
+Keep your distance, you two.
+
+412
+00:49:59,208 --> 00:50:01,376
+But everyone's waking up. It's over.
+
+413
+00:50:01,460 --> 00:50:02,961
+It's not over.
+
+414
+00:50:03,045 --> 00:50:04,546
+Salvor, wait. Don't go in there.
+
+415
+00:50:04,630 --> 00:50:06,215
+I have to, Mom.
+
+416
+00:50:07,758 --> 00:50:09,551
+You will not! Step away.
+
+417
+00:50:10,177 --> 00:50:13,388
+You said this wasn't a trick,
+that you didn't know what this was.
+
+418
+00:50:13,472 --> 00:50:14,473
+We don't.
+
+419
+00:50:14,556 --> 00:50:17,809
+And yet your daughter has tamed it.
+How do you explain that?
+
+420
+00:51:22,332 --> 00:51:24,459
+Sorry, Sal.
+I tried to talk 'em out of landing.
+
+421
+00:51:25,127 --> 00:51:26,962
+No, this makes sense.
+
+422
+00:51:27,045 --> 00:51:31,466
+This is where I'm supposed to be.
+Everything converging in a single crisis.
+
+423
+00:51:31,550 --> 00:51:33,594
+Where is our Huntress?
+
+424
+00:51:35,721 --> 00:51:37,639
+She lost control of the Invictus.
+
+425
+00:51:38,390 --> 00:51:42,561
+Your plans for martyrdom, for Trantor,
+they're done.
+
+426
+00:51:43,228 --> 00:51:44,438
+Rowan?
+
+427
+00:51:45,314 --> 00:51:47,649
+The Weald Gods have forsaken us.
+
+428
+00:52:17,346 --> 00:52:18,972
+Oh, hammered shit.
+
+429
+00:52:33,529 --> 00:52:37,366
+Well, isn't this a pretty picture?
+
+430
+00:52:37,950 --> 00:52:42,079
+Enemies old and new,
+conveniently gathered in one place.
+
+431
+00:52:46,375 --> 00:52:49,294
+Drop your weapons and unbind him.
+
+432
+00:52:57,094 --> 00:53:01,765
+And you, Warden, don't even think
+about flashing that coin of yours.
+
+433
+00:53:02,432 --> 00:53:05,853
+I'm glad you're alive, Phara, truly.
+
+434
+00:53:07,771 --> 00:53:08,772
+I need you to hear this.
+
+435
+00:53:08,856 --> 00:53:12,276
+Last thing I'm interested in hearing
+is more words from you.
+
+436
+00:53:12,359 --> 00:53:15,821
+Phara, please. The jump induces psychosis.
+You're not thinking straight.
+
+437
+00:53:15,904 --> 00:53:17,573
+I'm thinking just fine.
+
+438
+00:53:25,205 --> 00:53:26,373
+Also aiming.
+
+439
+00:53:26,456 --> 00:53:28,959
+Look, if you don't like
+what I have to say,
+
+440
+00:53:29,668 --> 00:53:33,422
+you can kill me when I'm done.
+You can kill all of us.
+
+441
+00:53:33,505 --> 00:53:35,007
+I will.
+
+442
+00:53:37,009 --> 00:53:38,385
+That ship…
+
+443
+00:53:40,262 --> 00:53:44,641
+is the most powerful weapon
+your people will ever get their hands on.
+
+444
+00:53:45,475 --> 00:53:47,895
+If that's the case, why destroy it?
+
+445
+00:53:49,813 --> 00:53:52,399
+-Why not use it for leverage?
+-How?
+
+446
+00:53:52,482 --> 00:53:55,652
+We band together, all three worlds.
+
+447
+00:53:55,736 --> 00:53:57,112
+Stop moving!
+
+448
+00:54:00,032 --> 00:54:01,783
+We can share the Invictus.
+
+449
+00:54:01,867 --> 00:54:05,662
+We can repair it, together.
+
+450
+00:54:06,997 --> 00:54:11,043
+All we have to do is let our logic speak
+louder than our emotions.
+
+451
+00:54:16,673 --> 00:54:17,674
+Phara, stop.
+
+452
+00:54:20,093 --> 00:54:24,890
+You would take up arms
+against your own Huntress?
+
+453
+00:54:24,973 --> 00:54:26,934
+The hunt is over, Phara.
+
+454
+00:54:40,531 --> 00:54:42,074
+Phara, stop!
+
+455
+00:55:13,939 --> 00:55:15,607
+-Take aim!
+-Freestone, wait!
+
+456
+00:55:19,820 --> 00:55:22,447
+She's gone. Drop it.
+
+457
+00:55:43,468 --> 00:55:44,970
+Well, this is encouraging.
+
+458
+00:55:45,554 --> 00:55:48,807
+Anacreons, Thespins, and Termini.
+
+459
+00:55:50,017 --> 00:55:52,769
+Seeing you all gathered here
+gives me hope…
+
+460
+00:55:55,939 --> 00:55:58,025
+we might actually pull this off.
+
