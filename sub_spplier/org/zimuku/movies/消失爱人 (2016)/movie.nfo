@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2021-05-01 10:08:24 - tinyMediaManager 4.0.6-->
+<movie>
+  <title>消失爱人</title>
+  <originaltitle/>
+  <sorttitle/>
+  <epbookmark/>
+  <year>2016</year>
+  <ratings>
+    <rating default="true" max="10" name="imdb">
+      <value>6.1</value>
+      <votes>89</votes>
+    </rating>
+    <rating default="false" max="10" name="trakt">
+      <value>7.5</value>
+      <votes>4</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <top250>0</top250>
+  <set/>
+  <plot>凯峰（黎明 饰）的妻子秋捷（王珞丹 饰）在一场意外之中不幸丧生，令凯峰沉浸在悲痛和绝望之中。凯峰找到了灵媒师，希望妻子能够死而复生，然而让凯峰没有想到的是，他的愿望竟然成真，秋捷以幽灵的形式回到了他的身边。  灵媒师告诉凯峰，秋捷并不知道自己已经死去，凯峰和儿子沐沐必须保守这个秘密，一旦秋捷识破真相，就会消失。就这样，这个家庭以这样一种诡异的方式破镜重圆。然而某一日，凯峰的表弟吉米（林俊杰 饰）竟然看见了秋捷的魂魄，与此同时，令秋捷丧生的那场雪山事故亦被媒体大肆报道，当一切都濒临崩溃之时，一个更大的秘密渐渐浮出了水面。</plot>
+  <outline>凯峰（黎明 饰）的妻子秋捷（王珞丹 饰）在一场意外之中不幸丧生，令凯峰沉浸在悲痛和绝望之中。凯峰找到了灵媒师，希望妻子能够死而复生，然而让凯峰没有想到的是，他的愿望竟然成真，秋捷以幽灵的形式回到了他的身边。  灵媒师告诉凯峰，秋捷并不知道自己已经死去，凯峰和儿子沐沐必须保守这个秘密，一旦秋捷识破真相，就会消失。就这样，这个家庭以这样一种诡异的方式破镜重圆。然而某一日，凯峰的表弟吉米（林俊杰 饰）竟然看见了秋捷的魂魄，与此同时，令秋捷丧生的那场雪山事故亦被媒体大肆报道，当一切都濒临崩溃之时，一个更大的秘密渐渐浮出了水面。</outline>
+  <tagline>被怀念的灵魂 从未离开过</tagline>
+  <runtime>104</runtime>
+  <thumb aspect="poster">http://image.tmdb.org/t/p/original/gNF2orMYaDumNSfjqq5PQkfcQlv.jpg</thumb>
+  <fanart>
+    <thumb>http://image.tmdb.org/t/p/original/bgYM1l7b9Y2oKq2875yQSGp7XK8.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id>tt5436486</id>
+  <tmdbid>394856</tmdbid>
+  <tmdbCollectionId/>
+  <uniqueid default="false" type="tmdb">394856</uniqueid>
+  <uniqueid default="true" type="imdb">tt5436486</uniqueid>
+  <uniqueid default="false" type="trakt">241869</uniqueid>
+  <country/>
+  <status/>
+  <code/>
+  <premiered>2016-01-15</premiered>
+  <watched>false</watched>
+  <playcount/>
+  <lastplayed/>
+  <genre>Romance</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <studio/>
+  <credits>Barbara Wong</credits>
+  <credits>Skipper Cheng</credits>
+  <credits>Silver Hau</credits>
+  <director>Barbara Wong</director>
+  <actor>
+    <name>Leon Lai</name>
+    <role>Kaifeng</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/leon-lai</profile>
+  </actor>
+  <actor>
+    <name>JJ Lin</name>
+    <role>Jimmy</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/jj-lin</profile>
+  </actor>
+  <actor>
+    <name>Patrick J Molloy</name>
+    <role/>
+    <thumb/>
+    <profile>https://trakt.tv/people/patrick-j-molloy</profile>
+  </actor>
+  <actor>
+    <name>Wang Luodan</name>
+    <role>Qiu Jie</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/wang-luodan</profile>
+  </actor>
+  <actor>
+    <name>Sandrine Pinna</name>
+    <role>Yanzi</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/sandrine-pinna-439533</profile>
+  </actor>
+  <actor>
+    <name>Shek Sau</name>
+    <role>Kaifeng's father</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/shek-sau</profile>
+  </actor>
+  <actor>
+    <name>Emil He Cheng-Wei</name>
+    <role>Mu Mu</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/emil-he-cheng-wei</profile>
+  </actor>
+  <actor>
+    <name>Chuan Wang</name>
+    <role>Kaifeng's mother</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/chuan-wang</profile>
+  </actor>
+  <trailer/>
+  <languages/>
+  <dateadded>2021-04-30 19:06:54</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>RealVideo</codec>
+        <aspect>1.78</aspect>
+        <width>1280</width>
+        <height>720</height>
+        <durationinseconds>8942</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language/>
+        <channels>2</channels>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>消失爱人 (2016) 720p AAC.rmvb</original_filename>
+  <user_note/>
+</movie>
