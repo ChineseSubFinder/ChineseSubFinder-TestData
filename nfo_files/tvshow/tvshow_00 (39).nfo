@@ -1,0 +1,59 @@
+<tvshow>
+  <title>Steins;Gate</title>
+  <rating>8.9</rating>
+  <plot>Steins;Gate is about a group of friends who have customized their microwave into a device that can send text messages to the past. As they perform different experiments, an organization named SERN who has been doing their own research on time travel tracks them down and now the characters have to find a way to avoid being captured by them.</plot>
+  <mpaa>TV-14</mpaa>
+  <id>244061</id>
+  <uniqueid type="tvdb" default="true">244061</uniqueid>
+  <uniqueid type="imdb">tt1910272</uniqueid>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2011-04-06</premiered>
+  <studio>TV Tokyo</studio>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Rintarou Okabe</role>
+  </actor>
+  <actor>
+    <name>Asami Imai</name>
+    <role>Kurisu Makise</role>
+  </actor>
+  <actor>
+    <name>Kana Hanazawa</name>
+    <role>Mayuri Shiina</role>
+  </actor>
+  <actor>
+    <name>Tomokazu Seki</name>
+    <role>Itaru Hashida</role>
+  </actor>
+  <actor>
+    <name>Saori Gotou</name>
+    <role>Moeka Kiryuu</role>
+  </actor>
+  <actor>
+    <name>Haruko Momoi</name>
+    <role>Faris Nyan-Nyan</role>
+  </actor>
+  <actor>
+    <name>Yuu Kobayashi</name>
+    <role>Ruka Urushibara</role>
+  </actor>
+  <actor>
+    <name>Yukari Tamura</name>
+    <role>Suzuha Amane</role>
+  </actor>
+  <actor>
+    <name>Masaki Terasoma</name>
+    <role>Yuugo Tennouji</role>
+  </actor>
+  <actor>
+    <name>Ayano Yamamoto</name>
+    <role>Nae Tennouji</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=244061

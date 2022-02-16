@@ -1,0 +1,80 @@
+<tvshow>
+  <title>Rick and Morty</title>
+  <rating>9.3</rating>
+  <plot>Follows the misadventures of an alcoholic scientist Rick and his overly nervous grandson Morty, who split their time between domestic family life and intergalactic travel. Often finding themselves in a heap of trouble that more often than not is created through their own actions.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>275274</id>
+  <uniqueid type="tvdb" default="true">275274</uniqueid>
+  <uniqueid type="imdb">tt2861424</uniqueid>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Science Fiction</genre>
+  <premiered>2013-12-02</premiered>
+  <studio>YouTube</studio>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez</role>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez</role>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Morty Smith</role>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Morty Smith</role>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith</role>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith</role>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith</role>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Jessica</role>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Birdperson</role>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Squanchy</role>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold</role>
+  </actor>
+  <actor>
+    <name>Scott Chernoff</name>
+    <role>Gear Head</role>
+  </actor>
+  <actor>
+    <name>Echo Kellum</name>
+    <role>Brad</role>
+  </actor>
+  <actor>
+    <name>Keith David</name>
+    <role>Mr. President</role>
+  </actor>
+  <actor>
+    <name>Rob Paulsen</name>
+    <role>Snowball</role>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Principal Vagina</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=275274

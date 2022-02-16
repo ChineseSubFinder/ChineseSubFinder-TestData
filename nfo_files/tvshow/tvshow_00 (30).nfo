@@ -1,0 +1,74 @@
+<tvshow>
+  <title>Silicon Valley</title>
+  <rating>8.8</rating>
+  <plot>In the high-tech gold rush of modern Silicon Valley, the people most qualified to succeed are the least capable of handling success. A comedy partially inspired by Mike Judge's own experiences as a Silicon Valley engineer in the late 1980s.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>277165</id>
+  <uniqueid type="tvdb" default="true">277165</uniqueid>
+  <uniqueid type="imdb">tt2575988</uniqueid>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <premiered>2014-04-06</premiered>
+  <studio>HBO</studio>
+  <actor>
+    <name>Chris Diamantopoulos</name>
+    <role>Russ Hanneman</role>
+  </actor>
+  <actor>
+    <name>Thomas Middleditch</name>
+    <role>Richard Hendricks</role>
+  </actor>
+  <actor>
+    <name>Jimmy O. Yang</name>
+    <role>Jian-Yang</role>
+  </actor>
+  <actor>
+    <name>Stephen Tobolowsky</name>
+    <role>Jack Barker</role>
+  </actor>
+  <actor>
+    <name>Alice Wetterlund</name>
+    <role>Carla Walton</role>
+  </actor>
+  <actor>
+    <name>Matt Ross</name>
+    <role>Gavin Belson</role>
+  </actor>
+  <actor>
+    <name>Amanda Crew</name>
+    <role>Monica Hall</role>
+  </actor>
+  <actor>
+    <name>Christopher Evan Welch</name>
+    <role>Peter Gregory</role>
+  </actor>
+  <actor>
+    <name>Josh Brener</name>
+    <role>Nelson 'Big Head' Bighetti</role>
+  </actor>
+  <actor>
+    <name>Suzanne Cryer</name>
+    <role>Laurie Bream</role>
+  </actor>
+  <actor>
+    <name>Martin Starr</name>
+    <role>Bertram Gilfoyle</role>
+  </actor>
+  <actor>
+    <name>Zach Woods</name>
+    <role>Donald 'Jared' Dunn</role>
+  </actor>
+  <actor>
+    <name>Kumail Nanjiani</name>
+    <role>Dinesh Chugtai</role>
+  </actor>
+  <actor>
+    <name>Bernard White</name>
+    <role>Denpok</role>
+  </actor>
+  <actor>
+    <name>T.J. Miller</name>
+    <role>Erlich Bachman</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=277165

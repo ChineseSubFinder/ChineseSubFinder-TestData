@@ -1,0 +1,17 @@
+<tvshow>
+  <title>The Green Planet</title>
+  <plot>Dive into a world where a single life can last a thousand years, with David Attenborough. See things no eye has ever seen, and discover the dramatic, beautiful plant life of Earth.</plot>
+  <mpaa />
+  <id>359250</id>
+  <uniqueid type="tvdb" default="true">359250</uniqueid>
+  <uniqueid type="imdb">tt16986646</uniqueid>
+  <genre>Documentary</genre>
+  <genre>Mini-Series</genre>
+  <premiered>2022-01-09</premiered>
+  <studio>BBC One</studio>
+  <actor>
+    <name>David Attenborough</name>
+    <role>Narrator</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=359250

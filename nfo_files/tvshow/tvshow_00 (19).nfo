@@ -1,0 +1,57 @@
+<tvshow>
+  <title>Kamen Rider Amazons</title>
+  <rating>9.8</rating>
+  <plot>Dormant, experimental cells begin to awaken inside their human hosts, turning them into creatures called 'Amazons'.
+Two Amazons—Jin Takayama and Haruka Mizusawa—transform into Kamen Riders Alpha and Omega, aiming to exterminate the growing threat.</plot>
+  <mpaa />
+  <id>312003</id>
+  <uniqueid type="tvdb" default="true">312003</uniqueid>
+  <uniqueid type="imdb">tt5776052</uniqueid>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Martial Arts</genre>
+  <genre>Mystery</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2016-04-01</premiered>
+  <studio>Amazon (Japan)</studio>
+  <actor>
+    <name>Tom Fujita</name>
+    <role>Haruka Mizusawa / Kamen Rider Omega</role>
+  </actor>
+  <actor>
+    <name>You Maejima</name>
+    <role>Chihiro / Kamen Rider Neo</role>
+  </actor>
+  <actor>
+    <name>Hiroshi Asahina</name>
+    <role>Jun Maehara</role>
+  </actor>
+  <actor>
+    <name>Ryôma Baba</name>
+    <role>Ryusuke Otaki</role>
+  </actor>
+  <actor>
+    <name>Ryota Kobayashi</name>
+    <role>Mamoru</role>
+  </actor>
+  <actor>
+    <name>Mitsutoshi Shundo</name>
+    <role>Makoto Shido</role>
+  </actor>
+  <actor>
+    <name>Ayu Higashi</name>
+    <role>Nanaha Izumi</role>
+  </actor>
+  <actor>
+    <name>Rena Takeda</name>
+    <role>Mizuki Mizusawa</role>
+  </actor>
+  <actor>
+    <name>Masashi Taniguchi</name>
+    <role>Jin Takayama / Kamen Rider Alpha</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=312003

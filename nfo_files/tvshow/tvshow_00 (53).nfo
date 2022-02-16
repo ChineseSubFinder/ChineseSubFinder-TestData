@@ -1,0 +1,54 @@
+<tvshow>
+  <title>Person of Interest</title>
+  <rating>9.0</rating>
+  <plot>An ex-CIA agent and a mysterious billionaire prevent violent crimes with the help of an all-seeing machine that can predict events before they happen.</plot>
+  <mpaa>TV-14</mpaa>
+  <id>248742</id>
+  <uniqueid type="tvdb" default="true">248742</uniqueid>
+  <uniqueid type="imdb">tt1839578</uniqueid>
+  <genre>Action</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2011-09-22</premiered>
+  <studio>CBS</studio>
+  <actor>
+    <name>Jim Caviezel</name>
+    <role>John Reese</role>
+  </actor>
+  <actor>
+    <name>Michael Emerson</name>
+    <role>Harold Finch</role>
+  </actor>
+  <actor>
+    <name>Amy Acker</name>
+    <role>Samantha Groves "Root"</role>
+  </actor>
+  <actor>
+    <name>Sarah Shahi</name>
+    <role>Sameen Shaw</role>
+  </actor>
+  <actor>
+    <name>Taraji P. Henson</name>
+    <role>Joss Carter</role>
+  </actor>
+  <actor>
+    <name>Kevin Chapman</name>
+    <role>Lionel Fusco</role>
+  </actor>
+  <actor>
+    <name>Enrico Colantoni</name>
+    <role>Carl Elias</role>
+  </actor>
+  <actor>
+    <name>Paige Turco</name>
+    <role>Zoe Morgan</role>
+  </actor>
+  <actor>
+    <name>John Nolan</name>
+    <role>John Greer</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=248742

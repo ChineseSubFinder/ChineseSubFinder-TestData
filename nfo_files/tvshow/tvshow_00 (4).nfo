@@ -1,0 +1,60 @@
+<tvshow>
+  <title>Chernobyl</title>
+  <rating>8.7</rating>
+  <plot>Chernobyl dramatizes the story of the 1986 nuclear accident — one of the worst man-made catastrophes in history — and the sacrifices made to save Europe from unimaginable disaster.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>360893</id>
+  <uniqueid type="tvdb" default="true">360893</uniqueid>
+  <uniqueid type="imdb">tt7366338</uniqueid>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Mini-Series</genre>
+  <genre>Thriller</genre>
+  <premiered>2019-05-06</premiered>
+  <studio>HBO</studio>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Aleksandr Akimov</role>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmila Ignatenko</role>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=360893

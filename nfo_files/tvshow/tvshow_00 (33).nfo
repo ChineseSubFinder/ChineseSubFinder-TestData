@@ -1,0 +1,58 @@
+<tvshow>
+  <title>Ghost in the Shell: Stand Alone Complex</title>
+  <rating>8.9</rating>
+  <plot>In the future when technological enhancements and robotics are a way of life, Major Motoko Kusanagi and Section 9 take care of the jobs that are too difficult for the police. Section 9 employs hackers, sharpshooters, detectives and cyborgs all in an effort to thwart cyber criminals and their plans to attack the innocent.</plot>
+  <mpaa>TV-14</mpaa>
+  <id>73749</id>
+  <uniqueid type="tvdb" default="true">73749</uniqueid>
+  <uniqueid type="imdb">tt0346314</uniqueid>
+  <genre>Action</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Crime</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2002-10-01</premiered>
+  <studio>Animax</studio>
+  <actor>
+    <name>Osamu Saka</name>
+    <role>Daisuke Aramaki</role>
+  </actor>
+  <actor>
+    <name>Kouichi Yamadera</name>
+    <role>The Laughing Man</role>
+  </actor>
+  <actor>
+    <name>Takashi Onozuka</name>
+    <role>Paz</role>
+  </actor>
+  <actor>
+    <name>Tooru Ookawa</name>
+    <role>Saito</role>
+  </actor>
+  <actor>
+    <name>Yutaka Nakano</name>
+    <role>Ishikawa</role>
+  </actor>
+  <actor>
+    <name>Kouichi Yamadera</name>
+    <role>Togusa</role>
+  </actor>
+  <actor>
+    <name>Atsuko Tanaka</name>
+    <role>Motoko Kusanagi</role>
+  </actor>
+  <actor>
+    <name>Sakiko Tamagawa</name>
+    <role>Tachikoma</role>
+  </actor>
+  <actor>
+    <name>Tarou Yamaguchi</name>
+    <role>Borma</role>
+  </actor>
+  <actor>
+    <name>Akio Ootsuka</name>
+    <role>Batou</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=73749

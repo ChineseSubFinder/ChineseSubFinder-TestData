@@ -1,0 +1,203 @@
+<tvshow>
+  <title>The Wire</title>
+  <rating>9.5</rating>
+  <plot>Follows one single drug and homicide investigation throughout the length of an entire season. Centered on the drug culture of inner-city Baltimore, the series' storyline unfolds from the points of view of both the criminals lording the streets and the police officers determined to bring them down.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>79126</id>
+  <uniqueid type="tvdb" default="true">79126</uniqueid>
+  <uniqueid type="imdb">tt0306414</uniqueid>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <premiered>2002-06-02</premiered>
+  <studio>HBO</studio>
+  <actor>
+    <name>Dominic West</name>
+    <role>Jimmy McNulty</role>
+  </actor>
+  <actor>
+    <name>Wendell Pierce</name>
+    <role>Det. William 'Bunk' Moreland</role>
+  </actor>
+  <actor>
+    <name>Sonja Sohn</name>
+    <role>Det. Shakima 'Kima' Greggs</role>
+  </actor>
+  <actor>
+    <name>Clarke Peters</name>
+    <role>Detective Lester Freamon</role>
+  </actor>
+  <actor>
+    <name>Michael Kenneth Williams</name>
+    <role>Omar Little</role>
+  </actor>
+  <actor>
+    <name>Deirdre Lovejoy</name>
+    <role>Rhonda Pearlman</role>
+  </actor>
+  <actor>
+    <name>Wood Harris</name>
+    <role>Avon Barksdale</role>
+  </actor>
+  <actor>
+    <name>Andre Royo</name>
+    <role>Bubbles</role>
+  </actor>
+  <actor>
+    <name>Lance Reddick</name>
+    <role>Colonel Cedric Daniels </role>
+  </actor>
+  <actor>
+    <name>Lawrence Gilliard Jr.</name>
+    <role>D'Angelo Barksdale</role>
+  </actor>
+  <actor>
+    <name>John Doman</name>
+    <role>William A. Rawls</role>
+  </actor>
+  <actor>
+    <name>Frankie Faison</name>
+    <role>Deputy Commissioner Ervin H. Burrell</role>
+  </actor>
+  <actor>
+    <name>Chris Bauer</name>
+    <role>Frank Sobotka</role>
+  </actor>
+  <actor>
+    <name>Aidan Gillen</name>
+    <role>Councilman Thomas 'Tommy' Carcetti</role>
+  </actor>
+  <actor>
+    <name>Jim True-Frost</name>
+    <role>Roland "Prez" Pryzbylewski</role>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Stringer Bell</role>
+  </actor>
+  <actor>
+    <name>Domenick Lombardozzi</name>
+    <role>Thomas "Herc" Hauk</role>
+  </actor>
+  <actor>
+    <name>Robert Wisdom</name>
+    <role>Howard 'Bunny' Colvin</role>
+  </actor>
+  <actor>
+    <name>Amy Ryan</name>
+    <role>Officer Beatrice "Beadie" Russell</role>
+  </actor>
+  <actor>
+    <name>Seth Gilliam</name>
+    <role>Sergeant Ellis Carver  	</role>
+  </actor>
+  <actor>
+    <name>J.D. Williams</name>
+    <role>Preston 'Bodie' Broadus</role>
+  </actor>
+  <actor>
+    <name>Corey Parker Robinson</name>
+    <role>Leander Sydnor</role>
+  </actor>
+  <actor>
+    <name>Chad L. Coleman</name>
+    <role>Dennis "Cutty" Wise</role>
+  </actor>
+  <actor>
+    <name>Jamie Hector</name>
+    <role>Marlo Stanfield</role>
+  </actor>
+  <actor>
+    <name>Gbenga Akinnagbe</name>
+    <role>Chris Partlow</role>
+  </actor>
+  <actor>
+    <name>Neal Huff</name>
+    <role>Chief of Staff Michael Steintorf</role>
+  </actor>
+  <actor>
+    <name>Jermaine Crawford</name>
+    <role>Duquan "Dukie" Weems</role>
+  </actor>
+  <actor>
+    <name>Tristan Mack Wilds</name>
+    <role>Michael Lee</role>
+  </actor>
+  <actor>
+    <name>Isiah Whitlock Jr.</name>
+    <role>State Senator R. Clayton "Clay" Davis</role>
+  </actor>
+  <actor>
+    <name>James Ransone</name>
+    <role>Chester 'Ziggy' Sobotka</role>
+  </actor>
+  <actor>
+    <name>Bill Raymond</name>
+    <role>The Greek</role>
+  </actor>
+  <actor>
+    <name>Charley Scalies</name>
+    <role>Thomas 'Horseface' Pakusa</role>
+  </actor>
+  <actor>
+    <name>Pablo Schreiber</name>
+    <role>Nick Sobotka</role>
+  </actor>
+  <actor>
+    <name>Chris Ashworth</name>
+    <role>Sergei "Serge" Malatov</role>
+  </actor>
+  <actor>
+    <name>Delaney Williams</name>
+    <role>Sergeant Jay Landsman</role>
+  </actor>
+  <actor>
+    <name>Brian Anthony Wilson</name>
+    <role>Detective Vernon Holley</role>
+  </actor>
+  <actor>
+    <name>Gregory L. Williams</name>
+    <role>Detective Michael Crutchfield</role>
+  </actor>
+  <actor>
+    <name>Robert F. Chew</name>
+    <role>Proposition Joe Stewart</role>
+  </actor>
+  <actor>
+    <name>Method Man</name>
+    <role>Calvin "Cheese" Wagstaff</role>
+  </actor>
+  <actor>
+    <name>Anwan Glover</name>
+    <role>Slim Charles</role>
+  </actor>
+  <actor>
+    <name>Hassan Johnson</name>
+    <role>Roland "Wee-Bey" Brice</role>
+  </actor>
+  <actor>
+    <name>Tom McCarthy</name>
+    <role>Scott Templeton</role>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Managing Editor Thomas Klebanow</role>
+  </actor>
+  <actor>
+    <name>Julito McCullum</name>
+    <role>Namond Brice</role>
+  </actor>
+  <actor>
+    <name>Maestro Harrell</name>
+    <role>Randy Wagstaff</role>
+  </actor>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>Wallace</role>
+  </actor>
+  <actor>
+    <name>Christopher Mann</name>
+    <role>Councilman Anthony 'Tony' Gray</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=79126

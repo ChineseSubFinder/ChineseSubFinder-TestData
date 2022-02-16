@@ -1,0 +1,51 @@
+<tvshow>
+  <title>Counterpart</title>
+  <rating>8.3</rating>
+  <plot>After discovering that the spy agency he works for is hiding a gateway to a parallel dimension, a low-level UN bureaucrat in Berlin is thrust into a shadow world of intrigue and danger and must determine if he can trust his near-identical counterpart in the other world.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>337302</id>
+  <uniqueid type="tvdb" default="true">337302</uniqueid>
+  <uniqueid type="imdb">tt4643084</uniqueid>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2018-01-21</premiered>
+  <studio>Starz</studio>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>Howard Silk</role>
+  </actor>
+  <actor>
+    <name>Olivia Williams</name>
+    <role>Emily Burton Silk</role>
+  </actor>
+  <actor>
+    <name>Harry Lloyd</name>
+    <role>Peter Quayle</role>
+  </actor>
+  <actor>
+    <name>Nazanin Boniadi</name>
+    <role>Clare</role>
+  </actor>
+  <actor>
+    <name>Sara Serraiocco</name>
+    <role>Baldwin</role>
+  </actor>
+  <actor>
+    <name>Nicholas Pinnock</name>
+    <role>Ian Shaw</role>
+  </actor>
+  <actor>
+    <name>Ulrich Thomsen</name>
+    <role>Aldrich</role>
+  </actor>
+  <actor>
+    <name>Betty Gabriel</name>
+    <role>Naya Temple</role>
+  </actor>
+  <actor>
+    <name>James Cromwell</name>
+    <role>Yanek</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=337302

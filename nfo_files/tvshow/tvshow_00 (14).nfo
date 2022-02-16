@@ -1,0 +1,30 @@
+<tvshow>
+  <title>The End of the F***ing World</title>
+  <rating>8.3</rating>
+  <plot>Teen outsiders James, a self-diagnosed a psychopath looking for a human victim, and Alyssa, the personification of existential angst, decide to escape from their families and embark on a road trip to find Alyssa’s estranged father. As the pair get caught up in a series of violent events, they find themselves on a journey of discovery that becomes progressively ominous, trailed by two similarly mismatched police detectives.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>336522</id>
+  <uniqueid type="tvdb" default="true">336522</uniqueid>
+  <uniqueid type="imdb">tt6257970</uniqueid>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <premiered>2017-10-24</premiered>
+  <studio>Channel 4</studio>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+  </actor>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+  </actor>
+  <actor>
+    <name>Naomi Ackie</name>
+    <role>Bonnie</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=336522

@@ -1,0 +1,59 @@
+<tvshow>
+  <title>Regular Show</title>
+  <rating>8.9</rating>
+  <plot>The daily surreal adventures of a blue jay and raccoon duo that attempt to deal with their mundane jobs as groundskeepers at the local park.</plot>
+  <mpaa>TV-PG</mpaa>
+  <id>188401</id>
+  <uniqueid type="tvdb" default="true">188401</uniqueid>
+  <uniqueid type="imdb">tt1710308</uniqueid>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <genre>Fantasy</genre>
+  <genre>Science Fiction</genre>
+  <premiered>2010-09-06</premiered>
+  <studio>Cartoon Network</studio>
+  <actor>
+    <name>J.G. Quintel</name>
+    <role>Mordecai / High Five Ghost</role>
+  </actor>
+  <actor>
+    <name>William Salyers</name>
+    <role>Rigby</role>
+  </actor>
+  <actor>
+    <name>Mark Hamill</name>
+    <role>Skips</role>
+  </actor>
+  <actor>
+    <name>Sam Marin</name>
+    <role>Benson|Pops|Muscle Man</role>
+  </actor>
+  <actor>
+    <name>Janie Haddad</name>
+    <role>Margaret</role>
+  </actor>
+  <actor>
+    <name>Roger Craig Smith</name>
+    <role>Thomas</role>
+  </actor>
+  <actor>
+    <name>Minty Lewis</name>
+    <role>Eileen</role>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>C. J.</role>
+  </actor>
+  <actor>
+    <name>Courtenay Taylor</name>
+    <role>Starla</role>
+  </actor>
+  <actor>
+    <name>Roger Craig Smith</name>
+    <role>Thomas</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=188401

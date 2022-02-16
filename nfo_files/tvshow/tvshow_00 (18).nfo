@@ -1,0 +1,33 @@
+<tvshow>
+  <title>Disenchantment</title>
+  <rating>9.0</rating>
+  <plot>Princess duties call, but she'd rather be drinking. Free-spirited Bean exasperates the king as she wreaks havoc with her demon and elf pals.</plot>
+  <mpaa>TV-PG</mpaa>
+  <id>340234</id>
+  <uniqueid type="tvdb" default="true">340234</uniqueid>
+  <uniqueid type="imdb">tt5363918</uniqueid>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <premiered>2018-08-17</premiered>
+  <studio>Netflix</studio>
+  <actor>
+    <name>Abbi Jacobson</name>
+    <role>Princess Bean</role>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>King Zøg</role>
+  </actor>
+  <actor>
+    <name>Eric André</name>
+    <role>Luci</role>
+  </actor>
+  <actor>
+    <name>Nat Faxon</name>
+    <role>Elfo</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=340234

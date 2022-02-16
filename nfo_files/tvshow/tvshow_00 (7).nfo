@@ -1,0 +1,76 @@
+<tvshow>
+  <title>Altered Carbon</title>
+  <rating>8.5</rating>
+  <plot>After 250 years on ice, a prisoner returns to life in a new body with one chance to win his freedom: by solving a mind-bending murder.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>332331</id>
+  <uniqueid type="tvdb" default="true">332331</uniqueid>
+  <uniqueid type="imdb">tt2261227</uniqueid>
+  <genre>Action</genre>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <premiered>2018-02-02</premiered>
+  <studio>Netflix</studio>
+  <actor>
+    <name>Kristin Lehman</name>
+    <role>Miriam Bancroft</role>
+  </actor>
+  <actor>
+    <name>Chris Conner</name>
+    <role>Poe</role>
+  </actor>
+  <actor>
+    <name>Joel Kinnaman</name>
+    <role>Takeshi Kovacs</role>
+  </actor>
+  <actor>
+    <name>Martha Higareda</name>
+    <role>Kristin Ortega</role>
+  </actor>
+  <actor>
+    <name>Renée Elise Goldsberry</name>
+    <role>Quellcrist Falconer</role>
+  </actor>
+  <actor>
+    <name>James Purefoy</name>
+    <role>Laurens Bancroft</role>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Reileen Kawahara</role>
+  </actor>
+  <actor>
+    <name>Hayley Law</name>
+    <role>Lizzie Elliot</role>
+  </actor>
+  <actor>
+    <name>Ato Essandoh</name>
+    <role>Vernon Elliot</role>
+  </actor>
+  <actor>
+    <name>Hiro Kanagawa</name>
+    <role>Captain Tanaka</role>
+  </actor>
+  <actor>
+    <name>Tamara Taylor</name>
+    <role>Oumou Prescott</role>
+  </actor>
+  <actor>
+    <name>Trieu Tran</name>
+    <role>Leung</role>
+  </actor>
+  <actor>
+    <name>Waleed Zuaiter</name>
+    <role>Abboud</role>
+  </actor>
+  <actor>
+    <name>Will Yun Lee</name>
+    <role>Takeshi Kovacs</role>
+  </actor>
+  <actor>
+    <name>Anthony Mackie</name>
+    <role>Takeshi Kovacs</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=332331

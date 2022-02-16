@@ -1,0 +1,52 @@
+<tvshow>
+  <title>Breaking Bad</title>
+  <rating>9.4</rating>
+  <plot>When Walter White, a chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of two years left to live, he chooses to enter a dangerous world of drugs and crime with the intent to secure his family's financial security.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>81189</id>
+  <uniqueid type="tvdb" default="true">81189</uniqueid>
+  <uniqueid type="imdb">tt0903747</uniqueid>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Suspense</genre>
+  <genre>Thriller</genre>
+  <premiered>2008-01-20</premiered>
+  <studio>Netflix</studio>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo Fring</role>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=81189

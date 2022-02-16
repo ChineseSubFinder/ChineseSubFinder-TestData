@@ -1,0 +1,63 @@
+<tvshow>
+  <title>Mr. Robot</title>
+  <rating>9.0</rating>
+  <plot>Elliot, a young programmer who works as a cyber-security engineer by day and a vigilante hacker by night. Elliot finds himself at a crossroads when the mysterious leader of an underground hacker group recruits him to destroy the corporation.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>289590</id>
+  <uniqueid type="tvdb" default="true">289590</uniqueid>
+  <uniqueid type="imdb">tt4158110</uniqueid>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <premiered>2015-06-24</premiered>
+  <studio>USA Network</studio>
+  <actor>
+    <name>Joey Bada$$</name>
+    <role>Leon</role>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <role>Elliot Alderson</role>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>Whiterose / Andrew Zhang</role>
+  </actor>
+  <actor>
+    <name>Bobby Cannavale</name>
+    <role>Irving</role>
+  </actor>
+  <actor>
+    <name>Martin Wallström</name>
+    <role>Tyrell Wellick</role>
+  </actor>
+  <actor>
+    <name>Craig Robinson</name>
+    <role>Ray</role>
+  </actor>
+  <actor>
+    <name>Michael Cristofer</name>
+    <role>Phillip Price</role>
+  </actor>
+  <actor>
+    <name>Grace Gummer</name>
+    <role>Dominique "Dom" Dipierro</role>
+  </actor>
+  <actor>
+    <name>Stephanie Corneliussen</name>
+    <role>Joanna Wellick</role>
+  </actor>
+  <actor>
+    <name>Carly Chaikin</name>
+    <role>Darlene</role>
+  </actor>
+  <actor>
+    <name>Portia Doubleday</name>
+    <role>Angela Moss</role>
+  </actor>
+  <actor>
+    <name>Christian Slater</name>
+    <role>Mr. Robot</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=289590

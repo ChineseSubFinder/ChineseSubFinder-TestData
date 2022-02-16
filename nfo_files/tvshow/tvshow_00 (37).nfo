@@ -1,0 +1,55 @@
+<tvshow>
+  <title>American Gods</title>
+  <rating>8.3</rating>
+  <plot>A recently released ex-convict named Shadow meets a mysterious man who calls himself "Wednesday" and who knows more than he first seems to about Shadow's life and past.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>253573</id>
+  <uniqueid type="tvdb" default="true">253573</uniqueid>
+  <uniqueid type="imdb">tt1898069</uniqueid>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Mystery</genre>
+  <premiered>2017-04-30</premiered>
+  <studio>Starz</studio>
+  <actor>
+    <name>Ricky Whittle</name>
+    <role>Shadow  Moon</role>
+  </actor>
+  <actor>
+    <name>Ian McShane</name>
+    <role>Wednesday</role>
+  </actor>
+  <actor>
+    <name>Emily Browning</name>
+    <role>Laura Moon</role>
+  </actor>
+  <actor>
+    <name>Bruce Langley</name>
+    <role>Technical Boy</role>
+  </actor>
+  <actor>
+    <name>Yetide Badaki</name>
+    <role>Bilquis</role>
+  </actor>
+  <actor>
+    <name>Pablo Schreiber</name>
+    <role>Mad Sweeney</role>
+  </actor>
+  <actor>
+    <name>Peter Stormare</name>
+    <role>Czernobog</role>
+  </actor>
+  <actor>
+    <name>Orlando Jones</name>
+    <role>Nancy</role>
+  </actor>
+  <actor>
+    <name>Crispin Glover</name>
+    <role>World</role>
+  </actor>
+  <actor>
+    <name>Kristin Chenoweth</name>
+    <role>Easter</role>
+  </actor>
+</tvshow>
+https://www.thetvdb.com/?tab=series&id=253573
