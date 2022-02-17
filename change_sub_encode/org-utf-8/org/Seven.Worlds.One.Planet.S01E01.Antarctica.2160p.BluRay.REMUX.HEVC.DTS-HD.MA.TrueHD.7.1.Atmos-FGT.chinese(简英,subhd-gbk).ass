@@ -1,0 +1,469 @@
+[Script Info]
+;SrtEdit 6.3.2012.1001
+;Copyright(C) 2005-2012 Yuan Weiguo
+
+Title: 
+Original Script: 
+Original Translation: 
+Original Timing: 
+Original Editing: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+Synch Point: 
+WrapStyle: 0
+ScaledBorderAndShadow: no
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Noto Sans S Chinese Medium,20,&H00FFFFFF,&H0000FFFF,&H00000000,&H60000000,-1,0,0,0,100,100,0,0,1,0,2,2,5,5,5,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:20.94,0:00:22.90,Default,,0000,0000,0000,,在大约两亿年前\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}200 million years ago,{\r}
+Dialogue: 0,0:00:22.90,0:00:23.99,Default,,0000,0000,0000,,地球看起来与今天的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}our planet looked very different{\r}
+Dialogue: 0,0:00:23.99,0:00:25.95,Default,,0000,0000,0000,,迥然不同\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}from what it does today.{\r}
+Dialogue: 0,0:00:25.95,0:00:27.99,Default,,0000,0000,0000,,在几乎完全被海洋覆盖的地球表面\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It was entirely covered by sea,{\r}
+Dialogue: 0,0:00:27.99,0:00:32.96,Default,,0000,0000,0000,,仅有一片超级大陆 人称“盘古大陆”\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}which surrounded one single supercontinent we call Pangea.{\r}
+Dialogue: 0,0:00:34.98,0:00:37.94,Default,,0000,0000,0000,,之后盘古大陆开始分裂\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And then Pangea began to break up.{\r}
+Dialogue: 0,0:00:39.96,0:00:42.91,Default,,0000,0000,0000,,于是 生命随着破碎的陆地板块\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Life was cast adrift{\r}
+Dialogue: 0,0:00:42.91,0:00:43.98,Default,,0000,0000,0000,,分离漂移\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}on fragments of land.{\r}
+Dialogue: 0,0:00:46.92,0:00:50.96,Default,,0000,0000,0000,,这些碎裂的板块最终形成了我们如今的七大洲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And these fragments eventually became our seven continents.{\r}
+Dialogue: 0,0:00:53.92,0:00:56.97,Default,,0000,0000,0000,,我们本次即将去探索不同大陆如何形成了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We will see how life developed on each continent,{\r}
+Dialogue: 0,0:00:56.97,0:01:00.98,Default,,0000,0000,0000,,我们今天看到的各具特色\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}giving rise to the extraordinary and wonderful diversity{\r}
+Dialogue: 0,0:01:00.98,0:01:02.92,Default,,0000,0000,0000,,而又纷繁多样的生命\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that we see today.{\r}
+Dialogue: 0,0:01:03.97,0:01:09.91,Default,,0000,0000,0000,,我们将深入冰雪覆盖的南极荒野探险\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We'll venture through the frozen wilderness of Antarctica,{\r}
+Dialogue: 0,0:01:09.91,0:01:11.99,Default,,0000,0000,0000,,那里的动物们克服了极端环境 繁衍兴盛\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}where life thrives against the odds.{\r}
+Dialogue: 0,0:01:14.95,0:01:18.90,Default,,0000,0000,0000,,我们将探索富饶的南美洲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And to the riches of South America,{\r}
+Dialogue: 0,0:01:18.90,0:01:19.95,Default,,0000,0000,0000,,那里处处充满惊奇\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}full of the unexpected.{\r}
+Dialogue: 0,0:01:23.99,0:01:25.99,Default,,0000,0000,0000,,还会从野性十足的非洲荒野\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}From the wilds of Africa.{\r}
+Dialogue: 0,0:01:28.98,0:01:33.90,Default,,0000,0000,0000,,到北美洲的广袤土地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}To the vast expanses of North America{\r}
+Dialogue: 0,0:01:33.90,0:01:35.93,Default,,0000,0000,0000,,再到炽热难耐的澳大利亚\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and the searing heat of Australia.{\r}
+Dialogue: 0,0:01:38.92,0:01:43.91,Default,,0000,0000,0000,,我们将踏足亚洲的偏远角落\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We'll explore the remote reaches of Asia,{\r}
+Dialogue: 0,0:01:43.91,0:01:45.91,Default,,0000,0000,0000,,寻找那些与世隔绝 难得一见的珍稀动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}home to rarely seen creatures.{\r}
+Dialogue: 0,0:01:47.97,0:01:51.99,Default,,0000,0000,0000,,我们将漫步欧洲 感受这个被人类改造的世界\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And Europe, a world transformed by humanity.{\r}
+Dialogue: 0,0:01:57.96,0:01:59.99,Default,,0000,0000,0000,,我们将会发现这或许是\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And we'll discover how this may be{\r}
+Dialogue: 0,0:01:59.99,0:02:03.94,Default,,0000,0000,0000,,自七大洲形成以来地球生命迎来的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the most critical moment for life on Earth{\r}
+Dialogue: 0,0:02:03.94,0:02:05.90,Default,,0000,0000,0000,,最重要时刻\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}since the continents formed.{\r}
+Dialogue: 0,0:02:06.96,0:02:09.94,Default,,0000,0000,0000,,我们正在快速改变世界\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We are changing the world so rapidly,{\r}
+Dialogue: 0,0:02:09.94,0:02:14.90,Default,,0000,0000,0000,,而野生动物被迫面临迄今为止最严峻的挑战\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that wildlife is now facing some of its greatest challenges yet.{\r}
+Dialogue: 0,0:02:17.98,0:02:20.99,Default,,0000,0000,0000,,现在到了最关键的时刻\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Never has it been a more important time{\r}
+Dialogue: 0,0:02:20.99,0:02:24.91,Default,,0000,0000,0000,,展现七大洲多彩生命的任务\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}to reveal the precious diversity of life{\r}
+Dialogue: 0,0:02:24.91,0:02:26.90,Default,,0000,0000,0000,,变得刻不容缓\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}on our seven continents.{\r}
+Dialogue: 0,0:02:49.98,0:02:53.91,Default,,0000,0000,0000,,这就是七个世界 一个星球\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This is Seven Worlds, One Planet.{\r}
+Dialogue: 0,0:03:00.61,0:03:12.51,Default,,0000,0000,0000,,{\fs24\shad0}七个世界 一个星球{\r}
+Dialogue: 0,0:03:20.91,0:03:23.92,Default,,0000,0000,0000,,在地球七大洲中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Of all the continents,{\r}
+Dialogue: 0,0:03:23.92,0:03:27.95,Default,,0000,0000,0000,,有一片大陆在大约200年前才被人类首次发现\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}one was first sighted by humans just 200 years ago.{\r}
+Dialogue: 0,0:03:31.96,0:03:32.99,Default,,0000,0000,0000,,直到现在\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And only now{\r}
+Dialogue: 0,0:03:32.99,0:03:35.92,Default,,0000,0000,0000,,我们才得以对当地的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}are we beginning to understand{\r}
+Dialogue: 0,0:03:35.92,0:03:37.93,Default,,0000,0000,0000,,生命生存状况 窥见一斑\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}what it takes to survive here.{\r}
+Dialogue: 0,0:03:43.95,0:03:46.91,Default,,0000,0000,0000,,这里是全球环境最恶劣的地方\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's the most hostile of them all.{\r}
+Dialogue: 0,0:03:49.11,0:03:55.04,Default,,0000,0000,0000,,{\fs22\shad0}南极洲
+Dialogue: 0,0:03:49.21,0:03:55.04,Default,,0000,0000,0000,,{\fs20\shad0\an3}第一集
+Dialogue: 0,0:03:58.00,0:04:03.90,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese DemiLight\fs16\pos(192,234)\b0}解说 大卫·爱登堡
+Dialogue: 0,0:04:00.97,0:04:04.92,Default,,0000,0000,0000,,98%的陆地被冰雪覆盖\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}98% of mainland Antarctica,{\r}
+Dialogue: 0,0:04:04.92,0:04:08.92,Default,,0000,0000,0000,,南极洲的陆地面积约是美国国土面积的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}an area one-and-a-half times the size of the United States,{\r}
+Dialogue: 0,0:04:08.92,0:04:11.95,Default,,0000,0000,0000,,1.5倍\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is covered in ice{\r}
+Dialogue: 0,0:04:11.95,0:04:14.95,Default,,0000,0000,0000,,几乎看不到任何生命迹象\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}on which virtually nothing can live.{\r}
+Dialogue: 0,0:04:21.97,0:04:25.96,Default,,0000,0000,0000,,动物们只能依赖四周的海洋为生\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So life is dependent on the ocean that surrounds it.{\r}
+Dialogue: 0,0:04:28.92,0:04:30.92,Default,,0000,0000,0000,,但即便是海洋也会冻结\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But even the ocean freezes.{\r}
+Dialogue: 0,0:04:33.95,0:04:37.93,Default,,0000,0000,0000,,只有一种哺乳动物能在这片极南之地生存\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Only one mammal can live this far south.{\r}
+Dialogue: 0,0:04:40.98,0:04:42.96,Default,,0000,0000,0000,,它就是韦德尔氏海豹\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The Weddell seal.{\r}
+Dialogue: 0,0:04:45.93,0:04:48.91,Default,,0000,0000,0000,,这头雌性海豹不断用牙齿\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}She has to keep her breathing hole open{\r}
+Dialogue: 0,0:04:48.91,0:04:51.93,Default,,0000,0000,0000,,磨蹭冰层边缘 保持呼吸孔洞的畅通\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}by grinding back the ice with her teeth.{\r}
+Dialogue: 0,0:05:04.96,0:05:06.95,Default,,0000,0000,0000,,在一望无际的海冰上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Out here on the sea ice,{\r}
+Dialogue: 0,0:05:06.95,0:05:10.99,Default,,0000,0000,0000,,韦德尔氏海豹可以避开来自开阔海域的捕食者袭击\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}all these seals are far from the predators of the open ocean.{\r}
+Dialogue: 0,0:05:12.94,0:05:16.96,Default,,0000,0000,0000,,这里俨然已经成为雌性海豹最安全的繁殖地点\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So, this is the safest place for her to give birth.{\r}
+Dialogue: 0,0:05:19.90,0:05:22.92,Default,,0000,0000,0000,,海豹幼崽从温暖的子宫落到冰面上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Leaving the warmth of the womb and landing on ice{\r}
+Dialogue: 0,0:05:22.92,0:05:26.97,Default,,0000,0000,0000,,它刚刚出生就经历了最剧烈的温差变化\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is the sharpest drop in temperature any animal ever faces.{\r}
+Dialogue: 0,0:05:36.92,0:05:41.90,Default,,0000,0000,0000,,糟糕的是 幼崽在出生后的前10天里不会游泳\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But her pup can't swim for the first ten days of its life.{\r}
+Dialogue: 0,0:05:46.91,0:05:48.90,Default,,0000,0000,0000,,它被困在海冰上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's trapped here{\r}
+Dialogue: 0,0:05:48.90,0:05:49.93,Default,,0000,0000,0000,,不能入水\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}out on the ice.{\r}
+Dialogue: 0,0:06:10.93,0:06:12.93,Default,,0000,0000,0000,,海豹妈妈用庞大的身躯为幼崽挡住寒风\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}She shields her pup from the wind.{\r}
+Dialogue: 0,0:06:14.99,0:06:18.96,Default,,0000,0000,0000,,现在虽然是春季 但气温可以下降到\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Although in spring, temperatures can drop{\r}
+Dialogue: 0,0:06:18.96,0:06:21.92,Default,,0000,0000,0000,,零下40摄氏度\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}to minus 40 degrees Celsius,{\r}
+Dialogue: 0,0:06:21.92,0:06:23.95,Default,,0000,0000,0000,,强劲的暴风雪可能会持续数天\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and blizzards can rage for days.{\r}
+Dialogue: 0,0:06:47.90,0:06:50.95,Default,,0000,0000,0000,,3天过去了 暴风雪还在疯狂肆虐\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Three days on, and the storm is still raging.{\r}
+Dialogue: 0,0:06:52.96,0:06:55.95,Default,,0000,0000,0000,,现在海豹妈妈被迫面临最艰难的选择\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}She now faces the hardest of decisions.{\r}
+Dialogue: 0,0:07:01.99,0:07:03.94,Default,,0000,0000,0000,,是留下守护幼崽\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Does she stay with her pup?{\r}
+Dialogue: 0,0:07:10.90,0:07:11.98,Default,,0000,0000,0000,,还是回到水中寻求庇护\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Or shelter in the water?{\r}
+Dialogue: 0,0:07:34.98,0:07:38.94,Default,,0000,0000,0000,,现在这只海豹幼崽要想死里逃生\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Now, her pup's best chance of survival{\r}
+Dialogue: 0,0:07:38.94,0:07:41.91,Default,,0000,0000,0000,,只能祈祷肆虐的暴风雪赶快停止\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is for the storm to pass quickly.{\r}
+Dialogue: 0,0:08:04.95,0:08:06.97,Default,,0000,0000,0000,,有些幼崽没能逃过一劫\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Some pups didn't make it.{\r}
+Dialogue: 0,0:08:19.92,0:08:20.92,Default,,0000,0000,0000,,呼唤得到了回应\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}An answer.{\r}
+Dialogue: 0,0:08:36.91,0:08:40.93,Default,,0000,0000,0000,,这只幼崽如果现在跟随妈妈一起下水\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}If this pup now joins its mother in the water,{\r}
+Dialogue: 0,0:08:40.93,0:08:42.90,Default,,0000,0000,0000,,就再也不用担心\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}it will be safe{\r}
+Dialogue: 0,0:08:42.90,0:08:43.96,Default,,0000,0000,0000,,暴风雪的侵袭了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}from any future storm.{\r}
+Dialogue: 0,0:08:52.91,0:08:55.92,Default,,0000,0000,0000,,水下温度只有零下2摄氏度\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's minus two degrees Celsius,{\r}
+Dialogue: 0,0:08:55.92,0:08:57.97,Default,,0000,0000,0000,,但这总比趴在冰上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}but being in water is warmer{\r}
+Dialogue: 0,0:08:57.97,0:08:59.94,Default,,0000,0000,0000,,忍受寒风呼啸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}than lying on the ice{\r}
+Dialogue: 0,0:08:59.94,0:09:00.98,Default,,0000,0000,0000,,要暖和多了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}in the howling wind.{\r}
+Dialogue: 0,0:09:05.96,0:09:10.92,Default,,0000,0000,0000,,幼崽的生存几率大大提高\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Its chances of surviving here are now extremely good.{\r}
+Dialogue: 0,0:09:22.90,0:09:27.92,Default,,0000,0000,0000,,只有少数耐寒动物能够长年累月生活在这片极南之地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Only a few hardy animals can live all year round as far south as this.{\r}
+Dialogue: 0,0:09:30.92,0:09:33.94,Default,,0000,0000,0000,,南极洲远离极点的大陆边缘地带\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}further from the pole, on the fringes of the continent,{\r}
+Dialogue: 0,0:09:33.94,0:09:36.93,Default,,0000,0000,0000,,散布着许多不会结冰的岛屿\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}lie islands that are free of sea ice.{\r}
+Dialogue: 0,0:09:42.92,0:09:45.90,Default,,0000,0000,0000,,不过 这里存在其它挑战\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Here, there are other challenges.{\r}
+Dialogue: 0,0:09:50.94,0:09:53.90,Default,,0000,0000,0000,,南乔治亚岛的圣安德鲁斯湾\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}St Andrews Bay on South Georgia{\r}
+Dialogue: 0,0:09:53.90,0:09:56.93,Default,,0000,0000,0000,,栖息着大约50万只王企鹅\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is packed with half a million king penguins.{\r}
+Dialogue: 0,0:10:04.97,0:10:07.99,Default,,0000,0000,0000,,春季 王企鹅父母经常要\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}In spring, the chicks are left for days,{\r}
+Dialogue: 0,0:10:07.99,0:10:10.92,Default,,0000,0000,0000,,连续数日外出觅食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}while their parents are away{\r}
+Dialogue: 0,0:10:10.92,0:10:12.90,Default,,0000,0000,0000,,只有企鹅宝宝独自留在岛上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}collecting food for them.{\r}
+Dialogue: 0,0:10:14.91,0:10:17.92,Default,,0000,0000,0000,,父母们也有简单的交代\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}There is a simple arrangement.{\r}
+Dialogue: 0,0:10:17.92,0:10:20.93,Default,,0000,0000,0000,,幼鸟必须原地等待\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The chicks must stay exactly where their parents left them{\r}
+Dialogue: 0,0:10:20.93,0:10:22.96,Default,,0000,0000,0000,,方便父母返回时找到它们\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}to be sure of being found again.{\r}
+Dialogue: 0,0:10:34.90,0:10:37.94,Default,,0000,0000,0000,,但是这只企鹅宝宝似乎游兴正浓\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But this chick has decided to look around.{\r}
+Dialogue: 0,0:10:46.96,0:10:49.91,Default,,0000,0000,0000,,四周要探查的东西比比皆是\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}There is a lot to be investigated.{\r}
+Dialogue: 0,0:11:33.92,0:11:35.93,Default,,0000,0000,0000,,但它绝对不能过于远离\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But it must not stray too far{\r}
+Dialogue: 0,0:11:35.93,0:11:37.91,Default,,0000,0000,0000,,与父母的会面地点\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}from its meeting place.{\r}
+Dialogue: 0,0:11:41.94,0:11:42.99,Default,,0000,0000,0000,,这只成年王企鹅\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This parent has returned{\r}
+Dialogue: 0,0:11:42.99,0:11:44.92,Default,,0000,0000,0000,,将食物藏在嗉囊里返回\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}with food in its crop.{\r}
+Dialogue: 0,0:11:45.97,0:11:48.94,Default,,0000,0000,0000,,但孩子却不见踪影\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But its chick isn't where it left it.{\r}
+Dialogue: 0,0:11:52.92,0:11:53.95,Default,,0000,0000,0000,,好玩的东西太多\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's hard to stay put{\r}
+Dialogue: 0,0:11:53.95,0:11:55.96,Default,,0000,0000,0000,,企鹅宝宝们很难抵挡诱惑\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}when there's so much to play with.{\r}
+Dialogue: 0,0:11:59.99,0:12:01.98,Default,,0000,0000,0000,,不过 这里还有象海豹做邻居\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Elephant seals are here, too.{\r}
+Dialogue: 0,0:12:05.96,0:12:07.90,Default,,0000,0000,0000,,它看起来太神秘了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Very mysterious.{\r}
+Dialogue: 0,0:12:33.90,0:12:35.94,Default,,0000,0000,0000,,要在茫茫鸟海中找到自己的孩子\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Finding it in the crowd of youngsters{\r}
+Dialogue: 0,0:12:35.94,0:12:37.90,Default,,0000,0000,0000,,无异于大海捞针\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is not going to be easy.{\r}
+Dialogue: 0,0:12:38.94,0:12:40.99,Default,,0000,0000,0000,,它们必须通过叫声相互识别\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They must recognise each other by their calls.{\r}
+Dialogue: 0,0:12:47.91,0:12:49.99,Default,,0000,0000,0000,,可是在这样喧闹不已的栖息地中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But to hear these in such a noisy colony,{\r}
+Dialogue: 0,0:12:49.99,0:12:52.94,Default,,0000,0000,0000,,只有在15米内才能互相听清对方\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}then they must be within 15 metres of each other.{\r}
+Dialogue: 0,0:13:23.91,0:13:24.95,Default,,0000,0000,0000,,总算团聚了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Reunited.{\r}
+Dialogue: 0,0:13:35.96,0:13:40.92,Default,,0000,0000,0000,,圣安德鲁斯海滩是地球上最拥挤的海滩之一\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}St Andrews Beach is one of the most crowded on the planet,{\r}
+Dialogue: 0,0:13:40.92,0:13:43.94,Default,,0000,0000,0000,,要占据一块领地必须要经过连番血战\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and so holding a territory here is a constant battle.{\r}
+Dialogue: 0,0:13:48.93,0:13:50.97,Default,,0000,0000,0000,,这只雄性象海豹\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This bull elephant seal holds{\r}
+Dialogue: 0,0:13:50.97,0:13:54.91,Default,,0000,0000,0000,,会与多达60只雌性进行交配\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the mating rights to 60 females.{\r}
+Dialogue: 0,0:13:58.93,0:14:02.92,Default,,0000,0000,0000,,两个月来 它一直严密守护这片海滩\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}For two months, he's guarded this stretch of beach.{\r}
+Dialogue: 0,0:14:03.97,0:14:04.99,Default,,0000,0000,0000,,因为无暇进食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Unable to feed,{\r}
+Dialogue: 0,0:14:04.99,0:14:08.91,Default,,0000,0000,0000,,它的体重正以每天10公斤的速度锐减\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}he's losing ten kilos a day,{\r}
+Dialogue: 0,0:14:08.91,0:14:10.92,Default,,0000,0000,0000,,此时它早已疲惫不堪\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and he's exhausted.{\r}
+Dialogue: 0,0:14:14.92,0:14:16.95,Default,,0000,0000,0000,,但还有其它雄性在海滩附近徘徊\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But other bulls are lying around,{\r}
+Dialogue: 0,0:14:16.95,0:14:18.91,Default,,0000,0000,0000,,伺机而动\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}waiting their chance.{\r}
+Dialogue: 0,0:15:27.94,0:15:30.90,Default,,0000,0000,0000,,15厘米厚的皮下脂肪\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Blubber, 15 centimetres thick,{\r}
+Dialogue: 0,0:15:30.90,0:15:32.97,Default,,0000,0000,0000,,御寒效果良好\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is protection against the cold,{\r}
+Dialogue: 0,0:15:32.97,0:15:34.93,Default,,0000,0000,0000,,但是当4吨重的对手袭来时\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}but not from the impact{\r}
+Dialogue: 0,0:15:34.93,0:15:36.92,Default,,0000,0000,0000,,这层防护就有些微不足道了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of a four-tonne opponent.{\r}
+Dialogue: 0,0:16:05.93,0:16:06.98,Default,,0000,0000,0000,,雄性象海豹据守阵地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}He holds his ground{\r}
+Dialogue: 0,0:16:06.98,0:16:08.97,Default,,0000,0000,0000,,入侵者狼狈\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and forces the intruder{\r}
+Dialogue: 0,0:16:08.97,0:16:10.90,Default,,0000,0000,0000,,逃向海洋\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}back out to sea.{\r}
+Dialogue: 0,0:16:19.91,0:16:21.99,Default,,0000,0000,0000,,南极洲的生活其实非常艰难\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Life in the Antarctic is harsh indeed.{\r}
+Dialogue: 0,0:16:23.91,0:16:25.93,Default,,0000,0000,0000,,但动物们之所以蜂拥而来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But all these creatures come here{\r}
+Dialogue: 0,0:16:25.93,0:16:27.90,Default,,0000,0000,0000,,是因为南冰洋的海水中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}because the Southern Ocean{\r}
+Dialogue: 0,0:16:27.90,0:16:28.99,Default,,0000,0000,0000,,富含各种营养\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is one of the richest on Earth.{\r}
+Dialogue: 0,0:16:32.96,0:16:34.94,Default,,0000,0000,0000,,大约3000万年前\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}When, 30 million years ago,{\r}
+Dialogue: 0,0:16:34.94,0:16:36.92,Default,,0000,0000,0000,,南极洲与南美洲分离后\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the continent broke away{\r}
+Dialogue: 0,0:16:36.92,0:16:39.90,Default,,0000,0000,0000,,一路向南漂移\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}from South America and drifted south,{\r}
+Dialogue: 0,0:16:39.90,0:16:41.98,Default,,0000,0000,0000,,由此形成了环绕南极洲的洋流\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}currents began to swirl right around it.{\r}
+Dialogue: 0,0:16:48.92,0:16:49.98,Default,,0000,0000,0000,,这是现今地球上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They are now the strongest{\r}
+Dialogue: 0,0:16:49.98,0:16:51.97,Default,,0000,0000,0000,,最为强劲的洋流\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of any currents on the planet.{\r}
+Dialogue: 0,0:16:58.91,0:17:00.98,Default,,0000,0000,0000,,它们从深海中卷起营养物质\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They sweep up nutrients from the depths,{\r}
+Dialogue: 0,0:17:00.98,0:17:04.91,Default,,0000,0000,0000,,从而创造出世界上最丰富的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and so create one of the richest feeding grounds{\r}
+Dialogue: 0,0:17:04.91,0:17:06.90,Default,,0000,0000,0000,,海洋觅食地之一\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}in all the world's oceans.{\r}
+Dialogue: 0,0:17:10.95,0:17:11.99,Default,,0000,0000,0000,,有些赶来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And some of the creatures{\r}
+Dialogue: 0,0:17:11.99,0:17:13.92,Default,,0000,0000,0000,,享用美餐的动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that come here to feast{\r}
+Dialogue: 0,0:17:13.92,0:17:16.90,Default,,0000,0000,0000,,采用了一些最复杂的捕食战略\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}do so in a most sophisticated way.{\r}
+Dialogue: 0,0:17:35.95,0:17:37.92,Default,,0000,0000,0000,,这是座头鲸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Humpback whales.{\r}
+Dialogue: 0,0:17:41.95,0:17:43.97,Default,,0000,0000,0000,,它们每年夏季都会前来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's summer, and they've come here{\r}
+Dialogue: 0,0:17:43.97,0:17:45.90,Default,,0000,0000,0000,,参加盛宴\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}for a banquet.{\r}
+Dialogue: 0,0:18:01.93,0:18:03.92,Default,,0000,0000,0000,,寒冷的海水孕育了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The cold waters contain{\r}
+Dialogue: 0,0:18:03.92,0:18:05.94,Default,,0000,0000,0000,,浩浩荡荡的大群磷虾\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}great shoals of krill.{\r}
+Dialogue: 0,0:18:07.98,0:18:12.90,Default,,0000,0000,0000,,据估计磷虾的数量多达400万亿只\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's estimated that there are 400 trillion of them{\r}
+Dialogue: 0,0:18:12.90,0:18:15.94,Default,,0000,0000,0000,,而它们的重量总和超过地球上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and that their combined weight is greater than that of any other{\r}
+Dialogue: 0,0:18:15.94,0:18:17.96,Default,,0000,0000,0000,,其它任何一个物种的重量总和\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}animal species on the planet.{\r}
+Dialogue: 0,0:18:22.90,0:18:25.98,Default,,0000,0000,0000,,座头鲸接连吐出气泡 编织出一道\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}To collect them, the humpbacks blow curtains of bubbles,{\r}
+Dialogue: 0,0:18:25.98,0:18:28.94,Default,,0000,0000,0000,,磷虾无法穿越的气泡网\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}which the krill won't cross.{\r}
+Dialogue: 0,0:18:35.97,0:18:41.91,Default,,0000,0000,0000,,随后座头鲸向内螺旋上升 将磷虾群收拢集中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The whales then rise, spiralling inwards, to concentrate the swarm.{\r}
+Dialogue: 0,0:18:54.93,0:18:58.93,Default,,0000,0000,0000,,南极洲的夏季食物丰饶\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Summer in Antarctica is a time of plenty,{\r}
+Dialogue: 0,0:18:58.93,0:19:02.90,Default,,0000,0000,0000,,大多数座头鲸能在这里获得全年所需的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}when most humpbacks are able to put on the reserves they need{\r}
+Dialogue: 0,0:19:02.90,0:19:04.92,Default,,0000,0000,0000,,脂肪储备\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}for the whole year.{\r}
+Dialogue: 0,0:19:07.92,0:19:11.95,Default,,0000,0000,0000,,但这片水域的野生动物们变得前途未卜\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But the wildlife in these waters faces an uncertain future.{\r}
+Dialogue: 0,0:19:16.95,0:19:19.92,Default,,0000,0000,0000,,南极地区的海洋温度正在上升\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The Southern Ocean is warming.{\r}
+Dialogue: 0,0:19:25.93,0:19:29.97,Default,,0000,0000,0000,,南极洲汇聚了世界上90%的冰\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}90% of the world's ice lies in Antarctica{\r}
+Dialogue: 0,0:19:29.97,0:19:32.96,Default,,0000,0000,0000,,在某些地区冰雪消融的速度\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and, in some parts, the rate at which it's melting{\r}
+Dialogue: 0,0:19:32.96,0:19:35.91,Default,,0000,0000,0000,,每十年会翻一番\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is doubling every decade.{\r}
+Dialogue: 0,0:19:37.99,0:19:40.93,Default,,0000,0000,0000,,海平面正在上升\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Sea levels are rising.{\r}
+Dialogue: 0,0:19:42.90,0:19:44.99,Default,,0000,0000,0000,,但这里还存在一个更直接的威胁\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But there is a more immediate threat.{\r}
+Dialogue: 0,0:19:47.94,0:19:52.90,Default,,0000,0000,0000,,南极洲是地球上最寒冷的地区 气候变暖正对全球气候模式\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The warming of the coldest region on Earth is having a profound effect{\r}
+Dialogue: 0,0:19:52.90,0:19:54.92,Default,,0000,0000,0000,,产生深远影响\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}on global weather patterns.{\r}
+Dialogue: 0,0:19:55.97,0:20:00.97,Default,,0000,0000,0000,,这里的动物们已经感受到气候变化的影响\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And this change in the climate is already being felt right here.{\r}
+Dialogue: 0,0:20:05.94,0:20:09.95,Default,,0000,0000,0000,,这只灰头信天翁的雏鸟只有四个星期大\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This grey-headed albatross chick is four weeks old.{\r}
+Dialogue: 0,0:20:12.92,0:20:16.95,Default,,0000,0000,0000,,它的父母轮流为雏鸟遮挡凛冽的寒风\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So far, it has been sheltered from the gales by its parents,{\r}
+Dialogue: 0,0:20:16.95,0:20:19.99,Default,,0000,0000,0000,,和出海觅食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}who take turns to collect food for it out at sea.{\r}
+Dialogue: 0,0:20:26.90,0:20:30.94,Default,,0000,0000,0000,,这是它们两年来孕育的唯一一只雏乌\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It is the only chick that they will have in two years.{\r}
+Dialogue: 0,0:20:38.93,0:20:42.94,Default,,0000,0000,0000,,鸟喙间的轻微碰触 加强了彼此之间的纽带\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The delicate touching of beaks strengthens their bond.{\r}
+Dialogue: 0,0:21:02.91,0:21:05.99,Default,,0000,0000,0000,,但是这样的温情时刻不会一直持续\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But these tender moments cannot last forever.{\r}
+Dialogue: 0,0:21:11.92,0:21:15.91,Default,,0000,0000,0000,,在雏鸟渐渐长大时 它们的胃口大增\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}As a chick grows, so does its appetite.{\r}
+Dialogue: 0,0:21:15.91,0:21:19.95,Default,,0000,0000,0000,,灰头信天翁父母不得不相继外出捕猎\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So one parent has to leave to find food before the other returns.{\r}
+Dialogue: 0,0:21:23.96,0:21:28.95,Default,,0000,0000,0000,,离别是一个重要的抉择 它们需要时间来适应\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Parting is a big step and they take time over it.{\r}
+Dialogue: 0,0:22:05.90,0:22:09.93,Default,,0000,0000,0000,,这是雏鸟第一次独自面对这个世界\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}For the first time in its life, this chick is alone.{\r}
+Dialogue: 0,0:22:18.98,0:22:23.90,Default,,0000,0000,0000,,南极洲是风暴最多 风力最强的大陆\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The Antarctic is the windiest continent,{\r}
+Dialogue: 0,0:22:23.90,0:22:27.90,Default,,0000,0000,0000,,近年来因为气候变化 暴风雨变得更加频繁\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and in recent years, climate change has brought storms{\r}
+Dialogue: 0,0:22:27.90,0:22:30.91,Default,,0000,0000,0000,,威力更加强劲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that are more frequent and even more powerful.{\r}
+Dialogue: 0,0:22:39.97,0:22:43.94,Default,,0000,0000,0000,,这里狂风呼啸 风速通常可达每小时110公里\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Winds now regularly reach 70mph.{\r}
+Dialogue: 0,0:22:50.96,0:22:54.97,Default,,0000,0000,0000,,灰头信天翁雏鸟必颁坚守在巢穴中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But the albatross chicks must try to stay on their nests.{\r}
+Dialogue: 0,0:23:48.95,0:23:51.92,Default,,0000,0000,0000,,雏鸟在暴风雨中幸免于难\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Surviving the storm is one thing...{\r}
+Dialogue: 0,0:23:53.91,0:23:57.91,Default,,0000,0000,0000,,但是在低温下存活却是又一大挑战\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..but now, off the nest in these freezing temperatures,{\r}
+Dialogue: 0,0:23:57.91,0:24:00.90,Default,,0000,0000,0000,,雏鸟一旦离开鸟巢 只能勉强存活数小时\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}this chick has just hours to live.{\r}
+Dialogue: 0,0:24:11.99,0:24:15.94,Default,,0000,0000,0000,,残酷的环境让它们付出了沉重代价\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The brutal conditions have taken their toll.{\r}
+Dialogue: 0,0:24:19.92,0:24:22.97,Default,,0000,0000,0000,,有些雏鸟最终没能逃过这一劫难\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Some chicks have already succumbed to exposure.{\r}
+Dialogue: 0,0:24:34.90,0:24:39.92,Default,,0000,0000,0000,,父子亲情如此强烈 这位灰头信天翁父亲久久不肯离去\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The bond is so strong, it can be hard for a father to let go.{\r}
+Dialogue: 0,0:24:44.92,0:24:47.94,Default,,0000,0000,0000,,在过去的15年里 灰头信天翁的数量\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The albatross population here has more than halved{\r}
+Dialogue: 0,0:24:47.94,0:24:50.90,Default,,0000,0000,0000,,已经减少了一半以上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}in the last 15 years.{\r}
+Dialogue: 0,0:24:53.94,0:24:57.90,Default,,0000,0000,0000,,它们正面临灭绝边缘\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These albatross are facing extinction.{\r}
+Dialogue: 0,0:24:58.99,0:25:02.92,Default,,0000,0000,0000,,它们根本无法适应外界变化\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They simply cannot keep pace with the changes{\r}
+Dialogue: 0,0:25:02.92,0:25:04.99,Default,,0000,0000,0000,,对栖息地环境造成的影响\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}affecting their world.{\r}
+Dialogue: 0,0:25:26.90,0:25:29.95,Default,,0000,0000,0000,,越来越多的灰头信天翁父母返回栖息地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}More parents are returning to the colony.{\r}
+Dialogue: 0,0:25:40.90,0:25:42.97,Default,,0000,0000,0000,,情况似乎不太对劲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Something is not right.{\r}
+Dialogue: 0,0:25:45.97,0:25:48.96,Default,,0000,0000,0000,,鸟巢里空空如也\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The nest should not be empty.{\r}
+Dialogue: 0,0:25:58.98,0:26:02.98,Default,,0000,0000,0000,,雏鸟其实就在鸟巢下方\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The chick is actually right below its parent,{\r}
+Dialogue: 0,0:26:02.98,0:26:07.93,Default,,0000,0000,0000,,但因为雏鸟没待在鸟巢里 一家人就难以相认\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}but because it's not on the nest, the parent doesn't recognise it.{\r}
+Dialogue: 0,0:26:16.99,0:26:19.93,Default,,0000,0000,0000,,成鸟对求助无动于衷\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And doesn't help it.{\r}
+Dialogue: 0,0:26:23.99,0:26:28.99,Default,,0000,0000,0000,,这看起来或许令人费解 灰头信天翁并不是通过视觉、听觉或者嗅觉\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Strangely, perhaps, these albatross do not recognise their chicks{\r}
+Dialogue: 0,0:26:28.99,0:26:31.97,Default,,0000,0000,0000,,来识别自己的孩子\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}by sight, sound or smell.{\r}
+Dialogue: 0,0:26:33.92,0:26:37.90,Default,,0000,0000,0000,,相反它们唯一的判断依据就是鸟巢\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They identify them by finding them on the nest.{\r}
+Dialogue: 0,0:26:40.95,0:26:44.93,Default,,0000,0000,0000,,所以这些猛烈的暴风雨给整个灰头信天翁种群\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So, these violent storms have created a problem{\r}
+Dialogue: 0,0:26:44.93,0:26:47.99,Default,,0000,0000,0000,,带来了一大无法解决的难题\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that the albatross are not equipped to solve.{\r}
+Dialogue: 0,0:26:56.92,0:27:00.99,Default,,0000,0000,0000,,这只雏鸟要想捡回一命 就必须依靠自己的力量\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}If it is to survive, the chick will have to get back on the nest{\r}
+Dialogue: 0,0:27:00.99,0:27:03.95,Default,,0000,0000,0000,,爬回鸟巢\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}by itself.{\r}
+Dialogue: 0,0:28:01.90,0:28:03.93,Default,,0000,0000,0000,,雏鸟终于大功告成\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The chick has made it.{\r}
+Dialogue: 0,0:28:05.96,0:28:09.90,Default,,0000,0000,0000,,亲情纽带迅速重建\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The bond is re-established immediately{\r}
+Dialogue: 0,0:28:09.90,0:28:13.92,Default,,0000,0000,0000,,信天翁雏鸟终于从成鸟那里获得了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and its parent, once again, provides the warmth that the chick{\r}
+Dialogue: 0,0:28:13.92,0:28:15.95,Default,,0000,0000,0000,,它迫切需要的温暖\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}so desperately needs.{\r}
+Dialogue: 0,0:28:23.96,0:28:26.96,Default,,0000,0000,0000,,眼下它算是安全了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's safe...for now.{\r}
+Dialogue: 0,0:28:47.97,0:28:51.98,Default,,0000,0000,0000,,南极洲并没有什么地方适宜生存\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Nowhere in Antarctica is survival easy.{\r}
+Dialogue: 0,0:28:54.90,0:28:57.99,Default,,0000,0000,0000,,巴布亚企鹅每天要长途跋涉长达80公里\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Gentoo penguins travel up to 50 miles every day{\r}
+Dialogue: 0,0:28:57.99,0:29:00.92,Default,,0000,0000,0000,,外出觅食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}to find food.{\r}
+Dialogue: 0,0:29:00.92,0:29:03.90,Default,,0000,0000,0000,,现在 它们正要返回幼鸟身边\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And they're now returning to their chicks.{\r}
+Dialogue: 0,0:29:04.98,0:29:07.96,Default,,0000,0000,0000,,它们是海洋中游泳速度最快的企鹅\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They are the fastest penguin in the sea{\r}
+Dialogue: 0,0:29:07.96,0:29:10.94,Default,,0000,0000,0000,,时速可以达到35公里\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and can swim at 22mph.{\r}
+Dialogue: 0,0:29:13.93,0:29:16.96,Default,,0000,0000,0000,,但是海洋中还有其它速度高手\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But other animals can swim much faster.{\r}
+Dialogue: 0,0:29:26.90,0:29:28.94,Default,,0000,0000,0000,,虎鲸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Orca.{\r}
+Dialogue: 0,0:29:41.90,0:29:44.96,Default,,0000,0000,0000,,这只企鹅这能依靠敏捷逃生\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This penguin must rely on its agility.{\r}
+Dialogue: 0,0:31:06.90,0:31:10.99,Default,,0000,0000,0000,,可惜在4头虎鲸的围追堵截下 它的机会过于渺茫\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}With four orcas chasing it, the penguin stood little chance.{\r}
+Dialogue: 0,0:31:38.98,0:31:43.90,Default,,0000,0000,0000,,大多数巴布亚企鹅设法顺利返回了栖息地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Most gentoo parents do make it back to the colony.{\r}
+Dialogue: 0,0:31:46.97,0:31:50.92,Default,,0000,0000,0000,,今天 成年企鹅收获颇丰 带回了大量磷虾\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Today, it's been a good hunt for krill.{\r}
+Dialogue: 0,0:31:53.93,0:31:55.99,Default,,0000,0000,0000,,也许有些太多了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Perhaps too good.{\r}
+Dialogue: 0,0:31:58.95,0:32:02.94,Default,,0000,0000,0000,,随着幼鸟们渐渐长大 莫西干发型\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The chicks grow and it seems that the Mohawk style{\r}
+Dialogue: 0,0:32:02.94,0:32:04.95,Default,,0000,0000,0000,,似乎再次流行起来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}is back in fashion.{\r}
+Dialogue: 0,0:32:06.98,0:32:09.90,Default,,0000,0000,0000,,这只是暂时的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's just a phase.{\r}
+Dialogue: 0,0:32:09.90,0:32:11.90,Default,,0000,0000,0000,,长大还会变样\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}He'll grow out of it.{\r}
+Dialogue: 0,0:32:13.98,0:32:18.90,Default,,0000,0000,0000,,它很快就会换掉体表残留的绒羽 然后准备离开栖息地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}He'll soon lose these remaining down feathers and be ready to leave{\r}
+Dialogue: 0,0:32:18.90,0:32:21.90,Default,,0000,0000,0000,,独自外出觅食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the colony and collect food for himself.{\r}
+Dialogue: 0,0:32:22.90,0:32:27.93,Default,,0000,0000,0000,,但是因为气候变化 要做到这点变得越来越难\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But doing so is becoming harder because of climate change.{\r}
+Dialogue: 0,0:32:33.99,0:32:37.91,Default,,0000,0000,0000,,这个地区的冰川大量融化崩解\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Glaciers in the region are now calving faster{\r}
+Dialogue: 0,0:32:37.91,0:32:40.95,Default,,0000,0000,0000,,消融速度创出了新记录\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}than they have done since records began.{\r}
+Dialogue: 0,0:32:47.93,0:32:51.90,Default,,0000,0000,0000,,现在各个海湾里布满了杂乱的浮冰\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And this brash ice now fills the bays.{\r}
+Dialogue: 0,0:33:01.97,0:33:03.98,Default,,0000,0000,0000,,现在是秋季\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's autumn.{\r}
+Dialogue: 0,0:33:05.99,0:33:10.94,Default,,0000,0000,0000,,这些幼鸟早已换掉稚嫩的绒羽 此刻它们饥肠辘辘\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The chicks have lost their down feathers and they're hungry.{\r}
+Dialogue: 0,0:33:11.96,0:33:15.92,Default,,0000,0000,0000,,必须首次尝试出海\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They must go to sea for the first time.{\r}
+Dialogue: 0,0:33:18.95,0:33:22.98,Default,,0000,0000,0000,,但下水的话 它们可能会遭到浮冰的无情碾压\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But now there's a risk of being crushed between blocks of ice.{\r}
+Dialogue: 0,0:33:28.97,0:33:31.98,Default,,0000,0000,0000,,它们必须到达远处的冰山\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They have to get to the distant icebergs...{\r}
+Dialogue: 0,0:33:34.95,0:33:38.91,Default,,0000,0000,0000,,然后前往遥远的广阔海洋\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..and so reach the open ocean that lies beyond.{\r}
+Dialogue: 0,0:33:41.98,0:33:44.97,Default,,0000,0000,0000,,说起来容易做起来难\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And that is easier said than done.{\r}
+Dialogue: 0,0:33:54.92,0:33:56.94,Default,,0000,0000,0000,,豹海豹靠近了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}A leopard seal...{\r}
+Dialogue: 0,0:33:57.98,0:34:00.90,Default,,0000,0000,0000,,它们是巴布亚企鹅的天敌\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..their main predator.{\r}
+Dialogue: 0,0:34:01.93,0:34:04.93,Default,,0000,0000,0000,,它体形庞大 身长约有3米\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's a giant, three metres long.{\r}
+Dialogue: 0,0:34:06.96,0:34:10.96,Default,,0000,0000,0000,,这种遍布浮冰的环境 为它的捕猎提供了便利\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These icy conditions help it to hunt.{\r}
+Dialogue: 0,0:34:18.99,0:34:22.92,Default,,0000,0000,0000,,这种情况下 企鹅既不能顺利行走 也不能自由游动\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The penguins can neither walk nor swim.{\r}
+Dialogue: 0,0:34:32.92,0:34:36.92,Default,,0000,0000,0000,,它们根本无法判断豹海豹会从何处发起攻击\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They have no way of telling where the seal will strike.{\r}
+Dialogue: 0,0:35:13.94,0:35:16.93,Default,,0000,0000,0000,,它们成了唾手可得的美食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These are easy pickings.{\r}
+Dialogue: 0,0:35:28.91,0:35:31.90,Default,,0000,0000,0000,,有些企鹅果断选择了撤退\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}For some, it's time to retreat.{\r}
+Dialogue: 0,0:36:07.90,0:36:10.90,Default,,0000,0000,0000,,可是现在一切又回到了原点\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But now, it's back to square one.{\r}
+Dialogue: 0,0:36:14.92,0:36:19.94,Default,,0000,0000,0000,,它别无选择 只能再次尝试突破天敌的围追堵截\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}There's no alternative but to run the gauntlet once again.{\r}
+Dialogue: 0,0:36:52.98,0:36:56.98,Default,,0000,0000,0000,,这只豹海豹似乎在故意逗弄猎物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The seal seems to be toying with this penguin.{\r}
+Dialogue: 0,0:36:59.98,0:37:02.96,Default,,0000,0000,0000,,而企鹅安全在望\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But safety is in sight.{\r}
+Dialogue: 0,0:37:19.94,0:37:22.93,Default,,0000,0000,0000,,这块浮冰十分靠近开阔海域\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The ice floe is near the open ocean.{\r}
+Dialogue: 0,0:37:26.90,0:37:28.98,Default,,0000,0000,0000,,但这只企鹅已经筋疲力尽了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But this penguin is exhausted.{\r}
+Dialogue: 0,0:38:08.96,0:38:11.96,Default,,0000,0000,0000,,也许它觉得这么做有些得不偿失\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Perhaps it's not worth it, after all.{\r}
+Dialogue: 0,0:38:37.90,0:38:39.94,Default,,0000,0000,0000,,冬季即将来临\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Winter is coming.{\r}
+Dialogue: 0,0:38:43.92,0:38:47.95,Default,,0000,0000,0000,,南极洲正在经历一场巨变\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Antarctica now undergoes a major transformation.{\r}
+Dialogue: 0,0:38:50.92,0:38:55.90,Default,,0000,0000,0000,,每天都有10万多平方公里的海洋变成冰封之地\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Every day, 40,000 more square miles of sea freeze over.{\r}
+Dialogue: 0,0:38:57.98,0:39:02.90,Default,,0000,0000,0000,,到了冬末 南极洲的冰面面积整个翻了一倍\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}By the end of winter, the continent has doubled in size.{\r}
+Dialogue: 0,0:39:04.96,0:39:08.98,Default,,0000,0000,0000,,这是目前世界上最大的白色荒漠\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This is by far the largest desert in the world.{\r}
+Dialogue: 0,0:39:26.95,0:39:31.90,Default,,0000,0000,0000,,不过在冰封的海面之下 隐藏着一个巨大的秘密\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But the frozen surface of the sea hides a great secret.{\r}
+Dialogue: 0,0:39:39.96,0:39:43.94,Default,,0000,0000,0000,,冰面上的环境极端恶劣 但冰面之下的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It may be hostile above the ice, but below it,{\r}
+Dialogue: 0,0:39:43.94,0:39:47.92,Default,,0000,0000,0000,,生存环境相对稳定 这里的海洋生命历经数千年的岁月变迁\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}conditions are so stable that life over millennia{\r}
+Dialogue: 0,0:39:47.92,0:39:49.98,Default,,0000,0000,0000,,物种纷繁多样\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}has had time to diversify.{\r}
+Dialogue: 0,0:39:54.97,0:39:58.91,Default,,0000,0000,0000,,许多生物进化出庞大的体形\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Creatures here grow to a great size.{\r}
+Dialogue: 0,0:39:58.91,0:40:01.96,Default,,0000,0000,0000,,这些四处觅食的纽虫足有3米长\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Predatory nemertean worms are three metres long.{\r}
+Dialogue: 0,0:40:05.96,0:40:09.94,Default,,0000,0000,0000,,快进后我们才得以欣赏到它们的演出\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These dramas only become visible when speeded up.{\r}
+Dialogue: 0,0:40:14.92,0:40:18.90,Default,,0000,0000,0000,,对于这些奇特的生物 我们才刚刚开始探究\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We're only just beginning to discover the details of the lives{\r}
+Dialogue: 0,0:40:18.90,0:40:20.96,Default,,0000,0000,0000,,它们的生活细节\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of such strange creatures.{\r}
+Dialogue: 0,0:40:25.96,0:40:28.94,Default,,0000,0000,0000,,海蛞蝓是雌雄同体的动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Nudibranchs are hermaphrodites.{\r}
+Dialogue: 0,0:40:31.92,0:40:36.96,Default,,0000,0000,0000,,每只海蛞蝓各有一套雄性和雌性生殖器官\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Each individual possesses both male and female reproductive organs.{\r}
+Dialogue: 0,0:40:36.96,0:40:39.97,Default,,0000,0000,0000,,它们交配时 只需再找到一只同类\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So, to mate, one nudibranch just needs to find{\r}
+Dialogue: 0,0:40:42.90,0:40:44.93,Default,,0000,0000,0000,,任何个体都可以\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And any one will do.{\r}
+Dialogue: 0,0:40:46.94,0:40:51.90,Default,,0000,0000,0000,,问题是 它们的眼睛几乎看不到物体 所以找寻同类也并非易事\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But nonetheless, this is a challenge when their tiny eyes can barely see.{\r}
+Dialogue: 0,0:41:04.94,0:41:07.90,Default,,0000,0000,0000,,有些海蛞蝓的运气不错\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Some do get lucky.{\r}
+Dialogue: 0,0:41:15.92,0:41:19.97,Default,,0000,0000,0000,,它们相互进行异体授精 可以各自繁殖出后代\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They're fertilising each other and both will produce young.{\r}
+Dialogue: 0,0:41:27.90,0:41:30.98,Default,,0000,0000,0000,,当连同类都难寻时 交配无需分辨性别的做法\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}When it's hard to find a partner, it pays not to have to worry{\r}
+Dialogue: 0,0:41:30.98,0:41:33.91,Default,,0000,0000,0000,,确实大有益处\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}about your gender.{\r}
+Dialogue: 0,0:41:43.90,0:41:48.90,Default,,0000,0000,0000,,海葵看起来或许很像植物 其实却是不折不扣的动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Sea anemones may look like plants, but, actually, are animals{\r}
+Dialogue: 0,0:41:48.90,0:41:51.98,Default,,0000,0000,0000,,它四处伸展触手 捕食水流中\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and feed by catching edible particles that drift within reach{\r}
+Dialogue: 0,0:41:51.98,0:41:54.90,Default,,0000,0000,0000,,漂浮的可食物质\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of their tentacles.{\r}
+Dialogue: 0,0:41:57.90,0:42:02.90,Default,,0000,0000,0000,,不过扎根海底意味着它们很容易遭到捕食者攻击\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But being rooted to the sea floor makes them vulnerable to predators.{\r}
+Dialogue: 0,0:42:05.93,0:42:10.94,Default,,0000,0000,0000,,一种直径大约一米的远洋水母正在四处觅食\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}An ocean-going jellyfish, a metre or so across, searching for food.{\r}
+Dialogue: 0,0:42:24.96,0:42:27.92,Default,,0000,0000,0000,,这只水母察觉到了猎物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The jellyfish senses prey.{\r}
+Dialogue: 0,0:42:49.90,0:42:52.98,Default,,0000,0000,0000,,但是水母捕猎不成 反倒被海葵们降服\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But it's the sea anemones that have made the catch{\r}
+Dialogue: 0,0:42:52.98,0:42:55.95,Default,,0000,0000,0000,,它们捕获了一只大怪物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and they've grabbed a monster.{\r}
+Dialogue: 0,0:43:07.90,0:43:10.96,Default,,0000,0000,0000,,这些捕食者守株待免 便获得了一顿大餐\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}A rare feast for these stationary predators.{\r}
+Dialogue: 0,0:43:16.91,0:43:20.92,Default,,0000,0000,0000,,在接下来的4天里 它们可以慢慢消化了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They devour their catch over the next four days.{\r}
+Dialogue: 0,0:43:32.98,0:43:37.97,Default,,0000,0000,0000,,数千年来 冰层下的海洋生命几乎毫无改变\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Life here under the ice has remained unchanged for millennia.{\r}
+Dialogue: 0,0:43:39.91,0:43:43.97,Default,,0000,0000,0000,,但是在过去的200年里 南极洲的许多野生动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But in the last 200 years, much of Antarctica's wildlife{\r}
+Dialogue: 0,0:43:43.97,0:43:46.97,Default,,0000,0000,0000,,不得不面临一些新到的捕食者\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}has had to face new predators...{\r}
+Dialogue: 0,0:43:50.94,0:43:52.94,Default,,0000,0000,0000,,人类\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..human beings.{\r}
+Dialogue: 0,0:43:55.92,0:43:59.96,Default,,0000,0000,0000,,我们人类发明了新的捕猎技巧 并毫不留情地捕杀海洋生物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We devised new hunting techniques and used them so mercilessly{\r}
+Dialogue: 0,0:43:59.96,0:44:03.90,Default,,0000,0000,0000,,险些导致巨型鲸类销声匿迹\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that we almost exterminated the great whales.{\r}
+Dialogue: 0,0:44:06.91,0:44:10.90,Default,,0000,0000,0000,,南乔治亚岛的这些捕鲸站曾是\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These whaling stations on South Georgia were at the centre{\r}
+Dialogue: 0,0:44:10.90,0:44:12.92,Default,,0000,0000,0000,,捕鲸行业的中心\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of this industry.{\r}
+Dialogue: 0,0:44:22.95,0:44:26.91,Default,,0000,0000,0000,,单纯南极海域就有超过150万头鲸鱼\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}More than one-and-a-half million whales were slaughtered{\r}
+Dialogue: 0,0:44:26.91,0:44:28.98,Default,,0000,0000,0000,,相继遭到猎杀\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}in Antarctic waters.{\r}
+Dialogue: 0,0:44:31.98,0:44:35.92,Default,,0000,0000,0000,,人们从它们庞大的身躯上剥下厚厚的脂肪\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The blubber was stripped from their massive bodies{\r}
+Dialogue: 0,0:44:35.92,0:44:40.90,Default,,0000,0000,0000,,放入大桶中 熬煮制造人造黄油和肥皂\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and boiled down in vats to make margarine and soap.{\r}
+Dialogue: 0,0:44:43.90,0:44:46.99,Default,,0000,0000,0000,,目前记载的最大的一头蓝鲸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And the largest animal ever recorded,{\r}
+Dialogue: 0,0:44:46.99,0:44:52.97,Default,,0000,0000,0000,,体长33米 寿命超过100岁\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}a 33-metre blue whale, perhaps over 100 years old,{\r}
+Dialogue: 0,0:44:52.97,0:44:56.97,Default,,0000,0000,0000,,它在短短两小时内就在这里惨遭肢解\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}was butchered on this ramp in just two hours.{\r}
+Dialogue: 0,0:45:05.95,0:45:10.92,Default,,0000,0000,0000,,这种肆无忌惮的屠杀行为标志着人类与自然世界的关系\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This reckless slaughter marked a new low in our relationship{\r}
+Dialogue: 0,0:45:10.92,0:45:12.99,Default,,0000,0000,0000,,跌至新低\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}with the natural world.{\r}
+Dialogue: 0,0:45:41.98,0:45:45.92,Default,,0000,0000,0000,,南露脊鲸受到的打击最为严重\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Southern right whales were hit the hardest.{\r}
+Dialogue: 0,0:45:48.99,0:45:52.90,Default,,0000,0000,0000,,它们生性好奇 毫无戒心\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They were so trusting and inquisitive{\r}
+Dialogue: 0,0:45:52.90,0:45:55.93,Default,,0000,0000,0000,,经常会主动靠近捕鲸船\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that they swam right up to the whalers' boats.{\r}
+Dialogue: 0,0:45:57.96,0:46:01.92,Default,,0000,0000,0000,,捕鲸者认为它们很不错\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And the whalers called them right whales{\r}
+Dialogue: 0,0:46:01.92,0:46:04.96,Default,,0000,0000,0000,,就是因为它们很方便猎杀\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}because they were the right whales to hunt.{\r}
+Dialogue: 0,0:46:13.96,0:46:17.94,Default,,0000,0000,0000,,带着幼崽的南露脊鲸是捕鲸者最先攻击的目标\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Mothers with calves were targeted first.{\r}
+Dialogue: 0,0:46:20.93,0:46:24.98,Default,,0000,0000,0000,,雌性南露脊鲸通常到相同的避风港繁殖后代\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}To give birth, females came to the same sheltered bays{\r}
+Dialogue: 0,0:46:24.98,0:46:28.96,Default,,0000,0000,0000,,而且会与幼崽始终形影不离\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and would not leave their calves alone at the surface.{\r}
+Dialogue: 0,0:46:30.91,0:46:35.92,Default,,0000,0000,0000,,短短几十年里 就有3.5万头南露脊鲸遭到猎杀\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}In just decades, a population of 35,000{\r}
+Dialogue: 0,0:46:35.92,0:46:40.90,Default,,0000,0000,0000,,仅剩35头雌性南露脊鲸存活下来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}was so reduced that only 35 of the females survived.{\r}
+Dialogue: 0,0:46:44.95,0:46:47.92,Default,,0000,0000,0000,,好在局面发生了转变\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But times have changed.{\r}
+Dialogue: 0,0:46:47.92,0:46:52.98,Default,,0000,0000,0000,,1986年国际捕鲸委员会通过法令禁止商业捕鲸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}A ban on the commercial hunting of whales, introduced in 1986,{\r}
+Dialogue: 0,0:46:52.98,0:46:57.93,Default,,0000,0000,0000,,只有日本、挪威和冰岛除外\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}has stopped all but Japan, Norway and Iceland.{\r}
+Dialogue: 0,0:47:01.98,0:47:05.92,Default,,0000,0000,0000,,我们与这些非凡动物的关系\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Our relationship to these remarkable creatures{\r}
+Dialogue: 0,0:47:05.92,0:47:07.98,Default,,0000,0000,0000,,得以显著改善\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}has undergone a huge shift.{\r}
+Dialogue: 0,0:47:10.94,0:47:14.94,Default,,0000,0000,0000,,如今科学家们对南露脊鲸已有了很多了解\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Scientists are now learning a great deal about these whales.{\r}
+Dialogue: 0,0:47:18.96,0:47:21.98,Default,,0000,0000,0000,,但它们的寿命仍旧是个谜\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But we still don't know how long they live.{\r}
+Dialogue: 0,0:47:25.92,0:47:28.97,Default,,0000,0000,0000,,有人认为现存的这些南露脊鲸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's thought that some individuals alive today{\r}
+Dialogue: 0,0:47:28.97,0:47:32.90,Default,,0000,0000,0000,,很可能也经历过那些捕鲸猖撅的年代\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}were around at the time of the mass slaughter.{\r}
+Dialogue: 0,0:47:33.93,0:47:36.98,Default,,0000,0000,0000,,尽管如此 这些60吨重的庞然大物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Yet these 60-tonne whales remain gentle{\r}
+Dialogue: 0,0:47:36.98,0:47:39.96,Default,,0000,0000,0000,,对人类仍旧保持着温和和好奇的态度\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and inquisitive around humans.{\r}
+Dialogue: 0,0:47:47.96,0:47:50.96,Default,,0000,0000,0000,,随着商业捕鲸的禁止\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}By putting a stop to commercial hunting,{\r}
+Dialogue: 0,0:47:50.96,0:47:55.90,Default,,0000,0000,0000,,南露脊鲸的种群数量已经达到了2000多头\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}this population of whales has now grown to over 2,000.{\r}
+Dialogue: 0,0:48:18.90,0:48:23.93,Default,,0000,0000,0000,,这种庞然大物在南极水域的种群恢复\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The recovery of life in Antarctic waters may have a significance{\r}
+Dialogue: 0,0:48:23.93,0:48:27.90,Default,,0000,0000,0000,,将会产生深远影响 不仅仅局限于南极大陆\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}that extends far beyond the reaches of the continent{\r}
+Dialogue: 0,0:48:27.90,0:48:29.94,Default,,0000,0000,0000,,甚至会影响我们整个人类\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and will affect us all.{\r}
+Dialogue: 0,0:48:33.93,0:48:36.98,Default,,0000,0000,0000,,就在南极洲的象岛海岸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Just off the coast of Elephant Island,{\r}
+Dialogue: 0,0:48:36.98,0:48:40.90,Default,,0000,0000,0000,,我们最近目睹了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}we have recently witnessed what might be{\r}
+Dialogue: 0,0:48:40.90,0:48:43.90,Default,,0000,0000,0000,,地球上最蔚为壮观的觅食景象\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the greatest feeding spectacle on Earth.{\r}
+Dialogue: 0,0:48:47.94,0:48:51.99,Default,,0000,0000,0000,,在遥远的地平线上 150多条鲸鱼聚在一起\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}On the horizon, over 150 whales have gathered{\r}
+Dialogue: 0,0:48:51.99,0:48:54.97,Default,,0000,0000,0000,,尽情享受着难得的磷虾盛宴\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}to feast on krill.{\r}
+Dialogue: 0,0:49:03.93,0:49:08.90,Default,,0000,0000,0000,,又是迄今为止拍到的世界上规模最大的鲸鱼集会\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This is the largest congregation of great whales ever filmed.{\r}
+Dialogue: 0,0:49:20.98,0:49:25.91,Default,,0000,0000,0000,,它们中大多数是长须鲸 体长将近26米\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These are mostly fin whales, up to 26 metres long.{\r}
+Dialogue: 0,0:49:28.90,0:49:31.93,Default,,0000,0000,0000,,座头鲸在它面前都有些相形见绌了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Humpback whales are dwarfed in comparison.{\r}
+Dialogue: 0,0:49:34.98,0:49:38.97,Default,,0000,0000,0000,,来自南极海域的成千上万只动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Thousands of animals from all over Antarctic waters{\r}
+Dialogue: 0,0:49:38.97,0:49:41.93,Default,,0000,0000,0000,,正在向这里进发\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}are making their way here.{\r}
+Dialogue: 0,0:49:53.92,0:49:57.98,Default,,0000,0000,0000,,这片广阔的海洋再次变得生机勃勃\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These seas are, once again, beginning to brim with life.{\r}
+Dialogue: 0,0:50:02.92,0:50:06.94,Default,,0000,0000,0000,,科学家们发现南极附近海域\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And scientists have discovered that the Southern Ocean,{\r}
+Dialogue: 0,0:50:06.94,0:50:10.91,Default,,0000,0000,0000,,及其孕育的无数生命吸收大气中碳元素的含量\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and the life within it, soaks up more than twice as much{\r}
+Dialogue: 0,0:50:10.91,0:50:14.94,Default,,0000,0000,0000,,是亚马孙雨林吸收量的两倍还多\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}carbon from the atmosphere as the Amazon rainforest.{\r}
+Dialogue: 0,0:50:23.98,0:50:28.94,Default,,0000,0000,0000,,通过保护南极洲 我们不仅能够保护这里多样的生命\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}By protecting Antarctica, we don't just protect the life here...{\r}
+Dialogue: 0,0:50:29.95,0:50:33.93,Default,,0000,0000,0000,,也有助于恢复我们整个星球的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..we are helping to restore the natural balance{\r}
+Dialogue: 0,0:50:33.93,0:50:35.99,Default,,0000,0000,0000,,自然平衡\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of the entire planet.{\r}
+Dialogue: 0,0:50:53.14,0:50:57.49,Default,,0000,0000,0000,,{\fs22\shad0}南极洲拍摄幕后
+Dialogue: 0,0:50:58.99,0:51:02.99,Default,,0000,0000,0000,,圣安德鲁斯湾是见证南极洲最壮观奇景的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}St Andrews Bay provides one of the most spectacular sights{\r}
+Dialogue: 0,0:51:02.99,0:51:05.93,Default,,0000,0000,0000,,绝佳所在\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}in the whole of the Antarctic.{\r}
+Dialogue: 0,0:51:05.93,0:51:08.90,Default,,0000,0000,0000,,但是要到达那里 摄制组必须穿越\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But to get there, the team will have to cross{\r}
+Dialogue: 0,0:51:08.90,0:51:12.96,Default,,0000,0000,0000,,世界上最狂暴的海洋 紧张情绪显而易见\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}the roughest seas in the world, and nerves are starting to show.{\r}
+Dialogue: 0,0:51:12.96,0:51:14.96,Default,,0000,0000,0000,,现在风已经越来越大了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The wind is picking up already!{\r}
+Dialogue: 0,0:51:17.95,0:51:21.96,Default,,0000,0000,0000,,摄制组要在海上航行10天 才能到达偏远的圣安德鲁斯湾\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It'll take ten days at sea to reach this remote location.{\r}
+Dialogue: 0,0:51:23.92,0:51:27.90,Default,,0000,0000,0000,,但是很快 他们就开始受到晕船的困扰\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And it's not long before they start to feel a bit green.{\r}
+Dialogue: 0,0:51:30.97,0:51:32.99,Default,,0000,0000,0000,,有大浪涌过来了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}There's some big waves coming now.{\r}
+Dialogue: 0,0:51:32.99,0:51:38.95,Default,,0000,0000,0000,,鉴于这种情况要持续数天时间 摄制组人员选择轮流驾驶的方式\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}With these conditions lasting days, all who can take shifts at the helm.{\r}
+Dialogue: 0,0:51:40.92,0:51:43.97,Default,,0000,0000,0000,,说实话 如果你现在掉进水里\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And you get given a talk, to say if you fall in the water here,{\r}
+Dialogue: 0,0:51:43.97,0:51:47.91,Default,,0000,0000,0000,,其他人完全无能为力 他们根本救不了你\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}there's nothing anyone can do - they can't save you.{\r}
+Dialogue: 0,0:51:47.91,0:51:50.98,Default,,0000,0000,0000,,太冷了 只要在水里待几分钟就会没命\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's so cold, you'll die in under a couple of minutes.{\r}
+Dialogue: 0,0:51:57.90,0:52:01.90,Default,,0000,0000,0000,,在甲板下面 饱受晕船之苦的罗尔夫仍旧无法站立\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Below deck, Rolf hasn't yet found his sea legs.{\r}
+Dialogue: 0,0:52:04.98,0:52:08.90,Default,,0000,0000,0000,,我感觉坐船就像接受惩罚 或者被囚禁了一样\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}For me, this is like punishment or prisoner-ship or whatever.{\r}
+Dialogue: 0,0:52:08.90,0:52:12.90,Default,,0000,0000,0000,,真是搞不明白 怎么还有人主动要这么做\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I mean, I can't understand at all how people do this voluntarily,{\r}
+Dialogue: 0,0:52:12.90,0:52:15.98,Default,,0000,0000,0000,,居然还有人梦想坐船或者航海什么的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}people dream of being on a boat or sailing or anything.{\r}
+Dialogue: 0,0:52:15.98,0:52:17.93,Default,,0000,0000,0000,,仔细看看\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Look at that.{\r}
+Dialogue: 0,0:52:17.93,0:52:19.94,Default,,0000,0000,0000,,我是说船不停地上下颤簸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I mean, look how much the boat is moving.{\r}
+Dialogue: 0,0:52:19.94,0:52:22.94,Default,,0000,0000,0000,,感觉就像在洗衣机里一样\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I feel like in a washing machine.{\r}
+Dialogue: 0,0:52:22.94,0:52:25.99,Default,,0000,0000,0000,,南乔治亚岛终于出现在他们的正前方\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The island of South Georgia finally appears.{\r}
+Dialogue: 0,0:52:30.90,0:52:33.94,Default,,0000,0000,0000,,踏上坚实的陆地让人如释重负\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's a relief to step onto solid land.{\r}
+Dialogue: 0,0:52:37.95,0:52:40.94,Default,,0000,0000,0000,,没错 说实话我已经忘记晕船的事了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Yeah, the seasickness is already forgotten, to be honest!{\r}
+Dialogue: 0,0:52:40.94,0:52:42.92,Default,,0000,0000,0000,,早就抛到脑后了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But it's all forgotten.{\r}
+Dialogue: 0,0:52:43.92,0:52:46.94,Default,,0000,0000,0000,,这地方真是不可思议\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's just out of this world.{\r}
+Dialogue: 0,0:52:46.94,0:52:49.92,Default,,0000,0000,0000,,看到地球上还有这种地方实在太棒了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's so wonderful that these places still exist.{\r}
+Dialogue: 0,0:52:54.99,0:52:58.97,Default,,0000,0000,0000,,他们将在圣安德鲁斯湾拍摄3周\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They will spend the next three weeks in St Andrews Bay.{\r}
+Dialogue: 0,0:53:00.95,0:53:05.91,Default,,0000,0000,0000,,罗尔夫的主要任务是拍摄这个巨型栖息地里的王企鹅\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Rolf is here to film the king penguins in this enormous colony.{\r}
+Dialogue: 0,0:53:06.96,0:53:11.99,Default,,0000,0000,0000,,而马克必须拍摄象海豹狂暴血腥的交配季节\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And Mark must capture the elephant seals' intense mating season.{\r}
+Dialogue: 0,0:53:15.96,0:53:19.94,Default,,0000,0000,0000,,在拥挤的海滩上 战争随时可能爆发\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}On such a crowded beach, fights can break out anywhere.{\r}
+Dialogue: 0,0:53:24.96,0:53:27.99,Default,,0000,0000,0000,,雄性象海豹体长将近6米\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Males are up to six metres long and they are pumped{\r}
+Dialogue: 0,0:53:27.99,0:53:30.90,Default,,0000,0000,0000,,体内充满睾丸激素\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}full of testosterone.{\r}
+Dialogue: 0,0:53:32.90,0:53:37.94,Default,,0000,0000,0000,,它们对摄影师熟视无睹 行动起来横冲直撞\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The bulls take little notice of the crew and will stop at nothing.{\r}
+Dialogue: 0,0:53:37.94,0:53:39.94,Default,,0000,0000,0000,,我的天呐\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Oh, my God!{\r}
+Dialogue: 0,0:54:04.92,0:54:06.98,Default,,0000,0000,0000,,刚才还什么都没有 一下子就冲过来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}That went from nothing to being nearly steam-rollered{\r}
+Dialogue: 0,0:54:06.98,0:54:09.94,Default,,0000,0000,0000,,四头雄性\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}by four huge males.{\r}
+Dialogue: 0,0:54:15.97,0:54:20.98,Default,,0000,0000,0000,,远离海滩的喧嚣和混乱 罗尔夫拍摄着眼前的王企鹅\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Beyond the chaos of the beach, Rolf has king penguins in front of him,{\r}
+Dialogue: 0,0:54:20.98,0:54:23.98,Default,,0000,0000,0000,,谢天谢地 他又露出了笑脸\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and, thankfully, he's smiling again.{\r}
+Dialogue: 0,0:54:23.98,0:54:26.93,Default,,0000,0000,0000,,我真的觉得应该叫它们“绅士企鹅”\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I would really call them the gentleman penguins{\r}
+Dialogue: 0,0:54:26.93,0:54:29.94,Default,,0000,0000,0000,,因为它们很有礼貌 很有魅力\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}because they are very polite, they're charming,{\r}
+Dialogue: 0,0:54:29.94,0:54:31.90,Default,,0000,0000,0000,,很幽默\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}they have humour.{\r}
+Dialogue: 0,0:54:31.90,0:54:34.94,Default,,0000,0000,0000,,它们有许多搞笑有趣的瞬间\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}There's so many funny, lovely moments.{\r}
+Dialogue: 0,0:54:34.94,0:54:38.90,Default,,0000,0000,0000,,就这点来说我真的很喜欢它们\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I absolutely adore these penguins for that!{\r}
+Dialogue: 0,0:54:38.90,0:54:42.96,Default,,0000,0000,0000,,但几周相处下来 与企鹅群共同生活的弊端\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But as weeks go by, the reality of living amongst penguins{\r}
+Dialogue: 0,0:54:42.96,0:54:44.98,Default,,0000,0000,0000,,开始显露无疑\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}comes to the fore.{\r}
+Dialogue: 0,0:54:46.90,0:54:50.97,Default,,0000,0000,0000,,每天早上我都在想 臭死了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Every morning, I think, "Wow, it's stinky!"{\r}
+Dialogue: 0,0:54:50.97,0:54:55.92,Default,,0000,0000,0000,,但后来我才意识到 臭味是从我的鞋子还有我身上\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}But then I realise, these smells come out of my shoes{\r}
+Dialogue: 0,0:54:55.92,0:54:57.94,Default,,0000,0000,0000,,散发出来的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and it's myself.{\r}
+Dialogue: 0,0:55:05.90,0:55:09.98,Default,,0000,0000,0000,,在海滩上 摄影师用到了摄影机稳定器\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Back on the beach, the team is using a stabilised camera rig.{\r}
+Dialogue: 0,0:55:11.90,0:55:13.95,Default,,0000,0000,0000,,以便在拍摄打斗画面时快速反应\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}They can now react faster to fights.{\r}
+Dialogue: 0,0:55:14.96,0:55:17.90,Default,,0000,0000,0000,,到目前为止 我们只看到许多快速打斗\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}So far in the shoot, we've seen a lot of quick fights,{\r}
+Dialogue: 0,0:55:17.90,0:55:19.92,Default,,0000,0000,0000,,还没有看到一头雄性\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}but we haven't seen some extended fights,{\r}
+Dialogue: 0,0:55:19.92,0:55:22.98,Default,,0000,0000,0000,,跟另一头雄性的\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}where you see one bull paired{\r}
+Dialogue: 0,0:55:22.98,0:55:25.90,Default,,0000,0000,0000,,实力对抗\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}equally against another bull.{\r}
+Dialogue: 0,0:55:26.94,0:55:28.92,Default,,0000,0000,0000,,象海豹的打斗场面很罕见\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These sights are rare.{\r}
+Dialogue: 0,0:55:28.92,0:55:30.95,Default,,0000,0000,0000,,他们必须时刻准备\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The team will need to be at the ready.{\r}
+Dialogue: 0,0:55:30.95,0:55:32.97,Default,,0000,0000,0000,,马克 马克 马克\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Mark, Mark, Mark!{\r}
+Dialogue: 0,0:55:32.97,0:55:34.99,Default,,0000,0000,0000,,我们得赶快跑\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Let's get running.{\r}
+Dialogue: 0,0:55:39.93,0:55:41.94,Default,,0000,0000,0000,,哦 你好\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Oh, hello!{\r}
+Dialogue: 0,0:55:58.97,0:56:01.90,Default,,0000,0000,0000,,这两头雄性的实力差不多\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}These are two huge, evenly matched boys.{\r}
+Dialogue: 0,0:56:01.90,0:56:02.92,Default,,0000,0000,0000,,我知道\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I know.{\r}
+Dialogue: 0,0:56:02.92,0:56:04.98,Default,,0000,0000,0000,,- 我从未想过能离它们这么近  - 是啊 我也没想到\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Wow, I never thought we'd be this close to it. I know, nor did I.{\r}
+Dialogue: 0,0:56:04.98,0:56:07.96,Default,,0000,0000,0000,,这实在太激烈了 我们得当心点\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}This is really tense, we've just got to watch out.{\r}
+Dialogue: 0,0:56:12.99,0:56:14.99,Default,,0000,0000,0000,,拍到了\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}We got there.{\r}
+Dialogue: 0,0:56:18.91,0:56:20.98,Default,,0000,0000,0000,,我从来没想到能离得这么近\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I never thought I'd see it that close{\r}
+Dialogue: 0,0:56:20.98,0:56:24.90,Default,,0000,0000,0000,,而且还能四处活动 它们就像是\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}and be able to move around it, as this kind of{\r}
+Dialogue: 0,0:56:24.90,0:56:26.91,Default,,0000,0000,0000,,在表演狂暴的芭蕾舞\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}aggressive ballet is happening.{\r}
+Dialogue: 0,0:56:28.98,0:56:30.99,Default,,0000,0000,0000,,这确实会让你很紧张\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And it does make you quite tense.{\r}
+Dialogue: 0,0:56:32.97,0:56:37.92,Default,,0000,0000,0000,,拍摄进展一切顺利 但是摄制组人员注意到一些令人担忧的迹象\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}The shoot is going well, but the crew are noticing worrying signs.{\r}
+Dialogue: 0,0:56:39.94,0:56:41.99,Default,,0000,0000,0000,,今天的天气真的很热\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's a really hot day today.{\r}
+Dialogue: 0,0:56:43.93,0:56:46.99,Default,,0000,0000,0000,,30年前那 座冰川的前缘\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}30 years ago, the front of that glacier{\r}
+Dialogue: 0,0:56:46.99,0:56:49.96,Default,,0000,0000,0000,,就在那边的海滩位置\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}was right down on the beach.{\r}
+Dialogue: 0,0:56:49.96,0:56:52.96,Default,,0000,0000,0000,,现在后退了很远\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's retreated a huge amount.{\r}
+Dialogue: 0,0:56:52.96,0:56:56.94,Default,,0000,0000,0000,,我真的不知道气候变化会对所有这些动物\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I don't really know what climate change is going to mean{\r}
+Dialogue: 0,0:56:56.94,0:56:59.98,Default,,0000,0000,0000,,产生怎样的影响\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}for all the wildlife that's living here.{\r}
+Dialogue: 0,0:56:59.98,0:57:03.92,Default,,0000,0000,0000,,在南极洲的部分地区 气候变暖的速度\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Parts of the Antarctic are warming five times faster{\r}
+Dialogue: 0,0:57:03.92,0:57:05.94,Default,,0000,0000,0000,,是世界其它地区的5倍\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}than the rest of the world.{\r}
+Dialogue: 0,0:57:06.98,0:57:10.96,Default,,0000,0000,0000,,如果这一趋势持续下去 所有极地生物的处境\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}If this trend continues, it will threaten the very existence{\r}
+Dialogue: 0,0:57:10.96,0:57:12.99,Default,,0000,0000,0000,,都将岌岌可危\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}of these polar creatures.{\r}
+Dialogue: 0,0:57:15.98,0:57:19.96,Default,,0000,0000,0000,,在拍摄的最后一天 摄制组成员不禁开始思考\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}On the last day of filming, the team can't help but reflect{\r}
+Dialogue: 0,0:57:19.96,0:57:22.97,Default,,0000,0000,0000,,当地野生动物的未来\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}on the future of the wildlife here.{\r}
+Dialogue: 0,0:57:22.97,0:57:26.94,Default,,0000,0000,0000,,我内心真的很激动 因为我知道这可能是我这辈子\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}For me, it's emotional because I know this might have been{\r}
+Dialogue: 0,0:57:26.94,0:57:28.97,Default,,0000,0000,0000,,唯一的一次经历\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}a once-in-a-lifetime experience.{\r}
+Dialogue: 0,0:57:29.98,0:57:33.94,Default,,0000,0000,0000,,这里给我留下了许多美好回忆 同时我很难过\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I will definitely take big memories with me and I will be sad.{\r}
+Dialogue: 0,0:57:35.96,0:57:38.94,Default,,0000,0000,0000,,这地方真的很特别 我\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}It's a really special place, you know? So...{\r}
+Dialogue: 0,0:57:40.92,0:57:42.93,Default,,0000,0000,0000,,不知道怎样去说\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I don't know.{\r}
+Dialogue: 0,0:57:44.98,0:57:48.95,Default,,0000,0000,0000,,我只希望我们能留住这些地方\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}I just hope we can keep these places.{\r}
+Dialogue: 0,0:57:49.97,0:57:51.98,Default,,0000,0000,0000,,并保护好它们\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}And protect them.{\r}
+Dialogue: 0,0:58:07.98,0:58:10.90,Default,,0000,0000,0000,,下集预告\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}Next time...{\r}
+Dialogue: 0,0:58:10.90,0:58:12.96,Default,,0000,0000,0000,,地球上最大洲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..the largest continent on Earth.{\r}
+Dialogue: 0,0:58:16.91,0:58:18.98,Default,,0000,0000,0000,,一个遍布极端环境的世界\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}A world of extremes...{\r}
+Dialogue: 0,0:58:18.98,0:58:22.96,Default,,0000,0000,0000,,极其罕见的动物漫步其间\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..where rarely seen animals roam the land...{\r}
+Dialogue: 0,0:58:29.94,0:58:31.96,Default,,0000,0000,0000,,亚洲\N{\fnMicrosoft Sans Serif\fs12\4a&H60&\1c&HD0BA28&}..Asia.{\r}
+Dialogue: 0,0:51:11.26,0:51:15.02,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese DemiLight\fs18\pos(49,234)\an1\b0}罗尔夫·斯坦曼 摄影师
+Dialogue: 0,0:51:31.36,0:51:34.96,Default,,0000,0000,0000,,{\fnNoto Sans S Chinese DemiLight\fs18\pos(326,228)\an3\b0}马克·麦克埃文 摄影师
+
