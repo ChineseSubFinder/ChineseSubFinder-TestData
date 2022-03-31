@@ -1,0 +1,702 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-03-30 17:44:47 - tinyMediaManager 4.0.6-->
+<movie>
+  <title>失控玩家</title>
+  <originaltitle/>
+  <sorttitle/>
+  <epbookmark/>
+  <year>2021</year>
+  <ratings>
+    <rating default="false" max="10" name="themoviedb">
+      <value>7.7</value>
+      <votes>5339</votes>
+    </rating>
+    <rating default="true" max="10" name="imdb">
+      <value>7.2</value>
+      <votes>318348</votes>
+    </rating>
+    <rating default="false" max="10" name="trakt">
+      <value>7.4</value>
+      <votes>15081</votes>
+    </rating>
+  </ratings>
+  <userrating>0.0</userrating>
+  <top250>0</top250>
+  <set>
+    <name>失控玩家</name>
+    <overview/>
+  </set>
+  <plot>　　《自由城》是一款爆款动作冒险类游戏，玩家可以在游戏里烧杀抢掠，体验当法外之徒的快感。游戏中还有不少NPC，他们日复一日配合玩家做出各种反应：被抢劫、被打倒在地、被迫崇拜玩家等等。盖是《自由城》中的一名NPC银行出纳员，拥有一衣柜一模一样的蓝衬衣，过着一成不变的生活。有一天，由于某个契机他突然决定打破这种循环，掌握人生的主动权，出人意料地抢走了玩家的VR眼镜，然后震惊地看到玩家眼中的世界：四处漂浮着的虚拟图标，提示着任务任务、血量和弹药量等，地上还有装备、医疗包。盖的世界观彻底被震撼了，而他也误打误撞地体验起了当玩家的感觉。然而，善良的他不愿意杀人放火，于是开始了做好事不留名的奇特游戏生涯。他以一己之力影响着游戏的风气，成为传奇人物，现实中的玩家纷纷猜测他的真实身份。但是，好景不长，《自由城》的拥有者安托万为了推出新游戏而要将它关停。盖赖以生存的电子世界即将毁灭，拯救世界的重担落在了他肩上。与此同时，现实世界中的程序员兼游戏设计师米莉的成果被安托万窃取，不得不进入游戏偷回代码。在这一过程中她遇到了觉醒的盖，和他联手踏上了拯救游戏世界的冒险之旅。</plot>
+  <outline>　　《自由城》是一款爆款动作冒险类游戏，玩家可以在游戏里烧杀抢掠，体验当法外之徒的快感。游戏中还有不少NPC，他们日复一日配合玩家做出各种反应：被抢劫、被打倒在地、被迫崇拜玩家等等。盖是《自由城》中的一名NPC银行出纳员，拥有一衣柜一模一样的蓝衬衣，过着一成不变的生活。有一天，由于某个契机他突然决定打破这种循环，掌握人生的主动权，出人意料地抢走了玩家的VR眼镜，然后震惊地看到玩家眼中的世界：四处漂浮着的虚拟图标，提示着任务任务、血量和弹药量等，地上还有装备、医疗包。盖的世界观彻底被震撼了，而他也误打误撞地体验起了当玩家的感觉。然而，善良的他不愿意杀人放火，于是开始了做好事不留名的奇特游戏生涯。他以一己之力影响着游戏的风气，成为传奇人物，现实中的玩家纷纷猜测他的真实身份。但是，好景不长，《自由城》的拥有者安托万为了推出新游戏而要将它关停。盖赖以生存的电子世界即将毁灭，拯救世界的重担落在了他肩上。与此同时，现实世界中的程序员兼游戏设计师米莉的成果被安托万窃取，不得不进入游戏偷回代码。在这一过程中她遇到了觉醒的盖，和他联手踏上了拯救游戏世界的冒险之旅。</outline>
+  <tagline>人生苦短 不当背景</tagline>
+  <runtime>115</runtime>
+  <thumb aspect="poster">http://image.tmdb.org/t/p/original/yc2IfL701hGkNHRgzmF4C6VKO14.jpg</thumb>
+  <thumb aspect="banner">http://assets.fanart.tv/fanart/movies/550988/moviebanner/free-guy-614d52c364b63.jpg</thumb>
+  <thumb aspect="clearart">http://assets.fanart.tv/fanart/movies/550988/hdmovieclearart/free-guy-607a19cc167d1.png</thumb>
+  <thumb aspect="clearlogo">http://assets.fanart.tv/fanart/movies/550988/hdmovielogo/free-guy-5f824d7720909.png</thumb>
+  <thumb aspect="discart">http://assets.fanart.tv/fanart/movies/550988/moviedisc/free-guy-614730a084d94.png</thumb>
+  <thumb aspect="landscape">http://assets.fanart.tv/fanart/movies/550988/moviethumb/free-guy-5f82d92f90e42.jpg</thumb>
+  <thumb aspect="keyart">http://assets.fanart.tv/fanart/movies/550988/movieposter/free-guy-5f83114bcd0d1.jpg</thumb>
+  <thumb aspect="logo">http://assets.fanart.tv/fanart/movies/550988/hdmovielogo/free-guy-5f824d7720909.png</thumb>
+  <fanart>
+    <thumb>http://image.tmdb.org/t/p/original/lYrV9AMjiSxWJhw4H5TSfbeJjCM.jpg</thumb>
+  </fanart>
+  <mpaa>US:PG-13 / US:Rated PG-13</mpaa>
+  <certification>US:PG-13 / US:Rated PG-13</certification>
+  <id>tt6264654</id>
+  <tmdbid>550988</tmdbid>
+  <tmdbCollectionId>861415</tmdbCollectionId>
+  <uniqueid default="false" type="Tmdb">550988</uniqueid>
+  <uniqueid default="false" type="Imdb">tt6264654</uniqueid>
+  <uniqueid default="false" type="tmdb">550988</uniqueid>
+  <uniqueid default="true" type="imdb">tt6264654</uniqueid>
+  <uniqueid default="false" type="trakt">400704</uniqueid>
+  <uniqueid default="false" type="tmdbSet">861415</uniqueid>
+  <country/>
+  <status/>
+  <code/>
+  <premiered>2021-08-13</premiered>
+  <watched>false</watched>
+  <playcount/>
+  <lastplayed/>
+  <genre>Comedy</genre>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Science Fiction</genre>
+  <studio/>
+  <credits>Zak Penn</credits>
+  <credits>Matt Lieberman</credits>
+  <director>Josh McLaglen</director>
+  <director>Shawn Levy</director>
+  <director>Chris O'Hara</director>
+  <director>Isaac Nadreau</director>
+  <director>Carolina Jiménez</director>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Guy</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/ryan-reynolds</profile>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Millie Rusk, Molotovgirl</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/jodie-comer</profile>
+  </actor>
+  <actor>
+    <name>Joe Keery</name>
+    <role>Walter 'Keys' McKeys</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/joe-keery</profile>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Buddy</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/lil-rel-howery</profile>
+  </actor>
+  <actor>
+    <name>Utkarsh Ambudkar</name>
+    <role>Mouser</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/utkarsh-ambudkar</profile>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Antwan Hovachelik</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/taika-waititi</profile>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Revenjamin Buttons</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/channing-tatum</profile>
+  </actor>
+  <actor>
+    <name>Aaron W Reed</name>
+    <role>Dude</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/aaron-w-reed</profile>
+  </actor>
+  <actor>
+    <name>Britne Oldford</name>
+    <role>Barista</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/britne-oldford-a8b7db7d-51f2-4660-8630-e2ef856986a4</profile>
+  </actor>
+  <actor>
+    <name>Camille Kostek</name>
+    <role>Bombshell</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/camille-kostek</profile>
+  </actor>
+  <actor>
+    <name>Mark Lainer</name>
+    <role>Hostage</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/mark-lainer</profile>
+  </actor>
+  <actor>
+    <name>Mike Devine</name>
+    <role>Officer Johnny</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/mike-devine</profile>
+  </actor>
+  <actor>
+    <name>Sophie Levy</name>
+    <role>Big City Dreamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/sophie-levy</profile>
+  </actor>
+  <actor>
+    <name>Vernon Scott</name>
+    <role>Bank Manager</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/vernon-scott</profile>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Convenience Store Owner Joe</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/naheem-garcia</profile>
+  </actor>
+  <actor>
+    <name>Anabel Graetz</name>
+    <role>Cat Lady Phyllis</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/anabel-graetz</profile>
+  </actor>
+  <actor>
+    <name>Ric Plamenco</name>
+    <role>Ice Cream Vendor</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/ric-plamenco</profile>
+  </actor>
+  <actor>
+    <name>Kenneth Israel</name>
+    <role>Businessman</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/kenneth-israel</profile>
+  </actor>
+  <actor>
+    <name>Michael Malvesti</name>
+    <role>Newsstand Vendor</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/michael-malvesti</profile>
+  </actor>
+  <actor>
+    <name>Colin Allen</name>
+    <role>Shoe Store Clerk</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/colin-allen</profile>
+  </actor>
+  <actor>
+    <name>Michael Tow</name>
+    <role>Rain Man</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/michael-tow</profile>
+  </actor>
+  <actor>
+    <name>Hugh Jackman</name>
+    <role>Masked Player in Alley (voice)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/hugh-jackman</profile>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Bank Robber #2 (voice)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/dwayne-johnson</profile>
+  </actor>
+  <actor>
+    <name>Tina Fey</name>
+    <role>Vacuuming Mom (voice)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/tina-fey</profile>
+  </actor>
+  <actor>
+    <name>John Krasinski</name>
+    <role>Silhouetted Gamer (voice)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/john-krasinski</profile>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Chris Evans</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/chris-evans</profile>
+  </actor>
+  <actor>
+    <name>Alex Trebek</name>
+    <role>Alex Trebek</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/alex-trebek</profile>
+  </actor>
+  <actor>
+    <name>Lara Spencer</name>
+    <role>Lara Spencer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/lara-spencer</profile>
+  </actor>
+  <actor>
+    <name>Matthew Cardarople</name>
+    <role>Keith, the 22-Year-Old Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/matthew-cardarople</profile>
+  </actor>
+  <actor>
+    <name>Jonathan De Azevedo</name>
+    <role>Jonathan</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/jonathan-de-azevedo</profile>
+  </actor>
+  <actor>
+    <name>Destiny Claymore</name>
+    <role>Art Nerd</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/destiny-claymore</profile>
+  </actor>
+  <actor>
+    <name>Ninja</name>
+    <role>Ninja</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/ninja-2012059</profile>
+  </actor>
+  <actor>
+    <name>Pokimane</name>
+    <role>Pokimane</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/pokimane</profile>
+  </actor>
+  <actor>
+    <name>Lannan Eacott</name>
+    <role>Lazarbeam</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/lannan-eacott-7567ab14-47ec-420e-824b-6c18fc74329b</profile>
+  </actor>
+  <actor>
+    <name>Seán McLoughlin</name>
+    <role>Jacksepticeye</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/sean-mcloughlin-843257</profile>
+  </actor>
+  <actor>
+    <name>DanTDM</name>
+    <role>DanTDM</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/dantdm</profile>
+  </actor>
+  <actor>
+    <name>Charlotte Levy</name>
+    <role>Tween Gamer Girl</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/charlotte-levy</profile>
+  </actor>
+  <actor>
+    <name>Colette Levy</name>
+    <role>Foul-Mouthed Little Sister</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/colette-levy</profile>
+  </actor>
+  <actor>
+    <name>Mariama Conde</name>
+    <role>Teenage Girl</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/mariama-conde</profile>
+  </actor>
+  <actor>
+    <name>Olivia Z. Cote</name>
+    <role>Teenage Girl</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/olivia-z-cote</profile>
+  </actor>
+  <actor>
+    <name>Ryan Doyle</name>
+    <role>Teenage Boy</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/ryan-doyle-2383e9d9-fbc6-4083-a8de-6a6b0f482632</profile>
+  </actor>
+  <actor>
+    <name>Bob Gilliam</name>
+    <role>Free City News Anchor</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/bob-gilliam</profile>
+  </actor>
+  <actor>
+    <name>Terri Schwartz</name>
+    <role>IGN Reporter</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/terri-schwartz</profile>
+  </actor>
+  <actor>
+    <name>Eugene Nomura</name>
+    <role>Japanese Reporter</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/eugene-nomura</profile>
+  </actor>
+  <actor>
+    <name>Euri Nomura</name>
+    <role>Hinata</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/euri-nomura</profile>
+  </actor>
+  <actor>
+    <name>Octavia Chavez-Richmond</name>
+    <role>Real World Coffee Shop Server</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/octavia-chavez-richmond</profile>
+  </actor>
+  <actor>
+    <name>Raj Jawa</name>
+    <role>Quad-Screen Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/raj-jawa</profile>
+  </actor>
+  <actor>
+    <name>Charlie Lehmer</name>
+    <role>Quad-Screen Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/charlie-lehmer</profile>
+  </actor>
+  <actor>
+    <name>Elainy Mata</name>
+    <role>Quad-Screen Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/elainy-mata</profile>
+  </actor>
+  <actor>
+    <name>Jack McLaglen</name>
+    <role>Quad-Screen Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/jack-mclaglen</profile>
+  </actor>
+  <actor>
+    <name>Jose Guns Alves</name>
+    <role>Soonami Security Guard</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/jose-guns-alves</profile>
+  </actor>
+  <actor>
+    <name>Minh-Anh Day</name>
+    <role>Soonami Employee</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/minh-anh-day</profile>
+  </actor>
+  <actor>
+    <name>Ella Faria</name>
+    <role>Austrian Female Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/ella-faria</profile>
+  </actor>
+  <actor>
+    <name>Francisco Marquez</name>
+    <role>Bank Robber #1</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/francisco-marquez-df5029a1-8e56-4874-a7e5-55b80ada717c</profile>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Bank Robber #2</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/owen-burke-9f63d746-0782-4021-9405-99306781914e</profile>
+  </actor>
+  <actor>
+    <name>Timothy John Smith</name>
+    <role>Bank Robber #3</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/timothy-john-smith</profile>
+  </actor>
+  <actor>
+    <name>Justin Johnston</name>
+    <role>Bank Robber #4</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/justin-johnston</profile>
+  </actor>
+  <actor>
+    <name>Patrick Vincent Curran</name>
+    <role>Masked Player in Alley</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/patrick-vincent-curran</profile>
+  </actor>
+  <actor>
+    <name>Lily Steven</name>
+    <role>20-Year-Old Female Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/lily-steven</profile>
+  </actor>
+  <actor>
+    <name>Gabrielle Lorthe</name>
+    <role>20-Year-Old Female Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/gabrielle-lorthe</profile>
+  </actor>
+  <actor>
+    <name>Briana Mitchell</name>
+    <role>20-Year-Old Female Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/briana-mitchell</profile>
+  </actor>
+  <actor>
+    <name>Rosario Corso</name>
+    <role>Silhouetted Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/rosario-corso</profile>
+  </actor>
+  <actor>
+    <name>Regina Taufen</name>
+    <role>Vacuuming Mom</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/regina-taufen</profile>
+  </actor>
+  <actor>
+    <name>Liam Campos</name>
+    <role>Kid Gamer</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/liam-campos</profile>
+  </actor>
+  <actor>
+    <name>Piper Acord</name>
+    <role>Contestant</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/piper-acord</profile>
+  </actor>
+  <actor>
+    <name>Brett Schneider</name>
+    <role>Contestant</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/brett-schneider</profile>
+  </actor>
+  <actor>
+    <name>Omar Ghonim</name>
+    <role>Carjacking Victim (uncredited)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/omar-ghonim</profile>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Viking Warrior NPC (uncredited)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/tait-fletcher</profile>
+  </actor>
+  <actor>
+    <name>Domenic Arduino</name>
+    <role>Soonami Tech (uncredited)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/domenic-arduino</profile>
+  </actor>
+  <actor>
+    <name>Emma Jonnz</name>
+    <role>Emma (uncredited)</role>
+    <thumb/>
+    <profile>https://trakt.tv/people/emma-jonnz</profile>
+  </actor>
+  <producer>
+    <name>Ronna Kress</name>
+    <role>Casting</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Josh McLaglen</name>
+    <role>Executive Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Shawn Levy</name>
+    <role>Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Mary McLaglen</name>
+    <role>Executive Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Daniel S. Levine</name>
+    <role>Executive Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Adam Kolbrenner</name>
+    <role>Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Ryan Reynolds</name>
+    <role>Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Greg Berlanti</name>
+    <role>Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Sarah Schechter</name>
+    <role>Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Angela Peri</name>
+    <role>Casting</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Mark Fitzgerald</name>
+    <role>Location Manager</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Scott Elias</name>
+    <role>Associate Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Dan Cohen</name>
+    <role>Co-Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Douglas Cowell</name>
+    <role>Extras Casting Coordinator</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Lisa Lobel</name>
+    <role>Casting</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Michael McGrath</name>
+    <role>Executive Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>George Dewey</name>
+    <role>Executive Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Rand Geiger</name>
+    <role>Co-Producer</role>
+    <thumb/>
+  </producer>
+  <producer>
+    <name>Teddy Pryor</name>
+    <role>Production Assistant</role>
+    <thumb/>
+  </producer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bt_IiaaqqHM</trailer>
+  <languages/>
+  <dateadded>2021-09-25 13:08:29</dateadded>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>HEVC</codec>
+        <aspect>1.78</aspect>
+        <width>3840</width>
+        <height>2160</height>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>Atmos</codec>
+        <language>eng</language>
+        <channels>8</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>eng</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>fra</language>
+        <channels>8</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>fra</language>
+        <channels>6</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>spa</language>
+        <channels>8</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>deu</language>
+        <channels>8</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>ita</language>
+        <channels>8</channels>
+      </audio>
+      <audio>
+        <codec>AC3</codec>
+        <language>jpn</language>
+        <channels>8</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>spa</language>
+      </subtitle>
+      <subtitle>
+        <language>deu</language>
+      </subtitle>
+      <subtitle>
+        <language>ita</language>
+      </subtitle>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+      <subtitle>
+        <language>dan</language>
+      </subtitle>
+      <subtitle>
+        <language>fin</language>
+      </subtitle>
+      <subtitle>
+        <language>nor</language>
+      </subtitle>
+      <subtitle>
+        <language>swe</language>
+      </subtitle>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>spa</language>
+      </subtitle>
+      <subtitle>
+        <language>deu</language>
+      </subtitle>
+      <subtitle>
+        <language>ita</language>
+      </subtitle>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <edition>NONE</edition>
+  <original_filename>BDMV</original_filename>
+  <user_note/>
+</movie>

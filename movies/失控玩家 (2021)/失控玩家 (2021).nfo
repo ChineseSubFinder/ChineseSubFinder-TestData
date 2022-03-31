@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　《自由城》是一款爆款动作冒险类游戏，玩家可以在游戏里烧杀抢掠，体验当法外之徒的快感。游戏中还有不少NPC，他们日复一日配合玩家做出各种反应：被抢劫、被打倒在地、被迫崇拜玩家等等。盖是《自由城》中的一名NPC银行出纳员，拥有一衣柜一模一样的蓝衬衣，过着一成不变的生活。有一天，由于某个契机他突然决定打破这种循环，掌握人生的主动权，出人意料地抢走了玩家的VR眼镜，然后震惊地看到玩家眼中的世界：四处漂浮着的虚拟图标，提示着任务任务、血量和弹药量等，地上还有装备、医疗包。盖的世界观彻底被震撼了，而他也误打误撞地体验起了当玩家的感觉。然而，善良的他不愿意杀人放火，于是开始了做好事不留名的奇特游戏生涯。他以一己之力影响着游戏的风气，成为传奇人物，现实中的玩家纷纷猜测他的真实身份。但是，好景不长，《自由城》的拥有者安托万为了推出新游戏而要将它关停。盖赖以生存的电子世界即将毁灭，拯救世界的重担落在了他肩上。与此同时，现实世界中的程序员兼游戏设计师米莉的成果被安托万窃取，不得不进入游戏偷回代码。在这一过程中她遇到了觉醒的盖，和他联手踏上了拯救游戏世界的冒险之旅。]]></plot>
+  <outline><![CDATA[人生苦短 不当背景]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-03-30 09:44:50</dateadded>
+  <title>失控玩家</title>
+  <originaltitle>Free Guy</originaltitle>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Guy</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Millie Rusk / Molotovgirl</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Keery</name>
+    <role>Walter 'Keys' McKeys</role>
+    <type>Actor</type>
+    <tmdbid>1467219</tmdbid>
+    <imdbid>nm6564737</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/90433.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Joe Britton","Url":"https://xslist.org/zh/model/90433.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/90433.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Buddy</role>
+    <type>Actor</type>
+    <tmdbid>1488961</tmdbid>
+    <imdbid>nm2577076</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/455.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Lily Kawasara - 百合川さら","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/4-Kawaii/茅ヶ崎ありす.jpg","Url":"https://xslist.org/zh/model/455.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/455.jpg","https://m1.xslist.org/gallery/0/455/1608874152.jpg","https://m1.xslist.org/gallery/0/455/1608870445.jpg","https://m1.xslist.org/gallery/0/455/1608868458.jpg","https://m1.xslist.org/gallery/0/455/1601646475.jpg","https://m1.xslist.org/gallery/0/455/1584246408.jpg","https://m1.xslist.org/gallery/0/455/1582444030.jpg","https://m1.xslist.org/gallery/0/455/1574397128.jpg","https://m1.xslist.org/gallery/0/455/1574396353.jpg","https://m1.xslist.org/gallery/0/455/1574394847.jpg","https://m1.xslist.org/gallery/0/455/1570770500.jpg","https://m1.xslist.org/gallery/0/455/1570770076.jpg","https://m1.xslist.org/gallery/0/455/1570767765.jpg","https://m1.xslist.org/gallery/0/455/1570767167.jpg","https://m1.xslist.org/gallery/0/455/1570766870.jpg","https://m1.xslist.org/gallery/0/455/1570764764.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/455.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Utkarsh Ambudkar</name>
+    <role>Mouser</role>
+    <type>Actor</type>
+    <tmdbid>929511</tmdbid>
+    <imdbid>nm2064295</imdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Antwan Hovachelik</role>
+    <type>Actor</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Revenjamin Buttons</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/43997.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Lacey Channing","Url":"https://xslist.org/zh/model/43997.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/43997.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Aaron W Reed</name>
+    <role>Dude</role>
+    <type>Actor</type>
+    <tmdbid>3158217</tmdbid>
+    <imdbid>nm9619603</imdbid>
+  </actor>
+  <actor>
+    <name>Britne Oldford</name>
+    <role>Barista</role>
+    <type>Actor</type>
+    <tmdbid>543523</tmdbid>
+    <imdbid>nm4162863</imdbid>
+  </actor>
+  <actor>
+    <name>Camille Kostek</name>
+    <role>Bombshell</role>
+    <type>Actor</type>
+    <tmdbid>2128152</tmdbid>
+    <imdbid>nm8814069</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lainer</name>
+    <role>Hostage</role>
+    <type>Actor</type>
+    <tmdbid>1996565</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/67061.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Melody Hina Marks - メロディー・雛・マークス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/0-Hand-Storage/メロディー・雛・マークス.jpg","Url":"https://xslist.org/zh/model/67061.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/67000/67061.jpg","https://m1.xslist.org/gallery/67000/67061/1603767938.jpg","https://m1.xslist.org/gallery/67000/67061/13245678987654.jpg","https://m1.xslist.org/gallery/67000/67061/1592273665.jpg","https://m1.xslist.org/gallery/67000/67061/1582444880.jpg","https://m1.xslist.org/gallery/67000/67061/1607670059.jpg","https://m1.xslist.org/gallery/67000/67061/1607668674.jpg","https://m1.xslist.org/gallery/67000/67061/1603767748.jpg","https://m1.xslist.org/gallery/67000/67061/1599269540.jpg","https://m1.xslist.org/gallery/67000/67061/1599269172.jpg","https://m1.xslist.org/gallery/67000/67061/1599267694.jpg","https://m1.xslist.org/gallery/67000/67061/1598057689.jpg","https://m1.xslist.org/gallery/67000/67061/1598057661.jpg","https://m1.xslist.org/gallery/67000/67061/1598057646.jpg","https://m1.xslist.org/gallery/67000/67061/1596419281.jpg","https://m1.xslist.org/gallery/67000/67061/1596418764.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/67061.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Mike Devine</name>
+    <role>Officer Johnny</role>
+    <type>Actor</type>
+    <tmdbid>3158223</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Levy</name>
+    <role>Big City Dreamer</role>
+    <type>Actor</type>
+    <tmdbid>1126350</tmdbid>
+    <imdbid>nm1053641</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/20646.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Sophie Dee - ソフィー ディー","Url":"https://xslist.org/zh/model/20646.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/20646.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Vernon Scott</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>1781529</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/23745.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Kristen Scott - クリステン・スコット","Url":"https://xslist.org/zh/model/23745.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/23745.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Naheem Garcia</name>
+    <role>Convenience Store Owner Joe</role>
+    <type>Actor</type>
+    <tmdbid>1745909</tmdbid>
+    <imdbid>nm3608877</imdbid>
+  </actor>
+  <actor>
+    <name>Anabel Graetz</name>
+    <role>Cat Lady Phyllis</role>
+    <type>Actor</type>
+    <tmdbid>1945796</tmdbid>
+    <imdbid>nm3313805</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/66112.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Anabel Lee","Url":"https://xslist.org/zh/model/66112.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/66112.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Ric Plamenco</name>
+    <role>Ice Cream Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2021032</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/618.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Marica Hase - まりか","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/6-Warashi/AI-Fix-長谷真理香.jpg","Url":"https://xslist.org/zh/model/618.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/618.jpg","https://m1.xslist.org/gallery/0/618/1568428579.jpg","https://m1.xslist.org/gallery/0/618/1568427796.jpg","https://m1.xslist.org/gallery/0/618/1568253006.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/618.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Kenneth Israel</name>
+    <role>Businessman</role>
+    <type>Actor</type>
+    <tmdbid>1737299</tmdbid>
+    <imdbid>nm5199565</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Malvesti</name>
+    <role>Newsstand Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2029531</tmdbid>
+    <imdbid>nm4024589</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Allen</name>
+    <role>Shoe Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1156040</tmdbid>
+    <imdbid>nm3473588</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Tow</name>
+    <role>Rain Man</role>
+    <type>Actor</type>
+    <tmdbid>1593000</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/674.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Leon Otowa - 音羽レオン","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/6-Warashi/AI-Fix-音羽レオン.jpg","Url":"https://xslist.org/zh/model/674.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/674.jpg","https://m1.xslist.org/gallery/0/674/1562979593.jpg","https://m1.xslist.org/gallery/0/674/1572403481.jpg","https://m1.xslist.org/gallery/0/674/1572400116.jpg","https://m1.xslist.org/gallery/0/674/1572363455.jpg","https://m1.xslist.org/gallery/0/674/1572329160.jpg","https://m1.xslist.org/gallery/0/674/1572324995.jpg","https://m1.xslist.org/gallery/0/674/1571460921.jpg","https://m1.xslist.org/gallery/0/674/1571458648.jpg","https://m1.xslist.org/gallery/0/674/1571456272.jpg","https://m1.xslist.org/gallery/0/674/1571452897.jpg","https://m1.xslist.org/gallery/0/674/1571445652.jpg","https://m1.xslist.org/gallery/0/674/1570239877.jpg","https://m1.xslist.org/gallery/0/674/1570239270.jpg","https://m1.xslist.org/gallery/0/674/1570239254.jpg","https://m1.xslist.org/gallery/0/674/1570238402.jpg"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/674.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Hugh Jackman</name>
+    <role>Masked Player in Alley (voice)</role>
+    <type>Actor</type>
+    <tmdbid>6968</tmdbid>
+    <imdbid>nm0413168</imdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Bank Robber #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Fey</name>
+    <role>Vacuuming Mom (voice)</role>
+    <type>Actor</type>
+    <tmdbid>56323</tmdbid>
+    <imdbid>nm0275486</imdbid>
+  </actor>
+  <actor>
+    <name>John Krasinski</name>
+    <role>Silhouetted Gamer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17697</tmdbid>
+    <imdbid>nm1024677</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1795.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Abigaile Johnson - Abigaile Johnson","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-Abigaile Johnson.jpg","Url":"https://xslist.org/zh/model/1795.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1795.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Chris Evans</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Trebek</name>
+    <role>Alex Trebek</role>
+    <type>Actor</type>
+    <tmdbid>158208</tmdbid>
+    <imdbid>nm0871618</imdbid>
+  </actor>
+  <actor>
+    <name>Lara Spencer</name>
+    <role>Lara Spencer</role>
+    <type>Actor</type>
+    <tmdbid>1215539</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Cardarople</name>
+    <role>Keith, the 22-Year-Old Gamer</role>
+    <type>Actor</type>
+    <tmdbid>979412</tmdbid>
+    <imdbid>nm1781213</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/132225.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Lexie Matthews","Url":"https://xslist.org/zh/model/132225.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/132225.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Jonathan De Azevedo</name>
+    <role>Jonathan</role>
+    <type>Actor</type>
+    <tmdbid>3158232</tmdbid>
+    <imdbid>nm10709961</imdbid>
+  </actor>
+  <actor>
+    <name>Destiny Claymore</name>
+    <role>Art Nerd</role>
+    <type>Actor</type>
+    <tmdbid>3158235</tmdbid>
+    <imdbid>nm10693172</imdbid>
+  </actor>
+  <actor>
+    <name>Ninja</name>
+    <role>Ninja</role>
+    <type>Actor</type>
+    <tmdbid>2827430</tmdbid>
+    <imdbid>nm8181333</imdbid>
+  </actor>
+  <actor>
+    <name>Imane Anys</name>
+    <role>Pokimane</role>
+    <type>Actor</type>
+    <tmdbid>2610062</tmdbid>
+  </actor>
+  <actor>
+    <name>Lannan Eacott</name>
+    <role>Lazarbeam</role>
+    <type>Actor</type>
+    <tmdbid>2610063</tmdbid>
+  </actor>
+  <actor>
+    <name>Seán McLoughlin</name>
+    <role>Jacksepticeye</role>
+    <type>Actor</type>
+    <tmdbid>1777399</tmdbid>
+    <imdbid>nm7681921</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/58249.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Sean","Url":"https://xslist.org/zh/model/58249.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/58249.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>DanTDM</name>
+    <role>DanTDM</role>
+    <type>Actor</type>
+    <tmdbid>2932608</tmdbid>
+    <imdbid>nm7637737</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Levy</name>
+    <role>Tween Gamer Girl</role>
+    <type>Actor</type>
+    <tmdbid>2413540</tmdbid>
+  </actor>
+  <actor>
+    <name>Colette Levy</name>
+    <role>Foul-Mouthed Little Sister</role>
+    <type>Actor</type>
+    <tmdbid>3307356</tmdbid>
+  </actor>
+  <actor>
+    <name>Mariama Conde</name>
+    <role>Teenage Girl</role>
+    <type>Actor</type>
+    <tmdbid>3158238</tmdbid>
+    <imdbid>nm10809197</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Z. Cote</name>
+    <role>Teenage Girl</role>
+    <type>Actor</type>
+    <tmdbid>3311353</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Doyle</name>
+    <role>Teenage Boy</role>
+    <type>Actor</type>
+    <tmdbid>585676</tmdbid>
+    <imdbid>nm2440298</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Gilliam</name>
+    <role>Free City News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1379451</tmdbid>
+    <imdbid>nm1111612</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/18173.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Bobby Star - ボビー・スター","Url":"https://xslist.org/zh/model/18173.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/18173.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Terri Schwartz</name>
+    <role>IGN Reporter</role>
+    <type>Actor</type>
+    <tmdbid>3158237</tmdbid>
+    <imdbid>nm5989219</imdbid>
+  </actor>
+  <actor>
+    <name>Eugene Nomura</name>
+    <role>Japanese Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1104811</tmdbid>
+  </actor>
+  <actor>
+    <name>Euri Nomura</name>
+    <role>Hinata</role>
+    <type>Actor</type>
+    <tmdbid>3311354</tmdbid>
+  </actor>
+  <actor>
+    <name>Octavia Chavez-Richmond</name>
+    <role>Real World Coffee Shop Server</role>
+    <type>Actor</type>
+    <tmdbid>1572144</tmdbid>
+    <imdbid>nm4943371</imdbid>
+  </actor>
+  <actor>
+    <name>Raj Jawa</name>
+    <role>Quad-Screen Gamer</role>
+    <type>Actor</type>
+    <tmdbid>1262631</tmdbid>
+    <imdbid>nm3240293</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/5528.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Catherine Harajuku - きゃさりんはらじゅく","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-きゃさりんはらじゅく.jpg","Url":"https://xslist.org/zh/model/5528.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/5528.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Charlie Lehmer</name>
+    <role>Quad-Screen Gamer</role>
+    <type>Actor</type>
+    <tmdbid>2147626</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/47180.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Charlie&amp;#039;s Angels","Url":"https://xslist.org/zh/model/47180.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/47180.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Elainy Mata</name>
+    <role>Quad-Screen Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158239</tmdbid>
+    <imdbid>nm8702381</imdbid>
+  </actor>
+  <actor>
+    <name>Jack McLaglen</name>
+    <role>Quad-Screen Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158240</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Guns Alves</name>
+    <role>Soonami Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1849970</tmdbid>
+  </actor>
+  <actor>
+    <name>Minh-Anh Day</name>
+    <role>Soonami Employee</role>
+    <type>Actor</type>
+    <tmdbid>3158241</tmdbid>
+    <imdbid>nm9971392</imdbid>
+  </actor>
+  <actor>
+    <name>Ella Faria</name>
+    <role>Austrian Female Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158244</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Marquez</name>
+    <role>Bank Robber #1</role>
+    <type>Actor</type>
+    <tmdbid>3158230</tmdbid>
+    <imdbid>nm4100263</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Bank Robber #2</role>
+    <type>Actor</type>
+    <tmdbid>133068</tmdbid>
+    <imdbid>nm4024978</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/119930.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Paige Owens","Url":"https://xslist.org/zh/model/119930.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/119930.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Timothy John Smith</name>
+    <role>Bank Robber #3</role>
+    <type>Actor</type>
+    <tmdbid>1419122</tmdbid>
+    <imdbid>nm6326385</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/1795.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Abigaile Johnson - Abigaile Johnson","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-Abigaile Johnson.jpg","Url":"https://xslist.org/zh/model/1795.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/1795.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Justin Johnston</name>
+    <role>Bank Robber #4</role>
+    <type>Actor</type>
+    <tmdbid>87930</tmdbid>
+    <imdbid>nm2640933</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Vincent Curran</name>
+    <role>Masked Player in Alley</role>
+    <type>Actor</type>
+    <tmdbid>1856188</tmdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/9539.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Tera Patrick - テラ パトリック","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-テラ パトリック.jpg","Url":"https://xslist.org/zh/model/9539.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/9539.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Lily Steven</name>
+    <role>20-Year-Old Female Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158242</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Lorthe</name>
+    <role>20-Year-Old Female Gamer</role>
+    <type>Actor</type>
+    <tmdbid>2090161</tmdbid>
+    <imdbid>nm8789663</imdbid>
+  </actor>
+  <actor>
+    <name>Briana Mitchell</name>
+    <role>20-Year-Old Female Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158243</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosario Corso</name>
+    <role>Silhouetted Gamer</role>
+    <type>Actor</type>
+    <tmdbid>2100863</tmdbid>
+    <imdbid>nm3995189</imdbid>
+  </actor>
+  <actor>
+    <name>Regina Taufen</name>
+    <role>Vacuuming Mom</role>
+    <type>Actor</type>
+    <tmdbid>1728454</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Campos</name>
+    <role>Kid Gamer</role>
+    <type>Actor</type>
+    <tmdbid>3158245</tmdbid>
+  </actor>
+  <actor>
+    <name>Piper Acord</name>
+    <role>Contestant</role>
+    <type>Actor</type>
+    <tmdbid>3311359</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Schneider</name>
+    <role>Contestant</role>
+    <type>Actor</type>
+    <tmdbid>1233084</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Ghonim</name>
+    <role>Carjacking Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2465122</tmdbid>
+    <imdbid>nm8866958</imdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Viking Warrior NPC (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1105706</tmdbid>
+    <imdbid>nm1324884</imdbid>
+  </actor>
+  <actor>
+    <name>Domenic Arduino</name>
+    <role>Soonami Tech (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3314389</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Jonnz</name>
+    <role>Emma (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3345344</tmdbid>
+  </actor>
+  <director tmdbid="17825" imdbid="nm0506613" javscraper-actressid="https://xslist.org/zh/model/44744.html" javscraper-actress-jsonid="{&quot;Provider&quot;:&quot;JavScraper.Xslist&quot;,&quot;Name&quot;:&quot;Shawna Lenee - ショウナ・レニー&quot;,&quot;Cover&quot;:&quot;https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/9-Javrave/ショウナ・レニー.jpg&quot;,&quot;Url&quot;:&quot;https://xslist.org/zh/model/44744.html&quot;,&quot;ImageType&quot;:&quot;Backdrop&quot;}" javscraper-actress-urlid="https://xslist.org/zh/model/44744.html">Shawn Levy</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bt_IiaaqqHM</trailer>
+  <rating>7.2</rating>
+  <year>2021</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6264654</imdbid>
+  <tmdbid>550988</tmdbid>
+  <premiered>2021-08-11</premiered>
+  <releasedate>2021-08-11</releasedate>
+  <criticrating>80</criticrating>
+  <tagline>人生苦短 不当背景</tagline>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Berlanti Productions</studio>
+  <studio>21 Laps Entertainment</studio>
+  <studio>Maximum Effort</studio>
+  <studio>Lit Entertainment Group</studio>
+  <studio>20th Century Studios</studio>
+  <uniqueid type="Tmdb">550988</uniqueid>
+  <uniqueid type="Imdb">tt6264654</uniqueid>
+  <id>tt6264654</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>
