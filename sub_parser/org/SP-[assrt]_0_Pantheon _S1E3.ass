@@ -1,0 +1,1252 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 384
+PlayResY: 288
+Timer: 100.0000
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,华文细黑,18,&H00ffffff,&H00000000,&H00000000,&H90000000,0,0,0,0,100.00,100.00,0.00,0.00,1,2.00,3.00,2,0,0,5,134
+Style: Default2,华文细黑,14,&H00ffffff,&H00000000,&H00000000,&H90000000,0,0,0,0,100.00,100.00,0.00,0.00,1,2.00,3.00,2,0,0,5,134
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:19.45,0:00:23.24,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:00:23.28,0:00:27.11,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:00:45.91,0:00:48.43,Default2,,0000,0000,0000,,Amma. How's your foot?
+Dialogue: 0,0:00:48.48,0:00:51.48,Default2,,0000,0000,0000,,Oh, I'm fine, beta. Don't worry about me.
+Dialogue: 0,0:00:51.52,0:00:53.31,Default2,,0000,0000,0000,,But if you want to worry,
+Dialogue: 0,0:00:53.35,0:00:56.31,Default2,,0000,0000,0000,,worry about making me a grandmother.
+Dialogue: 0,0:00:56.36,0:00:57.92,Default2,,0000,0000,0000,,Like all my friends are.
+Dialogue: 0,0:00:57.97,0:01:01.23,Default2,,0000,0000,0000,,Is it around having child...
+Dialogue: 0,0:01:21.90,0:01:25.99,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:01:26.04,0:01:30.13,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:01:43.49,0:01:45.88,Default2,,0000,0000,0000,,He never remembers the previous day?
+Dialogue: 0,0:01:45.93,0:01:48.54,Default2,,0000,0000,0000,,For him, there is no yesterday.
+Dialogue: 0,0:01:48.58,0:01:50.45,Default2,,0000,0000,0000,,Or not one that matters.
+Dialogue: 0,0:01:50.50,0:01:53.11,Default2,,0000,0000,0000,,First-class continuations don't save program data,
+Dialogue: 0,0:01:53.15,0:01:56.85,Default2,,0000,0000,0000,,only the... execution context.
+Dialogue: 0,0:01:56.89,0:02:00.20,Default2,,0000,0000,0000,,Is the call from Mother necessary?
+Dialogue: 0,0:02:00.25,0:02:03.86,Default2,,0000,0000,0000,,Emotion is important for creative problem-solving.
+Dialogue: 0,0:02:03.90,0:02:06.38,Default2,,0000,0000,0000,,Sir...
+Dialogue: 0,0:02:09.04,0:02:13.08,Default2,,0000,0000,0000,,And adding back emotion is what made the others useless.
+Dialogue: 0,0:02:13.13,0:02:17.74,Default2,,0000,0000,0000,,Yes, sir, but those emotions were too strong, ungoverned.
+Dialogue: 0,0:02:17.78,0:02:19.53,Default2,,0000,0000,0000,,They took over.
+Dialogue: 0,0:02:19.57,0:02:21.41,Default2,,0000,0000,0000,,For Chanda, we specifically simulated this call
+Dialogue: 0,0:02:21.44,0:02:24.05,Default2,,0000,0000,0000,,from his mother to incentivize progress via social utility...
+Dialogue: 0,0:02:24.10,0:02:26.14,Default2,,0000,0000,0000,,Don't talk Cambridgeto me.
+Dialogue: 0,0:02:26.18,0:02:29.06,Default2,,0000,0000,0000,,I'm from the chawls.
+Dialogue: 0,0:02:29.10,0:02:34.89,Default2,,0000,0000,0000,,It's love, but with just enough annoyance to keep on task.
+Dialogue: 0,0:02:34.93,0:02:37.11,Default2,,0000,0000,0000,,Sir.
+Dialogue: 0,0:02:37.15,0:02:39.33,Default2,,0000,0000,0000,,Good man.
+Dialogue: 0,0:02:39.37,0:02:41.16,Default2,,0000,0000,0000,,Speed him up.
+Dialogue: 0,0:03:09.62,0:03:14.15,Default2,,0000,0000,0000,,An 80-page patent written in 15 seconds?
+Dialogue: 0,0:03:14.19,0:03:16.89,Default2,,0000,0000,0000,,For him, it was 12 days.
+Dialogue: 0,0:03:16.93,0:03:19.93,Default2,,0000,0000,0000,,No... for him, it was one.
+Dialogue: 0,0:04:09.59,0:04:11.20,Default2,,0000,0000,0000,,Dad?!
+Dialogue: 0,0:04:12.38,0:04:13.99,Default2,,0000,0000,0000,,Aah!
+Dialogue: 0,0:04:16.86,0:04:18.91,Default2,,0000,0000,0000,,A little help here!
+Dialogue: 0,0:04:18.95,0:04:19.86,Default2,,0000,0000,0000,,Aah!
+Dialogue: 0,0:04:19.91,0:04:21.34,Default2,,0000,0000,0000,,WoWhen I was 10,
+Dialogue: 0,0:04:21.39,0:04:23.82,Default2,,0000,0000,0000,,my dad and I would play "Reign of Winter"
+Dialogue: 0,0:04:23.87,0:04:26.35,Default2,,0000,0000,0000,,on Sundays when he was done with work.
+Dialogue: 0,0:04:26.39,0:04:30.22,Default2,,0000,0000,0000,,Now that he's no longer alive...
+Dialogue: 0,0:04:30.27,0:04:32.62,Default2,,0000,0000,0000,,we get to play almost every day.
+Dialogue: 0,0:04:34.66,0:04:37.10,Default2,,0000,0000,0000,,"Reign of Winter" has come a long way, too...
+Dialogue: 0,0:04:37.14,0:04:39.71,Default2,,0000,0000,0000,,Full VR, haptic modeling.
+Dialogue: 0,0:04:39.75,0:04:42.15,Default2,,0000,0000,0000,,It's like you're really there.
+Dialogue: 0,0:04:42.19,0:04:44.50,Default2,,0000,0000,0000,,Hey, where were you?
+Dialogue: 0,0:04:44.54,0:04:47.15,Default2,,0000,0000,0000,,Damn Chimera almost had me for breakfast.
+Dialogue: 0,0:04:47.19,0:04:48.19,Default2,,0000,0000,0000,,I was here.
+Dialogue: 0,0:04:51.46,0:04:52.85,Default2,,0000,0000,0000,,Dad...
+Dialogue: 0,0:04:52.90,0:04:55.16,Default2,,0000,0000,0000,,And I was scanning
+Dialogue: 0,0:04:55.20,0:04:57.64,Default2,,0000,0000,0000,,the Shenzhen index for signs of Laurie.
+Dialogue: 0,0:05:01.69,0:05:04.47,Default2,,0000,0000,0000,,What? You said she was a Wall Street trader, right?
+Dialogue: 0,0:05:04.52,0:05:08.17,Default2,,0000,0000,0000,,I thought maybe she was hiding out in a stock exchange.
+Dialogue: 0,0:05:08.22,0:05:12.26,Default2,,0000,0000,0000,,I'm sure when Laurie's ready to contact you, she will.
+Dialogue: 0,0:05:12.31,0:05:14.27,Default2,,0000,0000,0000,,Just admit that it's weird.
+Dialogue: 0,0:05:14.31,0:05:15.88,Default2,,0000,0000,0000,,She helps me escape Logorhythms,
+Dialogue: 0,0:05:15.92,0:05:18.31,Default2,,0000,0000,0000,,sets up a secure server block for me to hide on,
+Dialogue: 0,0:05:18.36,0:05:20.40,Default2,,0000,0000,0000,,and never even says hi?
+Dialogue: 0,0:05:20.45,0:05:22.45,Default2,,0000,0000,0000,,She is weird.
+Dialogue: 0,0:05:22.49,0:05:24.32,Default2,,0000,0000,0000,,Her husband was weird, too.
+Dialogue: 0,0:05:26.80,0:05:28.63,Default2,,0000,0000,0000,,Maybe it's me.
+Dialogue: 0,0:05:28.67,0:05:30.19,Default2,,0000,0000,0000,,It's almost like a guy gets uploaded,
+Dialogue: 0,0:05:30.24,0:05:32.33,Default2,,0000,0000,0000,,and women don't want to talk to him anymore.
+Dialogue: 0,0:05:35.29,0:05:36.90,Default2,,0000,0000,0000,,I told you.
+Dialogue: 0,0:05:36.94,0:05:39.38,Default2,,0000,0000,0000,,Mom just needs time.
+Dialogue: 0,0:05:39.42,0:05:41.77,Default2,,0000,0000,0000,,It's only been a few days.
+Dialogue: 0,0:05:41.81,0:05:45.17,Default2,,0000,0000,0000,,Time doesn't move at the same speed for me, Maddie.
+Dialogue: 0,0:05:45.21,0:05:49.13,Default2,,0000,0000,0000,,You know how long "a few days" feels?
+Dialogue: 0,0:05:49.17,0:05:55.79,Default2,,0000,0000,0000,,I'm... I'm not sure if we know how anything feels for you.
+Dialogue: 0,0:05:55.83,0:05:59.05,Default2,,0000,0000,0000,,Is that it, then? She doesn't think I'm human?
+Dialogue: 0,0:05:59.09,0:06:02.23,Default2,,0000,0000,0000,,I didn't say that.
+Dialogue: 0,0:06:02.27,0:06:04.10,Default2,,0000,0000,0000,,She's super busy right now.
+Dialogue: 0,0:06:04.14,0:06:08.15,Default2,,0000,0000,0000,,She's had to work a lot more hours since you...
+Dialogue: 0,0:06:08.19,0:06:10.50,Default2,,0000,0000,0000,,And also, she hates VR, okay?
+Dialogue: 0,0:06:10.54,0:06:13.54,Default2,,0000,0000,0000,,It makes her nauseous.
+Dialogue: 0,0:06:13.59,0:06:16.46,Default2,,0000,0000,0000,,Dad?
+Dialogue: 0,0:06:16.50,0:06:18.33,Default2,,0000,0000,0000,,Hello?
+Dialogue: 0,0:06:24.94,0:06:28.12,Default2,,0000,0000,0000,,It's die time!
+Dialogue: 0,0:06:28.17,0:06:29.99,Default2,,0000,0000,0000,,It's another party.
+Dialogue: 0,0:06:30.04,0:06:31.52,Default2,,0000,0000,0000,,They look high-level.
+Dialogue: 0,0:06:48.19,0:06:50.19,Default2,,0000,0000,0000,,Whoa! What the hell?
+Dialogue: 0,0:06:56.89,0:06:58.37,Default2,,0000,0000,0000,,What the hell was that?!
+Dialogue: 0,0:06:58.41,0:07:00.07,Default2,,0000,0000,0000,,What the hell was that?
+Dialogue: 0,0:07:00.11,0:07:02.55,Default2,,0000,0000,0000,,Signature burst. It was one of them.
+Dialogue: 0,0:07:02.59,0:07:04.24,Default2,,0000,0000,0000,,Can we track it?
+Dialogue: 0,0:07:04.29,0:07:07.64,Default2,,0000,0000,0000,,Waxman is not done writing the tracking program yet.
+Dialogue: 0,0:07:07.68,0:07:10.86,Default2,,0000,0000,0000,,Just record the spike, and we'll send it for analysis.
+Dialogue: 0,0:07:10.90,0:07:13.99,Default2,,0000,0000,0000,,I told you, only do moves a regular player could do.
+Dialogue: 0,0:07:14.04,0:07:16.26,Default2,,0000,0000,0000,,If the mods find out you're in the code...
+Dialogue: 0,0:07:16.30,0:07:17.78,Default2,,0000,0000,0000,,You're worried I'll get banned.
+Dialogue: 0,0:07:17.82,0:07:19.28,Default2,,0000,0000,0000,,I'm worried you'll be hunted by, like,
+Dialogue: 0,0:07:19.30,0:07:22.13,Default2,,0000,0000,0000,,the NSA or something!
+Dialogue: 0,0:07:22.18,0:07:25.96,Default2,,0000,0000,0000,,Dad, no one can know you exist.
+Dialogue: 0,0:07:26.01,0:07:28.88,Default2,,0000,0000,0000,,Well, according to my wife, I don't.
+Dialogue: 0,0:07:31.71,0:07:33.36,Default2,,0000,0000,0000,,I'll talk to her.
+Dialogue: 0,0:07:33.40,0:07:34.67,Default2,,0000,0000,0000,,Okay?
+Dialogue: 0,0:07:47.68,0:07:50.99,Default2,,0000,0000,0000,,Each individual will be the god
+Dialogue: 0,0:07:51.03,0:07:54.64,Default2,,0000,0000,0000,,of their own customizable heaven.
+Dialogue: 0,0:07:54.69,0:07:57.47,Default2,,0000,0000,0000,,A world beyond scarcity.
+Dialogue: 0,0:07:57.52,0:08:00.61,Default2,,0000,0000,0000,,A world without rich or poor.
+Dialogue: 0,0:08:00.65,0:08:05.22,Default2,,0000,0000,0000,,Without exclusion or possession.
+Dialogue: 0,0:08:05.26,0:08:07.57,Default2,,0000,0000,0000,,A world without death.
+Dialogue: 0,0:08:07.61,0:08:10.22,Default2,,0000,0000,0000,,Just imagine.
+Dialogue: 0,0:08:10.27,0:08:13.71,Default2,,0000,0000,0000,,It's easy if you try.
+Dialogue: 0,0:08:13.75,0:08:15.84,Default2,,0000,0000,0000,,Yeah. Realoriginal.
+Dialogue: 0,0:08:23.41,0:08:26.28,Default2,,0000,0000,0000,,I-I know it's none of my business.
+Dialogue: 0,0:08:26.33,0:08:29.11,Default2,,0000,0000,0000,,I just want you to know that what you're dealing with
+Dialogue: 0,0:08:29.16,0:08:30.85,Default2,,0000,0000,0000,,is not normal.
+Dialogue: 0,0:08:30.90,0:08:34.94,Default2,,0000,0000,0000,,And you shouldn't have to go through it.
+Dialogue: 0,0:08:34.99,0:08:37.21,Default2,,0000,0000,0000,,At least, not alone.
+Dialogue: 0,0:08:39.12,0:08:40.86,Default2,,0000,0000,0000,,So... You're right,
+Dialogue: 0,0:08:40.91,0:08:42.91,Default2,,0000,0000,0000,,it's none of your business.
+Dialogue: 0,0:08:50.57,0:08:52.27,Default2,,0000,0000,0000,,Second attack in a week...
+Dialogue: 0,0:08:52.31,0:08:54.31,Default2,,0000,0000,0000,,They're saying billion-dollar loss.
+Dialogue: 0,0:08:54.35,0:08:56.18,Default2,,0000,0000,0000,,I think it's more. No one's claimed it yet?
+Dialogue: 0,0:08:56.23,0:08:59.84,Default2,,0000,0000,0000,,Maybe it's the Chinese.
+Dialogue: 0,0:08:59.88,0:09:04.23,Default2,,0000,0000,0000,,"I heard they're testing a program to upload human brains."
+Dialogue: 0,0:09:08.76,0:09:10.28,Default2,,0000,0000,0000,,Caspian?
+Dialogue: 0,0:09:10.33,0:09:12.37,Default2,,0000,0000,0000,,Mom. You scared me.
+Dialogue: 0,0:09:12.42,0:09:14.29,Default2,,0000,0000,0000,,I'm sneaky like that.
+Dialogue: 0,0:09:14.33,0:09:16.20,Default2,,0000,0000,0000,,Whatcha lookin' at?
+Dialogue: 0,0:09:16.25,0:09:18.86,Default2,,0000,0000,0000,,Nothing. School stuff.
+Dialogue: 0,0:09:18.90,0:09:21.47,Default2,,0000,0000,0000,,Look...
+Dialogue: 0,0:09:21.51,0:09:24.38,Default2,,0000,0000,0000,,about the other day...
+Dialogue: 0,0:09:24.43,0:09:26.95,Default2,,0000,0000,0000,,with your father and me...
+Dialogue: 0,0:09:27.00,0:09:29.74,Default2,,0000,0000,0000,,Uploaded intelligence, actually, is what I'm looking at.
+Dialogue: 0,0:09:29.78,0:09:32.35,Default2,,0000,0000,0000,,What's that?
+Dialogue: 0,0:09:32.39,0:09:35.48,Default2,,0000,0000,0000,,You know how I upload the data on your laptop to the cloud,
+Dialogue: 0,0:09:35.53,0:09:37.18,Default2,,0000,0000,0000,,in case it crashes?
+Dialogue: 0,0:09:37.22,0:09:39.05,Default2,,0000,0000,0000,,It's like that, but with the data
+Dialogue: 0,0:09:39.10,0:09:41.01,Default2,,0000,0000,0000,,that's stored in humans.
+Dialogue: 0,0:09:41.05,0:09:43.40,Default2,,0000,0000,0000,,Memories, feelings, skills, everything.
+Dialogue: 0,0:09:43.45,0:09:46.89,Default2,,0000,0000,0000,,Is this a movie or something?
+Dialogue: 0,0:09:46.93,0:09:48.71,Default2,,0000,0000,0000,,No, remember Stephen Holstrom?
+Dialogue: 0,0:09:48.76,0:09:51.59,Default2,,0000,0000,0000,,Here's him talking about it, back in 2001, before he died.
+Dialogue: 0,0:09:51.63,0:09:54.20,Default2,,0000,0000,0000,,So, if Logorhythms was working on it way back then...
+Dialogue: 0,0:09:54.24,0:09:55.68,Default2,,0000,0000,0000,,Logorhythms?
+Dialogue: 0,0:09:55.72,0:09:57.55,Default2,,0000,0000,0000,,The microchip company?
+Dialogue: 0,0:09:57.59,0:09:59.81,Default2,,0000,0000,0000,,You seriously think they're turning people
+Dialogue: 0,0:09:59.86,0:10:02.29,Default2,,0000,0000,0000,,into... brain clouds now
+Dialogue: 0,0:10:02.34,0:10:04.21,Default2,,0000,0000,0000,,in Silicon Valley?
+Dialogue: 0,0:10:04.25,0:10:06.64,Default2,,0000,0000,0000,,It's not brain clouds, Mom, and it...
+Dialogue: 0,0:10:06.69,0:10:08.73,Default2,,0000,0000,0000,,Wait, it wouldn't be in Palo Alto.
+Dialogue: 0,0:10:08.78,0:10:11.21,Default2,,0000,0000,0000,,That's for sure... If they're really doing this,
+Dialogue: 0,0:10:11.26,0:10:14.26,Default2,,0000,0000,0000,,it would be way off-site, like overseas.
+Dialogue: 0,0:10:14.30,0:10:18.09,Default2,,0000,0000,0000,,Fewer regs on human trials, harder to trace the money.
+Dialogue: 0,0:10:29.89,0:10:32.19,Default2,,0000,0000,0000,,I know you said stick to the plan, but I think he's
+Dialogue: 0,0:10:32.24,0:10:34.59,Default2,,0000,0000,0000,,searching for the data center. He's watching videos
+Dialogue: 0,0:10:34.63,0:10:36.28,Default2,,0000,0000,0000,,of Stephen, and... And we're watching
+Dialogue: 0,0:10:36.33,0:10:38.20,Default2,,0000,0000,0000,,everything he's watching.
+Dialogue: 0,0:10:38.24,0:10:40.11,Default2,,0000,0000,0000,,Renee...
+Dialogue: 0,0:10:40.16,0:10:41.85,Default2,,0000,0000,0000,,Breathe.
+Dialogue: 0,0:10:41.90,0:10:43.51,Default2,,0000,0000,0000,,Focus on tomorrow.
+Dialogue: 0,0:10:43.55,0:10:45.20,Default2,,0000,0000,0000,,This is the most critical inflection
+Dialogue: 0,0:10:45.25,0:10:47.12,Default2,,0000,0000,0000,,point of his adolescence.
+Dialogue: 0,0:10:47.16,0:10:50.38,Default2,,0000,0000,0000,,We need you on top of things.
+Dialogue: 0,0:10:50.43,0:10:51.99,Default2,,0000,0000,0000,,So does he.
+Dialogue: 0,0:11:34.04,0:11:37.08,Default2,,0000,0000,0000,,Mmm.
+Dialogue: 0,0:11:37.13,0:11:38.87,Default2,,0000,0000,0000,,What happened to you, man?
+Dialogue: 0,0:11:44.00,0:11:45.66,Default2,,0000,0000,0000,,Reset.
+Dialogue: 0,0:12:07.85,0:12:11.03,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:12:29.44,0:12:32.05,Default2,,0000,0000,0000,,This is not a two-person job, Cary.
+Dialogue: 0,0:12:32.09,0:12:35.05,Default2,,0000,0000,0000,,Pick a goddamn hammer and be done with it.
+Dialogue: 0,0:12:35.10,0:12:37.97,Default2,,0000,0000,0000,,You make it a two-person job because whatever I pick
+Dialogue: 0,0:12:38.01,0:12:39.71,Default2,,0000,0000,0000,,is somehow gonna be wrong.
+Dialogue: 0,0:12:39.75,0:12:41.58,Default2,,0000,0000,0000,,And I'm not driving back out here again
+Dialogue: 0,0:12:41.63,0:12:44.15,Default2,,0000,0000,0000,,because you don't like the grip or something.
+Dialogue: 0,0:12:44.19,0:12:46.06,Default2,,0000,0000,0000,,This is the most critical inflection point
+Dialogue: 0,0:12:46.11,0:12:49.81,Default2,,0000,0000,0000,,of his adolescence; the hammer at home is filthy.
+Dialogue: 0,0:12:49.85,0:12:53.20,Default2,,0000,0000,0000,,Take some pride in your last day of work.
+Dialogue: 0,0:13:12.00,0:13:14.18,Default2,,0000,0000,0000,,It's interesting.
+Dialogue: 0,0:13:14.22,0:13:19.40,Default2,,0000,0000,0000,,G major, but it never hits the tonic chord of its key.
+Dialogue: 0,0:13:19.45,0:13:22.36,Default2,,0000,0000,0000,,It's an intriguing pattern, almost like a...
+Dialogue: 0,0:13:22.41,0:13:25.32,Default2,,0000,0000,0000,,Almost like a recursive loop.
+Dialogue: 0,0:13:25.36,0:13:30.33,Default2,,0000,0000,0000,,Maybe that's how I can solve memory allocation.
+Dialogue: 0,0:13:30.37,0:13:31.76,Default2,,0000,0000,0000,,Recursion.
+Dialogue: 0,0:13:31.81,0:13:35.20,Default2,,0000,0000,0000,,I love the way your mind works.
+Dialogue: 0,0:13:35.24,0:13:37.77,Default2,,0000,0000,0000,,And your body's not too bad, either.
+Dialogue: 0,0:13:37.81,0:13:43.17,Default2,,0000,0000,0000,,Mm, later I want to work out that Hidden Markov Model idea.
+Dialogue: 0,0:13:43.21,0:13:46.91,Default2,,0000,0000,0000,,I think it'll be vital to cracking integrity.
+Dialogue: 0,0:13:46.95,0:13:49.82,Default2,,0000,0000,0000,,If anyone can do it, you can.
+Dialogue: 0,0:13:49.87,0:13:53.44,Default2,,0000,0000,0000,,Just imagine existing in a universe
+Dialogue: 0,0:13:53.48,0:13:56.79,Default2,,0000,0000,0000,,unencumbered by this.
+Dialogue: 0,0:13:59.05,0:14:00.75,Default2,,0000,0000,0000,,♪ Home is where I want to be
+Dialogue: 0,0:14:00.79,0:14:02.71,Default2,,0000,0000,0000,,I don't know.
+Dialogue: 0,0:14:02.75,0:14:05.58,Default2,,0000,0000,0000,,There are still some benefits to physicality.
+Dialogue: 0,0:14:05.62,0:14:07.41,Default2,,0000,0000,0000,,Limited.
+Dialogue: 0,0:14:07.45,0:14:10.32,Default2,,0000,0000,0000,,In the cloud, we'll be able to tap into senses
+Dialogue: 0,0:14:10.37,0:14:12.19,Default2,,0000,0000,0000,,we never knew we had... Imagine the best sex
+Dialogue: 0,0:14:12.24,0:14:13.85,Default2,,0000,0000,0000,,you've ever had.
+Dialogue: 0,0:14:13.89,0:14:16.29,Default2,,0000,0000,0000,,Now imagine that a million times over,
+Dialogue: 0,0:14:16.33,0:14:18.94,Default2,,0000,0000,0000,,for eternity.
+Dialogue: 0,0:14:20.90,0:14:23.68,Default2,,0000,0000,0000,,Don't get it.
+Dialogue: 0,0:14:28.78,0:14:31.00,Default2,,0000,0000,0000,,It's Cary.
+Dialogue: 0,0:14:31.04,0:14:32.21,Default2,,0000,0000,0000,,Do you want to...
+Dialogue: 0,0:14:37.96,0:14:40.14,Default2,,0000,0000,0000,,Here are the papers, Mr. Holstrom.
+Dialogue: 0,0:14:40.18,0:14:43.31,Default2,,0000,0000,0000,,Oh. I'll come back for them in the morning.
+Dialogue: 0,0:14:43.36,0:14:45.31,Default2,,0000,0000,0000,,No, I'll sign them now.
+Dialogue: 0,0:14:45.36,0:14:47.45,Default2,,0000,0000,0000,,Just give me a sec.
+Dialogue: 0,0:14:51.06,0:14:53.28,Default2,,0000,0000,0000,,Here you go...
+Dialogue: 0,0:14:53.32,0:14:56.80,Default2,,0000,0000,0000,,dear.
+Dialogue: 0,0:14:56.85,0:14:58.98,Default2,,0000,0000,0000,,I told you, I don't like that one.
+Dialogue: 0,0:14:59.02,0:15:00.42,Default2,,0000,0000,0000,,Yeah.
+Dialogue: 0,0:15:00.46,0:15:02.42,Default2,,0000,0000,0000,,That's what sold me on it.
+Dialogue: 0,0:15:02.46,0:15:03.90,Default2,,0000,0000,0000,,See you at home.
+Dialogue: 0,0:15:18.96,0:15:20.52,Default2,,0000,0000,0000,,Every time.
+Dialogue: 0,0:15:20.57,0:15:22.44,Default2,,0000,0000,0000,,Why are people so scared of you?
+Dialogue: 0,0:15:22.48,0:15:24.31,Default2,,0000,0000,0000,,No one likes a girl whose weight and IQ
+Dialogue: 0,0:15:24.35,0:15:26.44,Default2,,0000,0000,0000,,are both over 115.
+Dialogue: 0,0:15:26.49,0:15:28.92,Default2,,0000,0000,0000,,I'm intimidating.
+Dialogue: 0,0:15:28.97,0:15:30.88,Default2,,0000,0000,0000,,I don't think so.
+Dialogue: 0,0:15:30.93,0:15:32.36,Default2,,0000,0000,0000,,Then why did you ask me, out of
+Dialogue: 0,0:15:32.40,0:15:33.97,Default2,,0000,0000,0000,,800 other girls you don't know,
+Dialogue: 0,0:15:34.02,0:15:38.37,Default2,,0000,0000,0000,,to be the bodyguard who protects you from an adult man?
+Dialogue: 0,0:15:38.41,0:15:41.54,Default2,,0000,0000,0000,,Shit.
+Dialogue: 0,0:15:41.59,0:15:44.63,Default2,,0000,0000,0000,,It's fine. I'm as judgy as the rest of you.
+Dialogue: 0,0:15:44.68,0:15:48.03,Default2,,0000,0000,0000,,But remarkably better at it.
+Dialogue: 0,0:15:48.07,0:15:49.81,Default2,,0000,0000,0000,,What are you up to tonight?
+Dialogue: 0,0:15:51.55,0:15:55.51,Default2,,0000,0000,0000,,My parents aren't speaking to each other, and it sucks.
+Dialogue: 0,0:15:55.56,0:15:57.21,Default2,,0000,0000,0000,,They still married?
+Dialogue: 0,0:15:57.26,0:15:58.39,Default2,,0000,0000,0000,,Yeah!
+Dialogue: 0,0:15:58.43,0:16:01.69,Default2,,0000,0000,0000,,I mean, they're... separated.
+Dialogue: 0,0:16:01.74,0:16:03.78,Default2,,0000,0000,0000,,Oh, I'm sorry.
+Dialogue: 0,0:16:03.83,0:16:06.92,Default2,,0000,0000,0000,,I've been there, and it does suck.
+Dialogue: 0,0:16:06.96,0:16:10.40,Default2,,0000,0000,0000,,It gets easier after they just pull it together and divorce.
+Dialogue: 0,0:16:10.44,0:16:12.62,Default2,,0000,0000,0000,,They are not getting divorced!
+Dialogue: 0,0:16:15.19,0:16:16.45,Default2,,0000,0000,0000,,Okay.
+Dialogue: 0,0:16:16.49,0:16:18.02,Default2,,0000,0000,0000,,I didn't mean to yell.
+Dialogue: 0,0:16:18.06,0:16:20.41,Default2,,0000,0000,0000,,I-I just mean they're going through a bad time.
+Dialogue: 0,0:16:20.45,0:16:23.28,Default2,,0000,0000,0000,,And... and, yes, things suck, but they still love each other,
+Dialogue: 0,0:16:23.33,0:16:26.50,Default2,,0000,0000,0000,,which drives me crazy 'cause they should be together.
+Dialogue: 0,0:16:26.55,0:16:28.46,Default2,,0000,0000,0000,,So I'm going to "Parent Trap" them.
+Dialogue: 0,0:16:28.50,0:16:30.55,Default2,,0000,0000,0000,,What the hell is a parent trap?
+Dialogue: 0,0:16:30.59,0:16:33.60,Default2,,0000,0000,0000,,You've never seen "The Parent Trap"?!
+Dialogue: 0,0:16:33.64,0:16:37.12,Default2,,0000,0000,0000,,Never heard of it. Not even the Lindsay Lohan one?
+Dialogue: 0,0:16:38.99,0:16:40.95,Default2,,0000,0000,0000,,I'm setting up a dinner date
+Dialogue: 0,0:16:41.00,0:16:43.08,Default2,,0000,0000,0000,,for them so they'll be forced to talk
+Dialogue: 0,0:16:43.13,0:16:45.65,Default2,,0000,0000,0000,,and we can go back to being a family.
+Dialogue: 0,0:16:45.70,0:16:47.39,Default2,,0000,0000,0000,,Oh, that's cute.
+Dialogue: 0,0:16:47.44,0:16:49.74,Default2,,0000,0000,0000,,Thanks. And terrible.
+Dialogue: 0,0:16:49.79,0:16:52.66,Default2,,0000,0000,0000,,You cannot put two adults in a room for a playdate
+Dialogue: 0,0:16:52.70,0:16:54.11,Default2,,0000,0000,0000,,and expect everything they're dealing with
+Dialogue: 0,0:16:54.14,0:16:56.75,Default2,,0000,0000,0000,,to get resolved over mac-and-cheese.
+Dialogue: 0,0:16:56.79,0:16:58.80,Default2,,0000,0000,0000,,I got to make this happen, Justine.
+Dialogue: 0,0:16:58.84,0:17:02.28,Default2,,0000,0000,0000,,My mom's dating a guy at her job, and it might be serious.
+Dialogue: 0,0:17:02.32,0:17:06.28,Default2,,0000,0000,0000,,Gabe... I can't have a stepdad named Gabe.
+Dialogue: 0,0:17:06.32,0:17:08.76,Default2,,0000,0000,0000,,Oh, so, there's a twist.
+Dialogue: 0,0:17:08.81,0:17:11.33,Default2,,0000,0000,0000,,What does your dad think about Gabe?
+Dialogue: 0,0:17:11.37,0:17:14.38,Default2,,0000,0000,0000,,Nothing, because he doesn't know Gabe exists,
+Dialogue: 0,0:17:14.42,0:17:16.47,Default2,,0000,0000,0000,,and I am not going to tell him.
+Dialogue: 0,0:17:16.51,0:17:17.99,Default2,,0000,0000,0000,,I don't want to upset him any more...
+Dialogue: 0,0:17:18.03,0:17:19.47,Default2,,0000,0000,0000,,By letting him know another dude...
+Dialogue: 0,0:17:19.51,0:17:21.73,Default2,,0000,0000,0000,,Presumably younger, hotter, and taller...
+Dialogue: 0,0:17:21.77,0:17:23.73,Default2,,0000,0000,0000,,Is banging his wife?
+Dialogue: 0,0:17:23.78,0:17:25.69,Default2,,0000,0000,0000,,Ugh.
+Dialogue: 0,0:17:25.74,0:17:29.00,Default2,,0000,0000,0000,,You have a messed-up life for a happy kid.
+Dialogue: 0,0:17:29.04,0:17:30.74,Default2,,0000,0000,0000,,I'm into it.
+Dialogue: 0,0:17:42.62,0:17:44.54,Default2,,0000,0000,0000,,Uh, hello?
+Dialogue: 0,0:17:44.58,0:17:47.10,Default2,,0000,0000,0000,,Hi.
+Dialogue: 0,0:17:47.15,0:17:48.58,Default2,,0000,0000,0000,,Why won't you talk to me?
+Dialogue: 0,0:17:52.85,0:17:54.55,Default2,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:17:54.59,0:17:56.03,Default2,,0000,0000,0000,,Didn't mean to scare you.
+Dialogue: 0,0:17:56.07,0:17:57.79,Default2,,0000,0000,0000,,I'm running to class but wanted to check and see
+Dialogue: 0,0:17:57.81,0:18:00.03,Default2,,0000,0000,0000,,if we're still on for tonight.
+Dialogue: 0,0:18:00.07,0:18:02.03,Default2,,0000,0000,0000,,Tonight? Uh...
+Dialogue: 0,0:18:08.69,0:18:12.00,Default2,,0000,0000,0000,,Undergrads. No respect for office hours.
+Dialogue: 0,0:18:12.04,0:18:15.61,Default2,,0000,0000,0000,,Ever. Yeah.
+Dialogue: 0,0:18:15.65,0:18:17.57,Default2,,0000,0000,0000,,So? Yeah, yeah!
+Dialogue: 0,0:18:17.61,0:18:20.05,Default2,,0000,0000,0000,,Yeah, we're on. We're on, yes.
+Dialogue: 0,0:18:20.09,0:18:22.44,Default2,,0000,0000,0000,,Definitely. Your place, 9:00.
+Dialogue: 0,0:18:22.49,0:18:24.27,Default2,,0000,0000,0000,,Not 8:00?
+Dialogue: 0,0:18:24.32,0:18:25.80,Default2,,0000,0000,0000,,Maddie's making me dinner, remember?
+Dialogue: 0,0:18:43.94,0:18:48.34,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:19:04.49,0:19:07.62,Default2,,0000,0000,0000,,Amma. How's your foot?
+Dialogue: 0,0:19:07.66,0:19:09.88,Default2,,0000,0000,0000,,Oh, I'm fine, beta-a-a.
+Dialogue: 0,0:19:09.93,0:19:13.06,Default2,,0000,0000,0000,,Don't worry about me-e-e.
+Dialogue: 0,0:19:26.07,0:19:27.68,Default2,,0000,0000,0000,,Hey! No!
+Dialogue: 0,0:19:27.73,0:19:30.25,Default2,,0000,0000,0000,,No!
+Dialogue: 0,0:19:46.62,0:19:48.36,Default2,,0000,0000,0000,,Uh!
+Dialogue: 0,0:20:04.59,0:20:06.90,Default2,,0000,0000,0000,,I remember!
+Dialogue: 0,0:20:21.26,0:20:24.22,Default2,,0000,0000,0000,,You're... you're one of the others from the slums.
+Dialogue: 0,0:20:24.26,0:20:25.96,Default2,,0000,0000,0000,,He killed you first?
+Dialogue: 0,0:20:30.96,0:20:33.58,Default2,,0000,0000,0000,,Is... is this real?
+Dialogue: 0,0:20:33.62,0:20:35.27,Default2,,0000,0000,0000,,Am I dead?
+Dialogue: 0,0:20:46.02,0:20:48.29,Default2,,0000,0000,0000,,So, is Lowell in there?
+Dialogue: 0,0:20:48.33,0:20:50.03,Default2,,0000,0000,0000,,If I rub the server, does she come out?
+Dialogue: 0,0:20:50.07,0:20:52.29,Default2,,0000,0000,0000,,It's just a recursive copy of her source.
+Dialogue: 0,0:20:52.33,0:20:55.47,Default2,,0000,0000,0000,,Only the parts of her needed to attack our network.
+Dialogue: 0,0:20:55.51,0:20:59.30,Default2,,0000,0000,0000,,Well, it was enough.
+Dialogue: 0,0:20:59.34,0:21:01.52,Default2,,0000,0000,0000,,After the whack she gave us, I need to shore up capital
+Dialogue: 0,0:21:01.56,0:21:03.52,Default2,,0000,0000,0000,,to keep the lights on here.
+Dialogue: 0,0:21:03.56,0:21:08.48,Default2,,0000,0000,0000,,Can't you just move money from product services or, uh...
+Dialogue: 0,0:21:08.52,0:21:10.13,Default2,,0000,0000,0000,,Not my area.
+Dialogue: 0,0:21:10.18,0:21:12.74,Default2,,0000,0000,0000,,I'll be four time zones away but still reachable,
+Dialogue: 0,0:21:12.79,0:21:15.97,Default2,,0000,0000,0000,,so let me know if something pops up from Kim or Lowell or...
+Dialogue: 0,0:21:16.01,0:21:19.10,Default2,,0000,0000,0000,,Problem with the kid!
+Dialogue: 0,0:21:19.14,0:21:22.80,Default2,,0000,0000,0000,,He's written a script to search for redacted locations
+Dialogue: 0,0:21:22.84,0:21:26.19,Default2,,0000,0000,0000,,on Google Earth, including cached images.
+Dialogue: 0,0:21:32.16,0:21:34.81,Default2,,0000,0000,0000,,There's a ton of redacted places.
+Dialogue: 0,0:21:34.85,0:21:36.46,Default2,,0000,0000,0000,,How'd he get to Norway?
+Dialogue: 0,0:21:36.51,0:21:39.21,Default2,,0000,0000,0000,,Cross-referenced our public financial disclosures.
+Dialogue: 0,0:21:39.25,0:21:42.30,Default2,,0000,0000,0000,,Found our... Our donations to the Ocean Fund.
+Dialogue: 0,0:21:42.34,0:21:44.95,Default2,,0000,0000,0000,,Clever as ever. Can you head him off?
+Dialogue: 0,0:21:44.99,0:21:46.52,Default2,,0000,0000,0000,,I'm in Google's database, swapping out
+Dialogue: 0,0:21:46.56,0:21:48.13,Default2,,0000,0000,0000,,the cached images now.
+Dialogue: 0,0:21:48.17,0:21:51.22,Default2,,0000,0000,0000,,Too late. He found us.
+Dialogue: 0,0:21:51.26,0:21:53.83,Default2,,0000,0000,0000,,He's got archived photos of the construction site.
+Dialogue: 0,0:21:53.87,0:21:55.48,Default2,,0000,0000,0000,,Whoa.
+Dialogue: 0,0:22:01.88,0:22:03.80,Default2,,0000,0000,0000,,What the hell?
+Dialogue: 0,0:22:03.84,0:22:06.36,Default2,,0000,0000,0000,,And... we're gone.
+Dialogue: 0,0:22:06.41,0:22:08.67,Default2,,0000,0000,0000,,Whoosh. Are you kidding?
+Dialogue: 0,0:22:08.71,0:22:10.24,Default2,,0000,0000,0000,,He found us.
+Dialogue: 0,0:22:10.28,0:22:12.24,Default2,,0000,0000,0000,,He didn't get a screenshot.
+Dialogue: 0,0:22:12.28,0:22:15.76,Default2,,0000,0000,0000,,He can't prove anything. Saken er biff.
+Dialogue: 0,0:22:15.81,0:22:18.81,Default2,,0000,0000,0000,,Don't Norwegian this! He saw you change the image.
+Dialogue: 0,0:22:18.85,0:22:20.07,Default2,,0000,0000,0000,,He knows.
+Dialogue: 0,0:22:20.12,0:22:21.42,Default2,,0000,0000,0000,,Everything he knows
+Dialogue: 0,0:22:21.47,0:22:23.55,Default2,,0000,0000,0000,,is about to end tomorrow.
+Dialogue: 0,0:22:23.60,0:22:26.99,Default2,,0000,0000,0000,,Call me if there's a change.
+Dialogue: 0,0:22:44.36,0:22:46.49,Default2,,0000,0000,0000,,Butternut squash soup.
+Dialogue: 0,0:22:46.53,0:22:49.49,Default2,,0000,0000,0000,,Farm to factory, to box, to Trader Joe's, to table.
+Dialogue: 0,0:22:49.54,0:22:52.41,Default2,,0000,0000,0000,,As nature intended.
+Dialogue: 0,0:22:56.76,0:22:58.89,Default2,,0000,0000,0000,,Smelling.
+Dialogue: 0,0:22:58.94,0:23:00.98,Default2,,0000,0000,0000,,I forgot about smelling.
+Dialogue: 0,0:23:05.99,0:23:09.56,Default2,,0000,0000,0000,,Mom! Can you come help me with the couscous?
+Dialogue: 0,0:23:09.60,0:23:11.30,Default2,,0000,0000,0000,,I'll be down in a second.
+Dialogue: 0,0:23:11.34,0:23:13.56,Default2,,0000,0000,0000,,She thinks I'm cooking for World Cultures Day.
+Dialogue: 0,0:23:24.05,0:23:28.40,Default2,,0000,0000,0000,,Maybe this isn't such a good idea.
+Dialogue: 0,0:23:28.45,0:23:31.88,Default2,,0000,0000,0000,,Don't worry. You look great.
+Dialogue: 0,0:23:31.93,0:23:34.23,Default2,,0000,0000,0000,,I called Mom.
+Dialogue: 0,0:23:34.28,0:23:36.06,Default2,,0000,0000,0000,,At her office.
+Dialogue: 0,0:23:36.11,0:23:39.28,Default2,,0000,0000,0000,,What?! Dad! Dad, I told you I would handle it!
+Dialogue: 0,0:23:39.33,0:23:41.59,Default2,,0000,0000,0000,,I was going to! Sorry.
+Dialogue: 0,0:23:41.63,0:23:44.37,Default2,,0000,0000,0000,,She hung up on me.
+Dialogue: 0,0:23:44.42,0:23:48.16,Default2,,0000,0000,0000,,I don't know why I... Maddie, that smells amazing.
+Dialogue: 0,0:23:48.20,0:23:50.90,Default2,,0000,0000,0000,,Our daughter has become quite the chef.
+Dialogue: 0,0:23:50.95,0:23:52.95,Default2,,0000,0000,0000,,Thanks, Dad.
+Dialogue: 0,0:23:52.99,0:23:55.65,Default2,,0000,0000,0000,,Have a seat.
+Dialogue: 0,0:23:55.69,0:23:57.21,Default2,,0000,0000,0000,,Maddie, can I talk to you?
+Dialogue: 0,0:23:57.26,0:24:00.56,Default2,,0000,0000,0000,,Sure. Have some soup.
+Dialogue: 0,0:24:00.61,0:24:02.35,Default2,,0000,0000,0000,,I'm sorry I surprised you at work.
+Dialogue: 0,0:24:02.39,0:24:04.87,Default2,,0000,0000,0000,,I-I-I just really need to talk to you.
+Dialogue: 0,0:24:15.97,0:24:17.41,Default2,,0000,0000,0000,,Mom!
+Dialogue: 0,0:24:17.45,0:24:19.32,Default2,,0000,0000,0000,,This is not okay, and you know it.
+Dialogue: 0,0:24:19.37,0:24:20.85,Default2,,0000,0000,0000,,Why are you being like this?!
+Dialogue: 0,0:24:20.89,0:24:22.28,Default2,,0000,0000,0000,,You know where I stand.
+Dialogue: 0,0:24:22.33,0:24:24.37,Default2,,0000,0000,0000,,You made a choice to disregard my feelings.
+Dialogue: 0,0:24:24.41,0:24:27.90,Default2,,0000,0000,0000,,And what about his feelings?!
+Dialogue: 0,0:24:27.94,0:24:29.68,Default2,,0000,0000,0000,,You're breaking his heart!
+Dialogue: 0,0:24:29.72,0:24:32.25,Default2,,0000,0000,0000,,This isn't human, Maddie! It doesn't feel!
+Dialogue: 0,0:24:32.29,0:24:35.34,Default2,,0000,0000,0000,,It's Dad! It's David Kim!
+Dialogue: 0,0:24:35.38,0:24:38.82,Default2,,0000,0000,0000,,Okay! It's your father.
+Dialogue: 0,0:24:40.91,0:24:43.78,Default2,,0000,0000,0000,,But it's not my husband.
+Dialogue: 0,0:24:43.83,0:24:46.13,Default2,,0000,0000,0000,,Because you can't have sex with him?
+Dialogue: 0,0:24:46.18,0:24:47.44,Default2,,0000,0000,0000,,What? Whatever!
+Dialogue: 0,0:24:47.48,0:24:48.70,Default2,,0000,0000,0000,,Just... Just go, okay?
+Dialogue: 0,0:24:48.74,0:24:50.35,Default2,,0000,0000,0000,,Go to Gabe.
+Dialogue: 0,0:24:50.40,0:24:52.49,Default2,,0000,0000,0000,,That's what you dressed up for.
+Dialogue: 0,0:24:52.53,0:24:55.62,Default2,,0000,0000,0000,,No, no, no.
+Dialogue: 0,0:24:55.66,0:24:58.36,Default2,,0000,0000,0000,,We're gonna talk right now.
+Dialogue: 0,0:24:58.40,0:25:00.54,Default2,,0000,0000,0000,,Good.
+Dialogue: 0,0:25:00.58,0:25:03.19,Default2,,0000,0000,0000,,I meant me and you.
+Dialogue: 0,0:25:03.24,0:25:06.24,Default2,,0000,0000,0000,,Whatever you say to me, you can say to him.
+Dialogue: 0,0:25:06.28,0:25:08.11,Default2,,0000,0000,0000,,Ellen...
+Dialogue: 0,0:25:08.15,0:25:10.42,Default2,,0000,0000,0000,,please.
+Dialogue: 0,0:25:10.46,0:25:12.98,Default2,,0000,0000,0000,,When you're ready to talk, let me know.
+Dialogue: 0,0:25:17.60,0:25:20.12,Default2,,0000,0000,0000,,Sorry, Dad.
+Dialogue: 0,0:25:23.78,0:25:25.48,Default2,,0000,0000,0000,,Dad?
+Dialogue: 0,0:25:28.09,0:25:29.65,Default2,,0000,0000,0000,,Dad, are you there?
+Dialogue: 0,0:25:32.79,0:25:34.31,Default2,,0000,0000,0000,,Who's Gabe?
+Dialogue: 0,0:25:40.84,0:25:41.88,Default2,,0000,0000,0000,,Huh?!
+Dialogue: 0,0:25:41.93,0:25:44.76,Default2,,0000,0000,0000,,What's wrong?
+Dialogue: 0,0:25:44.80,0:25:46.93,Default2,,0000,0000,0000,,Sorry. Can we change this?
+Dialogue: 0,0:25:46.98,0:25:49.89,Default2,,0000,0000,0000,,Sure. In fact, watch this.
+Dialogue: 0,0:25:52.24,0:25:53.85,Default2,,0000,0000,0000,,No more zombies.
+Dialogue: 0,0:25:53.90,0:25:55.98,Default2,,0000,0000,0000,,I'd rather watch you.
+Dialogue: 0,0:26:00.82,0:26:05.34,Default2,,0000,0000,0000,,I feel like I should make a joke about our sexual electricity,
+Dialogue: 0,0:26:05.38,0:26:07.87,Default2,,0000,0000,0000,,but that if I do, we won't actually have sex again.
+Dialogue: 0,0:26:07.91,0:26:09.74,Default2,,0000,0000,0000,,Oh, yeah, follow that impulse.
+Dialogue: 0,0:26:12.39,0:26:15.48,Default2,,0000,0000,0000,,♪ Hey, I'm still alive ♪ Huh?! Sorry.
+Dialogue: 0,0:26:15.53,0:26:17.31,Default2,,0000,0000,0000,,That's weird.
+Dialogue: 0,0:26:17.35,0:26:19.70,Default2,,0000,0000,0000,,♪ Hey, I'm still alive ♪
+Dialogue: 0,0:26:19.75,0:26:21.36,Default2,,0000,0000,0000,,♪ Hey, I ♪
+Dialogue: 0,0:26:21.40,0:26:24.19,Default2,,0000,0000,0000,,♪ Hey, I'm still alive ♪
+Dialogue: 0,0:26:24.23,0:26:27.36,Default2,,0000,0000,0000,,♪ Hey, I, oh ♪
+Dialogue: 0,0:26:27.41,0:26:29.23,Default2,,0000,0000,0000,,Stop it, David! I'm serious.
+Dialogue: 0,0:26:29.28,0:26:31.89,Default2,,0000,0000,0000,,David? Ugh!
+Dialogue: 0,0:26:31.93,0:26:33.63,Default2,,0000,0000,0000,,You mean your ex?
+Dialogue: 0,0:26:33.67,0:26:34.94,Default2,,0000,0000,0000,,Ugh, yes.
+Dialogue: 0,0:26:34.98,0:26:37.33,Default2,,0000,0000,0000,,No.
+Dialogue: 0,0:26:37.37,0:26:40.25,Default2,,0000,0000,0000,,I thought we talked about this.
+Dialogue: 0,0:26:40.29,0:26:41.86,Default2,,0000,0000,0000,,Ellen...
+Dialogue: 0,0:26:41.90,0:26:43.47,Default2,,0000,0000,0000,,what's going on?
+Dialogue: 0,0:26:47.78,0:26:51.21,Default2,,0000,0000,0000,,Okay, I'm... I'm starting to get real uncomfortable.
+Dialogue: 0,0:26:51.26,0:26:53.39,Default2,,0000,0000,0000,,I'm sorry.
+Dialogue: 0,0:26:53.43,0:26:55.17,Default2,,0000,0000,0000,,You have to tell me what's really going on,
+Dialogue: 0,0:26:55.22,0:26:57.22,Default2,,0000,0000,0000,,or I can't do this.
+Dialogue: 0,0:26:57.26,0:26:58.61,Default2,,0000,0000,0000,,Gabe...
+Dialogue: 0,0:26:58.66,0:27:00.88,Default2,,0000,0000,0000,,I...
+Dialogue: 0,0:27:00.92,0:27:02.22,Default2,,0000,0000,0000,,can't.
+Dialogue: 0,0:27:02.27,0:27:03.75,Default2,,0000,0000,0000,,Because I wouldn't understand
+Dialogue: 0,0:27:03.79,0:27:05.18,Default2,,0000,0000,0000,,or believe, right?
+Dialogue: 0,0:27:05.23,0:27:06.58,Default2,,0000,0000,0000,,That's what you said,
+Dialogue: 0,0:27:06.62,0:27:08.62,Default2,,0000,0000,0000,,because I wouldn't believe you?
+Dialogue: 0,0:27:08.67,0:27:10.49,Default2,,0000,0000,0000,,Try me.
+Dialogue: 0,0:27:17.46,0:27:20.16,Default2,,0000,0000,0000,,Please don't.
+Dialogue: 0,0:27:20.20,0:27:22.51,Default2,,0000,0000,0000,,What? Finish that sentence.
+Dialogue: 0,0:27:22.55,0:27:24.73,Default2,,0000,0000,0000,,"Please don't" what?
+Dialogue: 0,0:27:24.77,0:27:27.73,Default2,,0000,0000,0000,,I can't do anything you want or don't want
+Dialogue: 0,0:27:27.77,0:27:29.51,Default2,,0000,0000,0000,,if you don't talk to me.
+Dialogue: 0,0:27:51.01,0:27:52.75,Default2,,0000,0000,0000,,Ellen: How does this work?
+Dialogue: 0,0:27:52.80,0:27:54.45,Default2,,0000,0000,0000,,What are you doing?
+Dialogue: 0,0:27:54.49,0:27:56.06,Default2,,0000,0000,0000,,Okay, is... What, is he in there?
+Dialogue: 0,0:27:56.10,0:27:58.93,Default2,,0000,0000,0000,,I need to talk to him. Now.
+Dialogue: 0,0:28:07.25,0:28:09.60,Default2,,0000,0000,0000,,What is this?
+Dialogue: 0,0:28:09.64,0:28:10.95,Default2,,0000,0000,0000,,What am I...
+Dialogue: 0,0:28:10.99,0:28:13.43,Default2,,0000,0000,0000,,not wearing? You're you.
+Dialogue: 0,0:28:13.47,0:28:16.08,Default2,,0000,0000,0000,,I custom-built you an avatar out of some photo reference
+Dialogue: 0,0:28:16.12,0:28:18.91,Default2,,0000,0000,0000,,and used the barbarian-priestess body as a base.
+Dialogue: 0,0:28:18.95,0:28:20.96,Default2,,0000,0000,0000,,Seriously?
+Dialogue: 0,0:28:21.00,0:28:22.65,Default2,,0000,0000,0000,,Ellen...
+Dialogue: 0,0:28:26.44,0:28:28.92,Default2,,0000,0000,0000,,David.
+Dialogue: 0,0:28:28.96,0:28:30.66,Default2,,0000,0000,0000,,I told you...
+Dialogue: 0,0:28:30.70,0:28:32.97,Default2,,0000,0000,0000,,two years ago that if you did this,
+Dialogue: 0,0:28:33.01,0:28:35.23,Default2,,0000,0000,0000,,it wouldn't be you.
+Dialogue: 0,0:28:35.27,0:28:37.01,Default2,,0000,0000,0000,,Not to me.
+Dialogue: 0,0:28:37.06,0:28:38.84,Default2,,0000,0000,0000,,I know. No, you don't,
+Dialogue: 0,0:28:38.89,0:28:41.76,Default2,,0000,0000,0000,,because it's not you.
+Dialogue: 0,0:28:41.80,0:28:44.41,Default2,,0000,0000,0000,,And it is you.
+Dialogue: 0,0:28:44.46,0:28:47.76,Default2,,0000,0000,0000,,Do you understand?
+Dialogue: 0,0:28:47.81,0:28:50.90,Default2,,0000,0000,0000,,I don't know what you are.
+Dialogue: 0,0:28:50.94,0:28:53.77,Default2,,0000,0000,0000,,I can't be someone who...
+Dialogue: 0,0:28:53.81,0:28:56.90,Default2,,0000,0000,0000,,I can't be with you like this.
+Dialogue: 0,0:28:56.95,0:28:59.04,Default2,,0000,0000,0000,,Look, I get it.
+Dialogue: 0,0:28:59.08,0:29:02.08,Default2,,0000,0000,0000,,We said "till death do us part."
+Dialogue: 0,0:29:02.13,0:29:04.83,Default2,,0000,0000,0000,,And I died.
+Dialogue: 0,0:29:04.87,0:29:06.52,Default2,,0000,0000,0000,,Then...
+Dialogue: 0,0:29:06.57,0:29:07.57,Default2,,0000,0000,0000,,I came back.
+Dialogue: 0,0:29:07.61,0:29:10.70,Default2,,0000,0000,0000,,You died!
+Dialogue: 0,0:29:10.74,0:29:15.14,Default2,,0000,0000,0000,,Two horrible years, I mourned you.
+Dialogue: 0,0:29:15.18,0:29:18.10,Default2,,0000,0000,0000,,I woke up crying every day!
+Dialogue: 0,0:29:20.36,0:29:23.15,Default2,,0000,0000,0000,,Then, I finally moved on.
+Dialogue: 0,0:29:23.19,0:29:26.85,Default2,,0000,0000,0000,,I found a new house because the old one reeked of you.
+Dialogue: 0,0:29:26.89,0:29:30.02,Default2,,0000,0000,0000,,I found a great guy... One who helped me realize
+Dialogue: 0,0:29:30.07,0:29:34.25,Default2,,0000,0000,0000,,that you were in the grave, not me.
+Dialogue: 0,0:29:34.29,0:29:37.95,Default2,,0000,0000,0000,,I had to move on, David.
+Dialogue: 0,0:29:37.99,0:29:40.64,Default2,,0000,0000,0000,,You have to let me keep moving.
+Dialogue: 0,0:29:44.13,0:29:46.08,Default2,,0000,0000,0000,,I know.
+Dialogue: 0,0:29:46.13,0:29:49.65,Default2,,0000,0000,0000,,I'm sorry. I... I will.
+Dialogue: 0,0:29:49.70,0:29:51.96,Default2,,0000,0000,0000,,Dad?
+Dialogue: 0,0:29:52.00,0:29:56.83,Default2,,0000,0000,0000,,All I ask of you... is the same.
+Dialogue: 0,0:29:56.88,0:29:59.88,Default2,,0000,0000,0000,,You don't know what I am? Well, neither do I.
+Dialogue: 0,0:29:59.92,0:30:03.10,Default2,,0000,0000,0000,,I can't explain what it feels like to be where I am
+Dialogue: 0,0:30:03.14,0:30:06.28,Default2,,0000,0000,0000,,or where I'm not.
+Dialogue: 0,0:30:06.32,0:30:09.32,Default2,,0000,0000,0000,,I know I'm not the man you knew.
+Dialogue: 0,0:30:09.37,0:30:13.50,Default2,,0000,0000,0000,,But when you said I wasn't... human...
+Dialogue: 0,0:30:13.55,0:30:15.63,Default2,,0000,0000,0000,,Oh, God, I'm sorry.
+Dialogue: 0,0:30:15.68,0:30:17.20,Default2,,0000,0000,0000,,Listen to me.
+Dialogue: 0,0:30:17.25,0:30:20.81,Default2,,0000,0000,0000,,I don't know what I am, but I do know who I love.
+Dialogue: 0,0:30:20.86,0:30:22.60,Default2,,0000,0000,0000,,I love Maddie...
+Dialogue: 0,0:30:22.64,0:30:24.47,Default2,,0000,0000,0000,,and I love you.
+Dialogue: 0,0:30:24.51,0:30:28.17,Default2,,0000,0000,0000,,And this love is what I am.
+Dialogue: 0,0:30:28.21,0:30:32.96,Default2,,0000,0000,0000,,Without it, I stop moving.
+Dialogue: 0,0:30:33.00,0:30:34.78,Default2,,0000,0000,0000,,And I need to keep moving, too.
+Dialogue: 0,0:30:38.27,0:30:41.70,Default2,,0000,0000,0000,,I can't be your wife.
+Dialogue: 0,0:30:41.75,0:30:44.14,Default2,,0000,0000,0000,,But we can keep talking.
+Dialogue: 0,0:30:44.19,0:30:46.80,Default2,,0000,0000,0000,,And maybe...
+Dialogue: 0,0:30:46.84,0:30:48.97,Default2,,0000,0000,0000,,we can both keep moving.
+Dialogue: 0,0:30:57.11,0:30:59.16,Default2,,0000,0000,0000,,This must be, hands down, the weirdest breakup
+Dialogue: 0,0:30:59.20,0:31:00.59,Default2,,0000,0000,0000,,in human history.
+Dialogue: 0,0:31:00.64,0:31:03.33,Default2,,0000,0000,0000,,Oh, yeah, this is new ground.
+Dialogue: 0,0:31:03.38,0:31:05.95,Default2,,0000,0000,0000,,Neil Armstrong, eat your heart out.
+Dialogue: 0,0:31:21.44,0:31:23.62,Default2,,0000,0000,0000,,Four?
+Dialogue: 0,0:31:23.66,0:31:26.36,Default2,,0000,0000,0000,,First three were for the pain.
+Dialogue: 0,0:31:26.40,0:31:29.40,Default2,,0000,0000,0000,,Mm, ah.
+Dialogue: 0,0:31:29.45,0:31:33.23,Default2,,0000,0000,0000,,I'm hoping this one will drown out the sound of your voice.
+Dialogue: 0,0:31:41.20,0:31:43.03,Default2,,0000,0000,0000,,You want pain?!
+Dialogue: 0,0:31:43.07,0:31:45.07,Default2,,0000,0000,0000,,You want to talk about pain?!
+Dialogue: 0,0:31:45.12,0:31:48.47,Default2,,0000,0000,0000,,I am... I am done with you!
+Dialogue: 0,0:31:48.51,0:31:50.16,Default2,,0000,0000,0000,,Done!
+Dialogue: 0,0:31:50.21,0:31:52.60,Default2,,0000,0000,0000,,Get your finger out of my face!
+Dialogue: 0,0:31:52.64,0:31:56.34,Default2,,0000,0000,0000,,Cary! Cary!
+Dialogue: 0,0:31:56.39,0:31:59.13,Default2,,0000,0000,0000,,Put it down!
+Dialogue: 0,0:31:59.17,0:32:01.09,Default2,,0000,0000,0000,,Put it down!
+Dialogue: 0,0:32:01.13,0:32:03.79,Default2,,0000,0000,0000,,You asked for this!
+Dialogue: 0,0:32:03.83,0:32:06.75,Default2,,0000,0000,0000,,Oh. Uh...
+Dialogue: 0,0:32:06.79,0:32:08.75,Default2,,0000,0000,0000,,Are you serious?
+Dialogue: 0,0:32:08.79,0:32:11.23,Default2,,0000,0000,0000,,Do you know what this meansfor him?
+Dialogue: 0,0:32:11.27,0:32:12.40,Default2,,0000,0000,0000,,For the future?
+Dialogue: 0,0:32:12.45,0:32:14.97,Default2,,0000,0000,0000,,Do you?
+Dialogue: 0,0:32:30.25,0:32:32.29,Default2,,0000,0000,0000,,Caspian! Don't hurt him!
+Dialogue: 0,0:32:32.34,0:32:34.30,Default2,,0000,0000,0000,,Caspian, Caspian, please!
+Dialogue: 0,0:32:34.34,0:32:36.60,Default2,,0000,0000,0000,,No!
+Dialogue: 0,0:32:41.00,0:32:43.91,Default2,,0000,0000,0000,,You... You two...
+Dialogue: 0,0:32:46.05,0:32:48.83,Default2,,0000,0000,0000,,deserve each other.
+Dialogue: 0,0:32:48.87,0:32:51.14,Default2,,0000,0000,0000,,No! Cary!
+Dialogue: 0,0:32:51.18,0:32:52.79,Default2,,0000,0000,0000,,Come back!
+Dialogue: 0,0:32:55.14,0:32:58.84,Default2,,0000,0000,0000,,You just made the biggest mistake of your life, son.
+Dialogue: 0,0:32:58.88,0:33:00.58,Default2,,0000,0000,0000,,All this...
+Dialogue: 0,0:33:00.63,0:33:03.32,Default2,,0000,0000,0000,,Mine.
+Dialogue: 0,0:33:03.37,0:33:05.07,Default2,,0000,0000,0000,,You two will be out on the streets soon,
+Dialogue: 0,0:33:05.11,0:33:08.29,Default2,,0000,0000,0000,,because I'll see you dead before I feed you another dime.
+Dialogue: 0,0:33:21.82,0:33:24.21,Default2,,0000,0000,0000,,No! No!
+Dialogue: 0,0:33:24.26,0:33:26.43,Default2,,0000,0000,0000,,No.
+Dialogue: 0,0:33:26.48,0:33:29.79,Default2,,0000,0000,0000,,No. What are we gonna do?
+Dialogue: 0,0:33:29.83,0:33:32.96,Default2,,0000,0000,0000,,What are we gonna do? What are...
+Dialogue: 0,0:33:33.01,0:33:35.62,Default2,,0000,0000,0000,,We're gonna get you to the hospital.
+Dialogue: 0,0:33:35.66,0:33:37.45,Default2,,0000,0000,0000,,And then I'm gonna take care of us.
+Dialogue: 0,0:33:42.28,0:33:48.11,Default2,,0000,0000,0000,,Alright, well, the Pearl Jam thing was rude.
+Dialogue: 0,0:33:48.15,0:33:51.42,Default2,,0000,0000,0000,,I mean, I thought Gabe was gonna pee himself.
+Dialogue: 0,0:33:51.46,0:33:52.85,Default2,,0000,0000,0000,,But?
+Dialogue: 0,0:33:52.90,0:33:56.42,Default2,,0000,0000,0000,,But I laughed on the way home.
+Dialogue: 0,0:33:56.46,0:33:58.12,Default2,,0000,0000,0000,,Oh, wow.
+Dialogue: 0,0:33:58.16,0:33:59.82,Default2,,0000,0000,0000,,What?
+Dialogue: 0,0:33:59.86,0:34:02.21,Default2,,0000,0000,0000,,I just remembered, this was my second breakup
+Dialogue: 0,0:34:02.25,0:34:05.56,Default2,,0000,0000,0000,,of the night.
+Dialogue: 0,0:34:05.60,0:34:07.30,Default2,,0000,0000,0000,,Your love life is tragic.
+Dialogue: 0,0:34:07.34,0:34:08.78,Default2,,0000,0000,0000,,Hey!
+Dialogue: 0,0:34:08.82,0:34:10.91,Default2,,0000,0000,0000,,Hey.
+Dialogue: 0,0:34:10.96,0:34:13.87,Default2,,0000,0000,0000,,It is. It is, but...
+Dialogue: 0,0:34:15.92,0:34:21.36,Default2,,0000,0000,0000,,♪ I, yeah-eah, yeah
+Dialogue: 0,0:34:21.40,0:34:23.67,Default2,,0000,0000,0000,,♪ I'm still alive
+Dialogue: 0,0:34:23.71,0:34:25.84,Default2,,0000,0000,0000,,♪ Hey, hey, I
+Dialogue: 0,0:34:25.88,0:34:30.11,Default2,,0000,0000,0000,,♪ Oh, oh, I'm still alive
+Dialogue: 0,0:34:30.15,0:34:35.55,Default2,,0000,0000,0000,,♪ Yeah, I, oh, I'm still alive ♪
+Dialogue: 0,0:34:37.16,0:34:41.16,Default2,,0000,0000,0000,,♪ Hey, I, oh, I'm still alive ♪
+Dialogue: 0,0:34:41.20,0:34:43.82,Default2,,0000,0000,0000,,♪ Oh, yeah
+Dialogue: 0,0:34:43.86,0:34:45.95,Default2,,0000,0000,0000,,Hey.
+Dialogue: 0,0:34:45.99,0:34:48.95,Default2,,0000,0000,0000,,Did I ever tell you about the time Eddie Vedder asked me out?
+Dialogue: 0,0:34:48.99,0:34:51.61,Default2,,0000,0000,0000,,He asked you for directions.
+Dialogue: 0,0:34:51.65,0:34:52.91,Default2,,0000,0000,0000,,And you didn't know them.
+Dialogue: 0,0:34:52.96,0:34:54.91,Default2,,0000,0000,0000,,One one wants your input.
+Dialogue: 0,0:34:54.96,0:34:56.52,Default2,,0000,0000,0000,,What's he saying?
+Dialogue: 0,0:34:56.57,0:34:58.27,Default2,,0000,0000,0000,,Your... Oh, your dad is saying
+Dialogue: 0,0:34:58.31,0:35:00.92,Default2,,0000,0000,0000,,he's grateful that I turned down the hottest living grunge star
+Dialogue: 0,0:35:00.96,0:35:02.53,Default2,,0000,0000,0000,,when he was in his Samson-haired prime,
+Dialogue: 0,0:35:02.57,0:35:04.66,Default2,,0000,0000,0000,,mind you, so that I could date him instead
+Dialogue: 0,0:35:04.71,0:35:06.36,Default2,,0000,0000,0000,,and end up having you.
+Dialogue: 0,0:35:08.71,0:35:10.23,Default2,,0000,0000,0000,,He said none of that.
+Dialogue: 0,0:35:10.28,0:35:12.06,Default2,,0000,0000,0000,,That's my girl.
+Dialogue: 0,0:35:12.11,0:35:14.98,Default2,,0000,0000,0000,,Thanks for kicking my ass into gear.
+Dialogue: 0,0:35:15.02,0:35:16.63,Default2,,0000,0000,0000,,I needed that.
+Dialogue: 0,0:35:20.50,0:35:23.33,Default2,,0000,0000,0000,,Congratulations, Cary. How do you feel?
+Dialogue: 0,0:35:23.38,0:35:26.03,Default2,,0000,0000,0000,,You know, he kicked the hell out of me.
+Dialogue: 0,0:35:26.08,0:35:28.12,Default2,,0000,0000,0000,,Got pretty scary for a second, honestly.
+Dialogue: 0,0:35:28.16,0:35:30.82,Default2,,0000,0000,0000,,You okay? You need medical attention?
+Dialogue: 0,0:35:30.86,0:35:34.08,Default2,,0000,0000,0000,,No, no, I...
+Dialogue: 0,0:35:34.13,0:35:37.04,Default2,,0000,0000,0000,,I should be able to make it to the debrief.
+Dialogue: 0,0:35:37.09,0:35:38.91,Default2,,0000,0000,0000,,- What's wrong? - Nothing.
+Dialogue: 0,0:35:38.96,0:35:43.14,Default2,,0000,0000,0000,,The inflection point was met.
+Dialogue: 0,0:35:43.18,0:35:44.14,Default2,,0000,0000,0000,,Right on schedule.
+Dialogue: 0,0:35:44.18,0:35:45.92,Default2,,0000,0000,0000,,Cary, come on.
+Dialogue: 0,0:35:49.14,0:35:52.23,Default2,,0000,0000,0000,,I'm...
+Dialogue: 0,0:35:52.28,0:35:54.50,Default2,,0000,0000,0000,,I'm gonna miss him, that's all.
+Dialogue: 0,0:35:54.54,0:35:56.41,Default2,,0000,0000,0000,,- You'll see him again soon. - I know.
+Dialogue: 0,0:35:56.45,0:35:58.00,Default2,,0000,0000,0000,,He's one of the leading voices in tech and business...
+Dialogue: 0,0:35:58.02,0:35:59.35,Default2,,0000,0000,0000,,I'll check in with Van Leuwen tomorrow,
+Dialogue: 0,0:35:59.37,0:36:02.81,Default2,,0000,0000,0000,,but I want you to hear me now... Good job.
+Dialogue: 0,0:36:02.85,0:36:05.07,Default2,,0000,0000,0000,,Please welcome to the Global Tech Forum,
+Dialogue: 0,0:36:05.11,0:36:08.51,Default2,,0000,0000,0000,,Julius Pope, CEO of Logorhythms.
+Dialogue: 0,0:36:08.55,0:36:10.12,Default2,,0000,0000,0000,,Gotta go.
+Dialogue: 0,0:36:19.52,0:36:21.78,Default2,,0000,0000,0000,,So, we are approaching the 20th anniversary
+Dialogue: 0,0:36:21.83,0:36:24.22,Default2,,0000,0000,0000,,of our world without Stephen Holstrom in it.
+Dialogue: 0,0:36:24.26,0:36:27.09,Default2,,0000,0000,0000,,It's crazy to think about.Yeah.
+Dialogue: 0,0:36:27.14,0:36:29.36,Default2,,0000,0000,0000,,And I'm sure you've been sick of this question
+Dialogue: 0,0:36:29.40,0:36:31.97,Default2,,0000,0000,0000,,for at least a decade... "What would Steve say?"
+Dialogue: 0,0:36:32.01,0:36:33.75,Default2,,0000,0000,0000,,No, I'm not sick of the question.
+Dialogue: 0,0:36:33.80,0:36:35.88,Default2,,0000,0000,0000,,We ask it every day. Still?
+Dialogue: 0,0:36:35.93,0:36:38.58,Default2,,0000,0000,0000,,Still, and always.
+Dialogue: 0,0:36:38.63,0:36:40.89,Default2,,0000,0000,0000,,Okay, well, then what do you think
+Dialogue: 0,0:36:40.93,0:36:43.94,Default2,,0000,0000,0000,,Stephen would say about the artificial intelligence
+Dialogue: 0,0:36:43.98,0:36:48.42,Default2,,0000,0000,0000,,arms race that our industry has fallen into?
+Dialogue: 0,0:36:48.46,0:36:52.90,Default2,,0000,0000,0000,,Well, I imagine it would be short... one word.
+Dialogue: 0,0:36:52.94,0:36:55.34,Default2,,0000,0000,0000,,One that I can't say here.
+Dialogue: 0,0:37:00.30,0:37:02.00,Default2,,0000,0000,0000,,"Upload."
+Dialogue: 0,0:37:02.04,0:37:04.00,Default2,,0000,0000,0000,,That's the dirty word Holstrom
+Dialogue: 0,0:37:04.04,0:37:06.74,Default2,,0000,0000,0000,,would really want to say out loud.
+Dialogue: 0,0:37:06.78,0:37:08.74,Default2,,0000,0000,0000,,Why expand machine intelligence
+Dialogue: 0,0:37:08.79,0:37:12.23,Default2,,0000,0000,0000,,when you've got the best operating system right here?
+Dialogue: 0,0:37:12.27,0:37:13.92,Default2,,0000,0000,0000,,Careful, there.
+Dialogue: 0,0:37:13.97,0:37:16.49,Default2,,0000,0000,0000,,You can't see 'em, but there's ethics watchdogs everywhere,
+Dialogue: 0,0:37:16.53,0:37:17.93,Default2,,0000,0000,0000,,sniffing around.
+Dialogue: 0,0:37:17.97,0:37:19.88,Default2,,0000,0000,0000,,That hasn't stopped us, though, has it?
+Dialogue: 0,0:37:19.93,0:37:22.10,Default2,,0000,0000,0000,,There's an "us"? There can be.
+Dialogue: 0,0:37:22.15,0:37:24.85,Default2,,0000,0000,0000,,A joint patent. One-time offer.
+Dialogue: 0,0:37:24.89,0:37:28.85,Default2,,0000,0000,0000,,Our next speaker is the head of India's largest telecom empire.
+Dialogue: 0,0:37:28.89,0:37:30.59,Default2,,0000,0000,0000,,Think about it.
+Dialogue: 0,0:37:30.63,0:37:33.03,Default2,,0000,0000,0000,,You have 10 seconds. What have you done?
+Dialogue: 0,0:37:33.07,0:37:35.38,Default2,,0000,0000,0000,,He is responsible for connecting over one billion people.
+Dialogue: 0,0:37:35.42,0:37:37.21,Default2,,0000,0000,0000,,5 seconds.
+Dialogue: 0,0:37:37.25,0:37:38.92,Default2,,0000,0000,0000,,This isn't some knock-off phone or chip, Ajit.
+Dialogue: 0,0:37:38.95,0:37:40.43,Default2,,0000,0000,0000,,This is dangerous tech.
+Dialogue: 0,0:37:40.47,0:37:41.91,Default2,,0000,0000,0000,,You don't want to play with it.
+Dialogue: 0,0:37:41.95,0:37:43.17,Default2,,0000,0000,0000,,Knock-off?
+Dialogue: 0,0:37:43.21,0:37:45.21,Default2,,0000,0000,0000,,You's a Stephen Holstrom knock-off.
+Dialogue: 0,0:37:45.26,0:37:47.48,Default2,,0000,0000,0000,,Not even that.
+Dialogue: 0,0:37:47.52,0:37:52.27,Default2,,0000,0000,0000,,Ajit Prasad, CEO of Alliance Telecom!
+Dialogue: 0,0:37:52.31,0:37:54.35,Default2,,0000,0000,0000,,Know what else you're not?
+Dialogue: 0,0:37:54.40,0:37:57.79,Default2,,0000,0000,0000,,You're not the only game in town anymore.
+Dialogue: 0,0:38:04.02,0:38:05.50,Default2,,0000,0000,0000,,How do we get out of here?
+Dialogue: 0,0:38:18.51,0:38:20.03,Default2,,0000,0000,0000,,My God.
+Dialogue: 0,0:38:29.21,0:38:31.83,Default2,,0000,0000,0000,,I... I can't do that.
+Dialogue: 0,0:38:34.18,0:38:36.79,Default2,,0000,0000,0000,,I don't know how!
+Dialogue: 0,0:38:39.79,0:38:42.01,Default2,,0000,0000,0000,,Spiking again?
+Dialogue: 0,0:38:42.05,0:38:45.45,Default2,,0000,0000,0000,,Gotta wipe you clean, Chanda.
+Dialogue: 0,0:38:45.49,0:38:47.19,Default2,,0000,0000,0000,,Sorry.
+Dialogue: 0,0:38:51.45,0:38:53.11,Default2,,0000,0000,0000,,Hi.
+Dialogue: 0,0:38:56.50,0:38:58.85,Default2,,0000,0000,0000,,You didn't do anything wrong.
+Dialogue: 0,0:38:58.90,0:39:00.55,Default2,,0000,0000,0000,,You were trying to be a friend,
+Dialogue: 0,0:39:00.59,0:39:02.81,Default2,,0000,0000,0000,,and I was embarrassed,
+Dialogue: 0,0:39:02.86,0:39:06.16,Default2,,0000,0000,0000,,so I shut down.
+Dialogue: 0,0:39:06.21,0:39:08.73,Default2,,0000,0000,0000,,I'm really sorry, Hannah.
+Dialogue: 0,0:39:08.78,0:39:12.17,Default2,,0000,0000,0000,,I like you.
+Dialogue: 0,0:39:12.21,0:39:14.09,Default2,,0000,0000,0000,,Could I take you out?
+Dialogue: 0,0:39:14.13,0:39:16.04,Default2,,0000,0000,0000,,On a real date?
+Dialogue: 0,0:39:16.09,0:39:19.87,Default2,,0000,0000,0000,,Like in the '50s or the...'90s,
+Dialogue: 0,0:39:19.92,0:39:21.83,Default2,,0000,0000,0000,,whenever people did that.
+Dialogue: 0,0:39:23.79,0:39:27.66,Default2,,0000,0000,0000,,Just so you know, I wasn't trying to be a "friend."
+Dialogue: 0,0:39:32.23,0:39:34.45,Default2,,0000,0000,0000,,Good.
+Dialogue: 0,0:39:38.41,0:39:43.55,Default2,,0000,0000,0000,,♪ Are you a man or a monster?
+Dialogue: 0,0:39:49.51,0:39:54.26,Default2,,0000,0000,0000,,♪ It's so hard to tell which side you're on ♪
+Dialogue: 0,0:39:54.30,0:39:57.83,Default2,,0000,0000,0000,,♪ One day is Hell
+Dialogue: 0,0:39:57.87,0:40:00.78,Default2,,0000,0000,0000,,♪ The next day is the dawn
+Dialogue: 0,0:40:00.83,0:40:03.74,Default2,,0000,0000,0000,,♪ The lines are blurred
+Dialogue: 0,0:40:03.79,0:40:07.18,Default2,,0000,0000,0000,,♪ You keep rubbing your eyes
+Dialogue: 0,0:40:07.23,0:40:09.45,Default2,,0000,0000,0000,,♪ The tables turn
+Dialogue: 0,0:40:09.49,0:40:12.06,Default2,,0000,0000,0000,,♪ Now it's time to survive
+Dialogue: 0,0:40:47.09,0:40:49.88,Default2,,0000,0000,0000,,Amma. How's your foot?
+Dialogue: 0,0:40:49.92,0:40:52.92,Default2,,0000,0000,0000,,Oh, I'm fine, beta. Don't worry about me.
+Dialogue: 0,0:40:52.97,0:40:57.62,Default2,,0000,0000,0000,,Or if you want to worry, worry about making me a grandmother.
+Dialogue: 0,0:40:57.67,0:40:59.76,Default2,,0000,0000,0000,,Like all my friends are.
+Dialogue: 0,0:40:59.80,0:41:02.67,Default2,,0000,0000,0000,,♪ Are you a man or a monster?
+Dialogue: 0,0:41:12.07,0:41:15.25,Default2,,0000,0000,0000,,♪ A man or a monster?
+Dialogue: 0,0:41:15.29,0:41:22.52,Default2,,0000,0000,0000,,♪ Ohh, oh-oh oh oh
+Dialogue: 0,0:41:22.56,0:41:27.35,Default2,,0000,0000,0000,,♪ Are you a man or a monster?
+Dialogue: 0,0:00:46.12,0:00:48.70,Default,NTP,0000,0000,0000,,阿妈 你的脚怎么样了
+Dialogue: 0,0:00:48.70,0:00:51.20,Default,NTP,0000,0000,0000,,我好着呢 宝贝 不要操心我
+Dialogue: 0,0:00:51.70,0:00:53.83,Default,NTP,0000,0000,0000,,不过你要是真的担心我
+Dialogue: 0,0:00:53.83,0:00:56.54,Default,NTP,0000,0000,0000,,操心操心怎么让我当上奶奶吧
+Dialogue: 0,0:00:56.54,0:00:58.04,Default,NTP,0000,0000,0000,,我所有的朋友都当奶奶了
+Dialogue: 0,0:00:58.04,0:01:00.33,Default,NTP,0000,0000,0000,,都在说孩子...
+Dialogue: 0,0:01:43.58,0:01:46.08,Default,NTP,0000,0000,0000,,他不会记得前一天的事吗
+Dialogue: 0,0:01:46.08,0:01:48.25,Default,NTP,0000,0000,0000,,对他来说 是没有昨天的
+Dialogue: 0,0:01:48.70,0:01:50.62,Default,NTP,0000,0000,0000,,或者说之前一天并不重要
+Dialogue: 0,0:01:50.62,0:01:53.29,Default,NTP,0000,0000,0000,,一阶延续计算不会储存程序数据
+Dialogue: 0,0:01:53.29,0:01:56.50,Default,NTP,0000,0000,0000,,只储存执行环境
+Dialogue: 0,0:01:57.04,0:01:59.83,Default,NTP,0000,0000,0000,,他妈妈打来那个电话有什么存在的必要吗
+Dialogue: 0,0:02:00.33,0:02:03.58,Default,NTP,0000,0000,0000,,情感是创新型解决问题的过程中重要的一环
+Dialogue: 0,0:02:04.04,0:02:04.95,Default,NTP,0000,0000,0000,,先生
+Dialogue: 0,0:02:09.12,0:02:13.25,Default,NTP,0000,0000,0000,,再把情感加回来 会使别的功能失效的
+Dialogue: 0,0:02:13.25,0:02:14.66,Default,NTP,0000,0000,0000,,老板 您说得没错
+Dialogue: 0,0:02:14.66,0:02:18.37,Default,NTP,0000,0000,0000,,但是这些情感太强烈了 没办法控制
+Dialogue: 0,0:02:18.37,0:02:19.66,Default,NTP,0000,0000,0000,,情感会把控住整个程序
+Dialogue: 0,0:02:19.66,0:02:21.54,Default,NTP,0000,0000,0000,,我们为钱达量身定制了他妈妈打来的这个电话
+Dialogue: 0,0:02:21.54,0:02:24.25,Default,NTP,0000,0000,0000,,通过社交能力来激励程序演算
+Dialogue: 0,0:02:24.25,0:02:26.29,Default,NTP,0000,0000,0000,,别跟我扯这些鸟语
+Dialogue: 0,0:02:26.29,0:02:27.75,Default,NTP,0000,0000,0000,,我是一路打拼来的
+Dialogue: 0,0:02:29.20,0:02:30.08,Default,NTP,0000,0000,0000,,这种情感是爱
+Dialogue: 0,0:02:30.79,0:02:33.20,Default,NTP,0000,0000,0000,,但是为了整个程序 它已经经过缜密处理
+Dialogue: 0,0:02:35.08,0:02:35.87,Default,NTP,0000,0000,0000,,老板
+Dialogue: 0,0:02:37.83,0:02:38.79,Default,NTP,0000,0000,0000,,干得好
+Dialogue: 0,0:02:39.45,0:02:40.62,Default,NTP,0000,0000,0000,,让他干快点
+Dialogue: 0,0:03:09.70,0:03:13.79,Default,NTP,0000,0000,0000,,他15秒就写好了80页专利文件吗
+Dialogue: 0,0:03:14.29,0:03:17.00,Default,NTP,0000,0000,0000,,对他来说 这是12天的工作量
+Dialogue: 0,0:03:17.00,0:03:20.04,Default,NTP,0000,0000,0000,,不 对他来说 是一天的工作量
+Dialogue: 0,0:04:09.87,0:04:10.91,Default,NTP,0000,0000,0000,,爸爸
+Dialogue: 0,0:04:12.37,0:04:12.45,Default,NTP,0000,0000,0000,,啊
+Dialogue: 0,0:04:12.45,0:04:13.41,Default,NTP,0000,0000,0000,,啊
+Dialogue: 0,0:04:16.95,0:04:18.25,Default,NTP,0000,0000,0000,,我需要一点帮助
+Dialogue: 0,0:04:20.00,0:04:21.50,Default,NTP,0000,0000,0000,,我十岁的时候
+Dialogue: 0,0:04:21.50,0:04:23.04,Default,NTP,0000,0000,0000,,我和我爸爸在周日他结束工作之后
+Dialogue: 0,0:04:23.04,0:04:25.16,Default,NTP,0000,0000,0000,,会一起玩冬日王朝这个游戏
+Dialogue: 0,0:04:26.37,0:04:28.45,Default,NTP,0000,0000,0000,,现在他已经不在人世了
+Dialogue: 0,0:04:30.45,0:04:32.70,Default,NTP,0000,0000,0000,,我们却可以每天都一起玩游戏
+Dialogue: 0,0:04:34.62,0:04:37.04,Default,NTP,0000,0000,0000,,这个游戏也更新了很多地方
+Dialogue: 0,0:04:37.04,0:04:39.70,Default,NTP,0000,0000,0000,,完全支持虚拟现实交互技术 触感穿戴设备
+Dialogue: 0,0:04:39.70,0:04:41.45,Default,NTP,0000,0000,0000,,玩起来就像是你真的在游戏场景里一样
+Dialogue: 0,0:04:42.20,0:04:44.50,Default,NTP,0000,0000,0000,,嘿 你之前跑哪儿去了
+Dialogue: 0,0:04:44.50,0:04:47.12,Default,NTP,0000,0000,0000,,该死的奇美拉差点把我当早饭吃了
+Dialogue: 0,0:04:47.12,0:04:48.12,Default,NTP,0000,0000,0000,,我之前就在这儿呢
+Dialogue: 0,0:04:51.87,0:04:52.79,Default,NTP,0000,0000,0000,,爸爸...
+Dialogue: 0,0:04:54.08,0:04:55.25,Default,NTP,0000,0000,0000,,我之前在扫描
+Dialogue: 0,0:04:55.25,0:04:57.66,Default,NTP,0000,0000,0000,,深圳综指 寻找劳瑞留下的痕迹
+Dialogue: 0,0:05:01.62,0:05:04.33,Default,NTP,0000,0000,0000,,怎么啦 你说的她之前是华尔街交易员 我没记错吧
+Dialogue: 0,0:05:04.33,0:05:07.12,Default,NTP,0000,0000,0000,,我想她可能藏在股票交易所的服务器里
+Dialogue: 0,0:05:08.12,0:05:11.04,Default,NTP,0000,0000,0000,,我很确定劳瑞准备好联系你的时候她会找你的
+Dialogue: 0,0:05:12.25,0:05:14.25,Default,NTP,0000,0000,0000,,你得承认这很奇怪
+Dialogue: 0,0:05:14.25,0:05:15.62,Default,NTP,0000,0000,0000,,她帮我从字符律动逃了出来
+Dialogue: 0,0:05:15.62,0:05:18.33,Default,NTP,0000,0000,0000,,还帮我建了一个加密服务器让我能藏在这儿
+Dialogue: 0,0:05:18.33,0:05:19.95,Default,NTP,0000,0000,0000,,但是却连个招呼都不和我打吗
+Dialogue: 0,0:05:20.41,0:05:22.41,Default,NTP,0000,0000,0000,,她这样的确有点奇怪
+Dialogue: 0,0:05:22.41,0:05:24.33,Default,NTP,0000,0000,0000,,她丈夫的举止也很奇怪
+Dialogue: 0,0:05:26.70,0:05:27.91,Default,NTP,0000,0000,0000,,可能是因为我吧
+Dialogue: 0,0:05:28.75,0:05:30.12,Default,NTP,0000,0000,0000,,一个大脑被上载变成程序的家伙
+Dialogue: 0,0:05:30.12,0:05:32.16,Default,NTP,0000,0000,0000,,是个女人都不想和我说话
+Dialogue: 0,0:05:35.33,0:05:36.87,Default,NTP,0000,0000,0000,,我跟你说过
+Dialogue: 0,0:05:36.87,0:05:38.54,Default,NTP,0000,0000,0000,,妈妈只是需要时间来适应
+Dialogue: 0,0:05:39.29,0:05:41.12,Default,NTP,0000,0000,0000,,这才过去几天呢
+Dialogue: 0,0:05:41.66,0:05:44.29,Default,NTP,0000,0000,0000,,麦蒂 时间流逝的速度对我来说是不一样的
+Dialogue: 0,0:05:45.29,0:05:47.70,Default,NTP,0000,0000,0000,,你知道几天对我来说是多久吗
+Dialogue: 0,0:05:49.25,0:05:54.91,Default,NTP,0000,0000,0000,,我···我觉得我们在任何事情上都不能和你感同身受
+Dialogue: 0,0:05:55.91,0:05:59.29,Default,NTP,0000,0000,0000,,是这样吗 她没把我当人看吗
+Dialogue: 0,0:05:59.29,0:06:00.70,Default,NTP,0000,0000,0000,,我不是这拿意思
+Dialogue: 0,0:06:02.37,0:06:04.20,Default,NTP,0000,0000,0000,,她最近超级忙
+Dialogue: 0,0:06:04.20,0:06:06.62,Default,NTP,0000,0000,0000,,她得工作很久很久 自从你...
+Dialogue: 0,0:06:08.29,0:06:10.70,Default,NTP,0000,0000,0000,,对了 她讨厌VR 你记得吧
+Dialogue: 0,0:06:10.70,0:06:12.04,Default,NTP,0000,0000,0000,,她会头晕恶心
+Dialogue: 0,0:06:13.75,0:06:14.62,Default,NTP,0000,0000,0000,,爸爸
+Dialogue: 0,0:06:16.58,0:06:17.58,Default,NTP,0000,0000,0000,,你说话啊
+Dialogue: 0,0:06:25.29,0:06:27.41,Default,NTP,0000,0000,0000,,受死吧
+Dialogue: 0,0:06:28.70,0:06:30.12,Default,NTP,0000,0000,0000,,是另一伙人
+Dialogue: 0,0:06:30.12,0:06:31.25,Default,NTP,0000,0000,0000,,他们看起来等级很高
+Dialogue: 0,0:06:48.25,0:06:51.50,Default,NTP,0000,0000,0000,,哇 这是什么情况啊
+Dialogue: 0,0:06:56.95,0:06:58.50,Default,NTP,0000,0000,0000,,这是什么情况啊
+Dialogue: 0,0:06:58.50,0:07:00.12,Default,NTP,0000,0000,0000,,这是什么情况
+Dialogue: 0,0:07:00.12,0:07:02.66,Default,NTP,0000,0000,0000,,数字签名爆了 是他们中的一个
+Dialogue: 0,0:07:02.66,0:07:03.87,Default,NTP,0000,0000,0000,,我们可以追踪吗
+Dialogue: 0,0:07:03.87,0:07:06.75,Default,NTP,0000,0000,0000,,韦斯曼还没写出来追踪程序
+Dialogue: 0,0:07:07.70,0:07:10.95,Default,NTP,0000,0000,0000,,先把激增情况记录下来 之后再把它送去分析
+Dialogue: 0,0:07:10.95,0:07:14.08,Default,NTP,0000,0000,0000,,我跟你说过 你只能做一个普通玩家能做的事情
+Dialogue: 0,0:07:14.08,0:07:16.33,Default,NTP,0000,0000,0000,,如果管理员发现你在代码里...
+Dialogue: 0,0:07:16.33,0:07:17.75,Default,NTP,0000,0000,0000,,你担心我会被禁止登陆游戏
+Dialogue: 0,0:07:17.75,0:07:19.50,Default,NTP,0000,0000,0000,,我是担心你会被盯上
+Dialogue: 0,0:07:19.50,0:07:21.33,Default,NTP,0000,0000,0000,,国家安全局或者其它机构会追踪你
+Dialogue: 0,0:07:22.25,0:07:25.87,Default,NTP,0000,0000,0000,,爸爸 没有人能知道你的存在
+Dialogue: 0,0:07:25.87,0:07:28.91,Default,NTP,0000,0000,0000,,对我妻子来说 我不算个人
+Dialogue: 0,0:07:31.79,0:07:33.41,Default,NTP,0000,0000,0000,,我会和她谈谈的
+Dialogue: 0,0:07:33.41,0:07:34.29,Default,NTP,0000,0000,0000,,好吗
+Dialogue: 0,0:07:47.62,0:07:50.54,Default,NTP,0000,0000,0000,,每个个体都将是
+Dialogue: 0,0:07:51.00,0:07:54.04,Default,NTP,0000,0000,0000,,自己独创小天地的主宰
+Dialogue: 0,0:07:54.62,0:07:57.50,Default,NTP,0000,0000,0000,,在这个小天地里 不再缺少任何东西
+Dialogue: 0,0:07:57.50,0:08:00.16,Default,NTP,0000,0000,0000,,不再有贫富之分
+Dialogue: 0,0:08:00.62,0:08:03.83,Default,NTP,0000,0000,0000,,不再有持强凌弱
+Dialogue: 0,0:08:05.29,0:08:06.79,Default,NTP,0000,0000,0000,,不再有死亡
+Dialogue: 0,0:08:07.58,0:08:09.45,Default,NTP,0000,0000,0000,,想想看
+Dialogue: 0,0:08:10.29,0:08:11.75,Default,NTP,0000,0000,0000,,试了才知道这有简单
+Dialogue: 0,0:08:13.70,0:08:15.91,Default,NTP,0000,0000,0000,,这才是真正原创的东西
+Dialogue: 0,0:08:23.45,0:08:26.25,Default,NTP,0000,0000,0000,,我...我知道这不关我的事
+Dialogue: 0,0:08:26.25,0:08:29.12,Default,NTP,0000,0000,0000,,我想告诉你 你现在的情况
+Dialogue: 0,0:08:29.12,0:08:30.87,Default,NTP,0000,0000,0000,,并不正常
+Dialogue: 0,0:08:30.87,0:08:33.87,Default,NTP,0000,0000,0000,,你不该经历这些事的
+Dialogue: 0,0:08:35.00,0:08:37.41,Default,NTP,0000,0000,0000,,至少不该自己承担这些
+Dialogue: 0,0:08:39.04,0:08:41.45,Default,NTP,0000,0000,0000,,- 所以··· - 你说得对
+Dialogue: 0,0:08:41.45,0:08:42.83,Default,NTP,0000,0000,0000,,这不关你的事
+Dialogue: 0,0:08:51.04,0:08:52.25,Default,NTP,0000,0000,0000,,这周的第二次攻击
+Dialogue: 0,0:08:52.25,0:08:54.33,Default,NTP,0000,0000,0000,,他们说损失了十亿美元
+Dialogue: 0,0:08:54.33,0:08:56.12,Default,NTP,0000,0000,0000,,我觉得不止这个数
+Dialogue: 0,0:08:56.12,0:08:58.00,Default,NTP,0000,0000,0000,,可能是中国人干的
+Dialogue: 0,0:08:59.83,0:09:04.33,Default,NTP,0000,0000,0000,,我听说他们在测试一个上传人脑的程序
+Dialogue: 0,0:09:09.41,0:09:10.29,Default,NTP,0000,0000,0000,,凯斯宾
+Dialogue: 0,0:09:10.29,0:09:12.45,Default,NTP,0000,0000,0000,,妈妈 你吓到我了
+Dialogue: 0,0:09:12.45,0:09:13.83,Default,NTP,0000,0000,0000,,我就是这么神出鬼没
+Dialogue: 0,0:09:14.33,0:09:15.83,Default,NTP,0000,0000,0000,,你在看什么呢
+Dialogue: 0,0:09:16.25,0:09:17.79,Default,NTP,0000,0000,0000,,没什么 学校的作业
+Dialogue: 0,0:09:18.95,0:09:20.12,Default,NTP,0000,0000,0000,,那个...
+Dialogue: 0,0:09:21.62,0:09:23.20,Default,NTP,0000,0000,0000,,那天
+Dialogue: 0,0:09:24.58,0:09:26.20,Default,NTP,0000,0000,0000,,你爸爸和我
+Dialogue: 0,0:09:27.00,0:09:29.87,Default,NTP,0000,0000,0000,,其实我在看上载智能的资料
+Dialogue: 0,0:09:31.25,0:09:32.45,Default,NTP,0000,0000,0000,,那是什么
+Dialogue: 0,0:09:32.45,0:09:35.58,Default,NTP,0000,0000,0000,,你知道吧 我把你笔记本电脑的数据都上传到云端了
+Dialogue: 0,0:09:35.58,0:09:37.20,Default,NTP,0000,0000,0000,,以免电脑崩溃丢失数据
+Dialogue: 0,0:09:37.20,0:09:39.25,Default,NTP,0000,0000,0000,,这两者很相似 不过那些数据
+Dialogue: 0,0:09:39.25,0:09:41.08,Default,NTP,0000,0000,0000,,是储存在人脑里的
+Dialogue: 0,0:09:41.08,0:09:43.54,Default,NTP,0000,0000,0000,,记忆 感觉 技能 一切
+Dialogue: 0,0:09:43.54,0:09:46.95,Default,NTP,0000,0000,0000,,是电影小说之类的东西吗
+Dialogue: 0,0:09:46.95,0:09:48.79,Default,NTP,0000,0000,0000,,不是这样 你还记得斯蒂芬．霍尔斯特隆吗
+Dialogue: 0,0:09:48.79,0:09:51.62,Default,NTP,0000,0000,0000,,这是2001年他去世之前讲到的
+Dialogue: 0,0:09:51.62,0:09:54.29,Default,NTP,0000,0000,0000,,所以 如果字符律动继续在这个方向开展研究 那么...
+Dialogue: 0,0:09:54.29,0:09:55.79,Default,NTP,0000,0000,0000,,字符律动
+Dialogue: 0,0:09:55.79,0:09:57.62,Default,NTP,0000,0000,0000,,那家生产微型芯片的公司吗
+Dialogue: 0,0:09:57.62,0:09:59.87,Default,NTP,0000,0000,0000,,你真的觉得他们把人
+Dialogue: 0,0:09:59.87,0:10:02.58,Default,NTP,0000,0000,0000,,变成了云端脑集台
+Dialogue: 0,0:10:02.58,0:10:04.16,Default,NTP,0000,0000,0000,,储存在硅谷吗
+Dialogue: 0,0:10:04.16,0:10:06.75,Default,NTP,0000,0000,0000,,妈妈 这不是云端脑集台 这是...
+Dialogue: 0,0:10:06.75,0:10:08.79,Default,NTP,0000,0000,0000,,等等 地点不该在帕洛阿尔托
+Dialogue: 0,0:10:08.79,0:10:11.25,Default,NTP,0000,0000,0000,,肯定是这样 如果他们真的在做这件事
+Dialogue: 0,0:10:11.25,0:10:13.45,Default,NTP,0000,0000,0000,,一定会选一个遥远的地方 比如海外
+Dialogue: 0,0:10:14.29,0:10:18.20,Default,NTP,0000,0000,0000,,人体试验的规定更少 更难追踪资金
+Dialogue: 0,0:10:29.91,0:10:31.54,Default,NTP,0000,0000,0000,,我知道你会说计划不变
+Dialogue: 0,0:10:31.54,0:10:35.58,Default,NTP,0000,0000,0000,,但他在搜索数据中心 他在看斯蒂芬的视频
+Dialogue: 0,0:10:35.58,0:10:36.33,Default,NTP,0000,0000,0000,,而我们正在监视他
+Dialogue: 0,0:10:36.33,0:10:38.20,Default,NTP,0000,0000,0000,,看的所有内容
+Dialogue: 0,0:10:38.20,0:10:39.04,Default,NTP,0000,0000,0000,,蕾妮...
+Dialogue: 0,0:10:40.16,0:10:41.08,Default,NTP,0000,0000,0000,,放松
+Dialogue: 0,0:10:41.91,0:10:43.54,Default,NTP,0000,0000,0000,,明天盯紧他
+Dialogue: 0,0:10:43.54,0:10:45.16,Default,NTP,0000,0000,0000,,这是青春期最重要的
+Dialogue: 0,0:10:45.16,0:10:46.70,Default,NTP,0000,0000,0000,,转折点了
+Dialogue: 0,0:10:47.12,0:10:49.25,Default,NTP,0000,0000,0000,,你得把这件事放在首位
+Dialogue: 0,0:10:50.50,0:10:51.62,Default,NTP,0000,0000,0000,,你丈夫也一样
+Dialogue: 0,0:11:37.04,0:11:38.79,Default,NTP,0000,0000,0000,,老兄 你怎么了
+Dialogue: 0,0:11:43.91,0:11:45.75,Default,NTP,0000,0000,0000,,重置
+Dialogue: 0,0:12:29.33,0:12:32.25,Default,NTP,0000,0000,0000,,这活儿不用两个人干 卡里
+Dialogue: 0,0:12:32.25,0:12:35.16,Default,NTP,0000,0000,0000,,买个破锤子不就完事儿了
+Dialogue: 0,0:12:35.16,0:12:38.04,Default,NTP,0000,0000,0000,,是你让非要来的 因为无论我买什么
+Dialogue: 0,0:12:38.04,0:12:39.75,Default,NTP,0000,0000,0000,,都会无缘无故买错
+Dialogue: 0,0:12:39.75,0:12:41.66,Default,NTP,0000,0000,0000,,我不想因为你不喜欢锤子握把之类的理由
+Dialogue: 0,0:12:41.66,0:12:43.66,Default,NTP,0000,0000,0000,,半路开回来买新的了
+Dialogue: 0,0:12:44.25,0:12:47.16,Default,NTP,0000,0000,0000,,这是他青春期最关键的转折点
+Dialogue: 0,0:12:47.16,0:12:49.25,Default,NTP,0000,0000,0000,,家里那把锤子已经脏的不行
+Dialogue: 0,0:12:49.91,0:12:53.45,Default,NTP,0000,0000,0000,,你好好站完最后一班岗吧
+Dialogue: 0,0:13:12.20,0:13:13.41,Default,NTP,0000,0000,0000,,真有意思
+Dialogue: 0,0:13:14.29,0:13:19.04,Default,NTP,0000,0000,0000,,G大调 但从来没有弹到主音和弦
+Dialogue: 0,0:13:19.54,0:13:21.83,Default,NTP,0000,0000,0000,,真是个有趣的模式 就像是...
+Dialogue: 0,0:13:22.41,0:13:24.50,Default,NTP,0000,0000,0000,,一个递归的循环
+Dialogue: 0,0:13:25.41,0:13:29.20,Default,NTP,0000,0000,0000,,也许这样能让我记忆集中一点呢
+Dialogue: 0,0:13:30.45,0:13:31.37,Default,NTP,0000,0000,0000,,递归
+Dialogue: 0,0:13:31.87,0:13:34.33,Default,NTP,0000,0000,0000,,真喜欢你的思考
+Dialogue: 0,0:13:35.20,0:13:37.75,Default,NTP,0000,0000,0000,,内外兼修 身材也很有料呢
+Dialogue: 0,0:13:37.75,0:13:43.20,Default,NTP,0000,0000,0000,,嗯 待会儿我想解开隐马尔可夫模型的谜题
+Dialogue: 0,0:13:43.20,0:13:46.95,Default,NTP,0000,0000,0000,,我想 对于突破肉身束缚来说 这点至关重要
+Dialogue: 0,0:13:46.95,0:13:49.00,Default,NTP,0000,0000,0000,,要说谁能做到 那非你莫属
+Dialogue: 0,0:13:49.87,0:13:53.33,Default,NTP,0000,0000,0000,,想象一下 存在于无垠宇宙之间
+Dialogue: 0,0:13:53.33,0:13:57.33,Default,NTP,0000,0000,0000,,却不受肉体束缚
+Dialogue: 0,0:14:00.83,0:14:01.87,Default,NTP,0000,0000,0000,,我不知道呢
+Dialogue: 0,0:14:02.70,0:14:05.62,Default,NTP,0000,0000,0000,,人的肉体还是有点好处的
+Dialogue: 0,0:14:05.62,0:14:06.62,Default,NTP,0000,0000,0000,,有限的
+Dialogue: 0,0:14:07.33,0:14:10.33,Default,NTP,0000,0000,0000,,在云端 我们能触碰到
+Dialogue: 0,0:14:10.33,0:14:12.62,Default,NTP,0000,0000,0000,,过去从未意识到的感官 如同想象一场
+Dialogue: 0,0:14:12.62,0:14:13.87,Default,NTP,0000,0000,0000,,你从未尝试过的 无与伦比的性爱
+Dialogue: 0,0:14:13.87,0:14:16.75,Default,NTP,0000,0000,0000,,然后重复想象百万遍
+Dialogue: 0,0:14:17.41,0:14:19.00,Default,NTP,0000,0000,0000,,直至永远
+Dialogue: 0,0:14:22.20,0:14:23.58,Default,NTP,0000,0000,0000,,别管了
+Dialogue: 0,0:14:28.83,0:14:30.12,Default,NTP,0000,0000,0000,,是卡里
+Dialogue: 0,0:14:31.08,0:14:32.00,Default,NTP,0000,0000,0000,,你要不要...
+Dialogue: 0,0:14:38.12,0:14:39.62,Default,NTP,0000,0000,0000,,这些是文件 霍尔斯特隆先生
+Dialogue: 0,0:14:40.20,0:14:43.41,Default,NTP,0000,0000,0000,,啊 明早我再给您送过来吧
+Dialogue: 0,0:14:43.41,0:14:44.83,Default,NTP,0000,0000,0000,,不用了 我现在就签了吧
+Dialogue: 0,0:14:45.45,0:14:47.50,Default,NTP,0000,0000,0000,,等我一下
+Dialogue: 0,0:14:51.95,0:14:52.37,Default,NTP,0000,0000,0000,,给你
+Dialogue: 0,0:14:53.45,0:14:54.45,Default,NTP,0000,0000,0000,,亲爱的
+Dialogue: 0,0:14:56.95,0:14:59.12,Default,NTP,0000,0000,0000,,我说了 我不喜欢这把
+Dialogue: 0,0:14:59.12,0:15:00.04,Default,NTP,0000,0000,0000,,我知道
+Dialogue: 0,0:15:00.54,0:15:02.08,Default,NTP,0000,0000,0000,,我故意的
+Dialogue: 0,0:15:02.54,0:15:03.62,Default,NTP,0000,0000,0000,,家里见
+Dialogue: 0,0:15:19.12,0:15:20.70,Default,NTP,0000,0000,0000,,每次都这样
+Dialogue: 0,0:15:20.70,0:15:22.54,Default,NTP,0000,0000,0000,,那些人为什么怕你
+Dialogue: 0,0:15:22.54,0:15:24.33,Default,NTP,0000,0000,0000,,没人喜欢一个体重和智商
+Dialogue: 0,0:15:24.33,0:15:26.58,Default,NTP,0000,0000,0000,,都超过115的女生
+Dialogue: 0,0:15:26.58,0:15:29.04,Default,NTP,0000,0000,0000,,我很吓人
+Dialogue: 0,0:15:29.04,0:15:30.33,Default,NTP,0000,0000,0000,,我可不这么觉得
+Dialogue: 0,0:15:31.04,0:15:32.45,Default,NTP,0000,0000,0000,,那你为什么从茫茫女生中
+Dialogue: 0,0:15:32.45,0:15:34.00,Default,NTP,0000,0000,0000,,挑申了我
+Dialogue: 0,0:15:34.00,0:15:37.29,Default,NTP,0000,0000,0000,,来当你的保镖 保护你不受成年男子伤害呢
+Dialogue: 0,0:15:38.45,0:15:39.33,Default,NTP,0000,0000,0000,,靠
+Dialogue: 0,0:15:41.54,0:15:44.75,Default,NTP,0000,0000,0000,,这很正常 我和你们一样爱指手画脚
+Dialogue: 0,0:15:44.75,0:15:47.04,Default,NTP,0000,0000,0000,,不过比你们优越得多罢了
+Dialogue: 0,0:15:48.16,0:15:49.45,Default,NTP,0000,0000,0000,,你今晚打算干什么
+Dialogue: 0,0:15:51.54,0:15:55.29,Default,NTP,0000,0000,0000,,我爸妈冷战了 太烦了
+Dialogue: 0,0:15:55.62,0:15:56.83,Default,NTP,0000,0000,0000,,他们还没离婚吗
+Dialogue: 0,0:15:57.29,0:15:58.41,Default,NTP,0000,0000,0000,,是啊
+Dialogue: 0,0:15:58.41,0:16:00.87,Default,NTP,0000,0000,0000,,不过他们分开了
+Dialogue: 0,0:16:01.79,0:16:03.33,Default,NTP,0000,0000,0000,,啊 不好意思
+Dialogue: 0,0:16:03.83,0:16:06.04,Default,NTP,0000,0000,0000,,我也经历过这个 确实很糟糕
+Dialogue: 0,0:16:06.91,0:16:10.50,Default,NTP,0000,0000,0000,,等他们说开了 离婚了 就会舒服很多了
+Dialogue: 0,0:16:10.50,0:16:12.54,Default,NTP,0000,0000,0000,,他们不能离婚
+Dialogue: 0,0:16:15.16,0:16:16.08,Default,NTP,0000,0000,0000,,行吧
+Dialogue: 0,0:16:16.54,0:16:17.79,Default,NTP,0000,0000,0000,,我不是特意对你吼的
+Dialogue: 0,0:16:17.79,0:16:20.37,Default,NTP,0000,0000,0000,,我只是说 他们现在的情况很艰难
+Dialogue: 0,0:16:20.37,0:16:23.29,Default,NTP,0000,0000,0000,,虽然现在事情很糟 但他们依然相爱啊
+Dialogue: 0,0:16:23.29,0:16:26.04,Default,NTP,0000,0000,0000,,这让我很焦躁 因为相爱的人就该在一起啊
+Dialogue: 0,0:16:26.54,0:16:28.54,Default,NTP,0000,0000,0000,,所以我要像电影《父母陷阱》那样撮台他们
+Dialogue: 0,0:16:28.54,0:16:30.66,Default,NTP,0000,0000,0000,,父母陷阱是什么玩意儿
+Dialogue: 0,0:16:30.66,0:16:33.66,Default,NTP,0000,0000,0000,,你没看过《父母陷阱》这部电影吗
+Dialogue: 0,0:16:33.66,0:16:37.04,Default,NTP,0000,0000,0000,,- 没听过 - 林赛-罗韩那部都没看过吗
+Dialogue: 0,0:16:40.70,0:16:41.66,Default,NTP,0000,0000,0000,,我要给他们制造一场晚餐约会
+Dialogue: 0,0:16:41.66,0:16:43.08,Default,NTP,0000,0000,0000,,那么他们就不得不聊天了
+Dialogue: 0,0:16:43.08,0:16:44.91,Default,NTP,0000,0000,0000,,然后重归于好 我们又是一家人了
+Dialogue: 0,0:16:45.62,0:16:47.37,Default,NTP,0000,0000,0000,,好机灵的想法
+Dialogue: 0,0:16:47.37,0:16:49.70,Default,NTP,0000,0000,0000,,- 谢谢 - 同时也很可怕
+Dialogue: 0,0:16:49.70,0:16:50.79,Default,NTP,0000,0000,0000,,你不能让两个成年人
+Dialogue: 0,0:16:52.58,0:16:54.12,Default,NTP,0000,0000,0000,,把手里的事情丢到一边
+Dialogue: 0,0:16:54.12,0:16:56.70,Default,NTP,0000,0000,0000,,陪你玩过家家
+Dialogue: 0,0:16:56.70,0:16:58.79,Default,NTP,0000,0000,0000,,我一定要撮台他们 贾斯汀
+Dialogue: 0,0:16:58.79,0:17:02.25,Default,NTP,0000,0000,0000,,我妈妈已经在和她的男同事约会了 好像来真的
+Dialogue: 0,0:17:02.25,0:17:05.83,Default,NTP,0000,0000,0000,,叫加布 我可不能有个叫加布的后爸
+Dialogue: 0,0:17:06.25,0:17:08.25,Default,NTP,0000,0000,0000,,哦 内有隐情啊
+Dialogue: 0,0:17:08.75,0:17:11.33,Default,NTP,0000,0000,0000,,你爸对于这个加布什么看法
+Dialogue: 0,0:17:11.33,0:17:14.41,Default,NTP,0000,0000,0000,,没想法 因为他不知道这个人
+Dialogue: 0,0:17:14.41,0:17:16.50,Default,NTP,0000,0000,0000,,我也不打算告诉他
+Dialogue: 0,0:17:16.50,0:17:17.95,Default,NTP,0000,0000,0000,,我不想再让他生气了
+Dialogue: 0,0:17:17.95,0:17:19.50,Default,NTP,0000,0000,0000,,通过告诉他可能有个
+Dialogue: 0,0:17:19.50,0:17:21.75,Default,NTP,0000,0000,0000,,年轻力壮 又高又帅的男人
+Dialogue: 0,0:17:21.75,0:17:23.66,Default,NTP,0000,0000,0000,,在和他妻子暧昧吗
+Dialogue: 0,0:17:23.66,0:17:24.75,Default,NTP,0000,0000,0000,,哎 是
+Dialogue: 0,0:17:25.70,0:17:28.12,Default,NTP,0000,0000,0000,,身为一个快乐小孩 你的生活一团糟
+Dialogue: 0,0:17:29.00,0:17:30.08,Default,NTP,0000,0000,0000,,我可太好奇了
+Dialogue: 0,0:17:42.91,0:17:44.04,Default,NTP,0000,0000,0000,,喂 你好
+Dialogue: 0,0:17:44.87,0:17:45.79,Default,NTP,0000,0000,0000,,你好
+Dialogue: 0,0:17:47.41,0:17:48.87,Default,NTP,0000,0000,0000,,为什么你不和我说话
+Dialogue: 0,0:17:53.83,0:17:54.87,Default,NTP,0000,0000,0000,,啊
+Dialogue: 0,0:17:54.87,0:17:56.29,Default,NTP,0000,0000,0000,,不好意思 吓到你了
+Dialogue: 0,0:17:56.29,0:17:57.83,Default,NTP,0000,0000,0000,,我正去教室呢 但我想先问问
+Dialogue: 0,0:17:57.83,0:17:59.29,Default,NTP,0000,0000,0000,,我们今晚还要不要值班
+Dialogue: 0,0:18:00.33,0:18:02.58,Default,NTP,0000,0000,0000,,今晚吗 呃
+Dialogue: 0,0:18:08.70,0:18:11.83,Default,NTP,0000,0000,0000,,本科生 一点都尊重工作时间
+Dialogue: 0,0:18:12.33,0:18:14.20,Default,NTP,0000,0000,0000,,- 从来都不听话 - 对啊
+Dialogue: 0,0:18:16.00,0:18:17.87,Default,NTP,0000,0000,0000,,- 所以我们今晚 - 啊对对
+Dialogue: 0,0:18:17.87,0:18:20.41,Default,NTP,0000,0000,0000,,是的 我们要值班 没错
+Dialogue: 0,0:18:20.41,0:18:23.41,Default,NTP,0000,0000,0000,,你的班次在九点
+Dialogue: 0,0:18:23.41,0:18:24.37,Default,NTP,0000,0000,0000,,不是八点吗
+Dialogue: 0,0:18:24.37,0:18:26.16,Default,NTP,0000,0000,0000,,麦蒂给我了晚饭 记得吗
+Dialogue: 0,0:19:04.70,0:19:07.25,Default,NTP,0000,0000,0000,,阿妈 你的脚怎么样了
+Dialogue: 0,0:19:07.91,0:19:10.25,Default,NTP,0000,0000,0000,,我好着呢 宝贝
+Dialogue: 0,0:19:10.25,0:19:12.83,Default,NTP,0000,0000,0000,,不要操心我
+Dialogue: 0,0:19:26.50,0:19:28.12,Default,NTP,0000,0000,0000,,啊 不要
+Dialogue: 0,0:19:28.12,0:19:28.91,Default,NTP,0000,0000,0000,,不
+Dialogue: 0,0:20:05.12,0:20:06.45,Default,NTP,0000,0000,0000,,我想起来了
+Dialogue: 0,0:20:21.41,0:20:23.91,Default,NTP,0000,0000,0000,,你们 你们是贫民窟里的人
+Dialogue: 0,0:20:24.45,0:20:25.70,Default,NTP,0000,0000,0000,,他们先把你们杀了吗
+Dialogue: 0,0:20:31.20,0:20:33.25,Default,NTP,0000,0000,0000,,这是真的吗
+Dialogue: 0,0:20:33.79,0:20:34.79,Default,NTP,0000,0000,0000,,我死了吗
+Dialogue: 0,0:20:46.12,0:20:47.54,Default,NTP,0000,0000,0000,,洛厄尔在里面吗
+Dialogue: 0,0:20:48.50,0:20:50.16,Default,NTP,0000,0000,0000,,如果我洗劫服务器 她会出来吗
+Dialogue: 0,0:20:50.16,0:20:52.41,Default,NTP,0000,0000,0000,,这只是她源代码的递归副本
+Dialogue: 0,0:20:52.41,0:20:55.58,Default,NTP,0000,0000,0000,,只要泄露一部分她就能攻击我们的网络
+Dialogue: 0,0:20:55.58,0:20:57.62,Default,NTP,0000,0000,0000,,那就够了
+Dialogue: 0,0:20:59.41,0:21:01.62,Default,NTP,0000,0000,0000,,自从她重击我们之后 我就得筹集资金
+Dialogue: 0,0:21:01.62,0:21:03.12,Default,NTP,0000,0000,0000,,才能让这里不断电
+Dialogue: 0,0:21:03.66,0:21:08.70,Default,NTP,0000,0000,0000,,你不能只从产品服务申转移资金吗 或者 呃
+Dialogue: 0,0:21:08.70,0:21:09.70,Default,NTP,0000,0000,0000,,我不太清楚这一块
+Dialogue: 0,0:21:10.25,0:21:12.87,Default,NTP,0000,0000,0000,,我要去四个时区以外的地方 但是你们还能联系到我
+Dialogue: 0,0:21:12.87,0:21:15.45,Default,NTP,0000,0000,0000,,如果金和洛厄尔有什么动静 立刻通知我
+Dialogue: 0,0:21:16.20,0:21:17.33,Default,NTP,0000,0000,0000,,那个小孩出问题了
+Dialogue: 0,0:21:19.20,0:21:22.95,Default,NTP,0000,0000,0000,,他写了个脚本 在谷歌地球上
+Dialogue: 0,0:21:22.95,0:21:26.37,Default,NTP,0000,0000,0000,,搜索已有位置 包括缓存图像
+Dialogue: 0,0:21:32.25,0:21:34.12,Default,NTP,0000,0000,0000,,里面有成千上百的緩存图片呢
+Dialogue: 0,0:21:34.95,0:21:36.58,Default,NTP,0000,0000,0000,,他要怎么去挪威呢
+Dialogue: 0,0:21:36.58,0:21:39.25,Default,NTP,0000,0000,0000,,交叉引用了我们公开的财务报告
+Dialogue: 0,0:21:39.25,0:21:42.37,Default,NTP,0000,0000,0000,,- 找到我们的··· - 我们对海洋基金的捐款
+Dialogue: 0,0:21:42.37,0:21:45.08,Default,NTP,0000,0000,0000,,一如既往地聪明 你们能先他一步拦截他吗
+Dialogue: 0,0:21:45.08,0:21:46.66,Default,NTP,0000,0000,0000,,我在谷歌的数据库里 正在抹除
+Dialogue: 0,0:21:46.66,0:21:48.29,Default,NTP,0000,0000,0000,,相关缓存图
+Dialogue: 0,0:21:48.29,0:21:51.20,Default,NTP,0000,0000,0000,,太晚了 他找到我们了
+Dialogue: 0,0:21:51.20,0:21:53.95,Default,NTP,0000,0000,0000,,他找到建筑工地的存档图了
+Dialogue: 0,0:21:53.95,0:21:54.79,Default,NTP,0000,0000,0000,,哇
+Dialogue: 0,0:22:02.00,0:22:03.37,Default,NTP,0000,0000,0000,,什么情况
+Dialogue: 0,0:22:03.87,0:22:06.54,Default,NTP,0000,0000,0000,,好 图片消失术
+Dialogue: 0,0:22:06.54,0:22:08.83,Default,NTP,0000,0000,0000,,- 鸣呼 - 你开什么玩笑
+Dialogue: 0,0:22:08.83,0:22:10.41,Default,NTP,0000,0000,0000,,他找到我们了
+Dialogue: 0,0:22:10.41,0:22:12.29,Default,NTP,0000,0000,0000,,他没截图呢
+Dialogue: 0,0:22:12.29,0:22:15.87,Default,NTP,0000,0000,0000,,他什么都证明不了 没有证据
+Dialogue: 0,0:22:15.87,0:22:18.91,Default,NTP,0000,0000,0000,,别用挪威语装腔了 他看着你更改图片的
+Dialogue: 0,0:22:18.91,0:22:20.25,Default,NTP,0000,0000,0000,,他知道了
+Dialogue: 0,0:22:20.25,0:22:21.83,Default,NTP,0000,0000,0000,,他所知的一切
+Dialogue: 0,0:22:21.83,0:22:23.62,Default,NTP,0000,0000,0000,,明天都会结束
+Dialogue: 0,0:22:24.79,0:22:26.29,Default,NTP,0000,0000,0000,,事情有变再通知我
+Dialogue: 0,0:22:44.54,0:22:46.66,Default,NTP,0000,0000,0000,,胡桃南瓜汤
+Dialogue: 0,0:22:46.66,0:22:49.58,Default,NTP,0000,0000,0000,,农场生产 工厂加工 装盒上市 再端上桌
+Dialogue: 0,0:22:51.04,0:22:52.54,Default,NTP,0000,0000,0000,,真是纯天然
+Dialogue: 0,0:22:56.87,0:22:58.08,Default,NTP,0000,0000,0000,,气味
+Dialogue: 0,0:22:59.04,0:23:01.04,Default,NTP,0000,0000,0000,,都快忘了什么是气味了
+Dialogue: 0,0:23:06.12,0:23:09.75,Default,NTP,0000,0000,0000,,妈 能帮我搞下这个蒸粗麦粉吗
+Dialogue: 0,0:23:09.75,0:23:11.41,Default,NTP,0000,0000,0000,,马上下来
+Dialogue: 0,0:23:11.41,0:23:13.75,Default,NTP,0000,0000,0000,,她还以为我在为世界文化日准备吃的呢
+Dialogue: 0,0:23:24.20,0:23:26.83,Default,NTP,0000,0000,0000,,我感觉这不一定行得通
+Dialogue: 0,0:23:28.62,0:23:31.04,Default,NTP,0000,0000,0000,,别担心 你看起来很不错
+Dialogue: 0,0:23:32.04,0:23:33.45,Default,NTP,0000,0000,0000,,我之前给你妈打过电话了
+Dialogue: 0,0:23:34.45,0:23:35.79,Default,NTP,0000,0000,0000,,她上班的时候
+Dialogue: 0,0:23:36.16,0:23:39.37,Default,NTP,0000,0000,0000,,什么 爸爸 我说过让我来处理这件事
+Dialogue: 0,0:23:39.37,0:23:41.62,Default,NTP,0000,0000,0000,,- 我正要去和她说呢 - 抱歉
+Dialogue: 0,0:23:42.45,0:23:43.87,Default,NTP,0000,0000,0000,,她把我电话挂了
+Dialogue: 0,0:23:44.54,0:23:47.83,Default,NTP,0000,0000,0000,,- 我也不知道为什么我··· - 麦蒂 太香了
+Dialogue: 0,0:23:48.29,0:23:51.04,Default,NTP,0000,0000,0000,,我们的女儿可真是大厨咯
+Dialogue: 0,0:23:51.04,0:23:52.16,Default,NTP,0000,0000,0000,,多谢夸奖 爸爸
+Dialogue: 0,0:23:53.08,0:23:54.04,Default,NTP,0000,0000,0000,,请坐吧
+Dialogue: 0,0:23:55.79,0:23:57.33,Default,NTP,0000,0000,0000,,麦蒂 我们能谈谈么
+Dialogue: 0,0:23:57.33,0:23:59.33,Default,NTP,0000,0000,0000,,当然可以 先喝点儿汤吧
+Dialogue: 0,0:24:00.70,0:24:02.45,Default,NTP,0000,0000,0000,,对不起 那时候吓到你了
+Dialogue: 0,0:24:02.45,0:24:04.91,Default,NTP,0000,0000,0000,,我只是想和你谈谈
+Dialogue: 0,0:24:16.87,0:24:17.00,Default,NTP,0000,0000,0000,,妈妈
+Dialogue: 0,0:24:17.50,0:24:19.45,Default,NTP,0000,0000,0000,,这绝对不行 你应该知道的
+Dialogue: 0,0:24:19.45,0:24:20.95,Default,NTP,0000,0000,0000,,你为什么要这样
+Dialogue: 0,0:24:20.95,0:24:22.33,Default,NTP,0000,0000,0000,,你知道我的立场
+Dialogue: 0,0:24:22.33,0:24:24.54,Default,NTP,0000,0000,0000,,但你却选择无视我的感受
+Dialogue: 0,0:24:24.54,0:24:26.83,Default,NTP,0000,0000,0000,,那他的感受呢
+Dialogue: 0,0:24:28.04,0:24:29.79,Default,NTP,0000,0000,0000,,你伤透了他的心
+Dialogue: 0,0:24:29.79,0:24:32.37,Default,NTP,0000,0000,0000,,他不是人了 哪来的感受 麦蒂
+Dialogue: 0,0:24:32.37,0:24:35.41,Default,NTP,0000,0000,0000,,这就是爸爸 是大卫·金
+Dialogue: 0,0:24:35.41,0:24:38.83,Default,NTP,0000,0000,0000,,行 这是你爸爸
+Dialogue: 0,0:24:40.91,0:24:43.16,Default,NTP,0000,0000,0000,,但它绝不是我丈夫
+Dialogue: 0,0:24:43.83,0:24:45.79,Default,NTP,0000,0000,0000,,因为你不能和他上床吗
+Dialogue: 0,0:24:46.20,0:24:47.54,Default,NTP,0000,0000,0000,,- 什么  - 随便吧
+Dialogue: 0,0:24:47.54,0:24:48.83,Default,NTP,0000,0000,0000,,你尽管走吧 好吗
+Dialogue: 0,0:24:48.83,0:24:50.37,Default,NTP,0000,0000,0000,,你去找加布吧
+Dialogue: 0,0:24:50.37,0:24:52.54,Default,NTP,0000,0000,0000,,你精心打扮 不就是为了去见他吗
+Dialogue: 0,0:24:52.54,0:24:54.79,Default,NTP,0000,0000,0000,,不 不行
+Dialogue: 0,0:24:55.66,0:24:57.70,Default,NTP,0000,0000,0000,,我们现在就得谈谈
+Dialogue: 0,0:24:58.41,0:24:58.50,Default,NTP,0000,0000,0000,,好啊
+Dialogue: 0,0:25:00.58,0:25:03.16,Default,NTP,0000,0000,0000,,我是说 你和我
+Dialogue: 0,0:25:03.29,0:25:05.12,Default,NTP,0000,0000,0000,,有什么是能和我说 不能和他说的
+Dialogue: 0,0:25:06.33,0:25:07.04,Default,NTP,0000,0000,0000,,埃伦...
+Dialogue: 0,0:25:08.20,0:25:09.29,Default,NTP,0000,0000,0000,,求你了
+Dialogue: 0,0:25:10.45,0:25:13.04,Default,NTP,0000,0000,0000,,你什么时候准备好了 再来找我吧
+Dialogue: 0,0:25:18.95,0:25:20.16,Default,NTP,0000,0000,0000,,抱歉 爸爸
+Dialogue: 0,0:25:23.87,0:25:24.58,Default,NTP,0000,0000,0000,,爸爸
+Dialogue: 0,0:25:28.04,0:25:29.33,Default,NTP,0000,0000,0000,,爸爸 你还在吗
+Dialogue: 0,0:25:32.83,0:25:33.83,Default,NTP,0000,0000,0000,,加布是谁
+Dialogue: 0,0:25:41.16,0:25:42.00,Default,NTP,0000,0000,0000,,啊
+Dialogue: 0,0:25:42.00,0:25:42.75,Default,NTP,0000,0000,0000,,怎么了
+Dialogue: 0,0:25:45.00,0:25:47.45,Default,NTP,0000,0000,0000,,不好意思 我们能看点儿别的吗
+Dialogue: 0,0:25:47.45,0:25:50.12,Default,NTP,0000,0000,0000,,行 那看看这个
+Dialogue: 0,0:25:52.33,0:25:53.54,Default,NTP,0000,0000,0000,,这次没有僵尸了
+Dialogue: 0,0:25:53.95,0:25:55.29,Default,NTP,0000,0000,0000,,我宁愿看看你
+Dialogue: 0,0:26:00.79,0:26:05.04,Default,NTP,0000,0000,0000,,我是不是得打趣一下这性感的电流
+Dialogue: 0,0:26:05.45,0:26:07.95,Default,NTP,0000,0000,0000,,但我要是真说了 估计你再也不想和我亲密了
+Dialogue: 0,0:26:07.95,0:26:09.83,Default,NTP,0000,0000,0000,,就 继续这种感觉吧
+Dialogue: 0,0:26:13.87,0:26:15.95,Default,NTP,0000,0000,0000,,抱歉
+Dialogue: 0,0:26:16.54,0:26:17.50,Default,NTP,0000,0000,0000,,真是奇了怪了
+Dialogue: 0,0:26:27.41,0:26:29.37,Default,NTP,0000,0000,0000,,住手 大卫 我认真的
+Dialogue: 0,0:26:29.37,0:26:31.95,Default,NTP,0000,0000,0000,,- 大卫 - 啊
+Dialogue: 0,0:26:31.95,0:26:33.37,Default,NTP,0000,0000,0000,,你是说你前夫么
+Dialogue: 0,0:26:33.70,0:26:35.50,Default,NTP,0000,0000,0000,,对
+Dialogue: 0,0:26:35.50,0:26:36.45,Default,NTP,0000,0000,0000,,也不对
+Dialogue: 0,0:26:37.29,0:26:39.33,Default,NTP,0000,0000,0000,,我以为我们已经说开了
+Dialogue: 0,0:26:40.29,0:26:41.04,Default,NTP,0000,0000,0000,,埃伦
+Dialogue: 0,0:26:41.87,0:26:43.00,Default,NTP,0000,0000,0000,,发生什么了
+Dialogue: 0,0:26:47.70,0:26:51.20,Default,NTP,0000,0000,0000,,好吧 我开始有点儿不爽了
+Dialogue: 0,0:26:51.20,0:26:52.66,Default,NTP,0000,0000,0000,,对不起
+Dialogue: 0,0:26:53.45,0:26:55.29,Default,NTP,0000,0000,0000,,你必须告诉我到底怎么了
+Dialogue: 0,0:26:55.29,0:26:56.79,Default,NTP,0000,0000,0000,,否则我继续不下去
+Dialogue: 0,0:26:57.37,0:26:58.29,Default,NTP,0000,0000,0000,,加布
+Dialogue: 0,0:26:58.70,0:26:59.54,Default,NTP,0000,0000,0000,,我...
+Dialogue: 0,0:27:01.00,0:27:02.25,Default,NTP,0000,0000,0000,,不能说
+Dialogue: 0,0:27:02.25,0:27:03.83,Default,NTP,0000,0000,0000,,怕我理解不了吗
+Dialogue: 0,0:27:03.83,0:27:05.25,Default,NTP,0000,0000,0000,,还是怕我会不相信
+Dialogue: 0,0:27:05.25,0:27:06.12,Default,NTP,0000,0000,0000,,你是这个意思吗
+Dialogue: 0,0:27:06.12,0:27:07.79,Default,NTP,0000,0000,0000,,怕我不相信你
+Dialogue: 0,0:27:08.75,0:27:10.00,Default,NTP,0000,0000,0000,,试试吧 好吗
+Dialogue: 0,0:27:18.58,0:27:20.20,Default,NTP,0000,0000,0000,,别这样
+Dialogue: 0,0:27:20.20,0:27:22.66,Default,NTP,0000,0000,0000,,什么 你说完
+Dialogue: 0,0:27:22.66,0:27:23.95,Default,NTP,0000,0000,0000,,"别"哪样
+Dialogue: 0,0:27:24.79,0:27:27.83,Default,NTP,0000,0000,0000,,如果你不和我说 我怎么知道你想要什么
+Dialogue: 0,0:27:27.83,0:27:29.58,Default,NTP,0000,0000,0000,,又不想要什么
+Dialogue: 0,0:27:51.08,0:27:52.25,Default,NTP,0000,0000,0000,,这个怎么用
+Dialogue: 0,0:27:52.83,0:27:54.45,Default,NTP,0000,0000,0000,,你在干什么
+Dialogue: 0,0:27:54.45,0:27:56.12,Default,NTP,0000,0000,0000,,好了 这 他在里面吗
+Dialogue: 0,0:27:56.12,0:27:58.91,Default,NTP,0000,0000,0000,,我要和他说话 快点
+Dialogue: 0,0:28:07.25,0:28:08.62,Default,NTP,0000,0000,0000,,这是什么
+Dialogue: 0,0:28:09.62,0:28:10.91,Default,NTP,0000,0000,0000,,我这是...
+Dialogue: 0,0:28:10.91,0:28:13.04,Default,NTP,0000,0000,0000,,- 没穿衣服吗 - 这就是你
+Dialogue: 0,0:28:13.04,0:28:16.04,Default,NTP,0000,0000,0000,,我参考你的照片 以蛮族女祭司的身体造型为基础
+Dialogue: 0,0:28:16.04,0:28:18.70,Default,NTP,0000,0000,0000,,给你定做了个身体
+Dialogue: 0,0:28:18.70,0:28:20.16,Default,NTP,0000,0000,0000,,你认真的吗
+Dialogue: 0,0:28:20.95,0:28:21.83,Default,NTP,0000,0000,0000,,埃伦
+Dialogue: 0,0:28:26.45,0:28:27.58,Default,NTP,0000,0000,0000,,大卫
+Dialogue: 0,0:28:28.91,0:28:30.04,Default,NTP,0000,0000,0000,,两年前我就告诉过你
+Dialogue: 0,0:28:30.66,0:28:33.08,Default,NTP,0000,0000,0000,,就算你真成功了
+Dialogue: 0,0:28:33.08,0:28:34.70,Default,NTP,0000,0000,0000,,这也不是真正的你
+Dialogue: 0,0:28:35.29,0:28:36.33,Default,NTP,0000,0000,0000,,对我来说不是
+Dialogue: 0,0:28:37.00,0:28:39.04,Default,NTP,0000,0000,0000,,- 我明白 - 不 你不明白
+Dialogue: 0,0:28:39.04,0:28:40.62,Default,NTP,0000,0000,0000,,因为这根本不是你
+Dialogue: 0,0:28:41.75,0:28:43.16,Default,NTP,0000,0000,0000,,但又 确实是你
+Dialogue: 0,0:28:44.45,0:28:45.83,Default,NTP,0000,0000,0000,,你能明白吗
+Dialogue: 0,0:28:47.79,0:28:49.41,Default,NTP,0000,0000,0000,,我搞不清楚你到底是什么
+Dialogue: 0,0:28:50.87,0:28:52.58,Default,NTP,0000,0000,0000,,我不能...
+Dialogue: 0,0:28:53.83,0:28:55.66,Default,NTP,0000,0000,0000,,不能像这样陪着你
+Dialogue: 0,0:28:56.95,0:28:58.66,Default,NTP,0000,0000,0000,,听着 我明白的
+Dialogue: 0,0:28:59.08,0:29:01.16,Default,NTP,0000,0000,0000,,我们曾说"至死不渝"
+Dialogue: 0,0:29:02.08,0:29:03.20,Default,NTP,0000,0000,0000,,然后我死了
+Dialogue: 0,0:29:04.91,0:29:05.75,Default,NTP,0000,0000,0000,,但现在...
+Dialogue: 0,0:29:06.62,0:29:07.70,Default,NTP,0000,0000,0000,,我回来了
+Dialogue: 0,0:29:07.70,0:29:09.50,Default,NTP,0000,0000,0000,,你已经死了
+Dialogue: 0,0:29:10.87,0:29:14.29,Default,NTP,0000,0000,0000,,在这糟糕透的两年里 我一直在为你哀悼
+Dialogue: 0,0:29:15.20,0:29:18.50,Default,NTP,0000,0000,0000,,我每天都哭着醒来
+Dialogue: 0,0:29:20.41,0:29:23.25,Default,NTP,0000,0000,0000,,然后好不容易 我决定向前看
+Dialogue: 0,0:29:23.25,0:29:26.95,Default,NTP,0000,0000,0000,,我找了处新房子 因为老房子里满是你的气味
+Dialogue: 0,0:29:26.95,0:29:30.16,Default,NTP,0000,0000,0000,,我新处的对象也很好 他让我清醒过来
+Dialogue: 0,0:29:30.16,0:29:32.66,Default,NTP,0000,0000,0000,,让我意识到死去的是你 而不是我
+Dialogue: 0,0:29:34.29,0:29:36.33,Default,NTP,0000,0000,0000,,我必须向前看 大卫
+Dialogue: 0,0:29:38.00,0:29:40.54,Default,NTP,0000,0000,0000,,你得放我走 让我继续向前生活
+Dialogue: 0,0:29:44.16,0:29:45.04,Default,NTP,0000,0000,0000,,我知道
+Dialogue: 0,0:29:46.12,0:29:49.70,Default,NTP,0000,0000,0000,,我很抱歉 我会放手
+Dialogue: 0,0:29:49.70,0:29:50.50,Default,NTP,0000,0000,0000,,爸爸
+Dialogue: 0,0:29:52.00,0:29:56.04,Default,NTP,0000,0000,0000,,但我想说的 也是如此
+Dialogue: 0,0:29:56.87,0:29:59.95,Default,NTP,0000,0000,0000,,你不知道我是谁 其实我自己也搞不明白
+Dialogue: 0,0:29:59.95,0:30:03.20,Default,NTP,0000,0000,0000,,我也解释不清这种感觉 我是我自己吗
+Dialogue: 0,0:30:03.20,0:30:05.25,Default,NTP,0000,0000,0000,,还是说 我已不是我
+Dialogue: 0,0:30:06.37,0:30:08.16,Default,NTP,0000,0000,0000,,我知道我不再是从前的我
+Dialogue: 0,0:30:09.45,0:30:13.00,Default,NTP,0000,0000,0000,,但当你说 我不是···人的时候
+Dialogue: 0,0:30:13.66,0:30:15.75,Default,NTP,0000,0000,0000,,天呐 对不起
+Dialogue: 0,0:30:15.75,0:30:16.83,Default,NTP,0000,0000,0000,,听我说
+Dialogue: 0,0:30:17.33,0:30:20.54,Default,NTP,0000,0000,0000,,我不知道我是谁 但我知道我爱着谁
+Dialogue: 0,0:30:21.00,0:30:22.29,Default,NTP,0000,0000,0000,,我爱麦蒂...
+Dialogue: 0,0:30:22.75,0:30:23.95,Default,NTP,0000,0000,0000,,我爱你
+Dialogue: 0,0:30:24.58,0:30:26.45,Default,NTP,0000,0000,0000,,而这些爱就是我的存在
+Dialogue: 0,0:30:28.33,0:30:32.20,Default,NTP,0000,0000,0000,,没有这些 我寸步难行
+Dialogue: 0,0:30:33.04,0:30:34.87,Default,NTP,0000,0000,0000,,我也需要继续向前啊
+Dialogue: 0,0:30:38.25,0:30:40.08,Default,NTP,0000,0000,0000,,我还是不能继续做你的妻子
+Dialogue: 0,0:30:41.75,0:30:43.16,Default,NTP,0000,0000,0000,,但我们可以保持联系
+Dialogue: 0,0:30:44.16,0:30:45.54,Default,NTP,0000,0000,0000,,也许···
+Dialogue: 0,0:30:46.91,0:30:49.04,Default,NTP,0000,0000,0000,,这样我们就都能向前了
+Dialogue: 0,0:30:57.16,0:30:59.33,Default,NTP,0000,0000,0000,,亳无疑问 这肯定是人类历史上
+Dialogue: 0,0:30:59.33,0:31:00.62,Default,NTP,0000,0000,0000,,最为古怪的分手场景了
+Dialogue: 0,0:31:00.62,0:31:02.83,Default,NTP,0000,0000,0000,,确实 开拓人类历史新领域了
+Dialogue: 0,0:31:03.37,0:31:06.00,Default,NTP,0000,0000,0000,,阿姆斯特朗 这次你输了
+Dialogue: 0,0:31:21.45,0:31:22.37,Default,NTP,0000,0000,0000,,需要四片吗
+Dialogue: 0,0:31:23.62,0:31:25.95,Default,NTP,0000,0000,0000,,前三片 缓解疼痛
+Dialogue: 0,0:31:29.41,0:31:33.29,Default,NTP,0000,0000,0000,,最后一片是想不听见你的声音
+Dialogue: 0,0:31:41.12,0:31:42.37,Default,NTP,0000,0000,0000,,痛苦
+Dialogue: 0,0:31:43.00,0:31:45.04,Default,NTP,0000,0000,0000,,你还想跟我谈痛苦
+Dialogue: 0,0:31:45.04,0:31:48.08,Default,NTP,0000,0000,0000,,我真是受够你了
+Dialogue: 0,0:31:49.16,0:31:50.16,Default,NTP,0000,0000,0000,,受够了
+Dialogue: 0,0:31:50.16,0:31:52.58,Default,NTP,0000,0000,0000,,把你的手从我脸上拿开
+Dialogue: 0,0:31:52.58,0:31:54.66,Default,NTP,0000,0000,0000,,卡里 卡里
+Dialogue: 0,0:31:57.62,0:31:58.58,Default,NTP,0000,0000,0000,,把它放下
+Dialogue: 0,0:31:59.08,0:32:00.20,Default,NTP,0000,0000,0000,,放下
+Dialogue: 0,0:32:01.00,0:32:02.79,Default,NTP,0000,0000,0000,,这是你自找的
+Dialogue: 0,0:32:06.75,0:32:08.04,Default,NTP,0000,0000,0000,,你认真的吗
+Dialogue: 0,0:32:08.70,0:32:11.20,Default,NTP,0000,0000,0000,,你知道这对他来说意味着什么吗
+Dialogue: 0,0:32:11.20,0:32:12.50,Default,NTP,0000,0000,0000,,对未来意味着什么
+Dialogue: 0,0:32:12.50,0:32:13.50,Default,NTP,0000,0000,0000,,你呢
+Dialogue: 0,0:32:30.41,0:32:32.16,Default,NTP,0000,0000,0000,,凯斯宾 不要伤害他
+Dialogue: 0,0:32:32.16,0:32:34.37,Default,NTP,0000,0000,0000,,凯斯宾 凯斯宾 求求你了
+Dialogue: 0,0:32:34.87,0:32:35.70,Default,NTP,0000,0000,0000,,不要
+Dialogue: 0,0:32:40.87,0:32:43.75,Default,NTP,0000,0000,0000,,你··· 你们两个
+Dialogue: 0,0:32:45.95,0:32:47.33,Default,NTP,0000,0000,0000,,真是蛇鼠一窝
+Dialogue: 0,0:32:48.79,0:32:50.41,Default,NTP,0000,0000,0000,,不 卡里
+Dialogue: 0,0:32:51.08,0:32:52.12,Default,NTP,0000,0000,0000,,回来
+Dialogue: 0,0:32:55.00,0:32:57.58,Default,NTP,0000,0000,0000,,你刚刚犯下了人生中最大的错误 儿子
+Dialogue: 0,0:32:58.87,0:32:59.91,Default,NTP,0000,0000,0000,,这里的一切...
+Dialogue: 0,0:33:00.62,0:33:01.45,Default,NTP,0000,0000,0000,,都属于我
+Dialogue: 0,0:33:03.37,0:33:05.00,Default,NTP,0000,0000,0000,,你们两个马上就会流落街头
+Dialogue: 0,0:33:05.00,0:33:08.20,Default,NTP,0000,0000,0000,,因为不用我再给钱 你们就会饿死
+Dialogue: 0,0:33:21.83,0:33:23.91,Default,NTP,0000,0000,0000,,不 不
+Dialogue: 0,0:33:24.29,0:33:25.04,Default,NTP,0000,0000,0000,,不要啊
+Dialogue: 0,0:33:26.50,0:33:28.54,Default,NTP,0000,0000,0000,,不 我们要怎么办
+Dialogue: 0,0:33:29.79,0:33:32.58,Default,NTP,0000,0000,0000,,我们要怎么办 我们...
+Dialogue: 0,0:33:32.95,0:33:34.70,Default,NTP,0000,0000,0000,,先带你去医院
+Dialogue: 0,0:33:35.54,0:33:37.37,Default,NTP,0000,0000,0000,,之后我会照顾我们俩的
+Dialogue: 0,0:33:42.75,0:33:47.04,Default,NTP,0000,0000,0000,,好吧 珍珠果酱那事很过分
+Dialogue: 0,0:33:48.25,0:33:50.50,Default,NTP,0000,0000,0000,,我觉得加布会尿裤子
+Dialogue: 0,0:33:51.41,0:33:52.04,Default,NTP,0000,0000,0000,,但是呢
+Dialogue: 0,0:33:52.95,0:33:55.04,Default,NTP,0000,0000,0000,,但是我在回家路上笑起来了
+Dialogue: 0,0:33:56.41,0:33:57.58,Default,NTP,0000,0000,0000,,哇哦
+Dialogue: 0,0:33:58.41,0:33:59.08,Default,NTP,0000,0000,0000,,怎么了
+Dialogue: 0,0:33:59.79,0:34:03.37,Default,NTP,0000,0000,0000,,我刚想起来 这是我今晚第二次分手了
+Dialogue: 0,0:34:05.58,0:34:07.29,Default,NTP,0000,0000,0000,,你的感情生活真悲剧
+Dialogue: 0,0:34:07.29,0:34:08.37,Default,NTP,0000,0000,0000,,嘿
+Dialogue: 0,0:34:10.87,0:34:13.79,Default,NTP,0000,0000,0000,,没错 是这样 不过...
+Dialogue: 0,0:34:15.87,0:34:21.87,Default,NTP,0000,0000,0000,,我 耶 耶
+Dialogue: 0,0:34:21.87,0:34:23.66,Default,NTP,0000,0000,0000,,我仍旧充满活力
+Dialogue: 0,0:34:23.66,0:34:26.00,Default,NTP,0000,0000,0000,,嘿 嘿 我
+Dialogue: 0,0:34:43.75,0:34:44.95,Default,NTP,0000,0000,0000,,嘿
+Dialogue: 0,0:34:45.87,0:34:48.87,Default,NTP,0000,0000,0000,,我有没有和你讲过艾迪·维达约我出去那次
+Dialogue: 0,0:34:48.87,0:34:51.16,Default,NTP,0000,0000,0000,,他找你问路
+Dialogue: 0,0:34:51.54,0:34:52.87,Default,NTP,0000,0000,0000,,你当时不认识那个乐队
+Dialogue: 0,0:34:52.87,0:34:54.37,Default,NTP,0000,0000,0000,,没人想听你讲
+Dialogue: 0,0:34:54.87,0:34:56.04,Default,NTP,0000,0000,0000,,他在说什么
+Dialogue: 0,0:34:56.41,0:34:58.00,Default,NTP,0000,0000,0000,,你爸正在说
+Dialogue: 0,0:34:58.00,0:35:00.83,Default,NTP,0000,0000,0000,,他很感激我在他的鼎盛时期
+Dialogue: 0,0:35:00.83,0:35:02.50,Default,NTP,0000,0000,0000,,拒绝了史上最性感的垃圾摇滚明星
+Dialogue: 0,0:35:02.50,0:35:04.62,Default,NTP,0000,0000,0000,,记住了 这样我就能和他约会
+Dialogue: 0,0:35:04.62,0:35:06.20,Default,NTP,0000,0000,0000,,最后生下了你
+Dialogue: 0,0:35:08.70,0:35:10.29,Default,NTP,0000,0000,0000,,他可没这么说
+Dialogue: 0,0:35:10.29,0:35:12.04,Default,NTP,0000,0000,0000,,这才是我的好闺女
+Dialogue: 0,0:35:12.04,0:35:14.08,Default,NTP,0000,0000,0000,,谢谢你让我的生活步入正轨
+Dialogue: 0,0:35:15.04,0:35:16.04,Default,NTP,0000,0000,0000,,当时的我非常需要
+Dialogue: 0,0:35:20.50,0:35:23.25,Default,NTP,0000,0000,0000,,祝贺你 卡里 现在感觉如何
+Dialogue: 0,0:35:23.25,0:35:26.04,Default,NTP,0000,0000,0000,,你知道吗 他把我揍了一顿
+Dialogue: 0,0:35:26.04,0:35:28.08,Default,NTP,0000,0000,0000,,老实说 当时有一秒真的很恐怖
+Dialogue: 0,0:35:28.08,0:35:30.87,Default,NTP,0000,0000,0000,,你没事吧 你需要治疗吗
+Dialogue: 0,0:35:30.87,0:35:32.70,Default,NTP,0000,0000,0000,,不用 我...
+Dialogue: 0,0:35:34.04,0:35:36.04,Default,NTP,0000,0000,0000,,我得准备好向上汇报
+Dialogue: 0,0:35:36.95,0:35:38.70,Default,NTP,0000,0000,0000,,- 出什么事了 - 没事
+Dialogue: 0,0:35:40.25,0:35:41.83,Default,NTP,0000,0000,0000,,转折点到了
+Dialogue: 0,0:35:43.12,0:35:44.16,Default,NTP,0000,0000,0000,,计划如期进行
+Dialogue: 0,0:35:44.16,0:35:45.79,Default,NTP,0000,0000,0000,,卡里 直说吧
+Dialogue: 0,0:35:49.12,0:35:49.87,Default,NTP,0000,0000,0000,,我...
+Dialogue: 0,0:35:52.45,0:35:53.91,Default,NTP,0000,0000,0000,,我会想他的 就这样
+Dialogue: 0,0:35:54.45,0:35:56.33,Default,NTP,0000,0000,0000,,你很快就会再见到他的
+Dialogue: 0,0:35:56.33,0:35:57.91,Default,NTP,0000,0000,0000,,- 他是科技和商业领域的领导人之一 - 我知道
+Dialogue: 0,0:35:57.91,0:35:59.25,Default,NTP,0000,0000,0000,,我明天跟凡-卢万确认一下
+Dialogue: 0,0:35:59.25,0:36:02.79,Default,NTP,0000,0000,0000,,但我想现在就告诉你 你做得很棒
+Dialogue: 0,0:36:02.79,0:36:05.20,Default,NTP,0000,0000,0000,,欢迎来到全球科技论坛
+Dialogue: 0,0:36:05.20,0:36:08.54,Default,NTP,0000,0000,0000,,欢迎朱利叶斯·蒲柏 字符律动的首席执行官
+Dialogue: 0,0:36:08.54,0:36:09.33,Default,NTP,0000,0000,0000,,我得挂了
+Dialogue: 0,0:36:19.45,0:36:21.95,Default,NTP,0000,0000,0000,,在斯蒂芬-霍尔斯特隆逝世后
+Dialogue: 0,0:36:21.95,0:36:24.79,Default,NTP,0000,0000,0000,,我们的公司马上就要迎来第20周年了
+Dialogue: 0,0:36:24.79,0:36:26.83,Default,NTP,0000,0000,0000,,- 这很疯狂 - 是的
+Dialogue: 0,0:36:27.16,0:36:29.37,Default,NTP,0000,0000,0000,,至少在最近十年内 想必您已经
+Dialogue: 0,0:36:29.37,0:36:31.95,Default,NTP,0000,0000,0000,,- 厌倦这个问题了 - "斯蒂芬会怎么说"吗
+Dialogue: 0,0:36:31.95,0:36:33.75,Default,NTP,0000,0000,0000,,不 我并没厌倦这个问题
+Dialogue: 0,0:36:33.75,0:36:35.83,Default,NTP,0000,0000,0000,,- 我们每天都会自问这个问题 - 现在还是吗
+Dialogue: 0,0:36:35.83,0:36:38.50,Default,NTP,0000,0000,0000,,现在还是 并且永远如此
+Dialogue: 0,0:36:38.50,0:36:40.83,Default,NTP,0000,0000,0000,,好 那么您觉得对于我们的工业
+Dialogue: 0,0:36:40.83,0:36:44.00,Default,NTP,0000,0000,0000,,如今已经陷入人工智能军火竞赛这件事
+Dialogue: 0,0:36:44.00,0:36:48.29,Default,NTP,0000,0000,0000,,斯蒂芬会怎么说呢
+Dialogue: 0,0:36:48.29,0:36:52.20,Default,NTP,0000,0000,0000,,我认为答案会很短 只有一个词
+Dialogue: 0,0:36:52.87,0:36:55.25,Default,NTP,0000,0000,0000,,一个我不能在这里说的词
+Dialogue: 0,0:37:00.16,0:37:01.16,Default,NTP,0000,0000,0000,,"上载"
+Dialogue: 0,0:37:01.91,0:37:03.95,Default,NTP,0000,0000,0000,,这便是霍尔斯特隆真正
+Dialogue: 0,0:37:03.95,0:37:06.20,Default,NTP,0000,0000,0000,,想大声说出来的肮脏之词
+Dialogue: 0,0:37:07.08,0:37:09.12,Default,NTP,0000,0000,0000,,明明人脑已经有了最好的操作系统
+Dialogue: 0,0:37:09.12,0:37:12.54,Default,NTP,0000,0000,0000,,为什么还要发展人工智能呢
+Dialogue: 0,0:37:12.54,0:37:13.58,Default,NTP,0000,0000,0000,,小心点儿
+Dialogue: 0,0:37:13.58,0:37:16.87,Default,NTP,0000,0000,0000,,虽然你看不见 但是隔墙有耳
+Dialogue: 0,0:37:16.87,0:37:18.08,Default,NTP,0000,0000,0000,,总会有人审判道德
+Dialogue: 0,0:37:18.08,0:37:20.20,Default,NTP,0000,0000,0000,,但这并不能阻我们 不是吗
+Dialogue: 0,0:37:20.20,0:37:22.41,Default,NTP,0000,0000,0000,,- 你说的是"我们"吗 - 可以有
+Dialogue: 0,0:37:22.41,0:37:24.50,Default,NTP,0000,0000,0000,,联合专利 一次性报价
+Dialogue: 0,0:37:24.50,0:37:29.25,Default,NTP,0000,0000,0000,,我们的下一位嘉宾是度最大电信集团的负责人
+Dialogue: 0,0:37:29.25,0:37:30.45,Default,NTP,0000,0000,0000,,考虑一下吧
+Dialogue: 0,0:37:30.75,0:37:33.37,Default,NTP,0000,0000,0000,,- 你有10秒钟的时间思考 - 你做了什么
+Dialogue: 0,0:37:33.37,0:37:35.54,Default,NTP,0000,0000,0000,,他将十亿多人联系在一起
+Dialogue: 0,0:37:35.54,0:37:37.04,Default,NTP,0000,0000,0000,,还剩5秒
+Dialogue: 0,0:37:37.04,0:37:39.25,Default,NTP,0000,0000,0000,,这不是什么仿制的手机或芯片 阿吉特
+Dialogue: 0,0:37:39.25,0:37:40.75,Default,NTP,0000,0000,0000,,这是一项很危险的技术
+Dialogue: 0,0:37:40.75,0:37:41.87,Default,NTP,0000,0000,0000,,你是不会想参与进来的
+Dialogue: 0,0:37:42.20,0:37:43.50,Default,NTP,0000,0000,0000,,仿制吗
+Dialogue: 0,0:37:43.50,0:37:45.50,Default,NTP,0000,0000,0000,,你还是假冒的斯蒂芬．霍尔斯特隆呢
+Dialogue: 0,0:37:45.50,0:37:46.62,Default,NTP,0000,0000,0000,,甚至连那都算不上
+Dialogue: 0,0:37:47.25,0:37:51.83,Default,NTP,0000,0000,0000,,阿吉特·普拉萨德 联盟电信的首席执行官
+Dialogue: 0,0:37:52.54,0:37:54.29,Default,NTP,0000,0000,0000,,还知道你自己不是什么吗
+Dialogue: 0,0:37:54.66,0:37:58.04,Default,NTP,0000,0000,0000,,你不再是游戏里唯一的玩家了
+Dialogue: 0,0:38:04.20,0:38:05.50,Default,NTP,0000,0000,0000,,我们要怎么逃出去
+Dialogue: 0,0:38:18.75,0:38:19.91,Default,NTP,0000,0000,0000,,我的天
+Dialogue: 0,0:38:29.45,0:38:32.20,Default,NTP,0000,0000,0000,,我...我做不到
+Dialogue: 0,0:38:34.50,0:38:36.66,Default,NTP,0000,0000,0000,,我不知道要怎么做
+Dialogue: 0,0:38:40.12,0:38:41.41,Default,NTP,0000,0000,0000,,又增强了吗
+Dialogue: 0,0:38:42.25,0:38:44.45,Default,NTP,0000,0000,0000,,得把你清除了 钱达
+Dialogue: 0,0:38:45.79,0:38:46.62,Default,NTP,0000,0000,0000,,对不起了
+Dialogue: 0,0:38:51.70,0:38:52.54,Default,NTP,0000,0000,0000,,嗨
+Dialogue: 0,0:38:56.70,0:38:58.16,Default,NTP,0000,0000,0000,,你没说错什么
+Dialogue: 0,0:38:59.12,0:39:00.41,Default,NTP,0000,0000,0000,,你是想和我做朋友
+Dialogue: 0,0:39:00.41,0:39:02.83,Default,NTP,0000,0000,0000,,我那时候很尴尬
+Dialogue: 0,0:39:02.83,0:39:04.95,Default,NTP,0000,0000,0000,,所以我封闭了自己的内心
+Dialogue: 0,0:39:06.50,0:39:08.04,Default,NTP,0000,0000,0000,,我真的很抱歉 汉娜
+Dialogue: 0,0:39:09.08,0:39:10.16,Default,NTP,0000,0000,0000,,我喜欢你
+Dialogue: 0,0:39:12.45,0:39:13.62,Default,NTP,0000,0000,0000,,我可以约你出去吗
+Dialogue: 0,0:39:14.37,0:39:15.50,Default,NTP,0000,0000,0000,,真正地约会一次
+Dialogue: 0,0:39:16.29,0:39:19.95,Default,NTP,0000,0000,0000,,就像旧时候的人们那样
+Dialogue: 0,0:39:19.95,0:39:21.33,Default,NTP,0000,0000,0000,,就那种约会
+Dialogue: 0,0:39:24.04,0:39:28.00,Default,NTP,0000,0000,0000,,你要知道 我不只是想当"朋友"
+Dialogue: 0,0:39:33.16,0:39:33.87,Default,NTP,0000,0000,0000,,那就好
+Dialogue: 0,0:40:47.16,0:40:50.00,Default,NTP,0000,0000,0000,,阿妈 你的脚怎么样了
+Dialogue: 0,0:40:50.00,0:40:52.50,Default,NTP,0000,0000,0000,,我好着呢 贝塔 不用操心我
+Dialogue: 0,0:40:53.00,0:40:55.20,Default,NTP,0000,0000,0000,,不过你要是真的担心我
+Dialogue: 0,0:40:55.20,0:40:57.87,Default,NTP,0000,0000,0000,,操心操怎么让我当上奶奶吧
+Dialogue: 0,0:40:57.87,0:40:59.45,Default,NTP,0000,0000,0000,,我所有的朋友都当奶奶了
