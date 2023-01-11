@@ -1,0 +1,2599 @@
+1
+00:00:02,740 --> 00:00:03,934  X1:081 X2:165 Y1:504 Y2:523
+CREAK
+
+2
+00:00:04,020 --> 00:00:05,009  X1:335 X2:384 Y1:504 Y2:523
+Run.
+
+3
+00:00:07,180 --> 00:00:10,968  X1:098 X2:614 Y1:444 Y2:527
+- I'm The Doctor, by the way. What's your name?
+- Rose.
+- Nice to meet you.
+
+4
+00:00:11,060 --> 00:00:12,288  X1:276 X2:442 Y1:504 Y2:527
+Run for your life.
+
+5
+00:00:18,340 --> 00:00:23,368  X1:103 X2:615 Y1:444 Y2:527
+It'll follow us!
+The hordes of Genghis Khan couldn't get through
+that door. Believe me, they tried.
+
+6
+00:00:23,460 --> 00:00:25,655  X1:255 X2:462 Y1:504 Y2:527
+Are you alien? Yes.
+
+7
+00:00:28,980 --> 00:00:32,734  X1:179 X2:539 Y1:474 Y2:527
+You could come with me.
+Is it always this dangerous? Yeah.
+
+8
+00:00:39,260 --> 00:00:41,171  X1:197 X2:523 Y1:504 Y2:527
+Right, Rose Tyler, you tell me -
+
+9
+00:00:41,260 --> 00:00:45,048  X1:164 X2:553 Y1:474 Y2:523
+where do you wanna go? Backwards
+or forwards in time? Your choice.
+
+10
+00:00:45,140 --> 00:00:47,335  X1:253 X2:464 Y1:504 Y2:527
+What's it gonna be?
+
+11
+00:00:47,420 --> 00:00:48,614  X1:307 X2:411 Y1:504 Y2:523
+Forwards.
+
+12
+00:00:52,460 --> 00:00:55,975  X1:194 X2:525 Y1:504 Y2:527
+How far? ...One hundred years.
+
+13
+00:00:59,980 --> 00:01:02,778  X1:195 X2:522 Y1:504 Y2:523
+TARDIS REVS AND GROANS
+
+14
+00:01:05,780 --> 00:01:09,932  X1:185 X2:532 Y1:474 Y2:527
+Step outside those doors - it's
+the 22nd century. You're kidding.
+
+15
+00:01:10,020 --> 00:01:13,330  X1:166 X2:553 Y1:474 Y2:527
+That's a bit boring, though.
+D'you wanna go further? Fine by me.
+
+16
+00:01:20,820 --> 00:01:23,288  X1:183 X2:533 Y1:504 Y2:527
+Ten thousand years in the future.
+
+17
+00:01:23,380 --> 00:01:27,532  X1:181 X2:536 Y1:474 Y2:527
+Step outside - it's the year 12005.
+The new Roman Empire.
+
+18
+00:01:27,620 --> 00:01:31,659  X1:194 X2:523 Y1:474 Y2:527
+You think you're so impressive.
+I am so impressive. You wish!
+
+19
+00:01:31,740 --> 00:01:35,528  X1:209 X2:510 Y1:474 Y2:527
+Right, then. You asked for it.
+I know exactly where to go.
+
+20
+00:01:37,780 --> 00:01:39,850  X1:316 X2:403 Y1:504 Y2:523
+Hold on!
+
+21
+00:01:40,780 --> 00:01:42,816  X1:080 X2:426 Y1:504 Y2:523
+TARDIS GROANS AND ROARS
+
+22
+00:01:51,180 --> 00:01:52,613  X1:082 X2:146 Y1:504 Y2:523
+PING!
+
+23
+00:01:54,060 --> 00:01:55,732  X1:278 X2:440 Y1:504 Y2:523
+Where are we?
+
+24
+00:01:55,820 --> 00:01:57,811  X1:273 X2:446 Y1:504 Y2:523
+FAINT CREAKS
+
+25
+00:01:59,140 --> 00:02:01,290  X1:265 X2:453 Y1:504 Y2:523
+What's out there?
+
+26
+00:02:29,780 --> 00:02:33,693  X1:182 X2:536 Y1:474 Y2:527
+You lot... you spend all your time
+thinking about dying.
+
+27
+00:02:33,780 --> 00:02:39,571  X1:197 X2:520 Y1:444 Y2:527
+Like you're gonna get killed
+by eggs or beef
+or global warming or asteroids.
+
+28
+00:02:39,660 --> 00:02:44,529  X1:177 X2:542 Y1:444 Y2:527
+But you never take time to imagine
+the impossible,
+that maybe you survive.
+
+29
+00:02:46,140 --> 00:02:50,213  X1:204 X2:513 Y1:504 Y2:527
+This is the year 5.5/Apple/26.
+
+30
+00:02:50,300 --> 00:02:52,655  X1:196 X2:523 Y1:504 Y2:527
+Five billion years in your future.
+
+31
+00:02:52,740 --> 00:02:54,890  X1:243 X2:474 Y1:504 Y2:527
+And this is the day...
+
+32
+00:02:54,980 --> 00:02:56,857  X1:302 X2:417 Y1:504 Y2:523
+Hold on...
+
+33
+00:03:03,100 --> 00:03:05,568  X1:187 X2:529 Y1:504 Y2:527
+This is the day the sun expands.
+
+34
+00:03:07,140 --> 00:03:09,654  X1:184 X2:532 Y1:504 Y2:523
+Welcome to the end of the world.
+
+35
+00:03:58,940 --> 00:04:01,374  X1:180 X2:537 Y1:504 Y2:527
+Shuttles five and six now docking.
+
+36
+00:04:01,460 --> 00:04:03,371  X1:249 X2:470 Y1:504 Y2:523
+Guests are reminded
+
+37
+00:04:03,460 --> 00:04:07,897  X1:171 X2:550 Y1:474 Y2:527
+that Platform One forbids the use of
+weapons, teleportation and religion.
+
+38
+00:04:09,660 --> 00:04:12,697  X1:175 X2:544 Y1:504 Y2:526
+Earth-death is scheduled for 15:39,
+
+39
+00:04:12,780 --> 00:04:16,295  X1:132 X2:585 Y1:384 Y2:407
+followed by drinks in the Manchester Suite.
+
+40
+00:04:16,420 --> 00:04:18,888  X1:224 X2:493 Y1:354 Y2:407
+So when it says "guests",
+does that mean people?
+
+41
+00:04:18,980 --> 00:04:22,131  X1:171 X2:547 Y1:354 Y2:407
+Depends what you mean by people.
+I mean people. What do you mean?
+
+42
+00:04:22,220 --> 00:04:26,896  X1:163 X2:555 Y1:474 Y2:527
+Aliens. What are they doing on board
+this space-ship? What's it all for?
+
+43
+00:04:26,980 --> 00:04:29,972  X1:198 X2:519 Y1:474 Y2:523
+It's not really a spaceship,
+more like an observation deck.
+
+44
+00:04:30,060 --> 00:04:34,019  X1:162 X2:556 Y1:474 Y2:527
+The great and the good are gathering
+to watch the planet burn. What for?
+
+45
+00:04:34,100 --> 00:04:35,419  X1:336 X2:382 Y1:504 Y2:523
+Fun.
+
+46
+00:04:37,940 --> 00:04:41,649  X1:169 X2:550 Y1:474 Y2:527
+Mind you, when I say "the great and
+the good" what I mean is the rich.
+
+47
+00:04:41,740 --> 00:04:46,211  X1:162 X2:557 Y1:474 Y2:527
+But, hold on, they did this once on
+Newsround Extra, the sun expanding,
+
+48
+00:04:46,300 --> 00:04:48,177  X1:173 X2:545 Y1:504 Y2:527
+it takes hundreds of years. Millions.
+
+49
+00:04:48,260 --> 00:04:52,412  X1:174 X2:543 Y1:444 Y2:527
+But the planet's now the property
+of the National Trust.
+They've been keeping it preserved.
+
+50
+00:04:52,500 --> 00:04:56,334  X1:179 X2:540 Y1:474 Y2:527
+See down there? Gravity satellites
+holding back the sun.
+
+51
+00:04:56,420 --> 00:05:00,333  X1:185 X2:533 Y1:444 Y2:527
+The planet looks
+the same as ever. I thought
+the continents shifted and things.
+
+52
+00:05:00,420 --> 00:05:07,132  X1:163 X2:554 Y1:444 Y2:527
+They did. The Trust moved 'em back.
+That's a Classic Earth. Now the
+money's run out, nature takes over.
+
+53
+00:05:07,220 --> 00:05:08,733  X1:266 X2:453 Y1:504 Y2:527
+How long's it got?
+
+54
+00:05:08,820 --> 00:05:12,017  X1:203 X2:513 Y1:474 Y2:527
+About half an hour.
+Then the planet gets roasted.
+
+55
+00:05:12,100 --> 00:05:14,170  X1:237 X2:482 Y1:504 Y2:527
+Is that why we're here?
+
+56
+00:05:14,260 --> 00:05:16,171  X1:211 X2:509 Y1:504 Y2:527
+I mean, is that what you do?
+
+57
+00:05:16,260 --> 00:05:18,376  X1:214 X2:505 Y1:474 Y2:523
+Jump in at the last
+minute and save the Earth?
+
+58
+00:05:18,460 --> 00:05:20,974  X1:216 X2:502 Y1:504 Y2:527
+I'm not saving it. Time's up.
+
+59
+00:05:21,060 --> 00:05:26,054  X1:191 X2:526 Y1:474 Y2:527
+But what about the people? It's
+empty. They've all gone. All left.
+
+60
+00:05:28,900 --> 00:05:31,289  X1:243 X2:475 Y1:474 Y2:527
+Just me, then.
+Who the hell are you?
+
+61
+00:05:31,380 --> 00:05:34,531  X1:226 X2:493 Y1:474 Y2:527
+Oh, that's nice. Thanks(!)
+But how did you get in?
+
+62
+00:05:34,620 --> 00:05:39,648  X1:158 X2:560 Y1:444 Y2:527
+This is a maximum hospitality zone,
+the guests have disembarked. They're
+on their way! Any second now...
+
+63
+00:05:39,740 --> 00:05:45,736  X1:179 X2:540 Y1:444 Y2:527
+No, that's me, I'm a guest. Look,
+I've got an invitation. Look. Y'see?
+It's fine. "The Doctor plus one".
+
+64
+00:05:45,820 --> 00:05:51,611  X1:184 X2:534 Y1:444 Y2:527
+I'm the Doctor, this is Rose Tyler,
+she's my plus one. That all right?
+Well, obviously.
+
+65
+00:05:51,700 --> 00:05:53,736  X1:249 X2:467 Y1:504 Y2:527
+Apologies, et cetera.
+
+66
+00:05:53,820 --> 00:05:57,096  X1:264 X2:455 Y1:474 Y2:523
+If you're on board,
+we'd better start.
+
+67
+00:05:57,180 --> 00:05:58,329  X1:327 X2:392 Y1:504 Y2:527
+Enjoy.
+
+68
+00:06:00,460 --> 00:06:03,896  X1:169 X2:548 Y1:474 Y2:523
+The paper's slightly psychic. It
+shows whatever I want them to see.
+
+69
+00:06:03,980 --> 00:06:08,895  X1:240 X2:478 Y1:474 Y2:523
+Saves a lot of time.
+He's blue. Yeah... OK.
+
+70
+00:06:08,980 --> 00:06:15,977  X1:178 X2:540 Y1:444 Y2:527
+We have in attendance the Doctor
+and Rose Tyler. Thank you.
+All staff to their positions!
+
+71
+00:06:16,060 --> 00:06:20,656  X1:182 X2:535 Y1:474 Y2:527
+Hurry now! Thank you! Quick as
+we can, come along, come along!
+
+72
+00:06:20,740 --> 00:06:27,134  X1:178 X2:541 Y1:444 Y2:527
+And now, might I introduce
+the next honoured guest?
+Representing the Forest of Cheam
+
+73
+00:06:27,220 --> 00:06:28,938  X1:280 X2:436 Y1:504 Y2:526
+we have trees,
+
+74
+00:06:29,020 --> 00:06:31,693  X1:204 X2:514 Y1:504 Y2:527
+namely Jabe, Lute and Coffa.
+
+75
+00:06:31,780 --> 00:06:38,333  X1:161 X2:558 Y1:444 Y2:527
+There will be an exchange of gifts
+representing peace. If you could keep
+the room circulating, thank you...
+
+76
+00:06:38,420 --> 00:06:44,768  X1:165 X2:553 Y1:474 Y2:526
+Next, from the solicitors Jolco &
+Jolco, we have the Moxx of Balhoon.
+
+77
+00:06:44,860 --> 00:06:47,772  X1:206 X2:510 Y1:474 Y2:527
+And next,
+from Financial Family Seven,
+
+78
+00:06:47,860 --> 00:06:50,932  X1:157 X2:560 Y1:474 Y2:527
+we have
+the Adherents of the Repeated Meme.
+
+79
+00:06:51,020 --> 00:06:56,572  X1:177 X2:541 Y1:474 Y2:527
+The inventors of hyposlip travel
+systems, the brothers Hop Pyleen!
+
+80
+00:06:56,660 --> 00:07:02,895  X1:167 X2:552 Y1:444 Y2:527
+..Cal "Spark" Plug... Mrs and Mrs
+Pacoon... The ambassadors from
+the City-State of Binding Light...
+
+81
+00:07:02,980 --> 00:07:08,577  X1:214 X2:504 Y1:474 Y2:527
+A gift of peace. I bring you
+a cutting of my grandfather.
+
+82
+00:07:09,500 --> 00:07:12,458  X1:260 X2:457 Y1:474 Y2:526
+Thank you, yes...
+Gifts, um...
+
+83
+00:07:12,540 --> 00:07:15,134  X1:205 X2:512 Y1:504 Y2:527
+Ahem! I give you in return...
+
+84
+00:07:15,220 --> 00:07:16,892  X1:265 X2:453 Y1:504 Y2:527
+air from my lungs.
+
+85
+00:07:19,660 --> 00:07:22,572  X1:274 X2:444 Y1:504 Y2:523
+How... intimate.
+
+86
+00:07:22,660 --> 00:07:26,573  X1:167 X2:549 Y1:474 Y2:523
+There's more where that came from.
+I bet there is.
+
+87
+00:07:26,660 --> 00:07:31,780  X1:159 X2:558 Y1:444 Y2:527
+..Our friend from
+the Silver Devastation, the sponsor
+of the main event, please welcome...
+
+88
+00:07:31,860 --> 00:07:34,738  X1:262 X2:457 Y1:504 Y2:523
+..the Face of Boe.
+
+89
+00:07:36,820 --> 00:07:39,209  X1:242 X2:474 Y1:504 Y2:523
+The Moxx of Balhoon.
+
+90
+00:07:39,300 --> 00:07:42,610  X1:180 X2:538 Y1:474 Y2:527
+My felicitations
+upon this historical happenstance.
+
+91
+00:07:42,700 --> 00:07:44,611  X1:197 X2:522 Y1:504 Y2:527
+I bring the gift of bodily salivas.
+
+92
+00:07:44,700 --> 00:07:47,612  X1:241 X2:475 Y1:474 Y2:527
+HAWKS AND SPITS
+Thank you very much.
+
+93
+00:07:48,900 --> 00:07:54,816  X1:166 X2:551 Y1:474 Y2:527
+Ah, the Adherents of the Repeated
+Meme! I bring you air from my lungs.
+
+94
+00:07:57,460 --> 00:08:00,452  X1:190 X2:526 Y1:504 Y2:527
+A gift of peace. In all good faith.
+
+95
+00:08:00,540 --> 00:08:04,533  X1:234 X2:484 Y1:474 Y2:527
+..And last but not least,
+our very special guest.
+
+96
+00:08:04,620 --> 00:08:09,455  X1:225 X2:492 Y1:474 Y2:526
+Ladies and gentlemen
+and trees and multiforms,
+
+97
+00:08:09,540 --> 00:08:13,499  X1:202 X2:516 Y1:474 Y2:527
+consider the Earth, below.
+In memory of this dying world,
+
+98
+00:08:13,580 --> 00:08:15,218  X1:277 X2:440 Y1:504 Y2:523
+we call forth...
+
+99
+00:08:15,300 --> 00:08:18,531  X1:272 X2:446 Y1:504 Y2:523
+the Last Human.
+
+100
+00:08:18,620 --> 00:08:23,057  X1:153 X2:566 Y1:474 Y2:523
+The Lady Cassandra O'Brien Dot Delta
+Seventeen.
+
+101
+00:08:23,140 --> 00:08:27,452  X1:206 X2:514 Y1:474 Y2:527
+Oh, now don't stare! I know,
+I know - it's shocking, isn't it?
+
+102
+00:08:27,540 --> 00:08:34,730  X1:182 X2:537 Y1:444 Y2:523
+I've had my chin completely taken
+away, and look at the difference,
+look how thin I am!
+
+103
+00:08:34,820 --> 00:08:37,493  X1:274 X2:443 Y1:504 Y2:527
+Thin and dainty!
+
+104
+00:08:37,580 --> 00:08:39,730  X1:203 X2:515 Y1:504 Y2:527
+I don't look a day over 2, 000.
+
+105
+00:08:39,820 --> 00:08:42,618  X1:194 X2:525 Y1:504 Y2:527
+(Moisturise me, moisturise me!)
+
+106
+00:08:44,060 --> 00:08:51,978  X1:175 X2:542 Y1:444 Y2:523
+Truly, I am the Last Human.
+My father was a Texan, my
+mother was from the Arctic Desert.
+
+107
+00:08:52,060 --> 00:08:59,057  X1:176 X2:542 Y1:444 Y2:523
+They were born on the Earth,
+and they were the last to be buried
+in its soil.
+
+108
+00:08:59,140 --> 00:09:02,610  X1:195 X2:524 Y1:504 Y2:523
+I have come to honour them...
+
+109
+00:09:02,700 --> 00:09:05,419  X1:242 X2:477 Y1:474 Y2:527
+HER VOICE BREAKS
+..and say goodbye.
+
+110
+00:09:05,500 --> 00:09:09,095  X1:226 X2:492 Y1:504 Y2:526
+Oh, no tears, no tears...
+
+111
+00:09:09,180 --> 00:09:10,613  X1:311 X2:408 Y1:504 Y2:527
+I'm sorry.
+
+112
+00:09:12,540 --> 00:09:14,656  X1:300 X2:419 Y1:504 Y2:523
+But behold!
+
+113
+00:09:14,740 --> 00:09:16,571  X1:298 X2:421 Y1:504 Y2:527
+I bring gifts!
+
+114
+00:09:16,660 --> 00:09:21,734  X1:201 X2:517 Y1:474 Y2:527
+>From Earth itself,
+the last remaining ostrich egg.
+
+115
+00:09:21,820 --> 00:09:28,134  X1:205 X2:513 Y1:444 Y2:523
+Legend says
+it had a wing-span of 50 feet
+and blew fire from its nostrils.
+
+116
+00:09:28,220 --> 00:09:30,290  X1:184 X2:534 Y1:504 Y2:527
+Or was that my THIRD husband?
+
+117
+00:09:30,380 --> 00:09:35,659  X1:200 X2:519 Y1:474 Y2:527
+Oh, no, oh, don't laugh,
+I'll get laughter-lines. No, stop!
+
+118
+00:09:35,740 --> 00:09:39,699  X1:278 X2:441 Y1:474 Y2:527
+SHE GIGGLES
+Mercy!
+
+119
+00:09:39,780 --> 00:09:43,489  X1:228 X2:489 Y1:504 Y2:527
+And here! Another rarity.
+
+120
+00:09:43,580 --> 00:09:47,812  X1:221 X2:496 Y1:474 Y2:526
+According to the archives,
+this was called an iPod,
+
+121
+00:09:47,900 --> 00:09:51,813  X1:192 X2:526 Y1:474 Y2:527
+it stores classical music from
+humanity's greatest composers.
+
+122
+00:09:51,900 --> 00:09:53,492  X1:317 X2:402 Y1:504 Y2:527
+Play on!
+
+123
+00:09:58,300 --> 00:10:01,736  X1:159 X2:561 Y1:504 Y2:527
+INTRO TO "Tainted Love" by Soft Cell
+
+124
+00:10:03,580 --> 00:10:05,889  X1:162 X2:555 Y1:504 Y2:523
+The refreshments will now be served.
+
+125
+00:10:05,980 --> 00:10:08,130  X1:221 X2:498 Y1:504 Y2:523
+Earth-death in 30 minutes.
+
+126
+00:10:08,220 --> 00:10:13,692  X1:204 X2:513 Y1:444 Y2:527
+MARC ALMOND:
+# Sometimes I feel I've got to
+Run away
+
+127
+00:10:13,780 --> 00:10:16,692  X1:281 X2:438 Y1:474 Y2:527
+# I've got to
+Get away... #
+
+128
+00:10:16,780 --> 00:10:19,738  X1:282 X2:437 Y1:504 Y2:523
+POLITE CHAT
+
+129
+00:10:21,500 --> 00:10:28,178  X1:241 X2:477 Y1:474 Y2:527
+#... The love we share
+Seems to go nowhere
+
+130
+00:10:28,260 --> 00:10:30,820  X1:239 X2:480 Y1:504 Y2:527
+# And I've lost my light
+
+131
+00:10:30,900 --> 00:10:34,609  X1:226 X2:494 Y1:474 Y2:527
+# For I toss and turn
+I can't sleep at night... #
+
+132
+00:10:34,700 --> 00:10:36,656  X1:321 X2:397 Y1:504 Y2:523
+Doctor.
+
+133
+00:10:36,740 --> 00:10:38,219  X1:299 X2:417 Y1:504 Y2:527
+Thank you.
+
+134
+00:10:40,740 --> 00:10:43,413  X1:276 X2:443 Y1:474 Y2:527
+A gift of peace.
+In all good faith.
+
+135
+00:10:43,500 --> 00:10:46,697  X1:233 X2:485 Y1:474 Y2:527
+Er, no, you're very kind,
+but I'm just the steward.
+
+136
+00:10:46,780 --> 00:10:49,214  X1:264 X2:454 Y1:474 Y2:527
+A gift of PEACE.
+In all good FAITH.
+
+137
+00:10:49,300 --> 00:10:52,133  X1:242 X2:476 Y1:504 Y2:527
+Oh... yes. Thank you.
+
+138
+00:10:52,220 --> 00:10:53,414  X1:304 X2:414 Y1:504 Y2:523
+Of course.
+
+139
+00:10:53,500 --> 00:10:55,172  X1:274 X2:444 Y1:504 Y2:527
+Identify species.
+
+140
+00:10:57,220 --> 00:11:00,212  X1:236 X2:483 Y1:474 Y2:523
+Please identify species.
+IT WHISTLES
+
+141
+00:11:00,300 --> 00:11:04,293  X1:207 X2:512 Y1:474 Y2:523
+Now stop it! Identify his race.
+Where's he from?
+
+142
+00:11:04,380 --> 00:11:06,848  X1:213 X2:506 Y1:504 Y2:523
+IT WHISTLES AND TRILLS
+
+143
+00:11:07,820 --> 00:11:09,970  X1:282 X2:436 Y1:504 Y2:527
+It's impossible.
+
+144
+00:11:37,260 --> 00:11:39,854  X1:185 X2:533 Y1:504 Y2:527
+Sorry, am I allowed to be in 'ere?
+
+145
+00:11:41,180 --> 00:11:44,331  X1:245 X2:475 Y1:474 Y2:527
+..You have to give us
+permission to talk.
+
+146
+00:11:44,420 --> 00:11:46,888  X1:324 X2:394 Y1:504 Y2:523
+Um...
+
+147
+00:11:48,460 --> 00:11:50,576  X1:232 X2:484 Y1:504 Y2:527
+Y-You have permission.
+
+148
+00:11:50,660 --> 00:11:52,935  X1:299 X2:417 Y1:504 Y2:527
+Thank you.
+
+149
+00:11:53,020 --> 00:11:57,332  X1:177 X2:540 Y1:474 Y2:527
+And, no, you're not in the way.
+Guests are allowed anywhere. Oh.
+
+150
+00:11:59,740 --> 00:12:01,776  X1:262 X2:458 Y1:504 Y2:523
+BUTTONS BLEEP
+
+151
+00:12:01,860 --> 00:12:03,452  X1:256 X2:461 Y1:504 Y2:527
+What's your name?
+
+152
+00:12:03,540 --> 00:12:05,451  X1:319 X2:400 Y1:504 Y2:523
+Raffalo.
+
+153
+00:12:05,540 --> 00:12:07,053  X1:316 X2:404 Y1:504 Y2:523
+Raffalo?
+
+154
+00:12:07,140 --> 00:12:08,778  X1:303 X2:414 Y1:504 Y2:526
+Yes, miss.
+
+155
+00:12:08,860 --> 00:12:12,853  X1:193 X2:526 Y1:474 Y2:527
+I... I won't be long I've just got
+to carry out some maintenance.
+
+156
+00:12:12,940 --> 00:12:16,728  X1:222 X2:496 Y1:474 Y2:523
+There's a tiny little glitch
+in the Face of Boe's suite.
+
+157
+00:12:16,820 --> 00:12:23,658  X1:178 X2:540 Y1:444 Y2:527
+There must be something blocking
+the system. He's getting no hot
+water. So... you're a plumber?
+
+158
+00:12:23,740 --> 00:12:25,731  X1:268 X2:448 Y1:504 Y2:527
+That's right miss.
+
+159
+00:12:25,820 --> 00:12:28,050  X1:224 X2:493 Y1:504 Y2:527
+They still have plumbers?
+
+160
+00:12:28,140 --> 00:12:30,529  X1:197 X2:521 Y1:504 Y2:527
+I hope so, else I'm out of a job!
+
+161
+00:12:31,620 --> 00:12:34,453  X1:181 X2:535 Y1:504 Y2:527
+Where are you from? Crespallion.
+
+162
+00:12:36,380 --> 00:12:38,371  X1:249 X2:469 Y1:504 Y2:527
+That's a planet, is it?
+
+163
+00:12:38,460 --> 00:12:44,979  X1:174 X2:544 Y1:444 Y2:523
+No, Crespallion's part
+of the Jaggit Brocade affiliated
+to the Scarlet Junction. Convex 56.
+
+164
+00:12:45,060 --> 00:12:51,010  X1:194 X2:524 Y1:444 Y2:526
+And where are you from, miss?
+If you don't mind my asking?
+No, not at all...
+
+165
+00:12:51,100 --> 00:12:53,216  X1:295 X2:424 Y1:504 Y2:526
+Um, I dunno
+
+166
+00:12:53,300 --> 00:12:55,768  X1:265 X2:451 Y1:504 Y2:527
+A long way away.
+
+167
+00:12:55,860 --> 00:13:00,172  X1:230 X2:490 Y1:474 Y2:523
+I just sort of hitched a lift
+with this man...
+
+168
+00:13:00,260 --> 00:13:04,811  X1:215 X2:503 Y1:474 Y2:523
+I didn't even think about it.
+Don't even know who he is.
+
+169
+00:13:07,300 --> 00:13:09,495  X1:225 X2:494 Y1:504 Y2:527
+He's a complete stranger.
+
+170
+00:13:11,180 --> 00:13:14,695  X1:170 X2:546 Y1:474 Y2:523
+Anyway, um, don't let me keep you.
+Good luck with it!
+
+171
+00:13:14,780 --> 00:13:17,169  X1:209 X2:508 Y1:504 Y2:527
+Thank you, miss. And, er...
+
+172
+00:13:17,260 --> 00:13:21,048  X1:180 X2:538 Y1:474 Y2:527
+thank you for the permission. Not
+many people are that considerate.
+
+173
+00:13:21,140 --> 00:13:23,938  X1:247 X2:470 Y1:504 Y2:527
+OK... See you later.
+
+174
+00:13:31,300 --> 00:13:33,018  X1:303 X2:416 Y1:504 Y2:526
+Now, then.
+
+175
+00:13:33,100 --> 00:13:36,092  X1:177 X2:540 Y1:474 Y2:527
+Control, I'm at junction 19. I think
+the problem's coming from in here.
+
+176
+00:13:36,180 --> 00:13:38,296  X1:208 X2:511 Y1:504 Y2:527
+I'll go inside and have a look.
+
+177
+00:13:39,380 --> 00:13:42,611  X1:213 X2:507 Y1:444 Y2:527
+IRREGULAR CLICKS
+What's that?
+Is there something in there?
+
+178
+00:13:42,700 --> 00:13:45,612  X1:229 X2:490 Y1:504 Y2:527
+Ooh, who are you, then?
+
+179
+00:13:45,700 --> 00:13:46,655  X1:316 X2:403 Y1:504 Y2:523
+Hold on!
+
+180
+00:13:48,220 --> 00:13:53,169  X1:222 X2:496 Y1:444 Y2:526
+If you're an upgrade,
+I just need to register you,
+that's all. Oh, come back.
+
+181
+00:13:55,180 --> 00:13:56,659  X1:263 X2:454 Y1:504 Y2:527
+Ah, there you are.
+
+182
+00:13:56,740 --> 00:13:59,379  X1:218 X2:503 Y1:474 Y2:527
+Now, I just need to register
+your ident.
+
+183
+00:14:00,580 --> 00:14:04,414  X1:224 X2:494 Y1:474 Y2:527
+Aw, there's two of ya!
+Got yourself a little mate?
+
+184
+00:14:04,500 --> 00:14:06,570  X1:209 X2:509 Y1:504 Y2:523
+MORE AND MORE CLICKS
+
+185
+00:14:06,660 --> 00:14:11,176  X1:160 X2:559 Y1:474 Y2:527
+I think I'd better report this to
+control. How many of you ARE there?
+
+186
+00:14:13,060 --> 00:14:14,971  X1:281 X2:437 Y1:504 Y2:527
+What are you?
+
+187
+00:14:15,060 --> 00:14:16,413  X1:320 X2:398 Y1:504 Y2:526
+Oh, no!
+
+188
+00:14:16,500 --> 00:14:18,456  X1:288 X2:430 Y1:504 Y2:523
+NO! NO-O-O!
+
+189
+00:14:28,140 --> 00:14:31,212  X1:267 X2:452 Y1:474 Y2:523
+MUTED BLEEPS
+What's that?
+
+190
+00:14:31,300 --> 00:14:34,292  X1:224 X2:493 Y1:474 Y2:526
+MORE BLEEPS
+Well, how should I know?
+
+191
+00:14:35,940 --> 00:14:40,058  X1:188 X2:531 Y1:444 Y2:527
+PING!
+Would the owner of the blue box
+in Private Gallery 15
+
+192
+00:14:40,140 --> 00:14:43,815  X1:188 X2:530 Y1:474 Y2:527
+please report to
+the steward's office immediately.
+
+193
+00:14:43,900 --> 00:14:49,418  X1:217 X2:502 Y1:444 Y2:527
+Guests are reminded that
+the use of teleportation
+devices is strictly forbidden
+
+194
+00:14:49,500 --> 00:14:53,778  X1:197 X2:520 Y1:474 Y2:527
+under peace treaty 5.4/cup/16.
+Thank you.
+
+195
+00:14:53,860 --> 00:14:58,092  X1:217 X2:500 Y1:504 Y2:523
+'Earth-death in 25 minutes.
+
+196
+00:14:58,180 --> 00:15:00,296  X1:219 X2:500 Y1:504 Y2:523
+'Earthdeath in 25 minutes.'
+
+197
+00:15:00,380 --> 00:15:01,813  X1:298 X2:420 Y1:504 Y2:526
+Oh, thanks.
+
+198
+00:15:08,060 --> 00:15:09,812  X1:330 X2:389 Y1:504 Y2:523
+Hello!
+
+199
+00:15:09,900 --> 00:15:11,492  X1:267 X2:450 Y1:504 Y2:527
+My name's Rose.
+
+200
+00:15:11,580 --> 00:15:14,219  X1:232 X2:484 Y1:504 Y2:527
+That's a... sort of plant.
+
+201
+00:15:14,300 --> 00:15:15,972  X1:249 X2:468 Y1:504 Y2:527
+We might be related.
+
+202
+00:15:18,060 --> 00:15:19,778  X1:255 X2:463 Y1:504 Y2:527
+I'm talking to a twig.
+
+203
+00:15:30,780 --> 00:15:35,808  X1:200 X2:517 Y1:474 Y2:527
+Oi now, careful with that,
+park it properly. No scratches.
+
+204
+00:15:37,060 --> 00:15:38,698  X1:254 X2:463 Y1:504 Y2:523
+ALIEN LANGUAGE
+
+205
+00:15:56,860 --> 00:15:59,249  X1:236 X2:483 Y1:504 Y2:527
+Rose, are you in there?
+
+206
+00:16:01,020 --> 00:16:02,578  X1:311 X2:406 Y1:504 Y2:527
+Aye-aye!
+
+207
+00:16:04,540 --> 00:16:06,895  X1:165 X2:552 Y1:504 Y2:527
+What d'you think, then? Great, yeah.
+
+208
+00:16:06,980 --> 00:16:12,293  X1:223 X2:495 Y1:474 Y2:527
+Fine. Once you get past
+the slightly psychic paper.
+
+209
+00:16:12,380 --> 00:16:15,929  X1:249 X2:467 Y1:504 Y2:527
+They're just so alien!
+
+210
+00:16:17,340 --> 00:16:20,252  X1:236 X2:481 Y1:504 Y2:523
+The aliens are so alien.
+
+211
+00:16:21,740 --> 00:16:24,732  X1:259 X2:458 Y1:474 Y2:527
+You look at 'em...
+and they're alien.
+
+212
+00:16:24,820 --> 00:16:27,380  X1:214 X2:504 Y1:474 Y2:527
+Good thing I didn't take you
+to the deep South(!)
+
+213
+00:16:29,180 --> 00:16:31,171  X1:247 X2:471 Y1:504 Y2:527
+Where are you from?
+
+214
+00:16:31,260 --> 00:16:33,490  X1:263 X2:453 Y1:504 Y2:527
+All over the place.
+
+215
+00:16:33,580 --> 00:16:38,973  X1:196 X2:523 Y1:444 Y2:527
+They all speak English. No,
+you just hear English. It's a gift
+of the Tardis. Telepathic field,
+
+216
+00:16:39,060 --> 00:16:42,211  X1:184 X2:533 Y1:474 Y2:523
+gets inside your brain, translates.
+It's inside MY brain?
+
+217
+00:16:42,300 --> 00:16:46,373  X1:170 X2:547 Y1:474 Y2:527
+Well, in a good way.
+Your machine gets inside my head?
+
+218
+00:16:46,460 --> 00:16:51,580  X1:177 X2:542 Y1:444 Y2:523
+It gets inside and it changes
+my mind, and you didn't even ask?
+I didn't think about it like that.
+
+219
+00:16:51,660 --> 00:16:55,892  X1:174 X2:543 Y1:474 Y2:527
+No, you were too busy thinking up
+cheap shots about the deep South!
+
+220
+00:16:55,980 --> 00:17:02,215  X1:162 X2:556 Y1:444 Y2:527
+Who are YOU, then, Doctor? What're
+you called? What sort of alien
+are you? I'm just the Doctor.
+
+221
+00:17:02,300 --> 00:17:07,135  X1:183 X2:535 Y1:444 Y2:527
+>From what planet? It's not as if
+you'd know it where it is(!) Where
+are you from? What's it matter?
+
+222
+00:17:07,220 --> 00:17:12,055  X1:181 X2:537 Y1:444 Y2:527
+Tell me who you are! THIS is who
+I am, right here, right now,
+all right? All that counts
+
+223
+00:17:12,140 --> 00:17:16,770  X1:187 X2:530 Y1:444 Y2:527
+is here and now. And this is me.
+Yes, and I'm here too, cos you
+brought me here. So just tell me!
+
+224
+00:17:25,660 --> 00:17:28,413  X1:217 X2:500 Y1:504 Y2:526
+'Earth-death in 20 minutes,
+
+225
+00:17:30,140 --> 00:17:33,257  X1:215 X2:504 Y1:504 Y2:523
+'Earth-death in 20 minutes.'
+
+226
+00:17:40,340 --> 00:17:43,332  X1:315 X2:402 Y1:504 Y2:527
+All right.
+
+227
+00:17:43,420 --> 00:17:48,778  X1:157 X2:560 Y1:474 Y2:527
+As my mate Shireen says, don't argue
+with the designated driver.
+
+228
+00:17:50,540 --> 00:17:53,373  X1:217 X2:501 Y1:504 Y2:527
+Can't exactly call for a taxi.
+
+229
+00:17:53,460 --> 00:17:56,293  X1:307 X2:411 Y1:504 Y2:527
+No signal.
+
+230
+00:17:56,380 --> 00:17:59,053  X1:202 X2:515 Y1:504 Y2:527
+We're out of range. Just a bit.
+
+231
+00:18:01,140 --> 00:18:06,658  X1:186 X2:532 Y1:444 Y2:527
+Tell you what. With a little bit
+of jiggery-pokery... Is that a
+technical term, jiggery-pokery(?)
+
+232
+00:18:06,740 --> 00:18:09,459  X1:178 X2:538 Y1:474 Y2:527
+Yes, I came first in jiggery-pokery.
+What about you?
+
+233
+00:18:09,540 --> 00:18:11,974  X1:226 X2:492 Y1:504 Y2:526
+No, failed hullabaloo. Aw.
+
+234
+00:18:14,380 --> 00:18:15,813  X1:285 X2:432 Y1:504 Y2:527
+There you go.
+
+235
+00:18:22,860 --> 00:18:24,851  X1:185 X2:534 Y1:504 Y2:523
+PHONE RINGS AT OTHER END
+
+236
+00:18:27,460 --> 00:18:32,454  X1:157 X2:560 Y1:474 Y2:527
+Hello? Mum? Oh, what is it?
+What's wrong, what have I done now?
+
+237
+00:18:32,540 --> 00:18:36,579  X1:182 X2:535 Y1:474 Y2:527
+Ooh, this red top's falling to bits!
+You should get your money back.
+
+238
+00:18:36,660 --> 00:18:41,734  X1:186 X2:531 Y1:444 Y2:527
+Go on, there must be something.
+You never phone in the middle
+of the day... What's so funny?
+
+239
+00:18:41,820 --> 00:18:45,654  X1:200 X2:519 Y1:474 Y2:527
+Nothing. You all right, though?
+Yeah, why wouldn't I be?
+
+240
+00:18:45,740 --> 00:18:49,972  X1:173 X2:543 Y1:474 Y2:527
+What day is it? Wednesday all day.
+You got a hangover?
+
+241
+00:18:50,060 --> 00:18:56,374  X1:196 X2:523 Y1:444 Y2:527
+Ooh, I tell you what, put a quid
+in that lottery syndicate. I'll pay
+you back later. Yeah, um, I...
+
+242
+00:18:56,460 --> 00:19:03,377  X1:186 X2:532 Y1:444 Y2:527
+I was just calling cos... I might
+be late home. Is there something
+wrong? No, I'm fine.
+
+243
+00:19:03,460 --> 00:19:06,054  X1:269 X2:447 Y1:504 Y2:527
+Top of the world!
+
+244
+00:19:08,540 --> 00:19:12,374  X1:234 X2:483 Y1:474 Y2:527
+Think THAT'S amazing,
+you wanna see the bill.
+
+245
+00:19:13,060 --> 00:19:16,052  X1:196 X2:521 Y1:504 Y2:527
+That was five billion years ago.
+
+246
+00:19:16,140 --> 00:19:17,732  X1:327 X2:391 Y1:504 Y2:523
+So...
+
+247
+00:19:17,820 --> 00:19:19,253  X1:271 X2:446 Y1:504 Y2:523
+She's dead now.
+
+248
+00:19:20,980 --> 00:19:24,450  X1:242 X2:476 Y1:474 Y2:527
+Five billion years later,
+my mum's dead.
+
+249
+00:19:24,540 --> 00:19:26,417  X1:222 X2:497 Y1:504 Y2:527
+Bundle of laughs, you are.
+
+250
+00:19:26,500 --> 00:19:28,456  X1:286 X2:433 Y1:504 Y2:523
+BIG RUMBLE
+
+251
+00:19:31,140 --> 00:19:33,256  X1:192 X2:525 Y1:504 Y2:527
+That's not supposed to happen.
+
+252
+00:19:33,340 --> 00:19:36,776  X1:197 X2:521 Y1:474 Y2:527
+Well, what was it? I'm just
+getting green lights at this end.
+
+253
+00:19:36,860 --> 00:19:43,493  X1:172 X2:548 Y1:444 Y2:527
+Honoured guests may be reassured
+that gravity pockets may cause
+slight turbulence. Thanking you...
+
+254
+00:19:43,580 --> 00:19:46,299  X1:194 X2:522 Y1:504 Y2:527
+The whole place shook! I felt it!
+
+255
+00:19:46,380 --> 00:19:52,012  X1:194 X2:524 Y1:444 Y2:527
+I've hosted all sorts of events
+on platforms 1, 3, 6 and 15 and
+never felt the slightest tremor.
+
+256
+00:19:52,100 --> 00:19:54,819  X1:216 X2:504 Y1:474 Y2:523
+I warn you, if this lot decide
+to sue...!
+
+257
+00:19:54,900 --> 00:19:56,936  X1:183 X2:535 Y1:504 Y2:527
+I'm gonna scan the infrastructure.
+
+258
+00:20:00,780 --> 00:20:03,772  X1:226 X2:492 Y1:474 Y2:523
+CLICKS AND SQUEAKS
+What's that?
+
+259
+00:20:03,860 --> 00:20:08,650  X1:184 X2:534 Y1:474 Y2:527
+Control, I don't want to worry you
+but I'm picking up readings...
+
+260
+00:20:08,740 --> 00:20:13,450  X1:193 X2:524 Y1:474 Y2:527
+I have no idea! They're small.
+The scan says they're metal...
+
+261
+00:20:13,540 --> 00:20:15,770  X1:192 X2:526 Y1:504 Y2:527
+I don't know what they look like!
+
+262
+00:20:18,300 --> 00:20:22,452  X1:177 X2:541 Y1:474 Y2:523
+Although I imagine they might look
+rather like that.
+
+263
+00:20:25,620 --> 00:20:28,214  X1:213 X2:503 Y1:504 Y2:527
+You're not on the guest list.
+
+264
+00:20:28,300 --> 00:20:31,098  X1:218 X2:501 Y1:504 Y2:527
+How did you get on board?
+
+265
+00:20:34,100 --> 00:20:36,250  X1:222 X2:498 Y1:504 Y2:523
+No! 'Sunfilter deactivated.'
+
+266
+00:20:36,340 --> 00:20:37,693  X1:341 X2:377 Y1:504 Y2:523
+No!
+
+267
+00:20:37,780 --> 00:20:39,816  X1:221 X2:496 Y1:504 Y2:527
+'Sunfilter descending.' No!
+
+268
+00:20:39,900 --> 00:20:41,049  X1:295 X2:422 Y1:504 Y2:527
+Sunfilter up!
+
+269
+00:20:41,140 --> 00:20:42,971  X1:301 X2:417 Y1:504 Y2:526
+No, no, no!
+
+270
+00:20:43,060 --> 00:20:45,813  X1:243 X2:475 Y1:474 Y2:527
+Control! Respond!
+'Sunfilter descending.'
+
+271
+00:20:45,900 --> 00:20:47,413  X1:270 X2:448 Y1:504 Y2:523
+SUNFILTER UP!
+
+272
+00:20:47,500 --> 00:20:50,617  X1:229 X2:489 Y1:474 Y2:523
+'Sunfilter descending... '
+HE SCREAMS
+
+273
+00:21:06,900 --> 00:21:13,055  X1:185 X2:535 Y1:444 Y2:523
+Indubitably, this is the Bad-Boo
+scenario. I find the inherent laxity
+of the unknown multiverse...
+
+274
+00:21:13,140 --> 00:21:19,090  X1:169 X2:549 Y1:444 Y2:527
+That wasn't a gravity pocket, I know
+gravity pockets, and they don't feel
+like that... What d'you think, Jabe?
+
+275
+00:21:19,180 --> 00:21:22,934  X1:176 X2:541 Y1:444 Y2:527
+Listen to the engines.
+They've pitched up about 30 hertz.
+Is that dodgy or what?!
+
+276
+00:21:23,020 --> 00:21:29,289  X1:185 X2:536 Y1:444 Y2:527
+It's the sound of metal - it doesn't
+make any sense to me. Where's
+the engine room? I don't know.
+
+277
+00:21:29,380 --> 00:21:35,250  X1:175 X2:544 Y1:444 Y2:527
+But the maintenance duct
+is just behind our guest suite.
+I could show you. And... your wife.
+
+278
+00:21:35,340 --> 00:21:37,092  X1:242 X2:476 Y1:504 Y2:527
+Oh, she's not my wife.
+
+279
+00:21:37,180 --> 00:21:39,455  X1:226 X2:493 Y1:504 Y2:523
+Partner? No. Concubine?
+
+280
+00:21:39,540 --> 00:21:40,939  X1:328 X2:390 Y1:504 Y2:527
+Nope.
+
+281
+00:21:41,020 --> 00:21:46,048  X1:175 X2:542 Y1:474 Y2:527
+Prostitute? Whatever I am,
+it must be invisible(!) D'you mind?!
+
+282
+00:21:46,140 --> 00:21:52,534  X1:181 X2:537 Y1:444 Y2:524
+Tell you what, you two go...
+pollinate. I'll catch up with family.
+Quick word with Michael Jackson.
+
+283
+00:21:52,620 --> 00:21:54,417  X1:266 X2:453 Y1:504 Y2:527
+Don't start a fight.
+
+284
+00:21:54,500 --> 00:21:56,968  X1:293 X2:425 Y1:504 Y2:527
+I'm all yours.
+
+285
+00:21:58,700 --> 00:22:00,691  X1:179 X2:537 Y1:504 Y2:527
+And I want you home by midnight.
+
+286
+00:22:00,780 --> 00:22:05,456  X1:217 X2:501 Y1:474 Y2:523
+'Earth-death in 15 minutes.
+Earth-death in 15 minutes.'
+
+287
+00:22:16,100 --> 00:22:20,093  X1:180 X2:537 Y1:474 Y2:527
+Who's in charge of Platform One?
+Has it got a captain or what?
+
+288
+00:22:20,180 --> 00:22:26,130  X1:166 X2:553 Y1:444 Y2:527
+There's just the steward and staff.
+All the rest is controlled by the
+metalmind. You mean the computer?
+
+289
+00:22:26,220 --> 00:22:28,780  X1:232 X2:486 Y1:474 Y2:527
+Well, who controls that?
+The Corporation.
+
+290
+00:22:28,860 --> 00:22:32,933  X1:180 X2:536 Y1:474 Y2:523
+They move Platform One
+from one artistic event to another.
+
+291
+00:22:33,020 --> 00:22:38,970  X1:169 X2:548 Y1:444 Y2:527
+There's no-one from the corporation
+on board? They're not needed.
+This facility is purely automatic.
+
+292
+00:22:39,060 --> 00:22:40,812  X1:185 X2:533 Y1:504 Y2:527
+It's the height of the Alpha Class.
+
+293
+00:22:40,900 --> 00:22:43,130  X1:165 X2:554 Y1:504 Y2:527
+Nothing can go wrong. Unsinkable(?)
+
+294
+00:22:43,220 --> 00:22:46,769  X1:185 X2:535 Y1:474 Y2:527
+If you like. The nautical metaphor
+is appropriate.
+
+295
+00:22:46,860 --> 00:22:50,216  X1:171 X2:547 Y1:474 Y2:527
+You're telling me! I was on board
+another ship they called unsinkable.
+
+296
+00:22:50,300 --> 00:22:53,337  X1:185 X2:533 Y1:474 Y2:523
+I ended up clinging to an iceberg.
+Wasn't half cold.
+
+297
+00:22:53,420 --> 00:22:58,448  X1:205 X2:513 Y1:444 Y2:527
+So what you're saying is
+if we get in trouble,
+there's no-one to help us out.
+
+298
+00:22:58,540 --> 00:23:01,213  X1:233 X2:486 Y1:504 Y2:523
+I'm afraid not. Fantastic!
+
+299
+00:23:01,300 --> 00:23:02,938  X1:261 X2:457 Y1:504 Y2:523
+I don't understand.
+
+300
+00:23:03,020 --> 00:23:05,818  X1:207 X2:513 Y1:504 Y2:527
+In what way is that fantastic?
+
+301
+00:23:10,700 --> 00:23:14,978  X1:213 X2:506 Y1:474 Y2:527
+Soon the sun
+will blossom into a red giant
+
+302
+00:23:15,060 --> 00:23:16,573  X1:243 X2:473 Y1:504 Y2:527
+And my home will die.
+
+303
+00:23:16,660 --> 00:23:20,130  X1:170 X2:546 Y1:474 Y2:527
+That's where I used to live,
+when I was a little boy. Down there.
+
+304
+00:23:20,220 --> 00:23:27,410  X1:163 X2:556 Y1:444 Y2:526
+Mummy and Daddy had a house built
+into the side of the Los Angeles
+Crevasse. Ah, I'd have such fun.
+
+305
+00:23:27,500 --> 00:23:31,254  X1:178 X2:540 Y1:474 Y2:527
+What happened to everyone else?
+The human race, where did it go?
+
+306
+00:23:31,340 --> 00:23:35,458  X1:194 X2:523 Y1:474 Y2:527
+They say mankind has touched
+every star in the sky.
+
+307
+00:23:35,540 --> 00:23:37,531  X1:204 X2:513 Y1:504 Y2:527
+So you're not the last human.
+
+308
+00:23:37,620 --> 00:23:41,135  X1:218 X2:501 Y1:504 Y2:523
+I am the Last Pure Human.
+
+309
+00:23:41,220 --> 00:23:44,178  X1:240 X2:477 Y1:504 Y2:527
+The others... mingled.
+
+310
+00:23:44,260 --> 00:23:49,209  X1:170 X2:550 Y1:444 Y2:527
+Oh, they call themselves
+New Humans and Protohumans and
+Digihumans - even Human-ish -
+
+311
+00:23:49,300 --> 00:23:51,860  X1:187 X2:531 Y1:504 Y2:527
+but d'you know what I call them?
+
+312
+00:23:51,940 --> 00:23:53,658  X1:307 X2:411 Y1:504 Y2:527
+Mongrels.
+
+313
+00:23:53,740 --> 00:23:56,413  X1:193 X2:525 Y1:504 Y2:527
+Right(!) And you stayed behind.
+
+314
+00:23:56,500 --> 00:23:59,378  X1:262 X2:456 Y1:504 Y2:527
+I kept myself pure.
+
+315
+00:23:59,460 --> 00:24:01,815  X1:165 X2:555 Y1:504 Y2:527
+How many operations have you had?
+
+316
+00:24:01,900 --> 00:24:04,050  X1:229 X2:489 Y1:504 Y2:526
+708. Next week, it's 709.
+
+317
+00:24:04,140 --> 00:24:07,098  X1:201 X2:518 Y1:504 Y2:527
+I'm having my blood bleached.
+
+318
+00:24:07,180 --> 00:24:10,172  X1:193 X2:527 Y1:504 Y2:527
+Is that why you wanted a word?
+
+319
+00:24:10,260 --> 00:24:15,653  X1:217 X2:499 Y1:444 Y2:527
+You could be flatter, Rose.
+You've got a little bit
+of a... chin poking out.
+
+320
+00:24:15,740 --> 00:24:18,937  X1:232 X2:487 Y1:474 Y2:527
+I'd rather die.
+Honestly, it doesn't hurt.
+
+321
+00:24:19,020 --> 00:24:21,170  X1:213 X2:506 Y1:504 Y2:523
+I mean it. I would rather die.
+
+322
+00:24:21,260 --> 00:24:25,412  X1:209 X2:508 Y1:474 Y2:527
+It's better to die than to live
+like you, a bitchy trampoline.
+
+323
+00:24:25,500 --> 00:24:28,173  X1:201 X2:517 Y1:504 Y2:526
+Oh, well, what do YOU know?
+
+324
+00:24:28,260 --> 00:24:30,854  X1:226 X2:493 Y1:504 Y2:527
+I was born on that planet.
+
+325
+00:24:30,940 --> 00:24:36,173  X1:136 X2:581 Y1:444 Y2:527
+And so was my mum, and so was my dad,
+and that makes me, officially,
+the last human being in this room.
+
+326
+00:24:36,260 --> 00:24:42,369  X1:168 X2:552 Y1:444 Y2:527
+Cos you're not human. You've had it
+all nipped and tucked and flattened
+till there's nothing left.
+
+327
+00:24:42,460 --> 00:24:47,659  X1:205 X2:512 Y1:444 Y2:527
+Anything human got chucked
+in the bin. You're just skin,
+Cassandra, lipstick and skin.
+
+328
+00:24:47,740 --> 00:24:49,219  X1:295 X2:423 Y1:504 Y2:527
+Nice talking.
+
+329
+00:24:57,020 --> 00:25:01,650  X1:227 X2:492 Y1:444 Y2:527
+So, tell me, Jabe,
+what's a tree like you
+doing in a place like this?
+
+330
+00:25:01,740 --> 00:25:06,256  X1:210 X2:508 Y1:444 Y2:523
+Respect for the Earth.
+Oh, come on, everyone on
+this Platform's worth zillions.
+
+331
+00:25:06,340 --> 00:25:10,572  X1:176 X2:541 Y1:474 Y2:527
+Well. Perhaps it's a case of having
+to be seen at the right occasions.
+
+332
+00:25:10,660 --> 00:25:16,132  X1:179 X2:540 Y1:444 Y2:527
+In case your share prices drop?
+I know you lot, you've got massive
+forests, roots everywhere.
+
+333
+00:25:16,220 --> 00:25:22,136  X1:176 X2:541 Y1:444 Y2:527
+And there's always money in land.
+All the same, we respect the Earth
+as family.
+
+334
+00:25:22,220 --> 00:25:26,452  X1:188 X2:529 Y1:474 Y2:527
+So many species evolved from
+that planet. Mankind is only one.
+
+335
+00:25:26,540 --> 00:25:32,092  X1:176 X2:544 Y1:444 Y2:526
+I'm another. My ancestors were
+transplanted from the planet down
+below, and I'm a direct descendant
+
+336
+00:25:32,180 --> 00:25:34,057  X1:231 X2:487 Y1:504 Y2:527
+of the tropical rainforest.
+
+337
+00:25:34,140 --> 00:25:35,573  X1:298 X2:421 Y1:504 Y2:523
+Excuse me.
+
+338
+00:25:37,860 --> 00:25:40,977  X1:197 X2:520 Y1:474 Y2:523
+And what about your ancestry,
+Doctor?
+
+339
+00:25:42,500 --> 00:25:46,288  X1:243 X2:476 Y1:474 Y2:527
+Perhaps you could tell
+a story or two.
+
+340
+00:25:46,380 --> 00:25:51,659  X1:177 X2:542 Y1:474 Y2:527
+Perhaps a man only enjoys trouble
+when there's nothing else left...?
+
+341
+00:25:53,340 --> 00:25:55,331  X1:246 X2:472 Y1:504 Y2:527
+I scanned you earlier.
+
+342
+00:25:55,420 --> 00:25:59,379  X1:199 X2:518 Y1:474 Y2:527
+The metalmachine had trouble
+identifying your species.
+
+343
+00:25:59,460 --> 00:26:01,735  X1:181 X2:538 Y1:504 Y2:527
+It refused to admit your existence.
+
+344
+00:26:01,820 --> 00:26:05,210  X1:202 X2:515 Y1:474 Y2:523
+And even when it named you,
+I wouldn't believe it.
+
+345
+00:26:05,300 --> 00:26:08,178  X1:278 X2:441 Y1:504 Y2:527
+But it was right.
+
+346
+00:26:08,260 --> 00:26:10,569  X1:224 X2:495 Y1:504 Y2:527
+I know where you're from!
+
+347
+00:26:12,140 --> 00:26:17,931  X1:176 X2:542 Y1:474 Y2:527
+Forgive me for intruding, but
+it's remarkable that you even exist.
+
+348
+00:26:18,020 --> 00:26:19,976  X1:253 X2:466 Y1:504 Y2:527
+I just want to say...
+
+349
+00:26:21,020 --> 00:26:22,931  X1:277 X2:440 Y1:504 Y2:527
+how sorry I am.
+
+350
+00:26:40,860 --> 00:26:43,420  X1:260 X2:458 Y1:504 Y2:523
+SLOW CHUFFING
+
+351
+00:26:53,060 --> 00:26:56,291  X1:218 X2:501 Y1:504 Y2:527
+Is it me, or is it a bit nippy?
+
+352
+00:27:10,220 --> 00:27:12,290  X1:266 X2:452 Y1:504 Y2:523
+SHE CRIES OUT
+
+353
+00:27:17,780 --> 00:27:22,456  X1:195 X2:525 Y1:444 Y2:523
+Fair do's though - that's a great
+bit of air-conditioning. Sort of
+nice and old-fashioned.
+
+354
+00:27:22,540 --> 00:27:24,576  X1:254 X2:465 Y1:504 Y2:527
+Bet they call it retro.
+
+355
+00:27:25,660 --> 00:27:27,013  X1:317 X2:400 Y1:504 Y2:523
+Gotcha.
+
+356
+00:27:32,060 --> 00:27:36,292  X1:240 X2:480 Y1:474 Y2:527
+What the hell's that?
+Is it part of the "retro"?
+
+357
+00:27:36,380 --> 00:27:38,496  X1:234 X2:485 Y1:504 Y2:526
+I don't think so, hold on.
+
+358
+00:27:45,620 --> 00:27:48,259  X1:217 X2:502 Y1:504 Y2:527
+Hey, nice liana. Thank you.
+
+359
+00:27:48,340 --> 00:27:50,331  X1:163 X2:556 Y1:504 Y2:527
+Not supposed to show them in public.
+
+360
+00:27:50,420 --> 00:27:52,411  X1:188 X2:530 Y1:504 Y2:527
+Don't worry, I won't tell anybody.
+
+361
+00:27:52,500 --> 00:27:56,493  X1:172 X2:549 Y1:474 Y2:527
+Now then, who's been bringing their
+pets on board? What does it do?
+
+362
+00:27:56,580 --> 00:27:59,697  X1:197 X2:521 Y1:474 Y2:523
+Sabotage...
+'Earth-death in ten minutes... '
+
+363
+00:27:59,780 --> 00:28:04,456  X1:201 X2:517 Y1:444 Y2:523
+And the temperature's
+about to rocket. Come on.
+'... Earth death in ten minutes.'
+
+364
+00:28:04,540 --> 00:28:06,496  X1:267 X2:449 Y1:504 Y2:527
+The planet's end!
+
+365
+00:28:06,580 --> 00:28:08,969  X1:215 X2:503 Y1:504 Y2:527
+Come gather, come gather!
+
+366
+00:28:09,060 --> 00:28:12,939  X1:230 X2:490 Y1:474 Y2:523
+Bid farewell to the cradle
+of civilisation.
+
+367
+00:28:13,020 --> 00:28:16,410  X1:234 X2:482 Y1:474 Y2:523
+Let us mourn her
+with a traditional ballad.
+
+368
+00:28:19,420 --> 00:28:22,890  X1:236 X2:483 Y1:474 Y2:527
+INTRO TO: "Toxic"
+sung by Britney Spears
+
+369
+00:28:22,980 --> 00:28:26,814  X1:244 X2:474 Y1:474 Y2:527
+# Baby, can't you see
+I'm calling
+
+370
+00:28:26,900 --> 00:28:29,858  X1:239 X2:480 Y1:474 Y2:527
+# A guy like you
+Should wear a warning
+
+371
+00:28:29,940 --> 00:28:33,091  X1:273 X2:444 Y1:474 Y2:523
+# It's dangerous
+I'm fallin'... #
+
+372
+00:28:33,180 --> 00:28:36,650  X1:217 X2:499 Y1:474 Y2:527
+SQUEAKS AND TRILLS
+All right, hold on, get back.
+
+373
+00:28:36,740 --> 00:28:41,495  X1:278 X2:441 Y1:474 Y2:527
+'Sunfilter rising.
+Sunfilter rising.'
+
+374
+00:28:41,580 --> 00:28:44,811  X1:234 X2:486 Y1:474 Y2:523
+Is the Steward in there?
+You can smell him.
+
+375
+00:28:44,900 --> 00:28:49,576  X1:185 X2:536 Y1:474 Y2:527
+Hold on. There's another sunfilter
+programmed to descend.
+
+376
+00:28:49,660 --> 00:28:52,538  X1:268 X2:451 Y1:474 Y2:523
+#... Too high
+Can't come down
+
+377
+00:28:52,620 --> 00:28:54,019  X1:223 X2:495 Y1:474 Y2:527
+# Losing my head
+Spinning round and round
+
+378
+00:28:58,220 --> 00:29:00,780  X1:206 X2:513 Y1:504 Y2:527
+# Do you feel me now...? #
+
+379
+00:29:00,860 --> 00:29:05,217  X1:232 X2:487 Y1:474 Y2:527
+'Sunfilter descending.
+Sunfilter descending... '
+
+380
+00:29:09,260 --> 00:29:12,058  X1:229 X2:489 Y1:504 Y2:527
+'Sunfilter descending... '
+
+381
+00:29:12,140 --> 00:29:16,099  X1:212 X2:507 Y1:474 Y2:527
+Let me out! Let me out!
+'... Sunfilter descending... '
+
+382
+00:29:16,180 --> 00:29:18,057  X1:269 X2:450 Y1:504 Y2:523
+LOUD BANGING
+
+383
+00:29:18,140 --> 00:29:20,449  X1:237 X2:481 Y1:504 Y2:523
+Let me out! Let me out!
+
+384
+00:29:20,540 --> 00:29:24,692  X1:232 X2:487 Y1:474 Y2:527
+'... Sunfilter descending.
+Sunfilter descending... '
+
+385
+00:29:24,780 --> 00:29:26,418  X1:265 X2:453 Y1:474 Y2:527
+MORE BANGING
+Anyone in there?
+
+386
+00:29:26,500 --> 00:29:31,415  X1:186 X2:532 Y1:474 Y2:527
+Let me out! Oh, well,
+it would be you(!) Open the door!
+
+387
+00:29:31,500 --> 00:29:32,853  X1:252 X2:466 Y1:504 Y2:523
+Give us two ticks...
+
+388
+00:29:32,940 --> 00:29:36,899  X1:232 X2:487 Y1:474 Y2:527
+'... Sunfilter descending.
+Sunfilter descending... '
+
+389
+00:29:39,220 --> 00:29:41,131  X1:196 X2:522 Y1:504 Y2:527
+'Sunfilter rising. Sunfilter rising.
+
+390
+00:29:41,220 --> 00:29:43,290  X1:264 X2:455 Y1:474 Y2:527
+'Sunfilter rising.
+Sunfilter rising... '
+
+391
+00:29:45,140 --> 00:29:49,338  X1:264 X2:455 Y1:474 Y2:527
+'... Sunfilter rising.
+Sunfilter rising... '
+
+392
+00:29:49,420 --> 00:29:54,369  X1:204 X2:514 Y1:444 Y2:527
+'Sunfilter descending... '
+Just what we need -
+the computer's getting clever.
+
+393
+00:29:54,460 --> 00:29:58,339  X1:165 X2:554 Y1:474 Y2:527
+Stop mucking about! I'm not mucking
+about! It's fighting back.
+
+394
+00:29:58,420 --> 00:30:01,537  X1:219 X2:500 Y1:474 Y2:527
+'... Sunfilter descending... '
+Open the door! I know!
+
+395
+00:30:01,620 --> 00:30:05,499  X1:212 X2:507 Y1:474 Y2:523
+'... Sunfilter descending... '
+The lock's melted!
+
+396
+00:30:05,580 --> 00:30:10,210  X1:235 X2:482 Y1:474 Y2:527
+'... Sunfilter descending.
+Sunfilter descending.
+
+397
+00:30:14,420 --> 00:30:19,289  X1:264 X2:455 Y1:474 Y2:527
+'Sunfilter rising.
+Sunfilter rising... '
+
+398
+00:30:24,140 --> 00:30:28,133  X1:197 X2:519 Y1:444 Y2:527
+The whole thing's
+jammed. I can't open the door.
+Stay there, don't move.
+
+399
+00:30:28,220 --> 00:30:29,858  X1:176 X2:542 Y1:504 Y2:527
+Where am I gonna go - Ipswich(?)
+
+400
+00:30:29,940 --> 00:30:31,931  X1:209 X2:509 Y1:504 Y2:523
+'Earth-death in five minutes.'
+
+401
+00:30:34,460 --> 00:30:40,296  X1:178 X2:539 Y1:444 Y2:523
+The metalmachine confirms.
+The spider devices have infiltrated
+the whole of Platform One.
+
+402
+00:30:40,380 --> 00:30:44,214  X1:174 X2:543 Y1:474 Y2:527
+How's that possible? Our private
+rooms are protected by a codewall.
+
+403
+00:30:44,300 --> 00:30:46,370  X1:194 X2:525 Y1:504 Y2:527
+(Moisturise me, moisturise me!)
+
+404
+00:30:46,460 --> 00:30:50,419  X1:170 X2:549 Y1:474 Y2:523
+Summon the Steward! I'm afraid the
+Steward is dead.
+
+405
+00:30:50,500 --> 00:30:53,094  X1:204 X2:514 Y1:504 Y2:523
+THEY GASP AND MURMUR
+
+406
+00:30:54,340 --> 00:30:56,137  X1:275 X2:442 Y1:504 Y2:523
+Who killed him?
+
+407
+00:30:56,220 --> 00:31:00,896  X1:180 X2:538 Y1:444 Y2:526
+This whole event was sponsored
+by the Face of Boe. He invited us.
+Talk to the Face, talk to the Face!
+
+408
+00:31:00,980 --> 00:31:04,734  X1:180 X2:539 Y1:474 Y2:527
+Easy way of finding out. Someone
+brought their little pet on board.
+
+409
+00:31:04,820 --> 00:31:06,458  X1:199 X2:520 Y1:504 Y2:523
+Let's send him back to master.
+
+410
+00:31:27,260 --> 00:31:31,094  X1:153 X2:564 Y1:474 Y2:523
+The Adherents of the Repeated Meme!
+J'accuse!
+
+411
+00:31:31,180 --> 00:31:36,493  X1:193 X2:525 Y1:444 Y2:527
+That's all very well,
+and really kind of obvious but,
+if you stop and think about it...
+
+412
+00:31:37,180 --> 00:31:39,648  X1:185 X2:532 Y1:504 Y2:527
+A repeated meme is just an idea.
+
+413
+00:31:39,740 --> 00:31:42,732  X1:194 X2:522 Y1:504 Y2:527
+And that's all they are, an idea.
+
+414
+00:31:45,860 --> 00:31:49,819  X1:186 X2:533 Y1:474 Y2:523
+Remote-control 'droids. Nice little
+cover for the real troublemaker.
+
+415
+00:31:49,900 --> 00:31:52,334  X1:230 X2:487 Y1:504 Y2:526
+Go on, Jimbo. Go home.
+
+416
+00:31:54,340 --> 00:31:56,251  X1:274 X2:445 Y1:504 Y2:523
+GUESTS GASP
+
+417
+00:31:56,340 --> 00:31:59,377  X1:199 X2:521 Y1:474 Y2:527
+I bet you were the school swot
+and never got kissed.
+
+418
+00:31:59,460 --> 00:32:00,779  X1:313 X2:403 Y1:504 Y2:523
+At arms!
+
+419
+00:32:00,860 --> 00:32:02,498  X1:169 X2:549 Y1:504 Y2:527
+What you gonna do, moisturise me?
+
+420
+00:32:02,580 --> 00:32:04,013  X1:306 X2:411 Y1:504 Y2:523
+With acid.
+
+421
+00:32:04,100 --> 00:32:08,252  X1:211 X2:506 Y1:444 Y2:523
+Oh, you're too late, anyway.
+My spiders have control
+of the mainframe.
+
+422
+00:32:08,340 --> 00:32:13,619  X1:188 X2:529 Y1:474 Y2:527
+Oh, you all carried them as gifts,
+tax-free, past every codewall.
+
+423
+00:32:13,700 --> 00:32:19,218  X1:199 X2:520 Y1:444 Y2:527
+I'm not just a pretty face.
+Sabotaging a ship while you're
+inside it, how stupid's that?
+
+424
+00:32:19,300 --> 00:32:22,337  X1:229 X2:491 Y1:474 Y2:527
+I'd hoped to manufacture
+a hostage situation.
+
+425
+00:32:22,420 --> 00:32:27,050  X1:181 X2:535 Y1:444 Y2:523
+With myself as one of the victims,
+the compensation
+would have been enormous.
+
+426
+00:32:27,140 --> 00:32:30,610  X1:184 X2:533 Y1:474 Y2:527
+Five billion years,
+and it still comes down to money.
+
+427
+00:32:30,700 --> 00:32:33,533  X1:244 X2:474 Y1:474 Y2:527
+D'you think it's cheap,
+looking like this?
+
+428
+00:32:33,620 --> 00:32:36,418  X1:230 X2:489 Y1:504 Y2:523
+Flatness costs a fortune!
+
+429
+00:32:36,500 --> 00:32:38,809  X1:204 X2:514 Y1:504 Y2:526
+I am the Last Human, Doctor.
+
+430
+00:32:38,900 --> 00:32:43,576  X1:216 X2:502 Y1:474 Y2:527
+Me, not that freaky little kid
+of yours.
+
+431
+00:32:43,660 --> 00:32:45,855  X1:241 X2:476 Y1:504 Y2:523
+Arrest her! The infidel!
+
+432
+00:32:45,940 --> 00:32:50,218  X1:218 X2:501 Y1:474 Y2:527
+Oh, shut it, pixie!
+I've still got my final option.
+
+433
+00:32:50,300 --> 00:32:52,530  X1:190 X2:529 Y1:474 Y2:523
+'Earth-death in three minutes,
+Earth-death in three minutes... '
+
+434
+00:32:52,620 --> 00:32:56,408  X1:200 X2:516 Y1:474 Y2:527
+And here it comes. You're
+just as useful dead, all of you.
+
+435
+00:32:56,500 --> 00:33:01,449  X1:180 X2:537 Y1:444 Y2:527
+I have shares in
+your rival companies. They'll triple
+in price as soon as you're dead.
+
+436
+00:33:01,540 --> 00:33:05,533  X1:186 X2:534 Y1:474 Y2:527
+My spiders are primed and ready
+to destroy the safety systems.
+
+437
+00:33:05,620 --> 00:33:07,850  X1:191 X2:529 Y1:504 Y2:527
+How did that old Earth song go?
+
+438
+00:33:07,940 --> 00:33:09,578  X1:262 X2:457 Y1:504 Y2:527
+"Burn baby, burn."
+
+439
+00:33:09,660 --> 00:33:11,457  X1:230 X2:486 Y1:504 Y2:527
+Then you'll burn with us!
+
+440
+00:33:11,540 --> 00:33:13,656  X1:271 X2:446 Y1:504 Y2:527
+Oh, I'm so sorry!
+
+441
+00:33:13,740 --> 00:33:18,495  X1:189 X2:531 Y1:474 Y2:527
+I know the use of teleportation is
+strictly forbidden, but...
+
+442
+00:33:18,580 --> 00:33:20,377  X1:228 X2:491 Y1:504 Y2:527
+I'm such a naughty thing.
+
+443
+00:33:20,460 --> 00:33:20,733  X1:267 X2:450 Y1:504 Y2:527
+Spiders, activate!
+
+444
+00:33:21,140 --> 00:33:23,370  X1:267 X2:450 Y1:504 Y2:527
+Spiders, activate!
+
+445
+00:33:23,460 --> 00:33:26,816  X1:201 X2:516 Y1:504 Y2:523
+THUNDEROUS WHOOSHES
+
+446
+00:33:31,820 --> 00:33:35,699  X1:173 X2:544 Y1:474 Y2:527
+Force-fields gone,
+with the planet about to explode...
+
+447
+00:33:35,780 --> 00:33:37,850  X1:250 X2:467 Y1:504 Y2:527
+At least it'll be quick.
+
+448
+00:33:37,940 --> 00:33:44,334  X1:164 X2:554 Y1:474 Y2:527
+Just like my fifth husband... Oops!
+Oh, shame on me! Bye bye, darlings.
+
+449
+00:33:44,420 --> 00:33:46,980  X1:221 X2:497 Y1:474 Y2:527
+'Safety systems failing... '
+Bye-bye, my darlings!
+
+450
+00:33:47,060 --> 00:33:49,972  X1:236 X2:483 Y1:504 Y2:527
+'... Heat levels rising... '
+
+451
+00:33:50,060 --> 00:33:52,733  X1:174 X2:543 Y1:474 Y2:527
+Reset the computer!
+Only the Steward would know how.
+
+452
+00:33:52,820 --> 00:33:57,257  X1:181 X2:536 Y1:444 Y2:526
+No, we can do it by hand.
+There must be a "system restore"
+switch. Jabe, come on.
+
+453
+00:33:57,340 --> 00:33:59,296  X1:268 X2:448 Y1:504 Y2:527
+You lot, just chill.
+
+454
+00:33:59,380 --> 00:34:00,449  X1:236 X2:483 Y1:504 Y2:527
+'... Heat levels rising... '
+
+455
+00:34:04,500 --> 00:34:08,618  X1:216 X2:503 Y1:474 Y2:523
+'Earthdeath in two minutes.
+Earthdeath in two minutes.'
+
+456
+00:34:10,300 --> 00:34:15,215  X1:257 X2:460 Y1:474 Y2:523
+'Heat levels critical,
+heat levels critical.'
+
+457
+00:34:19,140 --> 00:34:21,176  X1:252 X2:465 Y1:474 Y2:527
+'... Heat levels rising.
+Heat levels rising.'
+
+458
+00:34:21,420 --> 00:34:21,932  X1:166 X2:552 Y1:504 Y2:527
+Oh, and guess where the switch is(!)
+
+459
+00:34:22,020 --> 00:34:26,411  X1:252 X2:465 Y1:474 Y2:527
+'... Heat levels rising.
+Heat levels rising.'
+
+460
+00:34:36,140 --> 00:34:40,019  X1:249 X2:470 Y1:474 Y2:527
+External temperature
+5, 000 degrees.
+
+461
+00:34:48,180 --> 00:34:53,334  X1:188 X2:531 Y1:474 Y2:527
+You can't, the heat's gonna vent
+through this place. I know. Jabe!
+
+462
+00:34:53,420 --> 00:34:57,538  X1:187 X2:531 Y1:474 Y2:527
+You're made of wood. Then stop
+wasting time - Time Lord.
+
+463
+00:35:00,500 --> 00:35:02,491  X1:249 X2:469 Y1:504 Y2:527
+'Heat levels rising...
+
+464
+00:35:02,580 --> 00:35:04,491  X1:260 X2:458 Y1:504 Y2:527
+'Heat levels rising.'
+
+465
+00:35:04,580 --> 00:35:08,539  X1:209 X2:510 Y1:504 Y2:523
+'... Heat levels hazardous... '
+
+466
+00:35:08,620 --> 00:35:12,533  X1:209 X2:510 Y1:474 Y2:523
+We're going to die!
+'... Heat levels hazardous... '
+
+467
+00:35:25,660 --> 00:35:27,571  X1:237 X2:481 Y1:504 Y2:523
+'Shields malfunction...
+
+468
+00:35:29,740 --> 00:35:32,812  X1:251 X2:467 Y1:504 Y2:523
+'Shields malfunction.
+
+469
+00:35:32,900 --> 00:35:36,097  X1:251 X2:467 Y1:474 Y2:523
+'Shields malfunction.
+Shields malfunction.
+
+470
+00:35:36,180 --> 00:35:39,252  X1:234 X2:484 Y1:504 Y2:523
+'Shields malfunction... '
+
+471
+00:35:43,860 --> 00:35:49,969  X1:243 X2:474 Y1:474 Y2:523
+'Heat levels critical...
+Heat levels critical.'
+
+472
+00:36:01,660 --> 00:36:07,610  X1:263 X2:456 Y1:474 Y2:527
+'Heat levels rising.
+Heat levels rising.'
+
+473
+00:36:07,700 --> 00:36:09,930  X1:266 X2:452 Y1:504 Y2:523
+JABE SCREAMS
+
+474
+00:36:10,940 --> 00:36:13,249  X1:264 X2:454 Y1:504 Y2:523
+SCREAMS STOP
+
+475
+00:36:33,340 --> 00:36:35,854  X1:242 X2:475 Y1:504 Y2:527
+'Planet explodes in...
+
+476
+00:36:35,940 --> 00:36:38,374  X1:326 X2:392 Y1:504 Y2:526
+'... ten,
+
+477
+00:36:38,460 --> 00:36:40,894  X1:319 X2:398 Y1:504 Y2:523
+nine...
+
+478
+00:36:40,980 --> 00:36:43,448  X1:316 X2:402 Y1:504 Y2:527
+eight...
+
+479
+00:36:44,700 --> 00:36:47,134  X1:300 X2:418 Y1:509 Y2:523
+..seven...
+
+480
+00:36:48,700 --> 00:36:50,099  X1:324 X2:394 Y1:504 Y2:523
+..six...
+
+481
+00:36:51,900 --> 00:36:53,253  X1:313 X2:405 Y1:504 Y2:523
+..five...
+
+482
+00:36:53,340 --> 00:36:56,457  X1:286 X2:431 Y1:504 Y2:523
+fou... four...
+
+483
+00:36:59,580 --> 00:37:01,536  X1:286 X2:432 Y1:504 Y2:523
+Raise shields!
+
+484
+00:37:01,620 --> 00:37:02,848  X1:326 X2:392 Y1:509 Y2:523
+..one.
+
+485
+00:37:18,420 --> 00:37:23,574  X1:258 X2:461 Y1:474 Y2:527
+'Exoglass repair.
+Exoglass repair... '
+
+486
+00:37:26,620 --> 00:37:29,214  X1:258 X2:461 Y1:474 Y2:527
+'Exoglass repair.
+Exoglass repair... '
+
+487
+00:38:07,700 --> 00:38:10,089  X1:278 X2:442 Y1:504 Y2:523
+HE MURMURS
+
+488
+00:38:16,100 --> 00:38:18,216  X1:209 X2:507 Y1:504 Y2:527
+You all right? Yeah, I'm fine.
+
+489
+00:38:18,300 --> 00:38:20,575  X1:250 X2:468 Y1:474 Y2:527
+I'm full of ideas.
+I'm bristling with 'em!
+
+490
+00:38:20,660 --> 00:38:25,973  X1:163 X2:554 Y1:444 Y2:523
+Idea number one.
+Teleportation through 5, 000 degrees
+needs some kind of feed.
+
+491
+00:38:26,060 --> 00:38:30,338  X1:182 X2:534 Y1:474 Y2:527
+Idea number two.
+This feed must be hidden nearby.
+
+492
+00:38:32,660 --> 00:38:34,651  X1:260 X2:459 Y1:504 Y2:523
+Idea number three.
+
+493
+00:38:34,740 --> 00:38:39,052  X1:175 X2:543 Y1:474 Y2:527
+If you're as clever as me, then a
+teleportation-feed can be reversed.
+
+494
+00:38:40,100 --> 00:38:44,332  X1:226 X2:494 Y1:474 Y2:523
+..Oh, you should've seen
+their little alien faces...
+
+495
+00:38:45,820 --> 00:38:47,173  X1:340 X2:378 Y1:504 Y2:523
+Oh.
+
+496
+00:38:47,260 --> 00:38:49,410  X1:252 X2:465 Y1:504 Y2:523
+The last human. So.
+
+497
+00:38:49,500 --> 00:38:51,411  X1:187 X2:529 Y1:504 Y2:527
+You passed my little test. Bravo!
+
+498
+00:38:51,500 --> 00:38:54,537  X1:174 X2:542 Y1:474 Y2:523
+This makes you eligible to join, um,
+the... the Human Club.
+
+499
+00:38:54,620 --> 00:38:59,648  X1:191 X2:526 Y1:444 Y2:527
+People have died, Cassandra.
+You murdered them. It depends
+on your definition of people.
+
+500
+00:38:59,740 --> 00:39:03,653  X1:177 X2:542 Y1:444 Y2:523
+And that's enough of a technicality
+to keep your lawyers dizzy
+for centuries.
+
+501
+00:39:03,740 --> 00:39:06,891  X1:197 X2:520 Y1:504 Y2:526
+Take me to court then, Doctor,
+
+502
+00:39:06,980 --> 00:39:09,778  X1:195 X2:523 Y1:474 Y2:524
+and watch me smile and cry...
+QUIET CREAKS
+
+503
+00:39:09,860 --> 00:39:11,816  X1:229 X2:490 Y1:504 Y2:523
+..and flutter. And creak?
+
+504
+00:39:11,900 --> 00:39:15,415  X1:174 X2:542 Y1:504 Y2:527
+And what? Creak. You're creaking.
+
+505
+00:39:15,500 --> 00:39:16,899  X1:324 X2:394 Y1:504 Y2:523
+What?
+
+506
+00:39:17,260 --> 00:39:19,899  X1:248 X2:469 Y1:504 Y2:527
+Agh! I-I'm drying out!
+
+507
+00:39:19,980 --> 00:39:23,655  X1:202 X2:516 Y1:474 Y2:526
+Oh, sweet heavens!
+Moisturise me, moisturise me!
+
+508
+00:39:23,740 --> 00:39:29,497  X1:206 X2:510 Y1:444 Y2:527
+Where are my surgeons,
+my lovely boys? It's too hot!
+YOU raised the temperature.
+
+509
+00:39:29,580 --> 00:39:31,093  X1:307 X2:412 Y1:504 Y2:527
+Have pity!
+
+510
+00:39:31,180 --> 00:39:33,375  X1:275 X2:442 Y1:474 Y2:523
+SHE GROWLS:
+Moisturise me!
+
+511
+00:39:33,460 --> 00:39:35,416  X1:298 X2:420 Y1:504 Y2:526
+Oh, Doctor!
+
+512
+00:39:35,500 --> 00:39:40,369  X1:185 X2:533 Y1:444 Y2:527
+Oh, Doctor, I'll do anything...!
+Help her. Everything has its time.
+And everything dies.
+
+513
+00:39:40,460 --> 00:39:44,009  X1:236 X2:482 Y1:504 Y2:527
+I'm... too... young...!
+
+514
+00:39:57,260 --> 00:39:59,820  X1:192 X2:525 Y1:504 Y2:527
+'Shuttles four and six departing.
+
+515
+00:39:59,900 --> 00:40:03,529  X1:237 X2:482 Y1:474 Y2:523
+'This unit now closing
+down for maintenance.'
+
+516
+00:40:18,180 --> 00:40:20,455  X1:246 X2:471 Y1:504 Y2:523
+The end of the Earth.
+
+517
+00:40:21,460 --> 00:40:23,098  X1:311 X2:407 Y1:504 Y2:527
+It's gone.
+
+518
+00:40:26,220 --> 00:40:29,769  X1:168 X2:549 Y1:474 Y2:527
+We were too busy saving ourselves.
+No-one saw it go.
+
+519
+00:40:33,660 --> 00:40:38,131  X1:196 X2:521 Y1:474 Y2:527
+All those years, all that history,
+and no-one was even looking.
+
+520
+00:40:39,540 --> 00:40:41,019  X1:305 X2:414 Y1:504 Y2:527
+It's just...
+
+521
+00:40:42,900 --> 00:40:44,413  X1:280 X2:437 Y1:504 Y2:523
+Come with me.
+
+522
+00:41:11,660 --> 00:41:13,730  X1:250 X2:467 Y1:504 Y2:523
+A TODDLER CRIES
+
+523
+00:41:25,740 --> 00:41:27,731  X1:307 X2:411 Y1:504 Y2:527
+Big Issue!
+
+524
+00:41:29,060 --> 00:41:30,971  X1:286 X2:432 Y1:504 Y2:527
+Big Issue...!
+
+525
+00:41:31,060 --> 00:41:35,611  X1:199 X2:518 Y1:474 Y2:527
+You think it'll last forever,
+people and cars and concrete.
+
+526
+00:41:35,700 --> 00:41:37,656  X1:298 X2:421 Y1:504 Y2:523
+But it won't.
+
+527
+00:41:37,740 --> 00:41:40,129  X1:245 X2:473 Y1:504 Y2:527
+One day, it's all gone.
+
+528
+00:41:40,220 --> 00:41:42,654  X1:288 X2:431 Y1:504 Y2:527
+Even the sky.
+
+529
+00:41:48,540 --> 00:41:50,815  X1:266 X2:452 Y1:504 Y2:527
+My planet's gone.
+
+530
+00:41:51,820 --> 00:41:53,697  X1:311 X2:407 Y1:504 Y2:523
+It's dead.
+
+531
+00:41:55,420 --> 00:41:58,059  X1:233 X2:486 Y1:504 Y2:526
+It burned, like the Earth.
+
+532
+00:41:58,140 --> 00:42:00,893  X1:238 X2:481 Y1:504 Y2:527
+It's just rocks and dust.
+
+533
+00:42:01,860 --> 00:42:03,771  X1:280 X2:438 Y1:504 Y2:523
+Before its time.
+
+534
+00:42:04,820 --> 00:42:06,856  X1:268 X2:449 Y1:504 Y2:527
+What happened?
+
+535
+00:42:08,420 --> 00:42:11,173  X1:200 X2:517 Y1:504 Y2:526
+There was a war, and we lost.
+
+536
+00:42:11,260 --> 00:42:12,739  X1:271 X2:446 Y1:504 Y2:523
+A war with who?
+
+537
+00:42:16,620 --> 00:42:18,611  X1:226 X2:492 Y1:504 Y2:527
+What about your people?
+
+538
+00:42:19,740 --> 00:42:21,890  X1:275 X2:444 Y1:504 Y2:523
+I'm a Time Lord.
+
+539
+00:42:21,980 --> 00:42:24,858  X1:203 X2:515 Y1:504 Y2:523
+I'm the last of the Time Lords.
+
+540
+00:42:24,940 --> 00:42:26,817  X1:271 X2:446 Y1:504 Y2:527
+They're all gone.
+
+541
+00:42:26,900 --> 00:42:28,891  X1:251 X2:468 Y1:504 Y2:527
+I'm the only survivor.
+
+542
+00:42:29,940 --> 00:42:32,818  X1:214 X2:506 Y1:474 Y2:523
+I'm left travelling on my own
+cos there's no-one else.
+
+543
+00:42:34,340 --> 00:42:35,898  X1:296 X2:421 Y1:504 Y2:523
+There's me.
+
+544
+00:42:39,020 --> 00:42:42,490  X1:184 X2:533 Y1:474 Y2:527
+You've seen how dangerous it is.
+D'you wanna go home?
+
+545
+00:42:45,860 --> 00:42:47,373  X1:293 X2:426 Y1:504 Y2:523
+I don't know.
+
+546
+00:42:49,020 --> 00:42:51,090  X1:310 X2:408 Y1:504 Y2:523
+I want...
+
+547
+00:42:53,980 --> 00:42:56,289  X1:247 X2:472 Y1:504 Y2:527
+Can you smell chips?
+
+548
+00:42:56,380 --> 00:42:58,132  X1:327 X2:390 Y1:504 Y2:523
+Yeah.
+
+549
+00:42:58,220 --> 00:43:00,495  X1:257 X2:460 Y1:504 Y2:527
+Yeah! I want chips.
+
+550
+00:43:00,580 --> 00:43:06,974  X1:178 X2:540 Y1:444 Y2:527
+Me too. Right, then. Before
+you get me back in that box, chips
+it is. And you can pay. No money.
+
+551
+00:43:07,060 --> 00:43:10,689  X1:163 X2:554 Y1:474 Y2:527
+What sort of date are you? Come on,
+then, tightwad. Chips are on me.
+
+552
+00:43:10,780 --> 00:43:14,659  X1:193 X2:525 Y1:474 Y2:527
+We've only got five billion years
+till the shops close.
+
+553
+00:43:24,180 --> 00:43:27,297  X1:195 X2:523 Y1:476 Y2:529
+Now - you've seen the future,
+so let's have a look at the past.
+
+554
+00:43:27,380 --> 00:43:32,408  X1:205 X2:515 Y1:444 Y2:523
+1860, how does 1860 sound?
+What happened in 1860?
+I don't know. Let's find out.
+
+555
+00:43:32,500 --> 00:43:38,894  X1:213 X2:506 Y1:444 Y2:527
+..I can't believe she's gone.
+Not gone, Mr Redpath, sir.
+Merely sleeping.
+
+556
+00:43:39,900 --> 00:43:45,258  X1:150 X2:568 Y1:444 Y2:527
+She's up and on her feet and out
+there somewhere. Mr Sneed for shame,
+how many more times? It's ungodly!
+
+557
+00:43:45,340 --> 00:43:48,377  X1:208 X2:510 Y1:474 Y2:527
+'... Excuse me, sir.
+Mr Dickens, this is your call.'
+
+558
+00:43:48,460 --> 00:43:53,090  X1:186 X2:534 Y1:474 Y2:527
+..Use the sight. Find the old lady
+or you're dismissed.
+
+559
+00:43:53,180 --> 00:43:55,614  X1:202 X2:515 Y1:504 Y2:527
+What phantasmagoria is this?
+
+560
+00:43:57,980 --> 00:43:59,413  X1:262 X2:455 Y1:504 Y2:523
+That's more like it!
+
+561
+00:44:35,140 --> 00:44:38,212  X1:175 X2:543 Y1:504 Y2:527
+Subtitles by BBC Broadcast - 2005
