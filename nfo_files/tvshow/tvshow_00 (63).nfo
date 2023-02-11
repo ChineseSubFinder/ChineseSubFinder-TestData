@@ -1,0 +1,23 @@
+<tvshow>
+  <title>The Last of Us</title>
+  <plot>After a global pandemic destroys civilization, a hardened survivor takes charge of a 14-year-old girl who may be humanity's last hope.</plot>
+  <mpaa>TV-MA</mpaa>
+  <id>392256</id>
+  <uniqueid type="tvdb" default="true">392256</uniqueid>
+  <uniqueid type="imdb">tt3581920</uniqueid>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Science Fiction</genre>
+  <premiered>2023-01-15</premiered>
+  <studio>HBO</studio>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Joel Miller</role>
+  </actor>
+  <actor>
+    <name>Bella Ramsey</name>
+    <role>Ellie Williams</role>
+  </actor>
+</tvshow>
